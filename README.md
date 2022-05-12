@@ -43,7 +43,7 @@ Things you can customise in `_config.yml`:
 - App Price
 - App Store Link
 - Play Store Link
-- Press Kit Download Link
+- Press Kit  Link
 - Cover Image
 - Cover Overlay Color
 - Background Color
