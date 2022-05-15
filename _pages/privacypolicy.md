@@ -90,7 +90,7 @@ Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on ou
 The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
 
 #### Storage duration:
-The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case when a user deletes their account.
+Firebase Authentication retains authentication information until you delete your account, after which data is removed within 180 days.
 
 #### Provision required or required:
 The provision of your email adress is voluntary, solely on the basis of your consent. Unfortunately, we can not restore your account in the event of a logout, device change or a new installation without an email address.
@@ -115,10 +115,49 @@ Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on ou
 The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
 
 #### Storage duration:
-The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case when a user deletes their account.
+The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case you delete your account.
 
 #### Provision required or required:
 The provision of your name and financial data is voluntary, solely on the basis of your consent. Unfortunately, we can not provide any useful functionality without this data.
+
+### Firebase Analytics
+
+#### Type and purpose of processing:
+
+When using the app data is automatically collected. That includes:
+
+- App-instance identifier
+- Vendor identifier
+- Number of users and sessions
+- Session duration
+- Operating systems
+- Device models
+- Geography
+- First launches
+- App opens
+- App updates
+- In-app purchases
+- In-app navigation
+
+Personal information like email address, name, phone number, gender and age are NOT collected.
+
+They are processed in particular for the following purpose:
+
+- Reliable accessibility and guarantee of all app functionalities
+- Helping us to improve our apps in areas where they are most relevant to our users
+
+#### Legal basis:
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+
+#### Receiver:
+
+The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+
+#### Storage duration:
+Vendor identifier associated data is deleted within 60 days. Aggregated anonymised data is deleted within 14 months.
+
+#### Provision required or required:
+The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
 
 ## Security
 
