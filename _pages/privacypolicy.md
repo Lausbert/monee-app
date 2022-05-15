@@ -83,7 +83,7 @@ They are processed in particular for the following purpose:
 - Uniquely identifying a user and restoring data to a device in the event of a logout, device change or a new installation
 
 #### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
 
 #### Receiver:
 
@@ -108,7 +108,7 @@ They are processed in particular for the following purpose:
 - Sharing data with members of your household
 
 #### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
 
 #### Receiver:
 
