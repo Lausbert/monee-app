@@ -179,4 +179,4 @@ This policy is effective as of May 14 2022.
 
 ## Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at stephanlerner89@googlemail.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at {{ site.email_address }}.
