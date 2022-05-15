@@ -5,56 +5,139 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+May 14 2022
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+Monee built the Monee app as a Freemium app. This SERVICE is provided by Monee at no cost and is intended for use as is.
 
-<br>
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Monee unless otherwise defined in this Privacy Policy.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+Responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR), is:
 
-<br>
+Stephan Lerner
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## Your rights
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+You can exercise the following rights at any time using the contact details provided by our data protection officer:
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+- Information about your data stored by us and their processing (Art. 15 GDPR),
+- Correction of incorrect personal data (Art. 16 GDPR),
+- Deletion of your data stored by us (Art. 17 GDPR),
+- Restriction of data processing if we may not delete your data due to legal obligations (Art. 18 GDPR),
+- Objection to the processing of your data by us (Art. 21 GDPR) and
+- Data portability, provided you have consented to data processing or have concluded a contract with us (Art. 20 GDPR).
+If you have given us your consent, you can revoke it at any time.
 
-<br>
+You can contact a supervisory authority at any time with a complaint, e.g. the responsible supervisory authority of the federal state of your place of residence or to the authority responsible for us as the responsible body.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+A list of the supervisory authorities (for the non-public area) with address can be found [here](https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html).
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## Contact Data
 
-<br>
+If you contact us through mail, your details will be saved so that they can be used to process and answer your request.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
 
-<br>
+## Information Collection and Use
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+The app and this website do use third-party services that may collect information used to identify you.
+
+### Github Pages
+
+#### Type and purpose of processing:
+If you access this website, i.e. if you do not register or otherwise provide information, information of a general nature is automatically collected. This information (server log files) includes, for example, the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like.
+
+They are processed in particular for the following purposes:
+
+- Ensuring a problem-free connection to the website,
+- Ensuring smooth use of this website,
+- Evaluation of system security and stability as well as
+for other administrative purposes.
+- We do not use your data to draw conclusions about you personally. Information of this type may be statistically evaluated by us in order to optimize this website and the technology behind it.
+
+#### Legal basis:
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the stability and functionality of this website.
+
+#### Receiver:
+The data is received by [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) who works as a processor for the operation and maintenance of this website. Visit [GitHub’s Global Privacy Practices](GitHub’s Global Privacy Practices) for further information and options for objection.
+
+#### Storage duration:
+The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case for the data used to provide the website when the respective session has ended.
+
+#### Provision required or required:
+The provision of the aforementioned personal data is neither legally nor contractually required. Without the IP address, however, the service and functionality of this website is not guaranteed. In addition, individual services and services may not be available or restricted. For this reason, an objection is excluded.
+
+### Firebase Authentication
+
+#### Type and purpose of processing:
+
+When registering and using the app, it is possible to transmit an email address. We recommend using Apple's "Hide my email" functionality to hide the actual email address.
+
+They are processed in particular for the following purpose:
+
+- Uniquely identifying a user and restoring data to a device in the event of a logout, device change or a new installation
+
+#### Legal basis:
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+
+#### Receiver:
+
+The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+
+#### Storage duration:
+The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case when a user deletes their account.
+
+#### Provision required or required:
+The provision of your email adress is voluntary, solely on the basis of your consent. Unfortunately, we can not restore your account in the event of a logout, device change or a new installation without an email address.
+
+### Firebase Realtime Database
+
+#### Type and purpose of processing:
+
+When using the app, it is necessary to provide a name. We recommend giving a nickname that can be clearly assigned by everyone in the household. It is also possible to transmit data on your personal expenditures and revenues.
+
+They are processed in particular for the following purpose:
+
+- Allocation of income and expenditure to a person in the household
+- Presenting you an overview and insights in your personal finances
+- Sharing data with members of your household
+
+#### Legal basis:
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+
+#### Receiver:
+
+The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+
+#### Storage duration:
+The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case when a user deletes their account.
+
+#### Provision required or required:
+The provision of your name and financial data is voluntary, solely on the basis of your consent. Unfortunately, we can not provide any useful functionality without this data.
+
+## Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+## Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+## Children’s Privacy
+
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of May 14 2022.
+
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at stephanlerner89@googlemail.com.
