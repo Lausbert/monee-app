@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy & Terms
+title: titles.privacyandterms
 include_in_header: false
 ---
 

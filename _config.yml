@@ -22,23 +22,6 @@ twitter_username                          : Lausbert3000
 github_username                           : Lausbert
 youtube_username                          :
 
-
-
-# Feature List                            Edit, add or remove features to be presented.
-features                                  :
-
-  - title                                 : Shared Household
-    description                           : Invite others to your household and manage your finances together
-    fontawesome_icon_name                 : users
-    
-  - title                                 : Recurring Transactions
-    description                           : Create recurring costs that are automatically added to your transactions
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Overview & Insights
-    description                           : Get a good overview or deep insights where you think it is necessary
-    fontawesome_icon_name                 : chart-line
-
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.0

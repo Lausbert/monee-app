@@ -3,3 +3,15 @@ global:
   app_name: Monee - Familienhaushaltsbuch
   app_price: In-App-Käufe
   app_description: Monee gibt dir die Kontrolle über deine Finanzen zurück.
+  features                                  :
+    - title                                 : Gemeinsamer Haushalt
+      description                           : Lade andere in deinen Haushalt ein und verwaltet eure Finanzen gemeinsam
+      fontawesome_icon_name                 : users
+    - title                                 : Wiederkehrendes
+      description                           : Erstelle wiederkehrende Kosten und Einnahmen, die automatisch hinzugefügt werden
+      fontawesome_icon_name                 : sync
+    - title                                 : Überblick & Einblicke
+      description                           : Verschaffe dir einen guten Überblick oder tiefe Einblicke, wo du es für nötig hälst
+      fontawesome_icon_name                 : chart-line
+titles:
+  privacyandterms: "Datenschutz & Nutzungsbedingungen"

@@ -3,3 +3,15 @@ global:
   app_name: Monee - Family Budget Book
   app_price: In-App-Purchases
   app_description: Monee puts you back in control of your finances.
+  features                                  :
+    - title                                 : Shared Household
+      description                           : Invite others to your household and manage your finances together
+      fontawesome_icon_name                 : users
+    - title                                 : Recurring Transactions
+      description                           : Create recurring costs and revenues that are automatically added to your transactions
+      fontawesome_icon_name                 : sync
+    - title                                 : Overview & Insights
+      description                           : Get a good overview or deep insights where you think it is necessary
+      fontawesome_icon_name                 : chart-line
+titles:
+  privacyandterms: "Privacy & Terms"
