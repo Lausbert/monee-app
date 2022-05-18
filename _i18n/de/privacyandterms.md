@@ -1,269 +1,269 @@
-**Last updated**  
-May 14 2022
+**Letzte Aktualisierung**
+<br>14\. Mai 2022
 
-# Privacy Policy
+# Datenschutz
 
-Monee built the Monee app as a Freemium app. This SERVICE is provided by Monee at no cost and is intended for use as is.
+Monee hat die Monee-App als Freemium-App entwickelt. Dieser SERVICE wird von Monee kostenlos zur Verfügung gestellt und ist zur Verwendung so wie sie ist bestimmt.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+Diese Seite wird verwendet, um Besucher über unsere Richtlinien zur Erfassung, Verwendung und Offenlegung personenbezogener Daten zu informieren, falls sich jemand für die Nutzung unseres Dienstes entschieden hat.
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Wenn Sie sich entscheiden, unseren Service zu nutzen, stimmen Sie der Erfassung und Nutzung von Informationen in Bezug auf diese Richtlinie zu. Die von uns erfassten personenbezogenen Daten werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Wir werden Ihre Informationen nicht verwenden oder an Dritte weitergeben, außer wie in dieser Datenschutzrichtlinie beschrieben.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Monee unless otherwise defined in this Privacy Policy.
+Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die bei Monee zugänglich sind, sofern in dieser Datenschutzrichtlinie nichts anderes definiert ist.
 
-Responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR), is:
+Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
 
 Stephan Lerner
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <{{ site.email_address }}>.
+Wenn Sie Fragen oder Anregungen zu unserer Datenschutzrichtlinie haben, zögern Sie nicht, uns unter <{{ site.email_address }}> zu kontaktieren.
 
-## Your rights
+## Ihre Rechte
 
-You can exercise the following rights at any time using the contact details provided above:
+Unter den oben angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausüben:
 
-- Information about your data stored by us and their processing (Art. 15 GDPR),
-- Correction of incorrect personal data (Art. 16 GDPR),
-- Deletion of your data stored by us (Art. 17 GDPR),
-- Restriction of data processing if we may not delete your data due to legal obligations (Art. 18 GDPR),
-- Objection to the processing of your data by us (Art. 21 GDPR) and
-- Data portability, provided you have consented to data processing or have concluded a contract with us (Art. 20 GDPR).
-If you have given us your consent, you can revoke it at any time.
+- Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),
+- Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),
+- Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),
+- Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten nicht löschen dürfen (Art. 18 DSGVO),
+- Widerspruch gegen die Verarbeitung Ihrer Daten durch uns (Art. 21 DSGVO) und
+- Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
+Wenn Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit widerrufen.
 
-You can contact a supervisory authority at any time with a complaint, e.g. the responsible supervisory authority of the federal state of your place of residence or to the authority responsible for us as the responsible body.
+Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z.B. die zuständige Aufsichtsbehörde des Bundeslandes Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.
 
-A list of the supervisory authorities (for the non-public area) with address can be found [here](https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html).
-
-
-## Contact Data
-
-If you contact us through mail, your details will be saved so that they can be used to process and answer your request.
+Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie [hier] (https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html).
 
 
-## Information Collection and Use
+## Kontaktdaten
 
-The app and this website do use third-party services that may collect information used to identify you.
+Bei Ihrer Kontaktaufnahme per E-Mail werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und Beantwortung Ihrer Anfrage zurückgegriffen werden kann.
+
+
+## Erfassung und Verwendung von Informationen
+
+Die App und diese Website verwenden Dienste von Drittanbietern, die Informationen sammeln können, die zu Ihrer Identifizierung verwendet werden.
 
 ### Github Pages
 
-#### Type and purpose of processing:
-If you access this website, i.e. if you do not register or otherwise provide information, information of a general nature is automatically collected. This information (server log files) includes, for example, the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like.
+#### Art und Zweck der Verarbeitung:
+Wenn Sie auf diese Website zugreifen, also wenn Sie sich nicht registrieren oder anderweitig Informationen übermitteln, werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen (Server-Logfiles) beinhalten etwa die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse und Ähnliches.
 
-They are processed in particular for the following purposes:
+Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 
-- Ensuring a problem-free connection to the website,
-- Ensuring smooth use of this website,
-- Evaluation of system security and stability as well as
-for other administrative purposes.
-- We do not use your data to draw conclusions about you personally. Information of this type may be statistically evaluated by us in order to optimize this website and the technology behind it.
+- Gewährleistung eines problemlosen Verbindungsaufbaus der Website,
+- Gewährleistung einer reibungslosen Nutzung dieser Website,
+- Bewertung der Systemsicherheit und -stabilität sowie
+für andere Verwaltungszwecke.
+- Wir verwenden Ihre Daten nicht, um Rückschlüsse auf Ihre Person zu ziehen. Informationen dieser Art werden von uns ggfs. statistisch ausgewertet, um diesen Internetauftritt und die dahinterstehende Technik zu optimieren.
 
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the stability and functionality of this website.
+#### Rechtliche Grundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität dieser Website.
 
-#### Receiver:
-The data is received by [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) who works as a processor for the operation and maintenance of this website. Visit [GitHub’s Global Privacy Practices](GitHub’s Global Privacy Practices) for further information and options for objection.
+#### Empfänger:
+Die Daten werden von [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung dieser Webseite tätig sind. Besuchen Sie [GitHub’s Global Privacy Practices](https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices) für weitere Informationen und Widerspruchsmöglichkeiten.
 
-#### Storage duration:
-The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case for the data used to provide the website when the respective session has ended.
+#### Speicherdauer:
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die Daten, die der Bereitstellung der Website dienen, ist dies in der Regel der Fall, wenn die jeweilige Sitzung beendet ist.
 
-#### Provision required or required:
-The provision of the aforementioned personal data is neither legally nor contractually required. Without the IP address, however, the service and functionality of this website is not guaranteed. In addition, individual services and services may not be available or restricted. For this reason, an objection is excluded.
+#### Bereitstellung erforderlich oder vorgeschrieben:
+Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die IP-Adresse ist jedoch der Dienst und die Funktionsfähigkeit dieser Website nicht gewährleistet. Darüber hinaus können einzelne Dienste und Dienste nicht verfügbar oder eingeschränkt sein. Ein Widerspruch ist aus diesem Grund ausgeschlossen.
 
 ### Firebase Authentication
 
-#### Type and purpose of processing:
+#### Art und Zweck der Verarbeitung:
 
-When registering and using the app, it is possible to transmit an email address. We recommend using Apple's "Hide my email" functionality to hide the actual email address.
+Bei der Registrierung und Nutzung der App ist die Übermittlung einer E-Mail-Adresse möglich. Wir empfehlen die Verwendung der „Hide my email“-Funktion von Apple, um die tatsächliche E-Mail-Adresse zu verbergen.
 
-They are processed in particular for the following purpose:
+Sie wird insbesondere zu folgenden Zwecken verarbeitet:
 
-- Uniquely identifying a user and restoring data to a device in the event of a logout, device change or a new installation
+- Eindeutige Identifizierung eines Benutzers und Wiederherstellung von Daten auf einem Gerät im Falle einer Abmeldung, eines Gerätewechsels oder einer Neuinstallation
 
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
+#### Rechtliche Grundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
 
-#### Receiver:
+#### Empfänger:
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com), empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
 
-#### Storage duration:
-Firebase Authentication retains authentication information until you delete your account, after which data is removed within 180 days.
+#### Speicherdauer:
+Firebase Authentication speichert Authentifizierungsinformationen, bis Sie Ihr Konto löschen, danach werden die Daten innerhalb von 180 Tagen entfernt.
 
-#### Provision required or required:
-The provision of your email adress is voluntary, solely on the basis of your consent. Unfortunately, we can not restore your account in the event of a logout, device change or a new installation without an email address.
+#### Bereitstellung erforderlich oder vorgeschrieben:
+Die Bereitstellung Ihrer E-Mail-Adresse erfolgt freiwillig, ausschließlich auf Grundlage Ihrer Einwilligung. Leider können wir Ihren Account bei einem Logout, Gerätewechsel oder einer Neuinstallation ohne E-Mail-Adresse nicht wiederherstellen.
 
 ### Firebase Realtime Database
 
-#### Type and purpose of processing:
+#### Art und Zweck der Verarbeitung:
 
-When using the app, it is necessary to provide a name. We recommend giving a nickname that can be clearly assigned by everyone in the household. It is also possible to transmit data on your personal expenditures and revenues.
+Bei der Nutzung der App ist die Angabe eines Namens erforderlich. Wir empfehlen die Vergabe eines Spitznamens, der von allen im Haushalt eindeutig zugeordnet werden kann. Auch die Übermittlung von Daten zu Ihren persönlichen Ausgaben und Einnahmen ist möglich.
 
-They are processed in particular for the following purpose:
+Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 
-- Allocation of income and expenditure to a person in the household
-- Presenting you an overview and insights in your personal finances
-- Sharing data with members of your household
+- Zuordnung von Einnahmen und Ausgaben zu einer Person im Haushalt
+- Präsentiert Ihnen einen Überblick und Einblicke in Ihre persönlichen Finanzen
+- Teilen von Daten mit Mitgliedern Ihres Haushalts
 
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
+#### Rechtliche Grundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
 
-#### Receiver:
+#### Empfänger:
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
 
-#### Storage duration:
-The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case you delete your account.
+#### Speicherdauer:
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Dies ist in der Regel der Fall, wenn Sie Ihr Konto löschen.
 
-#### Provision required or required:
-The provision of your name and financial data is voluntary, solely on the basis of your consent. Unfortunately, we can not provide any useful functionality without this data.
+#### Bereitstellung erforderlich oder vorgeschrieben:
+Die Angabe Ihres Namens und Ihrer Finanzdaten erfolgt freiwillig, ausschließlich auf Grundlage Ihrer Einwilligung. Ohne diese Daten können wir leider keine sinnvolle Funktionalität bereitstellen.
 
 ### Firebase Analytics
 
-#### Type and purpose of processing:
+#### Art und Zweck der Verarbeitung:
 
-When using the app data is automatically collected. That may include:
+Bei der Nutzung der App werden automatisch Daten erhoben. Das kann beinhalten:
 
-- App-instance identifier
-- Vendor identifier
-- Number of users and sessions
-- Session duration
-- Operating systems
-- Device models
-- Geography
-- First launches
-- App opens
-- App updates
-- In-app purchases
-- In-app navigation
+- Kennung der App-Instanz
+- Anbieterkennung
+- Anzahl der Benutzer und Sitzungen
+- Sitzungsdauer
+- Betriebssysteme
+- Gerätemodelle
+- Geographie
+- Erste Starts
+- App wird geöffnet
+- App-Updates
+- In-App Käufe
+- In-App-Navigation
 
-Personal information like email address, name, phone number, gender and age are NOT collected.
+Personenbezogene Daten wie E-Mail-Adresse, Name, Telefonnummer, Geschlecht und Alter werden NICHT erfasst.
 
-They are processed in particular for the following purpose:
+Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 
-- Reliable accessibility and guarantee of all app functionalities
-- Helping us to improve our apps in areas where they are most relevant to our users
+- Zuverlässige Erreichbarkeit und Gewährleistung aller App-Funktionalitäten
+- Sie helfen uns, unsere Apps in Bereichen zu verbessern, in denen sie für unsere Benutzer am relevantesten sind
 
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+#### Rechtliche Grundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Funktionalität unserer App.
 
-#### Receiver:
+#### Empfänger:
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
 
-#### Storage duration:
-Vendor identifier associated data is deleted within 60 days. Aggregated anonymised data is deleted within 14 months.
+#### Speicherdauer:
+Mit der Anbieterkennung verknüpfte Daten werden innerhalb von 60 Tagen gelöscht. Aggregierte anonymisierte Daten werden innerhalb von 14 Monaten gelöscht.
 
-#### Provision required or required:
-The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
+#### Bereitstellung erforderlich oder vorgeschrieben:
+Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht gewährleistet.
 
 ### Firebase Crashlytics
 
-#### Type and purpose of processing:
+#### Art und Zweck der Verarbeitung:
 
-In the event of an app crash, data will be collected. That may include: 
+Im Falle eines App-Absturzes werden Daten gesammelt. Das kann beinhalten:
 
-- Crashlytics Installation UUIDs
-- Crash traces
-- Breakpad minidump formatted data
+- Crashlytics-Installations-UUIDs
+- Crash Traces
+- Breakpad-Minidump-formatierte Daten
 
-They are processed in particular for the following purpose:
+Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 
-- Debugging app crashes
-- Reliable accessibility and guarantee of all app functionalities
+- Debugging von Appcrashes
+- Zuverlässige Erreichbarkeit und Gewährleistung aller App-Funktionalitäten
 
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+#### Rechtliche Grundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Funktionalität unserer App.
 
-#### Receiver:
+#### Empfänger:
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
 
-#### Storage duration:
-Data is deleted within 90 days.
+#### Speicherdauer:
+Daten werden innerhalb von 90 Tagen gelöscht.
 
-#### Provision required or required:
-The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
+#### Bereitstellung erforderlich oder vorgeschrieben:
+Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht gewährleistet.
 
 ### RevenueCat
 
-#### Type and purpose of processing:
+#### Art und Zweck der Verarbeitung:
 
-When using the app data is automatically collected. That may include:
+Bei der Nutzung der App werden automatisch Daten erhoben. Das kann beinhalten:
 
-- Device type
-- Operating system
-- Last seen time
-- Apple receipt file
-- Firebase User-UID
+- Gerätetyp
+- Betriebssystem
+- Zuletzt gesehen
+- Apple Quittungsdatei
+- Firebase-Benutzer-UID
 
-They are processed in particular for the following purpose:
+Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 
-- Handling purchases and validation of receipts
-- Processing a request made within the scope of your rights under the GDPR
+- Abwicklung von Einkäufen und Validierung von Quittungen
+- Bearbeitung einer Anfrage, die im Rahmen ihrer Rechte durch die DSGVO gestellt wurde
 
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
+#### Rechtliche Grundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
 
-#### Receiver:
+#### Empfänger:
 
-The data is received by [RevenueCat](https://www.revenuecat.com), who works as a processor for the operation and maintenance of our app. Visit [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/) for further information and options for objection.
+Die Daten werden von [RevenueCat](https://www.revenuecat.com) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Weitere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von RevenueCat](https://www.revenuecat.com/privacy/).
 
-#### Storage duration:
+#### Speicherdauer:
 
-Personal Data will be retained until termination or expiry of our Agreement with RevenueCat, in accordance with Paragraph 7 of their [DPA](https://www.revenuecat.com/dpa).
+Personenbezogene Daten werden bis zur Beendigung oder zum Ablauf unserer Vereinbarung mit RevenueCat gemäß Paragraph 7 der [DPA](https://www.revenuecat.com/dpa) gespeichert.
 
-#### Provision required or required:
-The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not possible.
+#### Bereitstellung erforderlich oder vorgeschrieben:
+Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht möglich.
 
-## Security
+## Sicherheit
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Wir wissen Ihr Vertrauen in die Bereitstellung Ihrer personenbezogenen Daten zu schätzen, daher bemühen wir uns, wirtschaftlich akzeptable Mittel zu deren Schutz einzusetzen. Denken Sie jedoch daran, dass keine Übertragungsmethode über das Internet oder elektronische Speichermethode 100 % sicher und zuverlässig ist, und wir können ihre absolute Sicherheit nicht garantieren.
 
-## Links to Other Sites
+## Links zu anderen Websites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Unsere Dienste können Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Seiten nicht von uns betrieben werden. Daher empfehlen wir Ihnen dringend, die Datenschutzrichtlinie dieser Websites zu lesen. Wir haben keine Kontrolle über und übernehmen keine Verantwortung für die Inhalte, Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter.
 
-## Children’s Privacy
+## Datenschutz von Kindern
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+Unsere Dienste richten sich nicht an Personen unter 13 Jahren. Wir erfassen wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren. Falls wir feststellen, dass uns ein Kind unter 13 Jahren personenbezogene Daten zur Verfügung gestellt hat, löschen wir diese unverzüglich von unseren Servern. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte, damit wir die erforderlichen Maßnahmen ergreifen können.
 
-## Changes to This Privacy Policy
+## Änderungen an dieser Datenschutzrichtlinie
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Es wird daher empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.
 
-This policy is effective as of May 14 2022.
+Diese Richtlinie gilt ab dem 14. Mai 2022.
 
-# Terms & Conditions
+# Nutzungsbedingungen
 
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Monee.
+Durch das Herunterladen oder Verwenden der App gelten diese Bedingungen automatisch für Sie – Sie sollten sie daher sorgfältig lesen, bevor Sie die App verwenden. Es ist Ihnen nicht gestattet, die App, Teile der App oder unsere Marken in irgendeiner Weise zu kopieren oder zu modifizieren. Sie dürfen nicht versuchen, den Quellcode der App zu extrahieren, und Sie sollten auch nicht versuchen, die App in andere Sprachen zu übersetzen oder abgeleitete Versionen zu erstellen. Die App selbst und alle damit verbundenen Marken, Urheberrechte, Datenbankrechte und sonstigen geistigen Eigentumsrechte gehören weiterhin Monee.
 
-Monee is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+Monee setzt sich dafür ein, dass die App so nützlich und effizient wie möglich ist. Aus diesem Grund behalten wir uns das Recht vor, jederzeit und ohne Angabe von Gründen Änderungen an der App vorzunehmen oder ihre Dienste in Rechnung zu stellen. Wir werden Ihnen die App oder ihre Dienste niemals in Rechnung stellen, ohne Ihnen genau zu sagen, wofür Sie bezahlen.
 
-The Monee app stores and processes personal data that you have provided to us, to provide our Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Monee app won’t work properly or at all.
+Die Monee-App speichert und verarbeitet personenbezogene Daten, die Sie uns zur Verfügung gestellt haben, um unseren Dienst bereitzustellen. Es liegt in Ihrer Verantwortung, Ihr Telefon und den Zugriff auf die App sicher zu halten. Wir empfehlen daher, dass Sie Ihr Telefon nicht jailbreaken oder rooten, was der Prozess des Entfernens von Softwareeinschränkungen und Einschränkungen ist, die durch das offizielle Betriebssystem Ihres Geräts auferlegt werden. Es könnte Ihr Telefon anfällig für Malware/Viren/bösartige Programme machen, die Sicherheitsfunktionen Ihres Telefons gefährden und es könnte bedeuten, dass die Monee-App nicht richtig oder überhaupt nicht funktioniert.
 
-The app does use third-party services that declare their Terms and Conditions.
+Die App verwendet Dienste von Drittanbietern, die ihre Allgemeinen Geschäftsbedingungen erklären.
 
-Link to Terms and Conditions of third-party service providers used by the app
+Link zu Drittanbietern:
 
--   [Firebase Authentication](https://firebase.google.com)
--   [Firebase Realtime Database](https://firebase.google.com)
--   [Firebase Analytics](https://firebase.google.com)
--   [Firebase Crashlytics](https://firebase.google.com)
--   [RevenueCat](https://www.revenuecat.com)
+- [Firebase-Authentifizierung](https://firebase.google.com)
+- [Firebase-Echtzeitdatenbank](https://firebase.google.com)
+- [Firebase Analytics](https://firebase.google.com)
+- [Firebase Crashlytics](https://firebase.google.com)
+- [RevenueCat](https://www.revenuecat.com)
 
-You should be aware that there are certain things that Monee will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Monee cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+Sie sollten sich bewusst sein, dass es bestimmte Dinge gibt, für die Monee keine Verantwortung übernimmt. Bestimmte Funktionen der App erfordern eine aktive Internetverbindung der App. Die Verbindung kann Wi-Fi sein oder von Ihrem Mobilfunkanbieter bereitgestellt werden, aber Monee übernimmt keine Verantwortung dafür, dass die App nicht mit voller Funktionalität funktioniert, wenn Sie keinen Zugriff auf Wi-Fi haben und Sie keine Ihrer Daten haben Zulage übrig.
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that the terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third-party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+Wenn Sie die App außerhalb eines Bereichs mit WLAN verwenden, sollten Sie daran denken, dass die Bedingungen der Vereinbarung mit Ihrem Mobilfunkanbieter weiterhin gelten. Infolgedessen können Ihnen von Ihrem Mobilfunkanbieter die Datenkosten für die Dauer der Verbindung beim Zugriff auf die App oder andere Gebühren von Drittanbietern in Rechnung gestellt werden. Durch die Nutzung der App übernehmen Sie die Verantwortung für solche Gebühren, einschließlich Roaming-Datengebühren, wenn Sie die App außerhalb Ihres Heimatgebiets (d. h. Region oder Land) verwenden, ohne Daten-Roaming zu deaktivieren. Wenn Sie nicht der Rechnungszahler für das Gerät sind, auf dem Sie die App verwenden, beachten Sie bitte, dass wir davon ausgehen, dass Sie vom Rechnungszahler die Erlaubnis zur Nutzung der App erhalten haben.
 
-Along the same lines, Monee cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Monee cannot accept responsibility.
+Ebenso kann Monee nicht immer die Verantwortung dafür übernehmen, wie Sie die App verwenden, d. h. Sie müssen sicherstellen, dass Ihr Gerät aufgeladen bleibt – wenn der Akku leer ist und Sie es nicht einschalten können, um den Dienst in Anspruch zu nehmen, kann Monee dafür nicht Verantwortung übernehmen.
 
-With respect to Monee’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavor to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Monee accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+In Bezug auf die Verantwortung von Monee für Ihre Nutzung der App ist es wichtig, bei der Nutzung der App zu bedenken, dass wir uns zwar bemühen, sicherzustellen, dass sie jederzeit aktualisiert und korrekt ist, uns jedoch auf die Bereitstellung von Informationen durch Dritte verlassen, damit wir sie Ihnen zur Verfügung stellen können. Monee übernimmt keine Haftung für direkte oder indirekte Verluste, die Ihnen dadurch entstehen, dass Sie sich ausschließlich auf diese Funktionalität der App verlassen.
 
-At some point, we may wish to update the app. The app is currently available on iOS – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Monee does not promise that it will always update the app so that it is relevant to you and/or works with the iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+Irgendwann möchten wir vielleicht die App aktualisieren. Die App ist derzeit für iOS verfügbar – die Anforderungen für das System (und für alle zusätzlichen Systeme, auf die wir die Verfügbarkeit der App erweitern möchten) können sich ändern, und Sie müssen die Updates herunterladen, wenn Sie die App weiterhin verwenden möchten. Monee verspricht nicht, die App immer so zu aktualisieren, dass sie für Sie relevant ist und/oder mit der iOS-Version funktioniert, die Sie auf Ihrem Gerät installiert haben. Sie versprechen jedoch, Aktualisierungen der Anwendung immer zu akzeptieren, wenn sie Ihnen angeboten werden. Wir möchten möglicherweise auch die Bereitstellung der App einstellen und können die Nutzung jederzeit beenden, ohne Ihnen die Kündigung mitzuteilen. Sofern wir Ihnen nichts anderes mitteilen, enden bei einer Kündigung (a) die Ihnen in diesen Bedingungen gewährten Rechte und Lizenzen; (b) Sie müssen die App nicht mehr verwenden und (falls erforderlich) von Ihrem Gerät löschen.
 
-If you have any questions or suggestions about our Terms & Conditions, do not hesitate to contact us at <{{ site.email_address }}>.
+Wenn Sie Fragen oder Anregungen zu unseren Allgemeinen Geschäftsbedingungen haben, zögern Sie nicht, uns unter <{{ site.email_address }}> zu kontaktieren.
 
-## Changes to This Terms and Conditions
+## Änderungen an diesen Allgemeinen Geschäftsbedingungen
 
-We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
+Wir können unsere Allgemeinen Geschäftsbedingungen von Zeit zu Zeit aktualisieren. Es wird daher empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen. Wir werden Sie über alle Änderungen informieren, indem wir die neuen Allgemeinen Geschäftsbedingungen auf dieser Seite veröffentlichen.
 
-These terms and conditions are effective as of May 14 2022.
+Diese Allgemeinen Geschäftsbedingungen gelten ab dem 14. Mai 2022.

@@ -60,7 +60,7 @@ for other administrative purposes.
 Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the stability and functionality of this website.
 
 #### Receiver:
-The data is received by [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) who works as a processor for the operation and maintenance of this website. Visit [GitHub’s Global Privacy Practices](GitHub’s Global Privacy Practices) for further information and options for objection.
+The data is received by [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) who works as a processor for the operation and maintenance of this website. Visit [GitHub’s Global Privacy Practices](https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices) for further information and options for objection.
 
 #### Storage duration:
 The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case for the data used to provide the website when the respective session has ended.
