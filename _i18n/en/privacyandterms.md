@@ -242,7 +242,7 @@ The Monee app stores and processes personal data that you have provided to us, t
 
 The app does use third-party services that declare their Terms and Conditions.
 
-Link to Terms and Conditions of third-party service providers used by the app
+Links to third party services:
 
 -   [Firebase Authentication](https://firebase.google.com)
 -   [Firebase Realtime Database](https://firebase.google.com)
