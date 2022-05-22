@@ -1,7 +1,7 @@
 **Letzte Aktualisierung**
 <br>14\. Mai 2022
 
-# Datenschutzbedingungen
+# Datenschutz
 
 Monee hat die Monee-App als Freemium-App entwickelt. Dieser SERVICE wird von Monee kostenlos zur Verfügung gestellt und ist zur Verwendung so wie sie ist bestimmt.
 
