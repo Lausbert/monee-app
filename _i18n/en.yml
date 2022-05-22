@@ -15,4 +15,4 @@ global:
       description                           : Get a good overview or deep insights where you think it is necessary
       fontawesome_icon_name                 : chart-line
 titles:
-  privacyandterms: "Privacy & Terms"
+  privacy: "Privacy"
