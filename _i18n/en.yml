@@ -4,6 +4,7 @@ global:
   app_price: In-App-Purchases
   app_description: Monee puts you back in control of your finances.
   app_screenshot: assets/screenshot_en.png
+  ios_app_country: us
   features                                  :
     - title                                 : Shared Household
       description                           : Invite others to your household and manage your finances together

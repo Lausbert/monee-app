@@ -4,6 +4,7 @@ global:
   app_price: In-App-Käufe
   app_description: Monee gibt dir die Kontrolle über deine Finanzen zurück.
   app_screenshot: assets/screenshot_de.png
+  ios_app_country: de
   features                                  :
     - title                                 : Gemeinsamer Haushalt
       description                           : Lade andere in deinen Haushalt ein und verwaltet eure Finanzen gemeinsam
