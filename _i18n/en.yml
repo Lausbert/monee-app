@@ -17,3 +17,4 @@ global:
       fontawesome_icon_name                 : chart-line
 titles:
   privacy: "Privacy Policy"
+  imprint: "Imprint"
