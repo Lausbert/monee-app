@@ -114,45 +114,6 @@ The data will be deleted as soon as it is no longer required for the purpose of 
 #### Provision required or required:
 The provision of your name and financial data is voluntary, solely on the basis of your consent. Unfortunately, we can not provide any useful functionality without this data.
 
-### Firebase Analytics
-
-#### Type and purpose of processing:
-
-When using the app data is automatically collected. That may include:
-
-- App-instance identifier
-- Vendor identifier
-- Number of users and sessions
-- Session duration
-- Operating systems
-- Device models
-- Geography
-- First launches
-- App opens
-- App updates
-- In-app purchases
-- In-app navigation
-
-Personal information like email address, name, phone number, gender and age are NOT collected.
-
-They are processed in particular for the following purpose:
-
-- Reliable accessibility and guarantee of all app functionalities
-- Helping us to improve our apps in areas where they are most relevant to our users
-
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
-
-#### Receiver:
-
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
-
-#### Storage duration:
-Vendor identifier associated data is deleted within 60 days. Aggregated anonymised data is deleted within 14 months.
-
-#### Provision required or required:
-The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
-
 ### Firebase Crashlytics
 
 #### Type and purpose of processing:
@@ -180,37 +141,6 @@ Data is deleted within 90 days.
 
 #### Provision required or required:
 The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
-
-### RevenueCat
-
-#### Type and purpose of processing:
-
-When using the app data is automatically collected. That may include:
-
-- Device type
-- Operating system
-- Last seen time
-- Apple receipt file
-- Firebase User-UID
-
-They are processed in particular for the following purpose:
-
-- Handling purchases and validation of receipts
-- Processing a request made within the scope of your rights under the GDPR
-
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
-
-#### Receiver:
-
-The data is received by [RevenueCat](https://www.revenuecat.com), who works as a processor for the operation and maintenance of our app. Visit [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/) for further information and options for objection.
-
-#### Storage duration:
-
-Personal Data will be retained until termination or expiry of our Agreement with RevenueCat, in accordance with Paragraph 7 of their [DPA](https://www.revenuecat.com/dpa).
-
-#### Provision required or required:
-The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not possible.
 
 ## Security
 

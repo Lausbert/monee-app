@@ -114,45 +114,6 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 #### Bereitstellung erforderlich oder vorgeschrieben:
 Die Angabe Ihres Namens und Ihrer Finanzdaten erfolgt freiwillig, ausschließlich auf Grundlage Ihrer Einwilligung. Ohne diese Daten können wir leider keine sinnvolle Funktionalität bereitstellen.
 
-### Firebase Analytics
-
-#### Art und Zweck der Verarbeitung:
-
-Bei der Nutzung der App werden automatisch Daten erhoben. Das kann beinhalten:
-
-- Kennung der App-Instanz
-- Anbieterkennung
-- Anzahl der Benutzer und Sitzungen
-- Sitzungsdauer
-- Betriebssysteme
-- Gerätemodelle
-- Geographie
-- Erste Starts
-- App wird geöffnet
-- App-Updates
-- In-App Käufe
-- In-App-Navigation
-
-Personenbezogene Daten wie E-Mail-Adresse, Name, Telefonnummer, Geschlecht und Alter werden NICHT erfasst.
-
-Sie werden insbesondere zu folgenden Zwecken verarbeitet:
-
-- Zuverlässige Erreichbarkeit und Gewährleistung aller App-Funktionalitäten
-- Sie helfen uns, unsere Apps in Bereichen zu verbessern, in denen sie für unsere Benutzer am relevantesten sind
-
-#### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Funktionalität unserer App.
-
-#### Empfänger:
-
-Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
-
-#### Speicherdauer:
-Mit der Anbieterkennung verknüpfte Daten werden innerhalb von 60 Tagen gelöscht. Aggregierte anonymisierte Daten werden innerhalb von 14 Monaten gelöscht.
-
-#### Bereitstellung erforderlich oder vorgeschrieben:
-Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht gewährleistet.
-
 ### Firebase Crashlytics
 
 #### Art und Zweck der Verarbeitung:
@@ -180,37 +141,6 @@ Daten werden innerhalb von 90 Tagen gelöscht.
 
 #### Bereitstellung erforderlich oder vorgeschrieben:
 Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht gewährleistet.
-
-### RevenueCat
-
-#### Art und Zweck der Verarbeitung:
-
-Bei der Nutzung der App werden automatisch Daten erhoben. Das kann beinhalten:
-
-- Gerätetyp
-- Betriebssystem
-- Zuletzt gesehen
-- Apple Quittungsdatei
-- Firebase-Benutzer-UID
-
-Sie werden insbesondere zu folgenden Zwecken verarbeitet:
-
-- Abwicklung von Einkäufen und Validierung von Quittungen
-- Bearbeitung einer Anfrage, die im Rahmen ihrer Rechte durch die DSGVO gestellt wurde
-
-#### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
-
-#### Empfänger:
-
-Die Daten werden von [RevenueCat](https://www.revenuecat.com) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Weitere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von RevenueCat](https://www.revenuecat.com/privacy/).
-
-#### Speicherdauer:
-
-Personenbezogene Daten werden bis zur Beendigung oder zum Ablauf unserer Vereinbarung mit RevenueCat gemäß Paragraph 7 der [DPA](https://www.revenuecat.com/dpa) gespeichert.
-
-#### Bereitstellung erforderlich oder vorgeschrieben:
-Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht möglich.
 
 ## Sicherheit
 
