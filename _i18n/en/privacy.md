@@ -81,7 +81,7 @@ Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on ou
 
 #### Receiver:
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
 
 #### Storage duration:
 Firebase Authentication retains authentication information until you delete your account, after which data is removed within 180 days.
@@ -106,7 +106,7 @@ Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on ou
 
 #### Receiver:
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
 
 #### Storage duration:
 The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case you delete your account.
@@ -134,7 +134,7 @@ Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on ou
 
 #### Receiver:
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) for further information and options for objection.
+The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
 
 #### Storage duration:
 Data is deleted within 90 days.

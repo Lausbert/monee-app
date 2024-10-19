@@ -81,7 +81,7 @@ Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unsere
 
 #### Empfänger:
 
-Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com), empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
+Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com), empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
 
 #### Speicherdauer:
 Firebase Authentication speichert Authentifizierungsinformationen, bis Sie Ihr Konto löschen, danach werden die Daten innerhalb von 180 Tagen entfernt.
@@ -106,7 +106,7 @@ Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unsere
 
 #### Empfänger:
 
-Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
+Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
 
 #### Speicherdauer:
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Dies ist in der Regel der Fall, wenn Sie Ihr Konto löschen.
@@ -134,7 +134,7 @@ Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unsere
 
 #### Empfänger:
 
-Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
+Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
 
 #### Speicherdauer:
 Daten werden innerhalb von 90 Tagen gelöscht.
