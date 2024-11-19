@@ -123,7 +123,10 @@ header {
 	.logo > p {
 		display: none;
 	}
-	
+
+	.logo .divider {
+    display: none;
+  }
 } 
 
 .headerIcon {
