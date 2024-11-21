@@ -12,7 +12,9 @@
 		<script>
 			(function() {
 				if (window.history.replaceState && window.location.search) {
-					window.history.replaceState({}, document.title, window.location.pathname);
+					var currentTitle = document.title;
+					var currentState = history.state;
+					window.history.replaceState(currentState, currentTitle, window.location.pathname);
 				}
 			})();
 		</script>
