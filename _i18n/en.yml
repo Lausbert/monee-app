@@ -18,5 +18,3 @@ titles:
   privacy: "Privacy Policy"
   imprint: "Imprint"
   invite: "Join Account"
-invite:
-  hint: "To join a shared account, please install Monee first:"

@@ -1,10 +1,9 @@
 ---
 layout: page
-permalink: /invite/
+title: titles.invite
+include_in_header: false
 ---
 
-{% translate titles.invite %}
-
-{% translate invite.hint %}
+{% translate_file invite.md %}
 
 {% include appstore-button.html %}
