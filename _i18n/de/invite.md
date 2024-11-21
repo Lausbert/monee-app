@@ -1,1 +1,3 @@
-Tritt einem gemeinsamen Konto bei, um deine Finanzen gemeinsam mit anderen zu verwalten.
+# Konto beitreten
+
+Du musst Monee installieren, bevor du einem Konto beitreten kannst.

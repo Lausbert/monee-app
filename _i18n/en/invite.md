@@ -1,1 +1,3 @@
-Join a shared account to manage your finances together with others.
+# Join Account
+
+You need to install Monee before you may join an account.
