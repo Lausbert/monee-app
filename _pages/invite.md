@@ -7,4 +7,4 @@ permalink: /invite/
 
 {% translate invite.hint %}
 
-{% include appstoreimages.html %}
+{% include appstore-button.html %}
