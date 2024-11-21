@@ -2,6 +2,7 @@
 layout: page
 title: titles.invite
 include_in_header: false
+permalink: /invite/
 ---
 
 {% translate_file invite.md %}
