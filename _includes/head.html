@@ -5,19 +5,17 @@
 	<base target="_blank">
 
 	{% if page.url contains '/invite' %}
-		<meta name="robots" content="noindex,nofollow">
-		<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, proxy-revalidate">
-		<meta http-equiv="Pragma" content="no-cache">
-		<meta http-equiv="Expires" content="0">
-		<script>
-			(function() {
-				if (window.history.replaceState && window.location.search) {
-					var currentTitle = document.title;
-					var currentState = history.state;
-					window.history.replaceState(currentState, currentTitle, window.location.pathname);
-				}
-			})();
-		</script>
+	<meta name="robots" content="noindex,nofollow">
+	<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, proxy-revalidate">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="0">
+	<script>
+		(function () {
+			if (window.history.replaceState && window.location.search) {
+				window.history.replaceState(null, '', window.location.pathname);
+			}
+		})();
+	</script>
 	{% endif %}
 
 	<title class="pageTitle">{% t global.page_title %}</title>
@@ -27,9 +25,10 @@
 
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
-		<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
+	<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
 	{% endif %}
 
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+		integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
 </head>
