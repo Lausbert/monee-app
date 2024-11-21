@@ -6,15 +6,6 @@
 <html lang="en-us">
 
 {% include head.html %}
-{% if page.url contains '/invite' %}
-    <meta name="robots" content="noindex">
-    <script>
-        if (window.history.replaceState) {
-            window.history.replaceState({}, document.title, window.location.pathname);
-        }
-    </script>
-{% endif %}
-
 <body class="subPageBody">
     <div class="headerBackground subPageHeaderBackground">
         <div class="container subPageContainer">

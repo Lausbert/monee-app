@@ -4,6 +4,20 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<base target="_blank">
 
+	{% if page.url contains '/invite' %}
+		<meta name="robots" content="noindex,nofollow">
+		<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, proxy-revalidate">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Expires" content="0">
+		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				if (window.history.replaceState && window.location.search) {
+					window.history.replaceState({}, document.title, window.location.pathname);
+				}
+			});
+		</script>
+	{% endif %}
+
 	<title class="pageTitle">{% t global.page_title %}</title>
 	<meta name="description" content="{{ site.app_description }}">
 
