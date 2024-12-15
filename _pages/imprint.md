@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titles.imprint
-include_in_header: false
+include_in_footer: true
 ---
 
 {% translate_file imprint.md %}
