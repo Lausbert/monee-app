@@ -265,6 +265,7 @@ nav > ul li a:active {
 .app-content-wrapper {
 	display: flex;
 	flex-wrap: wrap;
+	gap: 20px;
 	width: 100%;
 }
 
@@ -308,7 +309,6 @@ nav > ul li a:active {
 	flex-direction: column;
 	align-items: start;
 	justify-content: center;
-	margin-left: 20px;
 }
 
 .appName {
