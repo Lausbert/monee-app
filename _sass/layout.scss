@@ -257,18 +257,37 @@ nav > ul li a:active {
 .appInfo {
 	grid-area: i;
 	display: flex;
-	flex-wrap: wrap;
+	flex-direction: column;
 	padding-top: 80px; /* Reduced from 100px */
 	align-content: flex-start;
+}
+
+.app-content-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+.appButtonContainer {
+	width: 100%;
+	margin-top: 15px; /* Reduced from 25px to create less space between app info and download button */
 }
 
 @media only screen and (max-width: 992px) {
 
 	.appInfo {
 		padding-top: 35px; /* Reduced from 50px */
+		align-items: center;
+	}
+
+	.app-content-wrapper {
 		justify-content: center;
 	}
 
+	.appButtonContainer {
+		display: flex;
+		justify-content: center;
+	}
 } 
 
 .appIconShadow {
