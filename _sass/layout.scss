@@ -385,6 +385,7 @@ nav > ul li a:active {
 	background-size: 400px auto;
 	background-repeat: no-repeat;
 	margin-top: 40px;
+	height: 840px; /* Add specific height to show full device image */
 }
 
 .iphoneScreen {
@@ -399,6 +400,7 @@ nav > ul li a:active {
 
 	.iphonePreview {
 		background-size: 370px auto;
+		height: 780px; /* Adjust height for smaller device image */
 	}
 
 	.iphoneScreen {
@@ -418,6 +420,7 @@ nav > ul li a:active {
 		margin-top: 47px;
 		justify-content: center;
 		padding-bottom: 75px;
+		height: auto; /* Allow height to be determined by content and padding */
 	}
 
 	.iphoneScreen {
@@ -659,7 +662,6 @@ footer {
 
 .award-link:hover .award-section {
     background-color: $banner-color;
-    transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -676,7 +678,7 @@ footer {
 
 .award-container {
     width: 100%;
-    max-width: 80%;
+    max-width: 85%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
