@@ -258,7 +258,7 @@ nav > ul li a:active {
 	grid-area: i;
 	display: flex;
 	flex-wrap: wrap;
-	padding-top: 140px;
+	padding-top: 100px;
 	align-content: flex-start;
 }
 
@@ -384,7 +384,7 @@ nav > ul li a:active {
 	background-image: url($device-color);
 	background-size: 400px auto;
 	background-repeat: no-repeat;
-	margin-top: 68px;
+	margin-top: 40px;
 }
 
 .iphoneScreen {
@@ -649,15 +649,29 @@ footer {
 	display: none;
 }
 
-.award-section {
+.award-link {
+    text-decoration: none;
+    display: block;
+    transition: transform 0.3s ease;
     grid-area: a;
     width: 100%;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    padding: 20px 0;
-    background-color: white;
+}
+
+.award-link:hover .award-section {
+    background-color: $banner-color;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.award-section {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px 0;
+    background-color: rgba($banner-color, $banner-transparency);
     border-radius: 20px;
     text-align: center;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 .award-container {
@@ -682,14 +696,14 @@ footer {
     margin-right: 15px;
 }
 
-.award-icon .fa-trophy {
-    color: #FFD700; /* Gold color for trophy */
+.award-icon .fa-award {
+    color: $app-title-color;
 }
 
 .award-title {
-    font-size: 32px;
+    font-size: 26px;
     font-weight: 600;
-    color: $feature-title-color;
+    color: $app-title-color;
     margin: 0;
     display: inline-block;
 }
@@ -702,6 +716,6 @@ footer {
     }
     
     .award-title {
-        font-size: 24px;
+        font-size: 20px;
     }
 }

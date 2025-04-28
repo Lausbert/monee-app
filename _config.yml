@@ -36,6 +36,9 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#3CBCB8"
 
+banner_color                              : "#3CBCB8"
+banner_transparency                       : 0.8
+
 app_title_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
