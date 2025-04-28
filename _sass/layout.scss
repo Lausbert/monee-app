@@ -258,14 +258,14 @@ nav > ul li a:active {
 	grid-area: i;
 	display: flex;
 	flex-wrap: wrap;
-	padding-top: 100px;
+	padding-top: 80px; /* Reduced from 100px */
 	align-content: flex-start;
 }
 
 @media only screen and (max-width: 992px) {
 
 	.appInfo {
-		padding-top: 50px;
+		padding-top: 35px; /* Reduced from 50px */
 		justify-content: center;
 	}
 
@@ -289,7 +289,7 @@ nav > ul li a:active {
 	flex-direction: column;
 	align-items: start;
 	justify-content: center;
-	margin-left: 30px;
+	margin-left: 20px; /* Reduced from 30px */
 }
 
 .appName {
@@ -306,7 +306,7 @@ nav > ul li a:active {
 	}
 
 	.appName {
-		margin-top: 30px;
+		margin-top: 20px; /* Reduced from 30px */
 		text-align: center;
 	}
 	
@@ -317,7 +317,7 @@ nav > ul li a:active {
 	font-weight: normal;
 	width: 100%;
 	align-items: flex-start;
-	margin-top: 45px;
+	margin-top: 30px; /* Reduced from 45px */
 	flex: 0 1 auto;
 	line-height: 1.5;
 }
@@ -336,7 +336,7 @@ nav > ul li a:active {
 
 .downloadButtonsContainer {
 	display: inline-block;
-	margin-top: 42px;
+	margin-top: 25px; /* Reduced from 42px to decrease spacing */
 	filter: $drop-shadow;
 }
 
@@ -675,7 +675,8 @@ footer {
 }
 
 .award-container {
-    max-width: 800px;
+    width: 100%;
+    max-width: 80%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -684,16 +685,20 @@ footer {
 
 .award-content {
     text-align: center;
+    width: 100%;
 }
 
 .award-header {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
+    padding: 0;
 }
 
 .award-icon {
     margin-right: 15px;
+    flex-shrink: 0;
 }
 
 .award-icon .fa-award {
@@ -705,7 +710,8 @@ footer {
     font-weight: 600;
     color: $app-title-color;
     margin: 0;
-    display: inline-block;
+    text-align: left;
+    flex-grow: 1;
 }
 
 @media only screen and (max-width: 768px) {
