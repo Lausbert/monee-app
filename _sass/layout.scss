@@ -39,10 +39,11 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px 876px auto auto;
+	grid-template-rows: 115px auto auto auto auto;
 	grid-column-gap: 30px;
 	grid-template-areas: 
 		"h h h h h h h h h h h h"
+		"a a a a a a a a a a a a"
 		"p p p p p i i i i i i i"
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
@@ -56,7 +57,14 @@
 @media only screen and (max-width: 768px) {
 
 	.container {					// Set up the container for the site content
-		grid-template-rows: 80px 811px auto auto;
+		grid-template-rows: 80px auto auto auto auto auto;
+		grid-template-areas: 
+			"h h h h h h h h h h h h"
+			"a a a a a a a a a a a a"
+			"i i i i i i i i i i i i"
+			"p p p p p p p p p p p p"
+			"c c c c c c c c c c c c"
+			"f f f f f f f f f f f f";
 	}
 }
 
@@ -65,9 +73,10 @@
 	.container {
 		grid-column-gap: 0px;
 		grid-template-columns: 1;
-		grid-template-rows: 115px auto auto auto auto;
+		grid-template-rows: 115px auto auto auto auto auto;
 		grid-template-areas: 
 			"h h h h h h h h h h h h"
+			"a a a a a a a a a a a a"
 			"i i i i i i i i i i i i"
 			"p p p p p p p p p p p p"
 			"c c c c c c c c c c c c"
@@ -638,4 +647,61 @@ footer {
 
 .hidden {
 	display: none;
+}
+
+.award-section {
+    grid-area: a;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px 0;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.award-container {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.award-content {
+    text-align: center;
+}
+
+.award-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.award-icon {
+    margin-right: 15px;
+}
+
+.award-icon .fa-trophy {
+    color: #FFD700; /* Gold color for trophy */
+}
+
+.award-title {
+    font-size: 32px;
+    font-weight: 600;
+    color: $feature-title-color;
+    margin: 0;
+    display: inline-block;
+}
+
+@media only screen and (max-width: 768px) {
+    .award-section {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 15px;
+    }
+    
+    .award-title {
+        font-size: 24px;
+    }
 }
