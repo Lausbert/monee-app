@@ -274,6 +274,32 @@ nav > ul li a:active {
 	margin-top: 15px;
 }
 
+.app-ratings {
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.app-ratings p {
+	margin: 8px 0;  /* Increased from 4px to 8px for more spacing */
+}
+
+.rating-stars {
+	font-size: 1.3rem;
+	letter-spacing: 2px;
+}
+
+.rating-score {
+	font-weight: bold;
+	color: $app-title-color;
+}
+
+.rating-count, .download-count {
+	font-size: 1.15rem;  /* Increased from 1.05rem to 1.15rem */
+	color: $app-description-color;
+}
+
 @media only screen and (max-width: 992px) {
 
 	.appInfo {
