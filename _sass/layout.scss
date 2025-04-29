@@ -2,9 +2,11 @@
 	height: 714px;
 	background: 
 		linear-gradient(
-		rgba($image-overlay-color, $image-overlay-transparency), 
-		rgba($image-overlay-color, $image-overlay-transparency)
-		   ),
+		to bottom,
+		rgba($image-overlay-color, 0) 0%,
+		rgba($image-overlay-color, 0) $image-overlay-start,
+		rgba($image-overlay-color, $image-overlay-end-transparency) 100%
+		),
 		
 		url($header-image);
 
@@ -291,13 +293,13 @@ nav > ul li a:active {
 }
 
 .rating-score {
-	font-weight: bold;
-	color: $app-title-color;
-}
+    font-weight: bold;
+    color: $app-title-color;
+	}
 
 .rating-count, .download-count {
-	font-size: 1.15rem;  /* Increased from 1.05rem to 1.15rem */
-	color: $app-description-color;
+    font-size: 1.4rem;
+    color: $app-description-color;
 }
 
 @media only screen and (max-width: 992px) {

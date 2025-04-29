@@ -28,9 +28,11 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpg                    
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.3
+cover_overlay_transparency                : 0.0
+cover_overlay_start_position              : 0%
+cover_overlay_end_transparency            : 0.5
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     
 
 body_background_color                     : "#ffffff"
 
