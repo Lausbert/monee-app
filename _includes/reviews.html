@@ -1,0 +1,15 @@
+<!-- Reviews Section -->
+<div class="reviews">
+    <div class="reviewsGrid">
+        {% for review in site.translations[site.lang]["global"]["app_ratings"]["reviews"] %}
+            <div class="reviewCard">
+                <div class="reviewTitle">
+                    <h4>{{ review.title }}</h4>
+                    <p class="reviewDate">{{ review.createdDate }}</p>
+                </div>
+                <p class="reviewBody">{{ review.body }}</p>
+                <p class="reviewAuthor">- {{ review.reviewerNickname }}</p>
+            </div>
+        {% endfor %}
+    </div>
+</div>

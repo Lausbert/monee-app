@@ -34,6 +34,8 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
 $banner-color: {{ site.banner_color }};
 $banner-transparency: {{ site.banner_transparency }};
 
+$review-card-background-color: {{ site.review_card_background_color }};
+
 $drop-shadow: {{ site.drop_shadow | default: '0px 5px 10px rgba(0,0,0,0.1)' }};
 
 @import 
