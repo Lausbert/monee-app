@@ -17,6 +17,11 @@ global:
   award:
     title: "🥳 Monee has won the TheAppNote.com-Award \"Best Budget App 2025\""
     link: "https://theappnote.com"
+  app_ratings:
+    stars: "⭐️⭐️⭐️⭐️⭐️"
+    score: "Global Rating: 4.9 / 5.0"
+    count: "Based on 4000+ Ratings & Reviews"
+    downloads: "100.000+ Downloads worldwide"
 titles:
   privacy: "Privacy Policy"
   imprint: "Imprint"
