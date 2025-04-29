@@ -32,8 +32,6 @@ cover_overlay_transparency                : 0.0
 cover_overlay_start_position              : 0%
 cover_overlay_end_transparency            : 0.5
 
-device_color                              : black                                     
-
 body_background_color                     : "#ffffff"
 
 link_color                                : "#3CBCB8"

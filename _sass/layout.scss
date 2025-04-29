@@ -269,22 +269,21 @@ nav > ul li a:active {
 	flex-wrap: wrap;
 	gap: 20px;
 	width: 100%;
+	margin-bottom: 20px;
 }
 
 .appButtonContainer {
 	width: 100%;
-	margin-top: 15px;
 }
 
 .app-ratings {
 	width: 100%;
-	margin-top: 15px;
-	margin-bottom: 10px;
-	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .app-ratings p {
-	margin: 8px 0;  /* Increased from 4px to 8px for more spacing */
+	margin: 8px 0;
 }
 
 .rating-stars {
@@ -295,11 +294,24 @@ nav > ul li a:active {
 .rating-score {
     font-weight: bold;
     color: $app-title-color;
-	}
+}
 
 .rating-count, .download-count {
     font-size: 1.4rem;
     color: $app-description-color;
+}
+
+@media only screen and (max-width: 992px) {
+    .app-ratings {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .app-ratings p {
+			margin: 4px 0;
+    }
 }
 
 @media only screen and (max-width: 992px) {
