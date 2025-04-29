@@ -757,157 +757,150 @@ footer {
 
 // Reviews Section
 .reviews {
-    grid-area: r;
-    width: 100%;
-    padding-top: 70px;
-    padding-bottom: 50px;
-}
-
-.reviewsCarouselWrapper {
-    width: 100%;
-    position: relative;
-    overflow: hidden;
+  grid-area: r;
+  width: 100%;
+  padding: 70px 0 50px;
+  overflow: hidden; /* Added from removed wrapper */
 }
 
 .reviewsGrid {
-    display: flex;
-    gap: 30px;
-    transition: transform 0.5s ease-in-out;
-    width: fit-content; /* Allow the carousel to be as wide as needed */
+  display: flex;
+  gap: 30px;
+  transition: transform 0.5s ease-in-out;
+  width: fit-content;
 }
 
 .reviewCard {
-    background-color: $review-card-background-color;
-    border-radius: 20px;
-    padding: 25px;
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.05);
-    display: flex;
-    flex-direction: column;
-    transition: all 0.3s ease;
-    border: 1px solid rgba(0, 0, 0, 0.05);
-    width: calc((100vw - 30px * 4) / 3); /* Calculate width based on viewport, accounting for gaps */
-    max-width: calc((1200px - 30px * 4) / 3); /* Maximum width based on typical max container width */
+  background-color: $review-card-background-color;
+  border-radius: 20px;
+  padding: 25px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  width: calc((100vw - 30px * 4) / 3);
+  max-width: calc((1200px - 30px * 4) / 3);
 }
 
 .reviewCard:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.08);
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.08);
 }
 
 .reviewTitle {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin-bottom: 15px;
-    padding-bottom: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  padding-bottom: 12px;
 }
 
 .reviewTitle h4 {
-    font-size: 1.8rem;
-    font-weight: 600;
-    color: $feature-title-color;
-    margin: 0;
-    line-height: 1.2;
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: $feature-title-color;
+  margin: 0;
+  line-height: 1.2;
 }
 
 .reviewDate {
-    font-size: 1.2rem;
-    color: rgba($app-description-color, 0.7);
-    margin: 0;
-    white-space: nowrap;
+  font-size: 1.2rem;
+  color: rgba($app-description-color, 0.7);
+  margin: 0;
+  white-space: nowrap;
 }
 
 .reviewBody {
-    font-size: 1.5rem;
-    line-height: 1.6;
-    color: $feature-text-color;
-    flex-grow: 1;
-    margin-bottom: 20px;
-    overflow-wrap: break-word;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  color: $feature-text-color;
+  flex-grow: 1;
+  margin-bottom: 20px;
+  overflow-wrap: break-word;
 }
 
 .reviewAuthor {
-    font-size: 1.4rem;
-    font-weight: 500;
-    color: $feature-title-color;
-    text-align: right;
-    margin-top: auto;
-    margin-bottom: 0;
-    font-style: italic;
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: $feature-title-color;
+  text-align: right;
+  margin-top: auto;
+  margin-bottom: 0;
+  font-style: italic;
 }
 
 .reviewsNav {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 30px;
-    gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  gap: 20px;
 }
 
 .reviewsNavPrev, .reviewsNavNext {
-    background-color: rgba($feature-icons-foreground-color, 0.1);
-    color: $feature-icons-foreground-color;
-    border: none;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    cursor: pointer;
-    font-size: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.3s ease;
+  background-color: rgba($feature-icons-foreground-color, 0.1);
+  color: $feature-icons-foreground-color;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
 }
 
 .reviewsNavPrev:hover, .reviewsNavNext:hover {
-    background-color: $feature-icons-foreground-color;
-    color: #fff;
+  background-color: $feature-icons-foreground-color;
+  color: #fff;
 }
 
 .reviewsNavDots {
-    display: flex;
-    gap: 8px;
+  display: flex;
+  gap: 8px;
 }
 
 .reviewsNavDot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background-color: rgba($feature-icons-foreground-color, 0.3);
-    cursor: pointer;
-    transition: all 0.3s ease;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgba($feature-icons-foreground-color, 0.3);
+  cursor: pointer;
+  transition: all 0.3s ease;
 }
 
 .reviewsNavDot.active {
-    background-color: $feature-icons-foreground-color;
-    transform: scale(1.2);
+  background-color: $feature-icons-foreground-color;
+  transform: scale(1.2);
 }
 
 @media only screen and (max-width: 992px) {
-    .reviewCard {
-        width: calc((100vw - 30px * 3) / 2); /* 2 cards per view on tablet */
-        max-width: calc((800px - 30px * 3) / 2);
-        padding: 20px;
-    }
-    
-    .reviewTitle h4 {
-        font-size: 1.6rem;
-    }
+  .reviewCard {
+    width: calc((100vw - 30px * 3) / 2);
+    max-width: calc((800px - 30px * 3) / 2);
+    padding: 20px;
+  }
+  
+  .reviewTitle h4 {
+    font-size: 1.6rem;
+  }
 }
 
 @media only screen and (max-width: 768px) {
-    .reviews {
-        padding-top: 50px;
-        padding-bottom: 30px;
-    }
-    
-    .reviewCard {
-        width: calc(100vw - 30px * 2); /* 1 card per view on mobile */
-        max-width: 100%;
-    }
-    
-    .reviewTitle {
-        margin-bottom: 12px;
-        padding-bottom: 10px;
-    }
+  .reviews {
+    padding: 50px 0 30px;
+  }
+  
+  .reviewCard {
+    width: calc(100vw - 30px * 2);
+    max-width: 100%;
+  }
+  
+  .reviewTitle {
+    margin-bottom: 12px;
+    padding-bottom: 10px;
+  }
 }
