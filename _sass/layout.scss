@@ -768,6 +768,7 @@ footer {
   gap: 30px;
   transition: transform 0.5s ease-in-out;
   width: fit-content;
+  align-items: center; /* This centers the cards vertically */
 }
 
 .reviewCard {
@@ -781,6 +782,7 @@ footer {
   border: 1px solid rgba(0, 0, 0, 0.05);
   width: calc((100vw - 30px * 4) / 3);
   max-width: calc((1200px - 30px * 4) / 3);
+  height: auto; /* Allow height to be determined by content */
 }
 
 .reviewCard:hover {
