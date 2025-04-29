@@ -1,15 +1,23 @@
 <!-- Reviews Section -->
 <div class="reviews">
-    <div class="reviewsGrid">
-        {% for review in site.translations[site.lang]["global"]["app_ratings"]["reviews"] %}
-            <div class="reviewCard">
-                <div class="reviewTitle">
-                    <h4>{{ review.title }}</h4>
-                    <p class="reviewDate">{{ review.createdDate }}</p>
+    <div class="reviewsCarouselWrapper">
+        <div class="reviewsGrid" id="reviewsCarousel">
+            {% for review in site.translations[site.lang]["global"]["app_ratings"]["reviews"] %}
+                <div class="reviewCard">
+                    <div class="reviewTitle">
+                        <h4>{{ review.title }}</h4>
+                        <p class="reviewDate">{{ review.createdDate }}</p>
+                    </div>
+                    <p class="reviewBody">{{ review.body }}</p>
+                    <p class="reviewAuthor">- {{ review.reviewerNickname }}</p>
                 </div>
-                <p class="reviewBody">{{ review.body }}</p>
-                <p class="reviewAuthor">- {{ review.reviewerNickname }}</p>
-            </div>
-        {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="reviewsNav">
+        <button class="reviewsNavPrev" aria-label="Previous reviews">&lsaquo;</button>
+        <div class="reviewsNavDots"></div>
+        <button class="reviewsNavNext" aria-label="Next reviews">&rsaquo;</button>
     </div>
 </div>
+<script src="/assets/js/carousel.js"></script>

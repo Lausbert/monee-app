@@ -763,11 +763,17 @@ footer {
     padding-bottom: 50px;
 }
 
-.reviewsGrid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
+.reviewsCarouselWrapper {
     width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.reviewsGrid {
+    display: flex;
+    gap: 30px;
+    transition: transform 0.5s ease-in-out;
+    width: fit-content; /* Allow the carousel to be as wide as needed */
 }
 
 .reviewCard {
@@ -779,7 +785,8 @@ footer {
     flex-direction: column;
     transition: all 0.3s ease;
     border: 1px solid rgba(0, 0, 0, 0.05);
-    height: 100%;
+    width: calc((100vw - 30px * 4) / 3); /* Calculate width based on viewport, accounting for gaps */
+    max-width: calc((1200px - 30px * 4) / 3); /* Maximum width based on typical max container width */
 }
 
 .reviewCard:hover {
@@ -798,7 +805,7 @@ footer {
 .reviewTitle h4 {
     font-size: 1.8rem;
     font-weight: 600;
-    color: $feature-title-color; /* Changed from $app-title-color to $feature-title-color (black) */
+    color: $feature-title-color;
     margin: 0;
     line-height: 1.2;
 }
@@ -829,13 +836,57 @@ footer {
     font-style: italic;
 }
 
+.reviewsNav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.reviewsNavPrev, .reviewsNavNext {
+    background-color: rgba($feature-icons-foreground-color, 0.1);
+    color: $feature-icons-foreground-color;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.reviewsNavPrev:hover, .reviewsNavNext:hover {
+    background-color: $feature-icons-foreground-color;
+    color: #fff;
+}
+
+.reviewsNavDots {
+    display: flex;
+    gap: 8px;
+}
+
+.reviewsNavDot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgba($feature-icons-foreground-color, 0.3);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.reviewsNavDot.active {
+    background-color: $feature-icons-foreground-color;
+    transform: scale(1.2);
+}
+
 @media only screen and (max-width: 992px) {
-    .reviewsGrid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 25px;
-    }
-    
     .reviewCard {
+        width: calc((100vw - 30px * 3) / 2); /* 2 cards per view on tablet */
+        max-width: calc((800px - 30px * 3) / 2);
         padding: 20px;
     }
     
@@ -850,9 +901,9 @@ footer {
         padding-bottom: 30px;
     }
     
-    .reviewsGrid {
-        grid-template-columns: 1fr;
-        gap: 20px;
+    .reviewCard {
+        width: calc(100vw - 30px * 2); /* 1 card per view on mobile */
+        max-width: 100%;
     }
     
     .reviewTitle {
