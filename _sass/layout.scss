@@ -717,22 +717,12 @@ footer {
     padding: 0;
 }
 
-.award-icon {
-    margin-right: 15px;
-    flex-shrink: 0;
-}
-
-.award-icon .fa-award {
-    color: $app-title-color;
-}
-
 .award-title {
     font-size: 26px;
     font-weight: 600;
     color: $app-title-color;
     margin: 0;
-    text-align: left;
-    flex-grow: 1;
+    text-align: center;
 }
 
 @media only screen and (max-width: 768px) {
