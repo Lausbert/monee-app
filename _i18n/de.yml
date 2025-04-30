@@ -4,16 +4,58 @@ global:
   app_description: Monee gibt dir die Kontrolle über deine Finanzen zurück.
   app_screenshot: assets/screenshot_de.png
   ios_app_country: de
-  features                                  :
-    - title                                 : Gemeinsamer Haushalt
-      description                           : Lade andere in deinen Haushalt ein und verwaltet eure Finanzen gemeinsam
-      fontawesome_icon_name                 : users
-    - title                                 : Wiederkehrendes
-      description                           : Erstelle wiederkehrende Kosten und Einnahmen, die automatisch hinzugefügt werden
-      fontawesome_icon_name                 : sync
-    - title                                 : Überblick & Einblicke
-      description                           : Verschaffe dir einen guten Überblick oder tiefe Einblicke, wo du es für nötig hälst
-      fontawesome_icon_name                 : chart-line
+  features:
+    - title: Schnelle & Einfache Eingabe
+      description: Betrag eingeben, Kategorie wählen und optional eine Notiz hinzufügen – fertig in Sekunden!
+      emoji: ✍️
+    - title: Übersicht & Einblicke
+      description: Sieh genau, wohin dein Geld fließt – mit monatlichen Zusammenfassungen von Einnahmen und Ausgaben.
+      emoji: 📊
+    - title: Gemeinsamer Haushalt
+      description: Lade andere ein und verwaltet eure Finanzen gemeinsam – ideal für Familien oder WGs.
+      emoji: 🏠
+    - title: Unbegrenzte Konten
+      description: Erstelle so viele Konten, wie du brauchst – für verschiedene Personen, Ziele oder Projekte.
+      emoji: ➕
+    - title: Unbegrenzte Buchungen
+      description: Erfasse beliebig viele Einnahmen und Ausgaben – ohne Einschränkungen.
+      emoji: 💸
+    - title: Wiederkehrende Buchungen
+      description: Verwalte wiederholte Einnahmen oder Ausgaben automatisch und stressfrei.
+      emoji: 🔁
+    - title: Eigene Kategorien
+      description: Organisiere deine Finanzen mit individuell erstellbaren Kategorien.
+      emoji: 🗂️
+    - title: Leistungsstarke Filter
+      description: Finde genau das, was du suchst – nach Typ, Häufigkeit oder beteiligten Personen.
+      emoji: 🔍
+    - title: Weltweite Währungen
+      description: Nutze jede Währung – ideal für Reisende oder internationale Nutzer.
+      emoji: 🌍
+    - title: Daten exportieren
+      description: Exportiere deine Finanzdaten jederzeit – ganz einfach.
+      emoji: 📤
+    - title: Nahtlos auf allen Geräten
+      description: Nutze Monee auf iPhone, iPad und Mac – deine Daten werden automatisch synchronisiert.
+      emoji: 🧩
+    - title: Schutz mit Face ID, Touch ID & Code
+      description: Schütze deine Daten mit Face ID, Touch ID oder einem persönlichen Code.
+      emoji: 🔐
+    - title: Flexibler Monatsbeginn
+      description: Lege fest, an welchem Tag dein Finanzmonat beginnen soll.
+      emoji: 📅
+    - title: Saldo übertragen
+      description: Übertrage dein verbleibendes Guthaben bequem in den nächsten Monat.
+      emoji: 🔄
+    - title: Keine Registrierung
+      description: Starte sofort – ganz ohne Anmeldung oder Konto.
+      emoji: 🚪
+    - title: Keine Werbung, kein Tracking
+      description: Genieße eine saubere App ohne Werbung und ohne Datenverfolgung.
+      emoji: 🛡️
+    - title: Komplett kostenlos
+      description: Alle Funktionen sind gratis – keine Abos, keine In-App-Käufe.
+      emoji: 🎉
   award:
     title: "🥳 Monee hat den TheAppNote.com-Award \"Beste Haushaltsbuch App 2025\" gewonnen"
     link: "https://www.theappnote.de/awards"
