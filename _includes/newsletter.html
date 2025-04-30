@@ -239,7 +239,7 @@
         max-width: 100% !important;
       }
 
-      #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-checkbox .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
+      #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-horizontalRow .custom-radio .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-checkbox .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-horizontalRow .custom-checkbox .custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox .label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox .label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description::before {
           border-color: #cccccc!important;
           background-color: #ffffff!important;
       }
@@ -268,7 +268,7 @@
         background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'%3e%3ccircle r='3' fill='%23fff'/%3e%3c/svg%3e");
       }
 
-      #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-horizontalRow .custom-radio .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-horizontalRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::before  {
+      #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow .custom-radio .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-horizontalRow .custom-radio .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-fieldRow .custom-checkbox .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-horizontalRow .custom-control-input:checked~.custom-control-label::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedPermissions .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox]:checked~.label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-interestGroupsRow .ml-form-interestGroupsRowCheckbox input[type=checkbox]:checked~.label-description::before, #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-checkboxRow input[type=checkbox]:checked~.label-description::before  {
           border-color: #000000!important;
           background-color: #000000!important;
       }
@@ -595,6 +595,7 @@
       :root {
         --feature-title-color: #000;
         --feature-text-color: #333;
+        --accent-color: #007AFF;
       }
       
       /* Override the form background color to match site styling */
@@ -608,7 +609,7 @@
         font-family: inherit !important;
         font-size: 1.8rem !important;
         font-weight: 600 !important;
-        color: var(--feature-title-color) !important;
+        color: {{ site.feature_title_color }} !important;
       }
       
       #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p,
@@ -617,7 +618,7 @@
         font-size: 1.5rem !important;
         font-weight: normal !important;
         line-height: 1.6 !important;
-        color: var(--feature-text-color) !important;
+        color: {{ site.feature_text_color }} !important;
       }
       
       #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-fieldRow input {
@@ -625,10 +626,18 @@
         font-size: 1.4rem !important;
       }
       
+      /* Button color override to use site accent color */
       #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button {
         font-family: inherit !important;
         font-size: 1.4rem !important;
         font-weight: 500 !important;
+        background-color: {{ site.link_color }} !important;
+        border-color: {{ site.link_color }} !important;
+      }
+      
+      #mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedSubmit button:hover {
+        background-color: {{ site.link_color }} !important;
+        opacity: 0.9 !important;
       }
     </style>
 
