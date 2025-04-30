@@ -66,6 +66,28 @@ Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erh
 #### Bereitstellung erforderlich oder vorgeschrieben:
 Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die IP-Adresse ist jedoch der Dienst und die Funktionsfähigkeit dieser Website nicht gewährleistet. Darüber hinaus können einzelne Dienste und Dienste nicht verfügbar oder eingeschränkt sein. Ein Widerspruch ist aus diesem Grund ausgeschlossen.
 
+### MailerLite
+
+#### Art und Zweck der Verarbeitung:
+
+Wenn Sie sich über unsere Website für unseren Newsletter oder E-Mail-Updates anmelden, erfassen wir Ihre E-Mail-Adresse (sowie alle weiteren Informationen, die Sie zu diesem Zweck angeben) über ein Anmeldeformular, das von MailerLite betrieben wird. Diese Daten werden ausschließlich verwendet, um Ihre Anmeldung zu verwalten und Ihnen den gewünschten Newsletter oder die Updates zuzusenden. Sie werden insbesondere zu folgendem Zweck verarbeitet: Versand regelmäßiger Newsletter-E-Mails mit Produktaktualisierungen, Angeboten oder relevanten Nachrichten, für die Sie sich angemeldet haben, sowie Verwaltung Ihrer Abonnementpräferenzen (z. B. das Berücksichtigen von Abmeldewünschen).
+
+#### Rechtsgrundlage:
+
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. a DSGVO auf Grundlage Ihrer Einwilligung zum Erhalt unseres Newsletters. (Mit anderen Worten: Wir erheben und verwenden Ihre E-Mail-Adresse zu diesem Zweck nur, wenn Sie aktiv ein Abonnement abgeschlossen haben. Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie sich vom Newsletter abmelden.)
+
+#### Empfänger:
+
+Die Daten werden von MailerLite empfangen, einem Anbieter für E-Mail-Marketing-Dienste, der in unserem Auftrag als Auftragsverarbeiter Newsletter-Abonnements verwaltet und E-Mails versendet. MailerLite speichert Ihre E-Mail-Adresse auf sicheren Servern. Diese Server können sich außerhalb des Europäischen Wirtschaftsraums befinden (z. B. in den Vereinigten Staaten), jedoch stellt MailerLite sicher, dass jede Übertragung personenbezogener Daten außerhalb des EWR durch geeignete Garantien gemäß den EU-Datenschutzvorschriften geschützt ist – etwa durch den Einsatz von EU-Standardvertragsklauseln (SCCs). Weitere Informationen zur Verarbeitung und zum Schutz personenbezogener Daten durch MailerLite finden Sie in MailerLites [Datenschutzrichtlinie​](https://www.mailerlite.com/legal/privacy-policy).
+
+#### Speicherdauer:
+
+Wir speichern Ihre E-Mail-Adresse nur so lange, wie Sie für unseren Newsletter angemeldet sind. Sie können sich jederzeit über den Abmeldelink in jeder E-Mail oder durch direkte Kontaktaufnahme mit uns abmelden. Wenn Sie sich abmelden oder die Löschung Ihrer Daten verlangen, wird Ihre E-Mail-Adresse umgehend aus unserem Verteiler entfernt und aus dem System von MailerLite gelöscht. Ebenso löschen wir alle zugehörigen Abonnementdaten, wenn wir den Newsletter-Dienst einstellen.
+
+#### Bereitstellung erforderlich oder verpflichtend:
+
+Die Angabe Ihrer E-Mail-Adresse für den Newsletter-Dienst ist vollständig freiwillig und weder gesetzlich noch vertraglich vorgeschrieben. Wenn Sie sich nicht anmelden (oder sich später abmelden), bedeutet dies lediglich, dass Sie keine Newsletter-E-Mails erhalten – es beeinträchtigt jedoch in keiner Weise Ihre Nutzung anderer Funktionen unseres Dienstes. Ihre Entscheidung, Ihre E-Mail-Adresse zu diesem Zweck bereitzustellen oder nicht, hat keinerlei Auswirkungen auf Ihre Nutzung der Monee-App oder der Website. Diese Ergänzung entspricht unserem Engagement für Transparenz und DSGVO-Konformität und stellt sicher, dass Sie darüber informiert sind, wie wir Ihre E-Mail-Adresse im Rahmen des Newsletter-Dienstes verarbeiten.
+
 ### Firebase Authentication
 
 #### Art und Zweck der Verarbeitung:

@@ -66,6 +66,29 @@ The data will be deleted as soon as it is no longer required for the purpose of 
 #### Provision required or required:
 The provision of the aforementioned personal data is neither legally nor contractually required. Without the IP address, however, the service and functionality of this website is not guaranteed. In addition, individual services and services may not be available or restricted. For this reason, an objection is excluded.
 
+### MailerLite
+
+#### Type and purpose of processing:
+
+If you subscribe to our newsletter or email updates via our website, we will collect your email address (and any information you provide for this purpose) through a sign-up form operated by MailerLite. This data is used exclusively to manage your subscription and send you the newsletter or updates you have requested. They are processed in particular for the following purpose:
+Sending you periodic newsletter emails about product updates, offers, or relevant news that you signed up to receive, and managing your subscription preferences (such as honoring unsubscribe requests).
+
+#### Legal basis:
+
+Processing takes place in accordance with Art. 6 Para. 1 lit. a GDPR, based on your consent to receive our newsletter. (In other words, we will only collect and use your email for this purpose if you have actively subscribed. You may withdraw your consent at any time by unsubscribing from the newsletter.)
+
+#### Receiver:
+
+The data is received by MailerLite, an email marketing service provider, who acts as a processor on our behalf for managing newsletter subscriptions and distributing emails​.vMailerLite stores your email address on its secure servers. These servers may be located outside the European Economic Area (for example, in the United States), but MailerLite ensures that any transfer of personal data outside the EEA is protected by appropriate safeguards in compliance with EU data protection laws – for instance, through the use of EU Standard Contractual Clauses (SCCs)​. Visit [MailerLite’s Privacy Policy​](https://www.mailerlite.com/legal/privacy-policy) or further information on how MailerLite processes and protects personal data.
+
+#### Storage duration:
+
+We will retain your email address only as long as you remain subscribed to our newsletter. You can unsubscribe at any time by using the unsubscribe link provided in each email or by contacting us directly. If you unsubscribe or request deletion of your data, your email address will be promptly removed from our mailing list and deleted from MailerLite’s system​. Likewise, if we discontinue our newsletter service, we will delete all associated email subscription data.
+
+#### Provision required or required:
+
+The provision of your email address for the newsletter service is entirely voluntary and neither legally nor contractually required. Choosing not to subscribe (or later unsubscribing) simply means you will not receive our newsletter emails, but it will not affect your ability to use any other features of our Service. Your decision to provide or withhold an email for this purpose does not impact your use of the Monee app or website in any other way. This addition aligns with our commitment to transparency and GDPR compliance, ensuring you are informed about how we handle your email address for newsletter purposes.
+
 ### Firebase Authentication
 
 #### Type and purpose of processing:

@@ -412,8 +412,12 @@ nav > ul li a:active {
 	}
 } 
 
-.playStore {
+.playStore, .appStore {
 	height: 75px;
+	border-radius: 10px;
+}
+
+.playStore {
 	margin-right: 24px;
 }
 
