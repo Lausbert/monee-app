@@ -1,6 +1,15 @@
 <div class="downloadButtonsContainer">
   {% if site.playstore_link %}
-      <a class="playStoreLink" href="{{ site.playstore_link | prepend: '/' | prepend: site.baseurl }}"><img class="playStore" src="/assets/playstore.png"></a>
+      <a class="playStoreLink" href="{{ site.playstore_link | prepend: '/' | prepend: site.baseurl }}">
+        <div class="badgeContainer">
+          <img class="playStore" src="/assets/playstore.png">
+          <div class="comingSoonBadge">{% t titles.coming_soon %}</div>
+        </div>
+      </a>
   {% endif %}
-  <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="/assets/appstore.png"></a>
+  <a class="appStoreLink" href="{{site.appstore_link}}">
+    <div class="badgeContainer">
+      <img class="appStore" src="/assets/appstore.png">
+    </div>
+  </a>
 </div>
