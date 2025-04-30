@@ -967,6 +967,33 @@ footer {
   transition: all 0.3s ease;
 }
 
+.newsletterContainer h3 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: $feature-title-color;
+  margin: 0 0 15px 0;
+  line-height: 1.2;
+}
+
+.newsletterContainer p {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  color: $feature-text-color;
+  margin-bottom: 20px;
+}
+
+.newsletterContainer input {
+  font-size: 1.4rem;
+  line-height: 1.5;
+  color: $app-description-color;
+}
+
+.newsletterContainer button {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #fff;
+}
+
 .newsletterContainer:hover {
   transform: translateY(-5px);
   box-shadow: 0 12px 20px rgba(0, 0, 0, 0.08);
@@ -975,5 +1002,15 @@ footer {
 @media only screen and (max-width: 768px) {
   .newsletter {
     padding: 40px 15px;
+  }
+  
+  .newsletterContainer h3 {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+  
+  .newsletterContainer p {
+    font-size: 1.4rem;
+    text-align: center;
   }
 }
