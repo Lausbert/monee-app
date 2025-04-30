@@ -4,7 +4,7 @@ global:
   app_description: Monee puts you back in control of your finances.
   app_screenshot: assets/screenshot_en.png
   ios_app_country: us
-  features:                                  :
+  features:
     - title: Quick & Easy Entry
       description: Enter the amount, choose a category, and optionally add a note — done in seconds!
       emoji: ✍️
