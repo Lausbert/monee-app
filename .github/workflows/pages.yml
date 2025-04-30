@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Quickly install Ruby with Gems cached
+      # Quickly install Ruby with Gems
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2   
