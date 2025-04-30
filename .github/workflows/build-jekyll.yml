@@ -25,6 +25,7 @@ jobs:
       # For latest version: `jeffreytse/jekyll-deploy-action@master`
       - uses: jeffreytse/jekyll-deploy-action@v0.6.0
         with:
+          ruby_ver: 3.1.5 
           provider: 'github'         # Default is github
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           ssh_private_key: ''        # It's your SSH private key (SSH approach)
