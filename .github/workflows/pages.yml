@@ -1,0 +1,50 @@
+name: Build and deploy Jekyll site to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: read          # to read the repo
+  pages: write            # to deploy
+  id-token: write         # to verify deployment
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # Quickly install Ruby with Gems cached
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2   # or 3.1 if you prefer
+          bundler-cache: true # restores vendor/bundle automatically
+
+      - name: Build Jekyll
+        run: |
+          bundle exec jekyll build -d _site
+
+      # OPTIONAL – only if you don't set the domain in Settings ▾
+      - name: Add CNAME
+        run: echo "monee-app.com" > _site/CNAME
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
