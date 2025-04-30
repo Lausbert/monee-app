@@ -41,7 +41,7 @@
 	padding-left: 15px;
 	padding-right: 15px;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: 115px auto auto auto auto auto;
+	grid-template-rows: 115px auto auto auto auto auto auto;
 	grid-column-gap: 30px;
 	grid-template-areas: 
 		"h h h h h h h h h h h h"
@@ -49,11 +49,12 @@
 		"p p p p p i i i i i i i"
 		"r r r r r r r r r r r r"
 		"c c c c c c c c c c c c"
+		"n n n n n n n n n n n n"
 		"f f f f f f f f f f f f";
 }
 
 .subPageContainer {
-	grid-template-rows: 115px auto auto auto;
+	grid-template-rows: 115px auto auto auto auto;
 	background-color: #fff;
 }
 
@@ -68,6 +69,7 @@
 			"p p p p p p p p p p p p"
 			"r r r r r r r r r r r r"
 			"c c c c c c c c c c c c"
+			"n n n n n n n n n n n n"
 			"f f f f f f f f f f f f";
 	}
 }
@@ -85,6 +87,7 @@
 			"p p p p p p p p p p p p"
 			"r r r r r r r r r r r r"
 			"c c c c c c c c c c c c"
+			"n n n n n n n n n n n n"
 			"f f f f f f f f f f f f";
 	}
 }
@@ -940,4 +943,33 @@ footer {
 
 .reviewStars {
   margin-bottom: 15px;
+}
+
+// Newsletter Section
+.newsletter {
+  grid-area: n;
+  width: 100%;
+  padding: 50px 0;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.newsletterContainer {
+  max-width: 500px;
+  width: 100%;
+  padding: 0 15px;
+}
+
+// Enhance the design of the MailerLite form
+#mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper {
+  border-radius: 8px !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+@media only screen and (max-width: 768px) {
+  .newsletter {
+    padding: 40px 15px;
+  }
 }
