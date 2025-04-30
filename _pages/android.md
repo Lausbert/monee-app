@@ -5,5 +5,5 @@ include_in_footer: false
 ---
 
 {% translate_file android.md %}
-
 {% include appstore-button.html %}
+{% include newsletter.html %}
