@@ -959,13 +959,17 @@ footer {
 .newsletterContainer {
   max-width: 500px;
   width: 100%;
-  padding: 0 15px;
+  padding: 30px;
+  background-color: $review-card-background-color;
+  border-radius: 20px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.05);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
 }
 
-// Enhance the design of the MailerLite form
-#mlb2-25440722.ml-form-embedContainer .ml-form-embedWrapper {
-  border-radius: 8px !important;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+.newsletterContainer:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.08);
 }
 
 @media only screen and (max-width: 768px) {
