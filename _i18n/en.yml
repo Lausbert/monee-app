@@ -15,8 +15,8 @@ global:
       description                           : Get a good overview or deep insights where you think it is necessary
       fontawesome_icon_name                 : chart-line
   award:
-    title: "🥳 Monee has won the TheAppNote.com-Award \"Best Budget App 2025\""
-    link: "https://theappnote.com"
+    title: "🥳 Monee has won the TheAppNote.com-Award \"Best Budget & Expense Tracker App 2025\""
+    link: "https://www.theappnote.com/awards"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Global Rating: 4.9 / 5.0"
@@ -123,3 +123,4 @@ titles:
   privacy: "Privacy Policy"
   imprint: "Imprint"
   invite: "Join Account"
+  android: "Android App"

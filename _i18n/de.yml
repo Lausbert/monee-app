@@ -15,8 +15,8 @@ global:
       description                           : Verschaffe dir einen guten Überblick oder tiefe Einblicke, wo du es für nötig hälst
       fontawesome_icon_name                 : chart-line
   award:
-    title: "🥳 Monee hat den TheAppNote.com-Award \"Beste Budget-App 2025\" gewonnen"
-    link: "https://theappnote.com"
+    title: "🥳 Monee hat den TheAppNote.com-Award \"Beste Haushaltsbuch App 2025\" gewonnen"
+    link: "https://www.theappnote.de/awards"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Globale Bewertung: 4.9 / 5.0"
@@ -123,3 +123,4 @@ titles:
   privacy: "Datenschutz"
   imprint: "Impressum"
   invite: "Konto beitreten"
+  android: "Android App"
