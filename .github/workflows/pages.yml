@@ -5,9 +5,9 @@ on:
     branches: [master]
 
 permissions:
-  contents: read          # to read the repo
-  pages: write            # to deploy
-  id-token: write         # to verify deployment
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency:
   group: "pages"
@@ -20,17 +20,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Quickly install Ruby with Gems
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.2   
-          bundler-cache: true # restores vendor/bundle automatically
+          bundler-cache: true
 
       - name: Build Jekyll
         run: |
           bundle exec jekyll build -d _site
 
-      # OPTIONAL – only if you don't set the domain in Settings ▾
       - name: Add CNAME
         run: echo "monee-app.com" > _site/CNAME
 
