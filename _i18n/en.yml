@@ -1,4 +1,17 @@
+titles:
+  privacy: "Privacy Policy"
+  imprint: "Imprint"
+  invite: "Join Account"
+  android: "Android App"
+
 global:
+  coming_soon: "Coming Soon"
+  newsletter: "Newsletter"
+  newsletter_signup: "Be the first to learn about the release of the Android version or other major features!"
+  email: "Email"
+  subscribe: "Subscribe"
+  newsletter_thank_you: "Thank you!"
+  newsletter_success: "You have successfully joined the subscriber list."
   page_title: Monee - Budget & Expense Tracker
   app_name: Monee - Budget & Expense Tracker
   app_description: Monee puts you back in control of your finances.
@@ -161,15 +174,3 @@ global:
         body: "I was looking for a simple way to monitor and categorize my expenses accurately. This app meets my needs, is very easy to use, quick to understand, free of unnecessary frills and wonderfully ad- and cost-free. I’m extremely happy I found this app and thank the developer. Respect for the fact that in three months of use there hasn’t been a single outage."
         reviewerNickname: "Privatuser14"
         createdDate: "03/08/2025"
-titles:
-  privacy: "Privacy Policy"
-  imprint: "Imprint"
-  invite: "Join Account"
-  android: "Android App"
-  coming_soon: "Coming Soon"
-  newsletter: "Newsletter"
-  newsletter_signup: "Be the first to learn about the release of the Android version or other major features!"
-  email: "Email"
-  subscribe: "Subscribe"
-  newsletter_thank_you: "Thank you!"
-  newsletter_success: "You have successfully joined the subscriber list."

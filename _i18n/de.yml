@@ -1,4 +1,17 @@
+titles:
+  privacy: "Datenschutz"
+  imprint: "Impressum"
+  invite: "Konto beitreten"
+  android: "Android App"
+
 global:
+  coming_soon: "Demnächst verfügbar"
+  newsletter: "Newsletter"
+  newsletter_signup: "Erfahre Neuigkeiten über den Release der Androidversion oder anderer großer Features als Erstes!"
+  email: "E-Mail"
+  subscribe: "Abonnieren"
+  newsletter_thank_you: "Vielen Dank!"
+  newsletter_success: "Du hast dich erfolgreich für den Newsletter angemeldet."
   page_title: Monee - Haushaltsbuch
   app_name: Monee - Haushaltsbuch
   app_description: Monee gibt dir die Kontrolle über deine Finanzen zurück.
@@ -161,15 +174,3 @@ global:
         body: "Habe nach einer simplen Möglichkeit gesucht, meine Ausgaben exakt zu überwachen und kategorisieren zu können. Diese App erfüllt meinen Zweck, ist sehr einfach zu bedienen, schnell zu verstehen, ohne unnötige Schnörkel und wunderbarerweise werbe- und kostenfrei. Bin überaus zufrieden und danke dem Entwickler. Respekt dafür, dass es in den drei Monaten meiner bisherigen Nutzung keinen Tag mit Ausfällen gab."
         reviewerNickname: Privatuser14
         createdDate: 08.03.2025
-titles:
-  privacy: "Datenschutz"
-  imprint: "Impressum"
-  invite: "Konto beitreten"
-  android: "Android App"
-  coming_soon: "Demnächst verfügbar"
-  newsletter: "Newsletter"
-  newsletter_signup: "Erfahre Neuigkeiten über den Release der Androidversion oder anderer großer Features als Erstes!"
-  email: "E-Mail"
-  subscribe: "Abonnieren"
-  newsletter_thank_you: "Vielen Dank!"
-  newsletter_success: "Du hast dich erfolgreich für den Newsletter angemeldet."
