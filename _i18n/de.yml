@@ -15,8 +15,11 @@ global:
   page_title: Monee - Haushaltsbuch
   app_name: Monee - Haushaltsbuch
   app_description: Monee gibt dir die Kontrolle über deine Finanzen zurück.
-  app_screenshot: assets/screenshot_de.png
+  app_keywords: Haushaltsbuch, Finanzplanung, Ausgabentracker, Budget-App, Finanzmanagement, Persönliche Finanzen, Sparziele
+  app_screenshot: assets/screenshot_de.webp
   ios_app_country: de
+  app_store_badge_alt: "Im App Store laden"
+  play_store_badge_alt: "Demnächst bei Google Play"
   award:
     title: "🥳 Monee hat den TheAppNote.com-Award \"Beste Haushaltsbuch App 2025\" gewonnen"
     link: "https://www.theappnote.de/award/beste-haushaltsbuch-app-2025"

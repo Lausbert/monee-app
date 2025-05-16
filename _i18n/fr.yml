@@ -15,8 +15,11 @@ global:
   page_title: Monee - Suivi de Budget et de Dépenses
   app_name: Monee - Suivi de Budget et de Dépenses
   app_description: Monee vous redonne le contrôle de vos finances.
-  app_screenshot: assets/screenshot_fr.png
+  app_keywords: application de budget, suivi des dépenses, gestion d'argent, finances personnelles, planification financière, suivi d'épargne, objectifs financiers
+  app_screenshot: assets/screenshot_fr.webp
   ios_app_country: fr
+  app_store_badge_alt: "Télécharger dans l'App Store"
+  play_store_badge_alt: "Bientôt disponible sur Google Play"
   award:
     title: "🥳 Monee a remporté le prix TheAppNote.com \"Meilleure Application de Suivi de Budget 2025\""
     link: "https://www.theappnote.fr/award/budget-et-suivi-de-depenses-2025"

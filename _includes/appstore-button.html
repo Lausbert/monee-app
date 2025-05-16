@@ -2,14 +2,14 @@
   {% if site.playstore_link %}
       <a class="playStoreLink" href="{{ site.playstore_link | prepend: '/' | prepend: site.baseurl }}">
         <div class="badgeContainer">
-          <img class="playStore" src="/assets/playstore.png">
+          <img class="playStore" src="/assets/playstore.webp" alt="{% t global.play_store_badge_alt %}">
           <div class="comingSoonBadge">{% t global.coming_soon %}</div>
         </div>
       </a>
   {% endif %}
   <a class="appStoreLink" href="{{site.appstore_link}}">
     <div class="badgeContainer">
-      <img class="appStore" src="/assets/appstore.png">
+      <img class="appStore" src="/assets/appstore.webp" alt="{% t global.app_store_badge_alt %}">
     </div>
   </a>
 </div>

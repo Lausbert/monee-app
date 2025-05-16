@@ -17,9 +17,21 @@
 		});
 	</script>
 	{% endif %}
+	<!-- Preload critical assets for better performance -->
+	<link rel="preload" href="{{ site.cover_image | relative_url }}" as="image" type="image/jpeg" fetchpriority="high">
+	
+	<!-- SEO meta tags -->
+	<meta name="description" content="{% t global.app_description %}">
+	<meta name="keywords" content="{% t global.app_keywords %}">
+	
+	<!-- Open Graph / Social Media Meta Tags -->
+	<meta property="og:title" content="{% t global.app_name %}">
+	<meta property="og:description" content="{% t global.app_description %}">
+	<meta property="og:image" content="{{ site.app_icon | relative_url | absolute_url }}">
+	<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+	<meta name="twitter:card" content="summary_large_image">
 
 	<title class="pageTitle">{% t global.page_title %}</title>
-	<meta name="description" content="{{ site.app_description }}">
 
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
 
@@ -29,7 +41,7 @@
 	{% if site.enable_smart_app_banner %}
 	<meta name="apple-itunes-app" content="app-id={{ site.ios_app_id }}">
 	{% endif %}
-
+	
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
 		integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ '/main.css' | relative_url }}">
