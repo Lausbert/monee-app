@@ -97,3 +97,6 @@ plugins:
   - jekyll-multiple-languages-plugin
 
 languages: ["en", "de", "fr"]
+
+# Site URL
+url: "https://monee-app.com"

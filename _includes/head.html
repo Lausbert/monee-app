@@ -27,15 +27,15 @@
 	<!-- Open Graph / Social Media Meta Tags -->
 	<meta property="og:title" content="{% t global.app_name %}">
 	<meta property="og:description" content="{% t global.app_description %}">
-	<meta property="og:image" content="{{ site.app_icon | relative_url | absolute_url }}">
-	<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+	<meta property="og:image" content="{{ site.url }}{{ site.app_icon | relative_url }}">
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 	<meta name="twitter:card" content="summary_large_image">
 
 	<title class="pageTitle">{% t global.page_title %}</title>
 
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
 
-	<link rel="canonical" href="{{ page.url | absolute_url }}" />
+	<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
