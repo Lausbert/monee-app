@@ -28,14 +28,45 @@
 	<meta property="og:title" content="{% t global.app_name %}">
 	<meta property="og:description" content="{% t global.app_description %}">
 	<meta property="og:image" content="{{ site.url }}{{ site.app_icon | relative_url }}">
-	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+	<meta property="og:url" content="{{ site.url }}{{ page.url | relative_url }}">
 	<meta name="twitter:card" content="summary_large_image">
 
 	<title class="pageTitle">{% t global.page_title %}</title>
 
 	<link rel="shortcut icon" href="{{ site.app_icon | relative_url }}">
 
-	<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+	<!-- Canonical and alternate language URLs -->
+	{% assign current_lang = site.lang %}
+	{% assign default_lang = site.default_lang %}
+	{% assign current_page_url = page.url %}
+
+	{% if current_lang != default_lang %}
+		{% assign lang_prefix = '/' | append: current_lang %}
+		{% if current_page_url contains lang_prefix %}
+			{% assign base_url = current_page_url | replace_first: lang_prefix, '' %}
+		{% else %}
+			{% assign base_url = current_page_url %}
+		{% endif %}
+	{% else %}
+		{% assign base_url = current_page_url %}
+	{% endif %}
+	<!-- Set canonical to the current language version -->
+	{% if current_lang == default_lang %}
+		<link rel="canonical" href="{{ site.url }}{{ base_url }}" />
+	{% else %}
+		<link rel="canonical" href="{{ site.url }}/{{ current_lang }}{{ base_url }}" />
+	{% endif %}
+
+	<!-- Add alternate links for all languages -->
+	{% for lang in site.languages %}
+		{% if lang == default_lang %}
+			<link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}{{ base_url }}" />
+		{% else %}
+			<link rel="alternate" hreflang="{{ lang }}" href="{{ site.url }}/{{ lang }}{{ base_url }}" />
+		{% endif %}
+	{% endfor %}
+
+	<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ base_url }}" />
 
 	<!-- Smart App Banner -->
 	{% if site.enable_smart_app_banner %}
