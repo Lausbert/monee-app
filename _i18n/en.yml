@@ -15,8 +15,11 @@ global:
   page_title: Monee - Budget & Expense Tracker
   app_name: Monee - Budget & Expense Tracker
   app_description: Monee puts you back in control of your finances.
-  app_screenshot: assets/screenshot_en.png
+  app_keywords: budget app, expense tracker, money management, personal finance, financial planning, savings tracker, financial goals
+  app_screenshot: assets/screenshot_en.webp
   ios_app_country: us
+  app_store_badge_alt: "Download on the App Store"
+  play_store_badge_alt: "Coming soon on Google Play"
   award:
     title: "🥳 Monee has won the TheAppNote.com-Award \"Best Budget & Expense Tracker App 2025\""
     link: "https://www.theappnote.com/award/best-budget-expense-tracker-app-2025"

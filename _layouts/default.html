@@ -19,5 +19,27 @@
                 </div>
             </div>
         </div>
+        
+    <!-- JSON-LD for structured data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MobileApplication",
+      "name": "{% t global.app_name %}",
+      "description": "{% t global.app_description %}",
+      "operatingSystem": "iOS",
+      "applicationCategory": "FinanceApplication",
+      "offers": {
+        "@type": "Offer",
+        "price": "0.00",
+        "priceCurrency": "USD"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "ratingCount": "4.000"
+      }
+    }
+    </script>
 </body>
 </html>
