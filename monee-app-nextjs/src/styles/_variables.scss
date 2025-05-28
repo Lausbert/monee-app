@@ -1,0 +1,39 @@
+// This file will hold SCSS variables, potentially derived from siteConfig.js if needed dynamically,
+// but for SSG, these are mostly build-time.
+
+// Colors from siteConfig.js (example)
+$body-color: #ffffff; // siteConfig.body_background_color
+$accent-color: #3CBCB8; // siteConfig.link_color
+
+$header-title-color: #ffffff; // siteConfig.topbar_title_color
+$app-title-color: #ffffff; // siteConfig.app_title_color
+$app-description-color: #ffffff; // siteConfig.app_description_color
+
+$feature-title-color: #000000; // siteConfig.feature_title_color
+$feature-text-color: #666666; // siteConfig.feature_text_color
+$footer-text-color: #666666; // siteConfig.footer_text_color
+
+$header-color: #000000; // siteConfig.topbar_color
+$header-transparency: 0.0; // siteConfig.topbar_transparency
+
+$image-overlay-color: #363b3d; // siteConfig.cover_overlay_color
+$image-overlay-transparency: 0.0; // siteConfig.cover_overlay_transparency
+$image-overlay-start: 0%; // siteConfig.cover_overlay_start_position
+$image-overlay-end-transparency: 0.5; // siteConfig.cover_overlay_end_transparency
+
+$feature-icons-foreground-color: #3CBCB8; // siteConfig.feature_icons_foreground_color
+$feature-icons-background-color: #e6e6e6; // siteConfig.feature_icons_background_color
+
+$social-icons-foreground-color: #666666; // siteConfig.social_icons_foreground_color
+$social-icons-background-color: #e6e6e6; // siteConfig.social_icons_background_color
+
+$banner-color: #3CBCB8; // siteConfig.banner_color
+$banner-transparency: 0.8; // siteConfig.banner_transparency
+
+$review-card-background-color: #f7f7f7; // siteConfig.review_card_background_color
+
+// Other variables (defaults or direct values)
+$drop-shadow: 0px 5px 10px rgba(0,0,0,0.1);
+
+// It\'s generally better to use CSS Custom Properties for theming if values need to be dynamic
+// or accessed by JavaScript. For a static build, SCSS variables are fine.

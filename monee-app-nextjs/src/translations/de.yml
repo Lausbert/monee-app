@@ -1,0 +1,189 @@
+titles:
+  blog: "Blog"
+  privacy: "Datenschutz"
+  imprint: "Impressum"
+  invite: "Konto beitreten"
+  android: "Android App"
+
+global:
+  coming_soon: "Demnächst verfügbar"
+  newsletter: "Newsletter"
+  newsletter_signup: "Erfahre Neuigkeiten über den Release der Androidversion oder anderer großer Features als Erstes!"
+  email: "E-Mail"
+  subscribe: "Abonnieren"
+  newsletter_thank_you: "Vielen Dank!"
+  newsletter_success: "Du hast dich erfolgreich für den Newsletter angemeldet."
+  page_title: Monee - Haushaltsbuch
+  app_name: Monee - Haushaltsbuch
+  app_description: Monee gibt dir die Kontrolle über deine Finanzen zurück.
+  app_keywords: Haushaltsbuch, Finanzplanung, Ausgabentracker, Budget-App, Finanzmanagement, Persönliche Finanzen, Sparziele  
+  app_screenshot: assets/screenshot_de.webp
+  iphone_preview_alt: "iPhone Vorschau der Monee App"
+  ios_app_country: de
+  app_store_badge_alt: "Im App Store laden"
+  play_store_badge_alt: "Demnächst bei Google Play"
+  award:
+    title: "🥳 Monee hat den TheAppNote.com-Award \"Beste Haushaltsbuch App 2025\" gewonnen"
+    link: "https://www.theappnote.de/award/beste-haushaltsbuch-app-2025"
+  app_ratings:
+    stars: "⭐️⭐️⭐️⭐️⭐️"
+    score: "Globale Bewertung: 4.9 / 5.0"
+    count: "Basierend auf über 4000 Bewertungen"
+    downloads: "Über 100.000 Downloads weltweit"
+  reviews:
+    - title: Tolle App !!
+      body: "Mal davon abgesehen, dass ein Haushaltsbuch eine super nützliche und wichtige Sache ist, ist dem Entwickler mit Monee meiner Meinung nach der ganz große Wurf gelungen! Übersichtlich gestaltet, intuitiv und einfach zu bedienen, alle notwendigen Funktionen vorhanden und natürlich fehlt auch eine Auswertung der Einnahmen und Ausgaben nicht. Ich brauch keine andere App mehr… und das Ganze völlig kostenlos und ohne Werbung. Respekt und vielen Dank an den Entwickler!!!"
+      reviewerNickname: Jürgen A.
+      createdDate: 11.02.2025
+    - title: Genial übersichtlich und schön designt!
+      body: "Ich habe 6 Jahre lang eine andere App zur Erfassung meiner Ausgaben verwendet und bin vor ein paar Wochen auf diese gewechselt: Sie ist viel schöner, schlanker, moderner und wesentlich leichter zu bedienen. Und im heutigen Update hat der Entwickler meinen Wunsch berücksichtigt, die App solo nutzen zu können. ❤️ Ich bin völlig begeistert! 🙏🏻🤩 Die App ist super und der Entwickler reagiert sehr schnell auf Anfragen. Top!"
+      reviewerNickname: Lukulli
+      createdDate: 11.02.2025
+    - title: Perfekte App für die Übersicht über Ausgaben und Einnahmen
+      body: "Wir benutzen die App jetzt seit über einem Jahr und sind sehr zufrieden. Die App ist kostenlos, wird super oft geupdatet und es werden häufig Features hinzugefügt. Man kann wiederkehrende Ausgaben/Einnahmen automatisieren, Kategorien hinzufügen und alles später auch so filtern, dass man genau weiß, wie viel Geld man in entsprechender Kategorie ausgegeben hat. Man sieht, wie viel Mühe dahinter steckt!"
+      reviewerNickname: User31.12.
+      createdDate: 10.03.2025
+    - title: Richtig gute App! Echt Junge, gefällt mir gut!
+      body: "Also jetzt kurz mal ernst: Die App bietet alles, was man braucht, ist gut gemacht, und alles, was ich persönlich anders machen würde, ist kein Minusstern wert. Es kostet nix, keine Anmeldung, MoFa oder anderes nerviges Zeug. Richtig gute App! Echt Junge, gefällt mir gut! DANKE! 🙏🏻"
+      reviewerNickname: VNZNTG
+      createdDate: 02.08.2024
+    - title: Besser als Bezahlapps
+      body: "Also man muss schon sagen, das ist wirklich eine klasse App. Und dass diese völlig kostenlos und ohne Werbung angeboten wird, ist mehr als einen Knicks wert. 🙂"
+      reviewerNickname: TimeForIOTA
+      createdDate: 09.01.2025
+    - title: Monee – Top Finanz-App für den Alltag!
+      body: "Ich nutze Monee seit einiger Zeit und bin absolut begeistert! Die App ist intuitiv, übersichtlich und macht es unglaublich einfach, meine Finanzen im Blick zu behalten. Besonders gefallen mir die klare Aufteilung der Kategorien, die automatische Synchronisation und die hilfreichen Auswertungen. Dank Monee habe ich meine Einnahmen und Ausgaben jederzeit im Griff – ohne komplizierte Tabellen oder umständliche Berechnungen. Wer eine zuverlässige und moderne Finanz-App sucht, ist hier genau richtig. Klare Empfehlung!"
+      reviewerNickname: DG#4
+      createdDate: 08.03.2025
+    - title: Selten so begeistert von einer App gewesen
+      body: "Finde selten noch kostenlose Apps, die auch noch was können – geschweige denn ohne Werbung sind. Das Layout finde ich übersichtlich & schön anzuschauen und die Handhabung einfach. Danke an den Herausgeber!"
+      reviewerNickname: StSch.
+      createdDate: 02.12.2024
+    - title: Übersichtlich und schlicht
+      body: "Liebe diese App. Hab vieles ausprobiert und nichts hat mir zugesagt – zu teuer, zu unübersichtlich, zu viele Funktionen. Diese hier dagegen ist absolut schön strukturiert und übersichtlich, dabei aber simpel gehalten und kostenlos, ohne unnötigen Schnickschnack. Weiter so, DANKE!"
+      reviewerNickname: Tammiilein
+      createdDate: 15.03.2025
+    - title: Perfektes Haushaltsbuch
+      body: "Endlich eine App, die ohne viel Schnickschnack auskommt und dennoch alles liefert, was man benötigt! Bedienung kinderleicht, wiederholende Zahlungen in unterschiedlichen Rhythmen, Kategorien easy zu pflegen, Auswertungen, die einem klar sagen, was Sache ist – und alles ohne Bezahlung <3 Lieben Dank! :-)"
+      reviewerNickname: Plueschappel
+      createdDate: 21.03.2025
+    - title: Beste App!!
+      body: "Ich habe schon mehrere Apps ausprobiert und diese ist definitiv die Beste! Komplett kostenfrei und ohne Werbung… Ich hatte ja eigentlich auf einen Haken spekuliert… da ist aber keiner. Einfach zu bedienen, gut an die eigenen Bedürfnisse anzupassen, weil man für alles eigene Kategorien anlegen kann. Besser geht es nicht!!"
+      reviewerNickname: Kadania
+      createdDate: 07.03.2025
+    - title: Alles was man braucht!
+      body: "Mit den neuen Funktionen „alle Filter auf einmal löschen“ und „Einzelne Ausgaben bestimmten Personen zuordnen“ hat die App jetzt alles, was man braucht! Kein Schnickschnack, schön schlank und aufs Wesentliche konzentriert – klasse! Nicht zu vergessen ist auch der superschnelle und sehr freundliche Support! Wenn es für alles so tolle und uneigennützige Apps gäbe, wäre unser aller Leben leichter. Vielen Dank dem Entwickler!!!"
+      reviewerNickname: Gahndalf
+      createdDate: 24.07.2024
+    - title: toppi danke eine große Hilfe
+      body: "Übersichtlich; ausreichend Kategorien, aber auch weitere anlegbar, individuell korrigierbar und grafische Übersicht zur Auswertung sowie genug Platz im Kommentarfeld für Erläuterungen. Fazit: Eine tolle App ohne Schnickschnack, die sofort hilft, Kosten aufzunehmen, Kostenfallen zu visualisieren und später kategorisieren. Danke!"
+      reviewerNickname: Matt1210er
+      createdDate: 15.07.2024
+    - title: Genial
+      body: "Eine geniale App, wenn du ein einfaches Tool zum Festhalten deiner Ausgaben suchst und/oder ggf. in einer WG oder Partnerschaft wohnst. Jeder kann die gekauften Dinge eintragen und kategorisieren. Später kannst du die Kosten monatlich oder jährlich auswerten. Ich bin begeistert und kann diese komplett kostenlose und werbefreie App empfehlen. Danke 🙏🏼 an den Entwickler!"
+      reviewerNickname: Casu65
+      createdDate: 29.07.2024
+    - title: Super App!
+      body: "Ich bin UI-Designerin und habe nach etwas sehr Schlichtem gesucht, das wir als Familie nutzen können! Bäm! Volltreffer. Ein Lob an den Entwickler, dass es auch noch so schön gestaltet ist. Mein Mann und ich sind sehr zufrieden – die App kommt ohne viel Gedöns aus und bietet einen guten Überblick über unsere Finanzen, und das alles for free. Grüße aus Hamburg nach Hamburg, lieber Stephan :)."
+      reviewerNickname: Pueppsiliiiii
+      createdDate: 31.07.2024
+    - title: Großartige App mit schnellem Service
+      body: "Die App an sich bietet mir alle notwendigen Funktionen für ein Haushaltsbuch. Als ich bei der Einrichtung auf ein Problem gestoßen bin, wurde mir umgehend mit der Feedbackfunktion vom Entwickler geholfen. Habe ich noch nie so erlebt, 5*!"
+      reviewerNickname: Proxy365er
+      createdDate: 23.10.2024
+    - title: Übersichtlich und unkompliziert
+      body: "Monee ist die perfekte App, um schnell und einfach den Überblick über deine Finanzen zu behalten – ohne Werbung, Abos oder unnötigen Ballast. Klare Darstellung, intuitive Bedienung und volle Kontrolle über Einnahmen und Ausgaben. Absolut empfehlenswert!"
+      reviewerNickname: DonMonk
+      createdDate: 11.08.2024
+    - title: Tut, was es soll!
+      body: "Endlich eine kostenlose App ohne Schnickschnack, mit der man einfach seine Finanzen im Blick behalten kann! Toll! Danke für Ihre Arbeit! 👍🏼"
+      reviewerNickname: Famcramer
+      createdDate: 12.03.2025
+    - title: Sehr übersichtlich und hilfreich
+      body: "Ich habe mir die App Anfang 2025 runtergeladen und bin sehr zufrieden damit. Die Anpassung der Kategorien, die Eintragung von Einnahmen/Ausgaben ist übersichtlich und die erstellten Diagramme sind interessant. Ich nutze die App sehr gerne."
+      reviewerNickname: JayBeeBerlin
+      createdDate: 08.03.2025
+    - title: Hält was es verspricht
+      body: "Ich benutze Monee jetzt schon eine Zeitlang und ich bin sehr zufrieden. Es ist simpel und übersichtlich, hat dabei aber alles, was man braucht. Sehr zu empfehlen!"
+      reviewerNickname: Schnicki_Tim
+      createdDate: 09.03.2025
+    - title: Einfacher Aufbau und Bedienung
+      body: "Ich hab lange nach einer passenden Finanz-App für mich gesucht, und diese hier ist es! Einfach nur Ausgaben und Einnahmen, kein Konto verbinden oder komplettes Vermögen. So sehe ich jeden Monat, wie viel ich ausgegeben und wie viel ich eingenommen habe. Genau das wollte ich – eine einfache App ohne viel Schnickschnack!"
+      reviewerNickname: Kathi H. ☺️
+      createdDate: 08.11.2024
+    - title: Modern, simpel, gut, frei
+      body: "Ich bin begeistert. Solche Apps sind selten geworden, umso wertvoller ist sie: Macht was sie soll, nicht zu viel. Sieht gut aus, super bedienbar, sammelt keine Daten, will nichts extra verkaufen. Von einer Person mit Ahnung und Motivation entwickelt, nicht von einer fadenscheinigen Firma aus Übersee."
+      reviewerNickname: mageful
+      createdDate: 26.04.2025
+    - title: Übersichtlich und viele Möglichkeiten
+      body: "Ich habe ein einfaches System gesucht, um unsere Renovierungsarbeiten und Neuanschaffungen auf einen Blick ohne die täglichen Kosten zu haben. Monee war nach mehreren Fehlversuchen das erste kostenlose, übersichtliche Programm. Ich kann falsch zugeordnetes nachträglich ändern oder löschen, was für mich sehr wichtig war. Ich nutze es erst eine Woche und hoffe, alles bleibt so, wie es gerade ist."
+      reviewerNickname: Charly221122
+      createdDate: 23.04.2025
+    - title: Tolle App
+      body: "Ich hatte vorher eine andere App benutzt, die aber viel zu überladen und daher unübersichtlich war. Diese App kommt ohne viel Schnickschnack aus, ist selbsterklärend und jährlich fällige Zahlungen werden direkt runtergerechnet, sodass ich sofort weiß, wie viel ich monatlich zurücklegen muss. Bin begeistert 🙂"
+      reviewerNickname: M.B.19935
+      createdDate: 15.07.2024
+    - title: Sehr Benutzerfreundlich
+      body: "Habe nach einer simplen Möglichkeit gesucht, meine Ausgaben exakt zu überwachen und kategorisieren zu können. Diese App erfüllt meinen Zweck, ist sehr einfach zu bedienen, schnell zu verstehen, ohne unnötige Schnörkel und wunderbarerweise werbe- und kostenfrei. Bin überaus zufrieden und danke dem Entwickler. Respekt dafür, dass es in den drei Monaten meiner bisherigen Nutzung keinen Tag mit Ausfällen gab."
+      reviewerNickname: Privatuser14
+      createdDate: 08.03.2025
+  features:
+    - title: Schnelle & Einfache Eingabe
+      description: Betrag eingeben, Kategorie wählen und optional eine Notiz hinzufügen – fertig in Sekunden!
+      emoji: ✍️
+    - title: Übersicht & Einblicke
+      description: Sieh genau, wohin dein Geld fließt – mit monatlichen Zusammenfassungen von Einnahmen und Ausgaben.
+      emoji: 📊
+    - title: Gemeinsamer Haushalt
+      description: Lade andere ein und verwaltet eure Finanzen gemeinsam – ideal für Familien oder WGs.
+      emoji: 🏠
+    - title: Unbegrenzte Konten
+      description: Erstelle so viele Konten, wie du brauchst – für verschiedene Personen, Ziele oder Projekte.
+      emoji: ➕
+    - title: Unbegrenzte Buchungen
+      description: Erfasse beliebig viele Einnahmen und Ausgaben – ohne Einschränkungen.
+      emoji: 💸
+    - title: Wiederkehrende Buchungen
+      description: Verwalte wiederholte Einnahmen oder Ausgaben automatisch und stressfrei.
+      emoji: 🔁
+    - title: Eigene Kategorien
+      description: Organisiere deine Finanzen mit individuell erstellbaren Kategorien.
+      emoji: 🗂️
+    - title: Leistungsstarke Filter
+      description: Finde genau das, was du suchst – nach Typ, Häufigkeit oder beteiligten Personen.
+      emoji: 🔍
+    - title: Weltweite Währungen
+      description: Nutze jede Währung – ideal für Reisende oder internationale Nutzer.
+      emoji: 🌍
+    - title: Daten exportieren
+      description: Exportiere deine Finanzdaten jederzeit – ganz einfach.
+      emoji: 📤
+    - title: Nahtlos auf allen Geräten
+      description: Nutze Monee auf iPhone, iPad und Mac – deine Daten werden automatisch synchronisiert.
+      emoji: 🧩
+    - title: Schutz mit Face ID, Touch ID & Code
+      description: Schütze deine Daten mit Face ID, Touch ID oder einem persönlichen Code.
+      emoji: 🔐
+    - title: Flexibler Monatsbeginn
+      description: Lege fest, an welchem Tag dein Finanzmonat beginnen soll.
+      emoji: 📅
+    - title: Saldo übertragen
+      description: Übertrage dein verbleibendes Guthaben bequem in den nächsten Monat.
+      emoji: 🔄
+    - title: Keine Registrierung
+      description: Starte sofort – ganz ohne Anmeldung oder Konto.
+      emoji: 🚪
+    - title: Keine Werbung, kein Tracking
+      description: Genieße eine saubere App ohne Werbung und ohne Datenverfolgung.
+      emoji: 🛡️
+    - title: Komplett kostenlos
+      description: Alle Funktionen sind gratis – keine Abos, keine In-App-Käufe.
+      emoji: 🎉
+
+blog:
+  title: "Blog"
+  subtitle: "Neueste Updates und Tipps"
+  read_more: "Weiterlesen"
+  back_to_blog: "Zurück zum Blog"
+  published_on: "Veröffentlicht am"
+  no_posts: "Noch keine Blog-Beiträge verfügbar."
