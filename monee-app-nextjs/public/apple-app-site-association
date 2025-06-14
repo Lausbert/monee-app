@@ -1,0 +1,41 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "UD2UEZDYQ6.app.monee",
+                "paths": [
+                    "/invite*",
+                    "/de/invite*"
+                ],
+                "components": [
+                    {
+                        "/": "/invite*",
+                        "comment": "Matches any URL whose path starts with /invite"
+                    },
+                    {
+                        "/": "/de/invite*",
+                        "comment": "Matches German localized invite URLs"
+                    }
+                ]
+            },
+            {
+                "appID": "UD2UEZDYQ6.app.monee.debug",
+                "paths": [
+                    "/invite*",
+                    "/de/invite*"
+                ],
+                "components": [
+                    {
+                        "/": "/invite*",
+                        "comment": "Matches any URL whose path starts with /invite"
+                    },
+                    {
+                        "/": "/de/invite*",
+                        "comment": "Matches German localized invite URLs"
+                    }
+                ]
+            }
+        ]
+    }
+}

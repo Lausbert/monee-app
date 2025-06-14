@@ -3,6 +3,7 @@ import { useRouter } from 'next/router';
 import siteConfig from '../lib/siteConfig'; // Corrected import path
 import Footer from './Footer'; // Import the Footer component
 import HeaderBackground from './HeaderBackground'; // Import the new HeaderBackground component
+import JsonLd from './JsonLd'; // Import the JsonLd component
 
 export default function Layout({ children, pageTitle, title, pageDescription, description, pageKeywords, translations, globalTranslations }) {
   const router = useRouter();
@@ -64,6 +65,10 @@ export default function Layout({ children, pageTitle, title, pageDescription, de
           <meta name="apple-itunes-app" content={`app-id=${siteConfig.ios_app_id}`} />
         )}
       </Head>
+      
+      {/* Add JSON-LD structured data */}
+      <JsonLd translations={globalTranslations} currentLocale={locale} />
+      
       <HeaderBackground /> {/* Add the background image wrapper component */}
       <main>{children}</main>
       <Footer />

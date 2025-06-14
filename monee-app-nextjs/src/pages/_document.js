@@ -1,20 +1,24 @@
 import { Html, Head, Main, NextScript } from "next/document";
-import siteConfig from "../lib/siteConfig"; // Using default import
 
 export default function Document() {
-  // Note: The lang attribute on <html> should ideally be dynamic based on the current locale.
-  // This is tricky in _document.js as it's rendered on the server without access to router.locale.
-  // Next.js handles this automatically if i18n is configured in next.config.js.
-  // For explicit control, you might need a custom server or other strategies.
-  // For now, we'll rely on Next.js's default behavior or set a fallback.
-  const currentLang = siteConfig.defaultLanguage || siteConfig.default_lang || 'en'; // Use defaultLanguage or default_lang with fallback
+  // Next.js automatically handles the lang attribute when i18n is configured in next.config.js
+  // We should not manually set the lang attribute to avoid conflicts with Next.js i18n
 
   return (
-    <Html lang={currentLang}>
+    <Html>
       <Head>
         {/* Prevent search engine indexing */}
         <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
         <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
+        
+        {/* Font Awesome CDN for social icons */}
+        <link 
+          rel="stylesheet" 
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" 
+          integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" 
+          crossOrigin="anonymous" 
+          referrerPolicy="no-referrer" 
+        />
       </Head>
       <body className="antialiased">
         <Main />

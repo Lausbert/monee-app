@@ -7,10 +7,6 @@ export default function Award({ translations }) {
     // You might want a placeholder or null during loading
     return <div className="award-section">Loading award...</div>;
   }
-
-  // Use translations object if provided, or fall back to global keys
-  const awardLinkKey = translations?.link ? 'link' : 'global.award.link';
-  const awardTitleKey = translations?.title ? 'title' : 'global.award.title';
   
   const link = translations ? 
     (translations.link || t('global.award.link')) : 

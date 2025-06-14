@@ -22,9 +22,7 @@ const geistMono = Geist_Mono({
 
 export default function HomePage({
   translations,
-  featureTranslations,
   reviewTranslations,
-  newsletterTranslations,
   awardTranslations,
   commonTranslations,
   globalTranslations,

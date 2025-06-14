@@ -1241,12 +1241,8 @@ footer {
 // New full-width colored header section for blog listing page
 .blog-listing-header-section-fullwidth {
   background: linear-gradient(135deg, variables.$accent-color 0%, color.adjust(variables.$accent-color, $lightness: 10%) 100%);
-  width: 100vw;
+  width: 100%;
   position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
   margin-top: -2rem;
   margin-bottom: 3rem;
   padding: 4rem 0 5rem 0;
@@ -1308,46 +1304,10 @@ footer {
     box-shadow: none !important;
     border: none !important;
     padding: 0 2rem;
+    max-width: base.$content-width;
+    margin-left: auto;
+    margin-right: auto;
   }
-    // Override blog header styles when inside colored section
-  .blog-header {
-    text-align: center;
-    margin-bottom: 0;
-    padding: 0;
-    
-    h1 {
-      font-size: 3.8rem;
-      font-weight: 700;
-      margin-bottom: 1.5rem;
-      color: #ffffff !important;
-      text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      
-      @media (max-width: 768px) {
-        font-size: 3rem;
-      }
-      
-      @media (max-width: 480px) {
-        font-size: 2.4rem;
-      }
-    }
-    
-    p {
-      font-size: 1.8rem;
-      color: rgba(255, 255, 255, 0.95) !important;
-      max-width: 600px;
-      margin: 0 auto;
-      text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-      
-      @media (max-width: 768px) {
-        font-size: 1.6rem;
-      }
-    }
-  }
-}
-
-// Remove the old blog listing header section
-.blog-listing-header-section {
-  display: none; // Hide old version
 }
 
 .blog-header {
@@ -1405,105 +1365,179 @@ footer {
 
 .blog-card {
   background: linear-gradient(135deg, #ffffff 0%, #fafbfc 100%);
-  border-radius: 16px;
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08);
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
   overflow: hidden;
-  transition: all 0.3s ease;
-  border: 1px solid rgba(26, 26, 26, 0.1); // Darker border for better definition
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid rgba(60, 188, 184, 0.08); // Subtle accent border
   position: relative;
   
+  // Subtle top accent border that appears on hover
   &::before {
     content: '';
-    position: absolute;    top: 0;
+    position: absolute;
+    top: 0;
     left: 0;
     right: 0;
     height: 4px;
     background: linear-gradient(90deg, variables.$accent-color, color.adjust(variables.$accent-color, $lightness: 20%));
     opacity: 0;
-    transition: opacity 0.3s ease;
+    transition: opacity 0.4s ease;
+  }
+  
+  // Shimmer effect on hover
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, 
+      transparent 0%, 
+      rgba(60, 188, 184, 0.1) 50%, 
+      transparent 100%);
+    transition: left 0.6s ease;
   }
   
   &:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 45px rgba(0, 0, 0, 0.15); // Slightly stronger shadow on hover
-    border-color: rgba(variables.$accent-color, 0.25); // Stronger accent border on hover
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15), 
+                0 8px 25px rgba(60, 188, 184, 0.2);
+    border-color: rgba(variables.$accent-color, 0.3);
     
     &::before {
       opacity: 1;
+    }
+    
+    &::after {
+      left: 100%;
     }
   }
 }
 
 .blog-card-content {
-  padding: 2rem;
+  padding: 2.5rem;
   position: relative;
-  background: rgba(255, 255, 255, 0.95); // Subtle white overlay for enhanced contrast
-}
-
-.blog-card-title {
-  color: #1a1a1a; // Darker than feature-title-color for better contrast
-  font-size: 1.8rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  line-height: 1.3;
-  transition: color 0.3s ease;
+  background: rgba(255, 255, 255, 0.97);
+  transition: all 0.3s ease;
   
   .blog-card:hover & {
-    color: variables.$accent-color;
+    background: rgba(255, 255, 255, 1);
   }
 }
 
-.blog-card-excerpt {
-  color: #4a4a4a; // Darker than feature-text-color for better contrast
+.blog-card-header {
+  display: flex;
+  align-items: center;
   margin-bottom: 1.5rem;
-  line-height: 1.6;
-  font-size: 1.4rem;
-  opacity: 1; // Remove opacity reduction to maintain full color strength
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid rgba(60, 188, 184, 0.15);
+  transition: border-color 0.3s ease;
+  
+  .blog-card:hover & {
+    border-bottom-color: rgba(60, 188, 184, 0.25);
+  }
+  
+  .blog-card-author {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex: 1;
+  }
+  
+  .blog-card-author-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50% !important;
+    object-fit: cover;
+    object-position: top;
+    border: 3px solid rgba(variables.$accent-color, 0.2) !important;
+    flex-shrink: 0;
+    transition: all 0.3s ease;
+    display: block; // Ensure proper display
+    
+    .blog-card:hover & {
+      border-color: rgba(variables.$accent-color, 0.4) !important;
+      transform: scale(1.05);
+      box-shadow: 0 4px 15px rgba(60, 188, 184, 0.2);
+    }
+  }
+  
+  .blog-card-author-info {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    margin-left: 0.5rem;
+  }
+  
+  .blog-card-author-name {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    line-height: 1.2;
+    margin-bottom: 0.3rem;
+    transition: color 0.3s ease;
+    
+    .blog-card:hover & {
+      color: variables.$accent-color;
+    }
+  }
+  
+  .blog-card-date {
+    color: #4a4a4a;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.2;
+    transition: color 0.3s ease;
+    
+    .blog-card:hover & {
+      color: #333;
+    }
+  }
+}
+
+.blog-card-title {
+  color: #1a1a1a;
+  font-size: 1.9rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+  line-height: 1.3;
+  transition: all 0.3s ease;
+  
+  .blog-card:hover & {
+    color: variables.$accent-color;
+    transform: translateY(-2px);
+  }
+}
+
+.blog-card-title-section {
+  margin-top: 0.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.blog-card-excerpt {
+  color: #4a4a4a;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+  font-size: 1.45rem;
+  transition: color 0.3s ease;
+  
+  .blog-card:hover & {
+    color: #333;
+  }
+}
+
+.blog-card-excerpt-section {
+  margin-bottom: 2rem;
 }
 
 .blog-card-footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   padding-top: 1rem;
-  border-top: 1px solid rgba(26, 26, 26, 0.15); // Darker border for better contrast
-}
-
-.blog-card-author {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  flex: 1;
-}
-
-.blog-card-author-avatar {
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 1px solid rgba(variables.$accent-color, 0.2);
-  flex-shrink: 0;
-}
-
-.blog-card-author-info {
-  display: flex;
-  flex-direction: column;
-  min-width: 0;
-}
-
-.blog-card-author-name {
-  font-size: 1.2rem;
-  font-weight: 600;
-  color: #1a1a1a; // Darker for better contrast
-  line-height: 1.2;
-}
-
-.blog-card-date {
-  color: #4a4a4a; // Darker than feature-text-color for better contrast
-  font-size: 1.1rem;
-  opacity: 1; // Remove opacity reduction to maintain full color strength
-  font-weight: 400;
-  line-height: 1.2;
+  border-top: 1px solid rgba(26, 26, 26, 0.15);
 }
 
 .blog-read-more {
@@ -1562,19 +1596,19 @@ footer {
     width: 80px;
     height: 80px;
   }
-  
-  .blog-card-footer {
-    flex-direction: column;
-    gap: 1rem;
-    align-items: flex-start;
-  }
-  
-  .blog-card-author {
-    width: 100%;
-  }
-  
-  .blog-read-more {
-    align-self: flex-end;
+    .blog-card-header {
+    .blog-card-author-avatar {
+      width: 48px;
+      height: 48px;
+    }
+    
+    .blog-card-author-info {
+      margin-left: 0.5rem;
+    }
+    
+    .blog-card-author-name {
+      font-size: 1.2rem;
+    }
   }
 }
 
@@ -1775,12 +1809,8 @@ footer {
 // New colored header section for blog posts - full width with navigation
 .blog-single-header-section {
   background: linear-gradient(135deg, variables.$accent-color 0%, color.adjust(variables.$accent-color, $lightness: 10%) 100%);
-  width: 100vw;
+  width: 100%;
   position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
   padding: 0 0 5rem 0;
   
   @media (max-width: 768px) {
@@ -1840,6 +1870,9 @@ footer {
     box-shadow: none !important;
     border: none !important;
     padding: 2rem;
+    max-width: base.$content-width;
+    margin-left: auto;
+    margin-right: auto;
     
     @media (max-width: 768px) {
       padding: 1rem;
@@ -2357,7 +2390,7 @@ footer {
     margin-bottom: 1.5rem;
     
     h3 {
-      font-size: 1.1rem;
+      font-size: 1.3rem; // Increased from 1.1rem to match blog content
       font-weight: 600;
       color: #1a1a1a;
       margin: 0;
@@ -2393,7 +2426,7 @@ footer {
   }
   
   .author-bio-name {
-    font-size: 1.25rem;
+    font-size: 1.5rem; // Increased from 1.25rem to match blog heading sizes
     font-weight: 600;
     color: #1a1a1a;
     margin: 0 0 0.5rem 0;
@@ -2403,7 +2436,7 @@ footer {
     margin: 0 0 1rem 0;
     color: #4a5568;
     line-height: 1.6;
-    font-size: 0.95rem;
+    font-size: 1.3rem; // Increased from 0.95rem to match blog body text
   }
   
   .author-bio-social {
@@ -2413,7 +2446,7 @@ footer {
       gap: 0.5rem;
       color: #0077b5;
       text-decoration: none;
-      font-size: 0.9rem;
+      font-size: 1.1rem; // Increased from 0.9rem to match blog content
       font-weight: 500;
       padding: 0.5rem 1rem;
       border: 1px solid #0077b5;
@@ -2428,7 +2461,7 @@ footer {
       }
       
       .linkedin-icon {
-        transition: transform 0.3s ease;
+               transition: transform 0.3s ease;
       }
       
       &:hover .linkedin-icon {
@@ -2440,9 +2473,10 @@ footer {
 
 // Responsive adjustments for blog single
 @media (max-width: 768px) {
+ 
   .blog-single-meta {
     margin-bottom: 2rem;
-    padding-bottom: 1.5rem;
+    padding-bottom:  1.5rem;
   }  .blog-single-author {
     flex-direction: row; // Keep horizontal layout on mobile for better space usage
     align-items: center;
@@ -2456,7 +2490,6 @@ footer {
   }
     .blog-single-author-info {
     text-align: left; // Left align text for better readability
-    align-self: stretch;
     width: auto;
     margin-left: 0.25rem; // Keep consistent minimal spacing on mobile
   }
@@ -2493,7 +2526,7 @@ footer {
     margin-top: 2rem;
     
     .author-bio-header h3 {
-      font-size: 1rem;
+      font-size: 1.2rem; // Increased from 1rem for mobile
     }
     
     .author-bio-content {
@@ -2512,18 +2545,18 @@ footer {
     }
     
     .author-bio-name {
-      font-size: 1.1rem;
+      font-size: 1.3rem; // Increased from 1.1rem for mobile
     }
     
     .author-bio-description {
-      font-size: 0.9rem;
+      font-size: 1.2rem; // Increased from 0.9rem for mobile
     }
     
     .author-bio-social {
       text-align: center;
       
       .author-linkedin-link {
-        font-size: 0.85rem;
+        font-size: 1rem; // Increased from 0.85rem for mobile
         padding: 0.4rem 0.8rem;
       }
     }

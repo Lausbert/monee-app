@@ -31,7 +31,8 @@ const siteConfig = {  site_url: "https://monee-app.com", // Added from CNAME
   feature_title_color: "#000000",
   feature_text_color: "#666666",
   feature_icons_foreground_color: "#3CBCB8",
-  feature_icons_background_color: "#e6e6e6",  social_icons_foreground_color: "#666666",
+  feature_icons_background_color: "#e6e6e6",
+  social_icons_foreground_color: "#666666",
   social_icons_background_color: "#e6e6e6",
   footer_text_color: "#666666",
   default_lang: "en", // Keep for backward compatibility
@@ -39,7 +40,8 @@ const siteConfig = {  site_url: "https://monee-app.com", // Added from CNAME
   languages: ["en", "de", "fr"],
   app_name: "Monee - Budget & Expense Tracker",
   app_description: "Money Tracking App",
-  app_keywords: "money tracking, finance, expenses, budgeting",  footer_links: [
+  app_keywords: "money tracking, finance, expenses, budgeting",  
+  footer_links: [
     {
       title: "Blog",
       url: "/blog",

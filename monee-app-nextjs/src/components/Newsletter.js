@@ -6,6 +6,9 @@ import siteConfig from '@/lib/siteConfig';
 const Newsletter = ({ translations }) => {
   const { t } = useTranslations(translations);
   const [isMounted, setIsMounted] = useState(false);
+  const [email, setEmail] = useState('');
+  const [isEmailValid, setIsEmailValid] = useState(true);
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const mailerliteFormId = siteConfig.mailerlite_form_id;
   const mailerliteUniversal = siteConfig.mailerlite_universal;
@@ -13,6 +16,62 @@ const Newsletter = ({ translations }) => {
   useEffect(() => {
     setIsMounted(true);
   }, []);
+
+  const validateEmail = (email) => {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return email.trim() !== '' && emailRegex.test(email);
+  };
+
+  const handleEmailChange = (e) => {
+    const value = e.target.value;
+    setEmail(value);
+    if (!isEmailValid && value.trim() !== '') {
+      setIsEmailValid(true);
+    }
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    
+    if (!validateEmail(email)) {
+      setIsEmailValid(false);
+      return;
+    }
+
+    setIsSubmitting(true);
+    
+    // Create a form and submit it to MailerLite
+    const form = document.createElement('form');
+    form.action = `https://assets.mailerlite.com/jsonp/${mailerliteUniversal}/forms/${mailerliteFormId}/subscribe`;
+    form.method = 'post';
+    form.target = '_blank';
+    
+    const emailInput = document.createElement('input');
+    emailInput.type = 'hidden';
+    emailInput.name = 'fields[email]';
+    emailInput.value = email;
+    form.appendChild(emailInput);
+    
+    const submitInput = document.createElement('input');
+    submitInput.type = 'hidden';
+    submitInput.name = 'ml-submit';
+    submitInput.value = '1';
+    form.appendChild(submitInput);
+    
+    const anticsrfInput = document.createElement('input');
+    anticsrfInput.type = 'hidden';
+    anticsrfInput.name = 'anticsrf';
+    anticsrfInput.value = 'true';
+    form.appendChild(anticsrfInput);
+    
+    document.body.appendChild(form);
+    form.submit();
+    document.body.removeChild(form);
+    
+    // Reset form state
+    setEmail('');
+    setIsSubmitting(false);
+  };
 
   // Use Next.js Script component for client-side loading
   const scriptContent = `
@@ -267,10 +326,10 @@ const Newsletter = ({ translations }) => {
           #mlb2-${mailerliteFormId}.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent .form-control.ml-subscribe-form-input:-moz-placeholder {
             color: #333333 !important;
             font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
-          }
-          #mlb2-${mailerliteFormId}.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent .form-control.is-invalid,
+          }          #mlb2-${mailerliteFormId}.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent .form-control.is-invalid,
           #mlb2-${mailerliteFormId}.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-formContent .form-control.is-invalid.ml-subscribe-form-input {
             border-color: #ff0000 !important;
+            box-shadow: 0 0 0 0.2rem rgba(255, 0, 0, 0.25) !important;
           }
           #mlb2-${mailerliteFormId}.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .form-check-label,
           #mlb2-${mailerliteFormId}.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-checkboxRow .label-description {
@@ -456,36 +515,37 @@ const Newsletter = ({ translations }) => {
               <div className="ml-form-embedBody ml-form-embedBodyDefault row-form">                <div className="ml-form-embedContent">
                   <h4>{t('global.newsletter')}</h4>
                   <p>{t('global.newsletter_signup')}</p>
-                </div>
-                <form className="ml-block-form" action={`https://assets.mailerlite.com/jsonp/${mailerliteUniversal}/forms/${mailerliteFormId}/subscribe`} data-code="" method="post" target="_blank">
+                </div>                <form className="ml-block-form" onSubmit={handleSubmit}>
                   <div className="ml-form-formContent">
                     <div className="ml-form-fieldRow">
-                      <div className="ml-field-group ml-field-email ml-validate-email ml-validate-required">                        <label htmlFor={`fields[email]-${mailerliteFormId}`} className="sr-only">{t('global.email')}</label>
-                        <input 
+                      <div className="ml-field-group ml-field-email ml-validate-email ml-validate-required">                        <label htmlFor={`fields[email]-${mailerliteFormId}`} className="sr-only">{t('global.email')}</label>                        <input 
                           aria-label="email" 
                           aria-required="true" 
                           type="email" 
-                          className="form-control" 
+                          className={`form-control ${!isEmailValid ? 'is-invalid' : ''}`}
                           data-inputmask="" 
                           name="fields[email]" 
                           id={`fields[email]-${mailerliteFormId}`} 
-                          placeholder={t('global.email')} 
+                          placeholder={t('global.email')}
+                          value={email}
+                          onChange={handleEmailChange}
                         />
                       </div>
                     </div>
                   </div>
                   {/* Hidden fields for MailerLite */}
-                  <input type="hidden" name="ml-submit" value="1" />
                   <div className="ml-form-embedSubmit">
-                    <button type="submit" className="primary">
-                      {t('global.subscribe')}
-                    </button>
-                    <button disabled type="button" className="loading" style={{display: 'none'}}>
-                      <div className="ml-form-embedSubmitLoad"></div>
-                      <span className="sr-only">Loading...</span>
+                    <button type="submit" className="primary" disabled={isSubmitting}>
+                      {isSubmitting ? (
+                        <>
+                          <div className="ml-form-embedSubmitLoad"></div>
+                          <span>Loading...</span>
+                        </>
+                      ) : (
+                        t('global.subscribe')
+                      )}
                     </button>
                   </div>
-                  <input type="hidden" name="anticsrf" value="true" />
                 </form>
               </div>
             </div>
