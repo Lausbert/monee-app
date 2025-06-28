@@ -60,7 +60,9 @@ export default function PrivacyPage({ translations, pageTranslations, contentHtm
         {/* Open Graph for social media */}
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
+        <meta property="og:type" content="website" />
         <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
+        <meta property="og:url" content={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}privacy`} />
         
         {/* Canonical URL */}
         <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}privacy`} />

@@ -37,7 +37,7 @@ export default function BlogPage({ posts, allTranslations }) {
     // Generate structured data for SEO
     const generateStructuredData = () => {
         const baseUrl = 'https://monee-app.com';
-        const blogUrl = `${baseUrl}/${locale !== 'en' ? locale + '/' : ''}blog/`;        
+        const blogUrl = `${baseUrl}/${locale !== 'en' ? locale + '/' : ''}blog`;        
         const structuredData = {
             "@context": "https://schema.org",
             "@type": "Blog",
@@ -108,7 +108,7 @@ export default function BlogPage({ posts, allTranslations }) {
                 <meta property="og:image:width" content="1200" />
                 <meta property="og:image:height" content="630" />
                 <meta property="og:image:alt" content={`${translatedAppName} Blog`} />
-                <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/`} />
+                <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog`} />
                 <meta property="og:type" content="website" />
                 <meta property="og:site_name" content={translatedAppName} />
                 <meta
