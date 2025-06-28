@@ -84,6 +84,7 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
               "@type": "BlogPosting",
               headline: post.meta.title,
               description: description,
+              articleBody: content.replace(/<[^>]*>/g, ''), // Strip HTML tags for plain text
               image: post.meta.featuredImage,
               author: {
                 "@type": "Person",
@@ -121,10 +122,10 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
           <div className="blog-single-container" aria-label="Blog navigation">
             {/* Title and meta in colored section */}
             <div className="blog-single-header-content">
-              <h1 className="blog-single-title-header" itemProp="headline">
+              <h1 className="blog-single-title-header">
                 {post.meta.title}
               </h1>
-              <div className="blog-single-meta-header" itemScope itemType="https://schema.org/Person">
+              <div className="blog-single-meta-header">
                 <div className="blog-single-author">
                   <div className="blog-single-author-avatar">
                     <Image
@@ -133,18 +134,17 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                       width={40}
                       height={40}
                       style={{ borderRadius: '50%', objectFit: 'cover', objectPosition: 'top' }}
-                      itemProp="image"
                     />
                   </div>
                   <div className="blog-single-author-info">
                     {post.meta.author && (
-                      <p className="blog-single-author-name" itemProp="name">
+                      <p className="blog-single-author-name">
                         {post.meta.author}
                       </p>
                     )}
                     <p className="blog-single-date">
                       {blogTranslations.published_on}{' '}
-                      <time dateTime={new Date(post.meta.date).toISOString()} itemProp="datePublished">
+                      <time dateTime={new Date(post.meta.date).toISOString()}>
                         {formattedDate}
                       </time>
                     </p>
@@ -158,7 +158,7 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
       <main className="container subPageContainer">
         <div className="page">
           <div className="blog-single-container">
-            <article className="blog-single-article" itemScope itemType="https://schema.org/BlogPosting">
+            <article className="blog-single-article">
               <div className="blog-single-content">
                 {/* Featured image moved to content area */}
                 {post.meta.featuredImage && (
@@ -169,7 +169,6 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                       width={800}
                       height={400}
                       style={{ width: '100%', height: 'auto', borderRadius: '12px' }}
-                      itemProp="image"
                       priority
                     />
                   </figure>
@@ -177,16 +176,9 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                 <div
                   className="blog-single-body markdown-body"
                   dangerouslySetInnerHTML={{ __html: content }}
-                  itemProp="articleBody"
                 />
-                {/* Article metadata for SEO */}
-                <meta itemProp="datePublished" content={new Date(post.meta.date).toISOString()} />
-                {post.meta.modified && <meta itemProp="dateModified" content={new Date(post.meta.modified).toISOString()} />}
-                <meta itemProp="author" content={post.meta.author} />
-                <meta itemProp="publisher" content={translatedAppName} />
-                {post.meta.keywords && <meta itemProp="keywords" content={post.meta.keywords} />}
                 {post.meta.authorBio && (
-                  <aside className="blog-single-author-bio" itemScope itemType="https://schema.org/Person">
+                  <aside className="blog-single-author-bio">
                     <div className="author-bio-header">
                       <h3>{blogTranslations?.about_author || "About the Author"}</h3>
                     </div>
@@ -198,14 +190,13 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                           width={80}
                           height={80}
                           style={{ borderRadius: '50%', objectFit: 'cover', objectPosition: 'top' }}
-                          itemProp="image"
                         />
                       </div>
                       <div className="author-bio-text">
-                        <h4 className="author-bio-name" itemProp="name">
+                        <h4 className="author-bio-name">
                           {post.meta.author}
                         </h4>
-                        <p className="author-bio-description" itemProp="description">
+                        <p className="author-bio-description">
                           {post.meta.authorBio}
                         </p>
                         {post.meta.authorLinkedIn && (
@@ -215,7 +206,6 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                               target="_blank"
                               rel="noopener noreferrer"
                               className="author-linkedin-link"
-                              itemProp="sameAs"
                               aria-label={`Connect with ${post.meta.author} on LinkedIn`}
                             >
                               <svg
