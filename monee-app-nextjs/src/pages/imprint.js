@@ -61,13 +61,13 @@ export default function ImprintPage({ translations, pageTranslations, contentHtm
         <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}imprint/`} />
+        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}imprint`} />
         
         {/* Language alternates */}
-        <link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/" />
-        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint/" />
-        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint/" />
-        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/imprint/" />
+        <link rel="alternate" hreflang="en" href="https://monee-app.com/imprint" />
+        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint" />
+        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint" />
+        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/imprint" />
       </Head>
       
       <div className="headerBackground subPageHeaderBackground">

@@ -7,8 +7,6 @@ authorBio: "Das Monee-Entwicklungsteam arbeitet daran, die beste Geldverwaltungs
 keywords: "gemeinsames konto, getrennte finanzen, geld management paar, gemeinsame ausgaben, finanzplanung paare, ehe finanzen, budget zusammen, geld beziehung"
 ---
 
-# Gemeinsames Konto oder getrennte Konten?
-
 Als meine Frau und ich zum ersten Mal zusammengezogen sind, standen wir vor einer Frage, der fast jedes Paar früher oder später begegnet: Sollten wir gemeinsame Konten haben oder bei getrennten Finanzen bleiben?
 
 Wir trafen keine schnelle Entscheidung—es entwickelte sich einfach natürlich über die Zeit. Anfangs hatten wir getrennte Konten, weil es ehrlich gesagt einfacher schien. Jeder zahlt seine Rechnungen, wir teilen Miete, Lebensmittel und Restaurantrechnungen durch die Mitte. Aber als sich unsere Leben vermischten—Möbelkauf, Bezahlung von Urlauben und schließlich Kinder bekommen—bemerkten wir etwas Interessantes.

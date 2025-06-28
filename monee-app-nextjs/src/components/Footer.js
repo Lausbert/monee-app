@@ -84,10 +84,13 @@ const Footer = () => {
           const url = link.url.startsWith('/') ? `/${locale !== 'en' ? locale + '/' : ''}${link.url.substring(1)}` : link.url;
 
           return (
-            <Link href={url} key={link.url} legacyBehavior>
-              <a target={link.url.startsWith('http') ? '_blank' : '_self'} rel={link.url.startsWith('http') ? 'noopener noreferrer' : ''}>
-                {title}
-              </a>
+            <Link 
+              href={url} 
+              key={link.url}
+              target={link.url.startsWith('http') ? '_blank' : '_self'} 
+              rel={link.url.startsWith('http') ? 'noopener noreferrer' : ''}
+            >
+              {title}
             </Link>
           );
         })}

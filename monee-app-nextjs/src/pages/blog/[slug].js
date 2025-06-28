@@ -23,7 +23,7 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
   return (
     <>
       <Head>
-        <title>{`${title} | ${blogTranslations?.title} | ${translatedAppName}`}</title>
+        <title>{`${title}`}</title>
         <meta name="description" content={description} />
         <link rel="shortcut icon" href="/assets/appicon.webp" />
         {/* Essential meta tags for the browser tab */}
@@ -63,18 +63,18 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta name="twitter:site" content="@MoneeApp" />
         <meta name="twitter:creator" content="@MoneeApp" />
         {/* Canonical URL */}
-        <link rel="canonical" href={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
+        <link rel="canonical" href={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}`} />
         {/* Language alternates with translated slugs */}
         {translatedSlugs.en && (
-          <link rel="alternate" hreflang="en" href={`https://monee-app.com/blog/${translatedSlugs.en}/`} />
+          <link rel="alternate" hreflang="en" href={`https://monee-app.com/blog/${translatedSlugs.en}`} />
         )}
         {translatedSlugs.de && (
-          <link rel="alternate" hreflang="de" href={`https://monee-app.com/de/blog/${translatedSlugs.de}/`} />
+          <link rel="alternate" hreflang="de" href={`https://monee-app.com/de/blog/${translatedSlugs.de}`} />
         )}
         {translatedSlugs.fr && (
-          <link rel="alternate" hreflang="fr" href={`https://monee-app.com/fr/blog/${translatedSlugs.fr}/`} />
+          <link rel="alternate" hreflang="fr" href={`https://monee-app.com/fr/blog/${translatedSlugs.fr}`} />
         )}
-        <link rel="alternate" hreflang="x-default" href={`https://monee-app.com/blog/${translatedSlugs.en || post.slug}/`} />
+        <link rel="alternate" hreflang="x-default" href={`https://monee-app.com/blog/${translatedSlugs.en || post.slug}`} />
         {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"

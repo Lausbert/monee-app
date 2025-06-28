@@ -63,13 +63,13 @@ export default function PrivacyPage({ translations, pageTranslations, contentHtm
         <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}privacy/`} />
+        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}privacy`} />
         
         {/* Language alternates */}
-        <link rel="alternate" hreflang="en" href="https://monee-app.com/privacy/" />
-        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy/" />
-        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy/" />
-        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/privacy/" />
+        <link rel="alternate" hreflang="en" href="https://monee-app.com/privacy" />
+        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy" />
+        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy" />
+        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/privacy" />
       </Head>
       
       <div className="headerBackground subPageHeaderBackground">

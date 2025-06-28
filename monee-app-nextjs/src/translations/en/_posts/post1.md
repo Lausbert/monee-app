@@ -8,8 +8,6 @@ authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "joint bank account, separate finances, couples money management, shared expenses, financial planning couples, marriage finances, budgeting together, money relationship"
 ---
 
-# Joint Account or Separate Accounts?
-
 When my wife and I first moved in together, we faced a question almost every couple encounters sooner or later: Should we have joint accounts or stick to separate finances?
 
 We didn't make a quick decision—it just naturally evolved over time. Initially, we had separate accounts because, honestly, it seemed simpler. Each person pays their bills, we split rent, groceries, and restaurant checks down the middle. But as our lives merged—buying furniture, paying for vacations, and eventually having kids—we noticed something interesting.

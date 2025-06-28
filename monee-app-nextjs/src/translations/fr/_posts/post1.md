@@ -7,8 +7,6 @@ authorBio: "L'équipe de développement Monee travaille à créer la meilleure a
 keywords: "compte commun, finances séparées, gestion argent couple, dépenses partagées, planification financière couple, argent mariage, budget couple, relation argent"
 ---
 
-# Compte commun ou comptes séparés ?
-
 Lorsque ma femme et moi avons emménagé ensemble pour la première fois, nous avons été confrontés à une question que presque tous les couples rencontrent tôt ou tard : Devrions-nous avoir des comptes communs ou conserver des finances séparées ?
 
 Nous n'avons pas pris de décision rapide—cela a évolué naturellement au fil du temps. Au début, nous avions des comptes séparés parce que, honnêtement, cela semblait plus simple. Chaque personne paie ses factures, nous divisons le loyer, les courses et les additions de restaurant en deux. Mais à mesure que nos vies se sont entremêlées—achat de meubles, paiement des vacances et finalement avoir des enfants—nous avons remarqué quelque chose d'intéressant.

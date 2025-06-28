@@ -75,13 +75,14 @@ export default function AndroidPage({ translations, pageTranslations, contentHtm
         <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}android/`} />
+        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}android`} />
         
         {/* Language alternates */}
-        <link rel="alternate" hreflang="en" href="https://monee-app.com/android/" />
-        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/android/" />
-        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android/" />
-        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/android/" />        {/* Smart App Banner */}
+        <link rel="alternate" hreflang="en" href="https://monee-app.com/android" />
+        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/android" />
+        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android" />
+        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/android" />        
+        {/* Smart App Banner */}
         <meta name="apple-itunes-app" content="app-id=1617877213" />
       </Head>
       
