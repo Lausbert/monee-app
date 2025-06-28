@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://monee-app.com</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/android</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/android"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/privacy</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/imprint</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/android</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/android"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/privacy</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/imprint</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/android</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/android"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/android"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/privacy</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/privacy"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/imprint</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/joint-account-or-separate-accounts</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten"/>
+  </url>
+</urlset>

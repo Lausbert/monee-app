@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://monee-app.com/sitemap.xml
