@@ -3,26 +3,22 @@ import siteConfig from '@/lib/siteConfig';
 import { remark } from 'remark';
 import html from 'remark-html';
 import Head from 'next/head';
-import Image from 'next/image';
-import Link from 'next/link';
 import Header from '@/components/Header';
 import Newsletter from '@/components/Newsletter';
+import AppStoreButton from '@/components/AppStoreButton';
 import { useEffect } from 'react';
 
 export async function getStaticProps({ locale }) {
   const currentLocale = locale || siteConfig.defaultLanguage;
-  const commonTranslations = await getTranslations(currentLocale, 'common');
+  const allTranslations = await getTranslations(currentLocale);
   const pageTranslations = await getTranslations(currentLocale, 'android');
   const markdownContent = await getMarkdownContent(currentLocale, 'android');
-  
-  // Get all translations for global context
-  const allTranslations = await getTranslations(currentLocale);
   
   // Global translations for all pages
   const globalTranslations = {
     ...allTranslations,
-    common: commonTranslations,
-    global: allTranslations?.global || {}
+    global: allTranslations?.global || {},
+    features: allTranslations?.features || []
   };
   
   let contentHtml = '';
@@ -36,7 +32,7 @@ export async function getStaticProps({ locale }) {
   }
   return {
     props: {
-      commonTranslations,
+      translations: allTranslations,
       pageTranslations,
       contentHtml,
       frontmatter,
@@ -49,10 +45,10 @@ export async function getStaticProps({ locale }) {
   };
 }
 
-export default function AndroidPage({ commonTranslations, pageTranslations, contentHtml, frontmatter, currentLocale, globalTranslations, allTranslations, playstoreLink, appstoreLink }) {
+export default function AndroidPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale, globalTranslations, allTranslations, playstoreLink, appstoreLink }) {
   // Determine title and description like in the original
-  const title = pageTranslations?.title || frontmatter?.title || commonTranslations?.android_title || 'Monee - Budget & Expense Tracker';
-  const description = pageTranslations?.description || frontmatter?.description || commonTranslations?.app_description || 'Monee puts you back in control of your finances.';
+  const title = pageTranslations?.title || frontmatter?.title || translations?.global?.app_name || 'Monee - Budget & Expense Tracker';
+  const description = pageTranslations?.description || frontmatter?.description || translations?.global?.app_description || 'Monee puts you back in control of your finances.';
 
   // Add subPageBody class to body element
   useEffect(() => {
@@ -91,35 +87,15 @@ export default function AndroidPage({ commonTranslations, pageTranslations, cont
       
       <div className="headerBackground subPageHeaderBackground">
         <div className="container subPageContainer">
-          <Header translations={commonTranslations} />
+          <Header translations={translations} />
           <article className="page markdown-body">
             <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
               {/* Download Buttons */}
-            <div className="downloadButtonsContainer">              <Link href="/android" className="playStoreLink">
-                <div className="badgeContainer">
-                  <Image 
-                    className="playStore" 
-                    src="/assets/playstore.webp" 
-                    alt="Coming soon on Google Play"
-                    width={200}
-                    height={75}
-                    priority
-                  />
-                  <div className="comingSoonBadge">Coming Soon</div>
-                </div>
-              </Link>
-              <a className="appStoreLink" href={appstoreLink || "https://apps.apple.com/app/monee-budget-expense-tracker/id1617877213"}>
-                <div className="badgeContainer">
-                  <Image 
-                    className="appStore" 
-                    src="/assets/appstore.webp" 
-                    alt="Download on the App Store"
-                    width={200}
-                    height={75}
-                    priority
-                  />
-                </div>
-              </a></div>
+            <AppStoreButton 
+              playstoreLink="android"
+              appstoreLink={appstoreLink || "https://apps.apple.com/app/monee-budget-expense-tracker/id1617877213"}
+              translations={allTranslations}
+            />
               {/* Newsletter */}
             <Newsletter translations={allTranslations} />
           </article>

@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /
-
-# This is a test/development site
-# Please do not index this content
+Allow: /

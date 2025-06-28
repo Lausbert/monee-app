@@ -7,17 +7,13 @@ import Header from '@/components/Header';
 
 export async function getStaticProps({ locale }) {
   const currentLocale = locale || siteConfig.defaultLanguage;
-  const commonTranslations = await getTranslations(currentLocale, 'common');
+  const allTranslations = await getTranslations(currentLocale);
   const pageTranslations = await getTranslations(currentLocale, 'privacy');
   const markdownContent = await getMarkdownContent(currentLocale, 'privacy');
-  
-  // Get all translations for global context
-  const allTranslations = await getTranslations(currentLocale);
   
   // Global translations for all pages
   const globalTranslations = {
     ...allTranslations, // Contains 'global' and other top-level sections from the main YAML file
-    common: commonTranslations, // Explicitly include/override common translations
   };
   
   let contentHtml = '';
@@ -35,7 +31,7 @@ export async function getStaticProps({ locale }) {
 
   return {
     props: {
-      commonTranslations,
+      translations: allTranslations,
       pageTranslations,
       contentHtml,
       frontmatter,
@@ -45,10 +41,10 @@ export async function getStaticProps({ locale }) {
   };
 }
 
-export default function PrivacyPage({ commonTranslations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
+export default function PrivacyPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
   // Determine title and description
-  const title = pageTranslations?.title || frontmatter?.title || commonTranslations?.app_name || 'Privacy Policy'; // commonTranslations.app_name as a general fallback
-  const description = pageTranslations?.description || frontmatter?.description || commonTranslations?.app_description || 'Our privacy policy details.'; // commonTranslations.app_description as a general fallback
+  const title = pageTranslations?.title || frontmatter?.title || translations?.global?.app_name || 'Privacy Policy';
+  const description = pageTranslations?.description || frontmatter?.description || translations?.global?.app_description || 'Our privacy policy details.';
 
   return (
     <>
@@ -78,7 +74,7 @@ export default function PrivacyPage({ commonTranslations, pageTranslations, cont
       
       <div className="headerBackground subPageHeaderBackground">
         <div className="container subPageContainer">
-          <Header translations={commonTranslations} />
+          <Header translations={translations} />
           <article className="page markdown-body">
             <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
           </article>

@@ -31,12 +31,12 @@ export default function HomePage({
   return (
     <Layout
       translations={commonTranslations}
-      globalTranslations={globalTranslations}
+      globalTranslations={allTranslations}
       title={translations.title}
       description={translations.description}
     >
       <div className="container">
-        <Header translations={globalTranslations} />
+        <Header translations={allTranslations} />
         <Award translations={awardTranslations} />
       </div>
       <div className="hero-section">
@@ -66,25 +66,20 @@ export async function getStaticProps({ locale }) {
   // Use the locale from Next.js context or fall back to the default
   const currentLocale = locale || siteConfig.defaultLanguage;
   
-  // Get page-specific translations
-  const translations = await getTranslations(currentLocale, "homepage");
-  const commonTranslations = await getTranslations(currentLocale, "common");
-  const featureTranslations = await getTranslations(currentLocale, "features");
-  const reviewTranslations = await getTranslations(currentLocale, "reviews");
-  const newsletterTranslations = await getTranslations(currentLocale, "newsletter");
-  const awardTranslations = await getTranslations(currentLocale, "global", "award");
-  
-  // Get all global translations for the entire app
+  // Get all translations for the current locale
   const allTranslations = await getTranslations(currentLocale);
+  
+  // For individual sections, try to get them, but use empty objects as fallback
+  const translations = await getTranslations(currentLocale, "homepage").catch(() => ({}));
+  const commonTranslations = await getTranslations(currentLocale, "common").catch(() => ({}));
+  const featureTranslations = allTranslations?.features || [];
+  const reviewTranslations = allTranslations?.global?.reviews || [];
+  const newsletterTranslations = await getTranslations(currentLocale, "newsletter").catch(() => ({}));
+  const awardTranslations = allTranslations?.global?.award || {};
   
   // Structure them in a way that's accessible via dot notation in components
   // Make sure all properties are defined to avoid serialization errors
-  const globalTranslations = {
-    ...allTranslations, // Include all translations (titles, global, etc.)
-    common: commonTranslations || {},
-    global: allTranslations?.global || {}
-    // Removed the features property because it might be undefined
-  };
+  const globalTranslations = allTranslations || {};
 
   return {
     props: {
@@ -94,8 +89,8 @@ export async function getStaticProps({ locale }) {
       reviewTranslations,
       newsletterTranslations,
       awardTranslations,
-      globalTranslations, // Add global translations for the TranslationsProvider
-      allTranslations,    // Adding the full translations object 
+      globalTranslations, // The complete translations object
+      allTranslations,    // Same as globalTranslations for compatibility
       currentLocale,
     },
   };

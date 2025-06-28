@@ -4,15 +4,17 @@ import siteConfig from '../lib/siteConfig'; // Corrected import path
 import Footer from './Footer'; // Import the Footer component
 import HeaderBackground from './HeaderBackground'; // Import the new HeaderBackground component
 import JsonLd from './JsonLd'; // Import the JsonLd component
+import useTranslations from '@/hooks/useTranslations'; // Import the useTranslations hook
 
 export default function Layout({ children, pageTitle, title, pageDescription, description, pageKeywords, translations, globalTranslations }) {
   const router = useRouter();
   const { locale, defaultLocale, asPath } = router;
+  const { t, translations: contextTranslations } = useTranslations();
 
   // Use provided values, fall back to translations if available, then to siteConfig
-  const finalTitle = pageTitle || title || (translations?.title) || siteConfig.app_name;
-  const finalDescription = pageDescription || description || (translations?.description) || siteConfig.app_description;
-  const finalKeywords = pageKeywords || (translations?.keywords) || siteConfig.app_keywords;
+  const finalTitle = pageTitle || title || (translations?.title) || contextTranslations?.global?.app_name || siteConfig.app_name;
+  const finalDescription = pageDescription || description || (translations?.description) || contextTranslations?.global?.app_description || siteConfig.app_description;
+  const finalKeywords = pageKeywords || contextTranslations?.global?.app_keywords || siteConfig.app_keywords;
   let canonicalUrl = siteConfig.site_url || ''; // Use site_url from siteConfig, with fallback
   if (locale && locale !== defaultLocale) {
     canonicalUrl += `/${locale}${asPath.startsWith(`/${locale}`) ? asPath.substring(locale.length + 1) : asPath}`;
@@ -30,7 +32,6 @@ export default function Layout({ children, pageTitle, title, pageDescription, de
 
         {asPath.includes('/invite') && (
           <>
-            <meta name="robots" content="noindex,nofollow" />
             <meta httpEquiv="Cache-Control" content="no-store, no-cache, must-revalidate, proxy-revalidate" />
             <meta httpEquiv="Pragma" content="no-cache" />
             <meta httpEquiv="Expires" content="0" />
@@ -67,7 +68,7 @@ export default function Layout({ children, pageTitle, title, pageDescription, de
       </Head>
       
       {/* Add JSON-LD structured data */}
-      <JsonLd translations={globalTranslations} currentLocale={locale} />
+      <JsonLd translations={globalTranslations || translations} currentLocale={locale} />
       
       <HeaderBackground /> {/* Add the background image wrapper component */}
       <main>{children}</main>

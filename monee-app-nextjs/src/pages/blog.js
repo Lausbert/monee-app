@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -8,18 +7,10 @@ import { getAllBlogPosts } from '@/lib/blog';
 import { getTranslations } from '@/lib/i18n';
 import siteConfig from '@/lib/siteConfig';
 
-export default function BlogPage({ posts, allTranslations, commonTranslations, globalTranslations }) {
+export default function BlogPage({ posts, allTranslations }) {
     const router = useRouter();
     const { locale } = router;
-    const [mounted, setMounted] = useState(false);
 
-    useEffect(() => {
-        setMounted(true);
-        // Add subPageBody class to body element for styling consistency
-        document.body.classList.add('subPageBody');
-        return () => {
-            document.body.classList.remove('subPageBody');
-        };    }, []);
     const blogTranslations = allTranslations?.blog || {};
     const title = blogTranslations?.title;
     const subtitle = blogTranslations?.subtitle;
@@ -31,8 +22,12 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
     const translatedAppName = allTranslations?.global?.app_name || siteConfig.app_name;
 
     const formatDate = (dateString) => {
-        if (!mounted) return dateString; // Return raw date during SSR
-        return new Date(dateString).toLocaleDateString(locale, {
+        const localeMap = {
+            'en': 'en-US',
+            'de': 'de-DE',
+            'fr': 'fr-FR'
+        };
+        return new Date(dateString).toLocaleDateString(localeMap[locale] || 'en-US', {
             year: 'numeric',
             month: 'long',
             day: 'numeric',
@@ -42,7 +37,8 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
     // Generate structured data for SEO
     const generateStructuredData = () => {
         const baseUrl = 'https://monee-app.com';
-        const blogUrl = `${baseUrl}/${locale !== 'en' ? locale + '/' : ''}blog/`;        const structuredData = {
+        const blogUrl = `${baseUrl}/${locale !== 'en' ? locale + '/' : ''}blog/`;        
+        const structuredData = {
             "@context": "https://schema.org",
             "@type": "Blog",
             name: `${title} | ${translatedAppName}`,
@@ -69,17 +65,14 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                 description: post.meta.excerpt || subtitle,
                 url: `${baseUrl}/blog/${post.slug}`,
                 datePublished: post.meta.date,
-                dateModified: post.meta.date,                author: {
+                dateModified: post.meta.date,                
+                author: {
                     "@type": "Person",
-                    name: post.meta.author || translatedAppName,
+                    name: post.meta.author,
                 },
                 publisher: {
-                    "@type": "Organization",
-                    name: translatedAppName,
-                    logo: {
-                        "@type": "ImageObject",
-                        url: `${baseUrl}/assets/appicon.webp`,
-                    },
+                    "@type": "Person",
+                    name: post.meta.author,
                 },
                 mainEntityOfPage: {
                     "@type": "WebPage",
@@ -91,12 +84,13 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
     };
 
     return (
-        <>            <Head>
+        <>            
+            <Head>
                 <title>{`${title} | ${translatedAppName}`}</title>
                 <meta name="description" content={subtitle} />                
                 <meta
                     name="keywords"
-                    content={`${translatedAppName}, blog, ${translatedKeywords}`}
+                    content={`${translatedAppName}, ${translatedKeywords}`}
                 />
                 <meta name="author" content={translatedAppName} />
                 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
@@ -105,7 +99,9 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                 {/* Essential meta tags for the browser tab */}
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                 <meta charSet="utf-8" />
-                <meta httpEquiv="Content-Language" content={locale} />                {/* Open Graph for social media */}
+                <meta httpEquiv="Content-Language" content={locale} />                
+                
+                {/* Open Graph for social media */}
                 <meta property="og:title" content={`${title} | ${translatedAppName}`} />
                 <meta property="og:description" content={subtitle} />
                 <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
@@ -118,7 +114,9 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                 <meta
                     property="og:locale"
                     content={locale === 'en' ? 'en_US' : locale === 'de' ? 'de_DE' : 'fr_FR'}
-                />                {/* Twitter Cards */}
+                />                
+
+                {/* Twitter Cards */}
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content={`${title} | ${translatedAppName}`} />
                 <meta name="twitter:description" content={subtitle} />
@@ -134,6 +132,32 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                 <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/" />
                 <link rel="alternate" hreflang="x-default" href="https://monee-app.com/blog/" />
 
+                {/* Override base.scss styles for blog read more button */}
+                <style dangerouslySetInnerHTML={{
+                    __html: `
+                        .blog-read-more,
+                        .blog-read-more:link,
+                        .blog-read-more:hover,
+                        .blog-read-more:visited,
+                        .blog-read-more:active,
+                        .blog-read-more:focus {
+                            color: #ffffff !important;
+                            text-decoration: none !important;
+                            background-color: #14b8a6 !important;
+                            border: 2px solid transparent !important;
+                            box-sizing: border-box !important;
+                        }
+                        .blog-read-more:hover {
+                            background-color: #0d9488 !important;
+                            color: #ffffff !important;
+                        }
+                        .blog-read-more span,
+                        .blog-read-more svg {
+                            color: #ffffff !important;
+                        }
+                    `
+                }} />
+
                 {/* Structured Data */}
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: generateStructuredData() }} />
             </Head>
@@ -141,7 +165,7 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
             {/* Full-width colored header section with navigation */}
             <div className="blog-listing-header-section-fullwidth">
                 <div className="container subPageContainer">
-                    <Header translations={commonTranslations} />
+                    <Header translations={allTranslations} />
                     <div className="blog-container">
                         <div className="blog-header">
                             <h1 itemProp="name">{title}</h1>
@@ -160,42 +184,20 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                                 {posts.map((post, index) => (
                                     <article
                                         key={post.slug}
-                                        className="blog-card"
+                                        className="blog-card flex flex-col h-full"
                                         itemScope
                                         itemType="https://schema.org/BlogPosting"
-                                        style={{
-                                            display: 'flex',
-                                            flexDirection: 'column',
-                                            height: '100%'
-                                        }}
                                     >
-                                        <div 
-                                            className="blog-card-content"
-                                            style={{
-                                                display: 'flex',
-                                                flexDirection: 'column',
-                                                height: '100%',
-                                                flex: '1'
-                                            }}
-                                        >
+                                        <div className="blog-card-content flex flex-col h-full flex-1">
                                             {/* Author and Date - moved to top with bigger image */}
-                                            <div 
-                                                className="blog-card-header"
-                                                style={{ flexShrink: 0 }}
-                                            >
+                                            <div className="blog-card-header flex-shrink-0">
                                                 <div className="blog-card-author">
                                                     <Image
                                                         src='/assets/Stephan_Lerner.jpg'
                                                         alt={'Author Stephan Lerner'}
                                                         width={56}
                                                         height={56}
-                                                        className="blog-card-author-avatar"
-                                                        style={{
-                                                            borderRadius: '50%',
-                                                            objectFit: 'cover',
-                                                            objectPosition: 'top',
-                                                            border: '2px solid rgba(60, 188, 184, 0.2)'
-                                                        }}
+                                                        className="blog-card-author-avatar rounded-full object-cover object-top border-2 border-teal-400/20"
                                                     />
                                                     <div className="blog-card-author-info">
                                                         {post.meta.author && (
@@ -218,10 +220,7 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                                             </div>
 
                                             {/* Title with more spacing */}
-                                            <div 
-                                                className="blog-card-title-section"
-                                                style={{ flexShrink: 0 }}
-                                            >
+                                            <div className="blog-card-title-section flex-shrink-0">
                                                 <h2 className="blog-card-title" itemProp="headline">
                                                     <Link href={`/blog/${post.slug}`} itemProp="url">
                                                         {post.meta.title}
@@ -231,14 +230,7 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
 
                                             {/* Excerpt */}
                                             {post.meta.excerpt && (
-                                                <div 
-                                                    className="blog-card-excerpt-section"
-                                                    style={{ 
-                                                        flexGrow: 1,
-                                                        display: 'flex',
-                                                        flexDirection: 'column'
-                                                    }}
-                                                >
+                                                <div className="blog-card-excerpt-section flex-grow flex flex-col">
                                                     <p className="blog-card-excerpt" itemProp="description">
                                                         {post.meta.excerpt}
                                                     </p>
@@ -246,69 +238,23 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                                             )}
 
                                             {/* Read More Link */}
-                                            <div 
-                                                className="blog-card-footer"
-                                                style={{ 
-                                                    flexShrink: 0,
-                                                    marginTop: 'auto',
-                                                    paddingTop: '1rem'
-                                                }}
-                                            >
+                                            <div className="blog-card-footer flex-shrink-0 mt-auto pt-4">
                                                 <Link
                                                     href={`/blog/${post.slug}`}
-                                                    className="blog-read-more"
+                                                    className="blog-read-more bg-teal-500 hover:bg-teal-600 text-white no-underline inline-flex items-center justify-center px-8 py-4 rounded-full font-bold text-lg min-w-[160px] gap-3 transition-all duration-300 ease-out shadow-lg shadow-teal-500/30 hover:shadow-xl hover:shadow-teal-500/40 uppercase tracking-wide border-2 border-transparent hover:-translate-y-0.5 hover:scale-105"
                                                     aria-label={`Read more about ${post.meta.title}`}
                                                     style={{
-                                                        backgroundColor: '#3CBCB8',
                                                         color: '#ffffff',
+                                                        backgroundColor: '#14b8a6',
                                                         textDecoration: 'none',
-                                                        display: 'inline-flex',
                                                         alignItems: 'center',
-                                                        justifyContent: 'center',
-                                                        padding: '1rem 2rem',
-                                                        borderRadius: '50px',
-                                                        fontWeight: '700',
-                                                        fontSize: '1.1rem',
-                                                        minWidth: '160px',
-                                                        gap: '0.5rem',
-                                                        transition: 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)',
-                                                        boxShadow: '0 4px 15px rgba(60, 188, 184, 0.3)',
-                                                        textTransform: 'uppercase',
-                                                        letterSpacing: '0.5px',
-                                                        border: '2px solid transparent',
-                                                    }}
-                                                    onMouseEnter={(e) => {
-                                                        const button = e.currentTarget;
-                                                        const span = button.querySelector('span');
-                                                        button.style.backgroundColor = '#2da6a2';
-                                                        button.style.transform = 'translateY(-2px) scale(1.02)';
-                                                        button.style.boxShadow = '0 8px 25px rgba(60, 188, 184, 0.4)';
-                                                        if (span) span.style.backgroundColor = 'transparent';
-                                                    }}
-                                                    onMouseLeave={(e) => {
-                                                        const button = e.currentTarget;
-                                                        const span = button.querySelector('span');
-                                                        button.style.backgroundColor = '#3CBCB8';
-                                                        button.style.transform = 'translateY(0) scale(1)';
-                                                        button.style.boxShadow = '0 4px 15px rgba(60, 188, 184, 0.3)';
-                                                        if (span) span.style.backgroundColor = 'transparent';
+                                                        display: 'inline-flex'
                                                     }}
                                                 >
-                                                    <span style={{ backgroundColor: 'transparent' }}>{readMore}</span>
-                                                    <svg 
-                                                        width="18" 
-                                                        height="18" 
-                                                        viewBox="0 0 24 24" 
-                                                        fill="none" 
-                                                        stroke="currentColor" 
-                                                        strokeWidth="2.5"
-                                                        strokeLinecap="round" 
-                                                        strokeLinejoin="round"
-                                                        style={{ transition: 'transform 0.3s ease' }}
-                                                        className="arrow-icon"
-                                                    >
-                                                        <path d="M5 12h14m-7-7 7 7-7 7"/>
-                                                    </svg>
+                                                    <span style={{ 
+                                                        color: '#ffffff',
+                                                        lineHeight: '1.2'
+                                                    }}>{readMore}</span>
                                                 </Link>
                                             </div>
                                         </div>
@@ -318,17 +264,10 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
                         ) : (
                             /* Empty State */
                             <section className="blog-empty-state" aria-label="No blog posts available">
-                                <h2
-                                    style={{
-                                        fontSize: '2.2rem',
-                                        fontWeight: '600',
-                                        marginBottom: '1rem',
-                                        color: '#333',
-                                    }}
-                                >
+                                <h2 className="text-4xl font-semibold mb-4 text-gray-800">
                                     {noPosts}
                                 </h2>
-                                <p style={{ color: '#666', fontSize: '1.6rem' }}>
+                                <p className="text-gray-600 text-xl">
                                     Check back soon for new articles and updates!
                                 </p>
                             </section>
@@ -341,41 +280,23 @@ export default function BlogPage({ posts, allTranslations, commonTranslations, g
 }
 
 export async function getStaticProps({ locale }) {
-    try {
-        // Get all blog posts for the current locale
-        const posts = getAllBlogPosts(locale || 'en');
+    // Get all blog posts for the current locale
+    const posts = getAllBlogPosts(locale || 'en');
 
-        // Get translations
-        const allTranslations = await getTranslations(locale || 'en');
-        const commonTranslations = await getTranslations(locale || 'en', 'common');
+    // Get translations
+    const allTranslations = await getTranslations(locale || 'en');
 
-        // Structure global translations
-        const globalTranslations = {
-            ...allTranslations,
-            common: commonTranslations || {},
-            global: allTranslations?.global || {},
-        };
+    // Structure global translations
+    const globalTranslations = {
+        ...allTranslations,
+        global: allTranslations?.global || {},
+    };
 
-        return {
-            props: {
-                posts: posts || [],
-                allTranslations,
-                commonTranslations,
-                globalTranslations,
-            },
-            // Pure SSG - no revalidation, pages generated only at build time
-        };
-    } catch (error) {
-        console.error('Error in getStaticProps for blog:', error);
-
-        return {
-            props: {
-                posts: [],
-                allTranslations: {},
-                commonTranslations: {},
-                globalTranslations: {},
-            },
-            // Pure SSG - no revalidation, pages generated only at build time
-        };
-    }
+    return {
+        props: {
+            posts: posts || [],
+            allTranslations,
+            globalTranslations,
+        },
+    };
 }

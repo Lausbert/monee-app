@@ -17,7 +17,7 @@ global:
   app_name: Monee - Haushaltsbuch
   app_description: Monee gibt dir die Kontrolle über deine Finanzen zurück.
   app_keywords: Haushaltsbuch, Finanzplanung, Ausgabentracker, Budget-App, Finanzmanagement, Persönliche Finanzen, Sparziele  
-  app_screenshot: assets/screenshot_de.webp
+  app_screenshot: "assets/screenshot_de.webp"
   iphone_preview_alt: "iPhone Vorschau der Monee App"
   ios_app_country: de
   app_store_badge_alt: "Im App Store laden"
@@ -187,4 +187,6 @@ blog:
   back_to_blog: "Zurück zum Blog"
   published_on: "Veröffentlicht am"
   no_posts: "Noch keine Blog-Beiträge verfügbar."
+  about_author: "Über den Autor"
+  connect_linkedin: "Auf LinkedIn vernetzen"
   keywords: "blog, persönliche Finanzen, Budgetierung, Geldverwaltung, Finanztipps, Finanzberatung, Budget-Tracker, Ausgabenmanagement"

@@ -10,7 +10,23 @@ const postsDirectory = path.join(process.cwd(), 'src/translations');
 function titleToSlug(title) {
   return title
     .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, '') // Remove special characters except spaces and hyphens
+    // Replace accented characters with their non-accented equivalents
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    // Replace common special characters
+    .replace(/[àáâãäå]/g, 'a')
+    .replace(/[èéêë]/g, 'e')
+    .replace(/[ìíîï]/g, 'i')
+    .replace(/[òóôõö]/g, 'o')
+    .replace(/[ùúûü]/g, 'u')
+    .replace(/[ýÿ]/g, 'y')
+    .replace(/[ñ]/g, 'n')
+    .replace(/[ç]/g, 'c')
+    .replace(/[ß]/g, 'ss')
+    .replace(/[æ]/g, 'ae')
+    .replace(/[œ]/g, 'oe')
+    // Remove remaining special characters except spaces and hyphens
+    .replace(/[^a-z0-9\s-]/g, '')
     .replace(/\s+/g, '-') // Replace spaces with hyphens
     .replace(/-+/g, '-') // Replace multiple hyphens with single hyphen
     .trim()

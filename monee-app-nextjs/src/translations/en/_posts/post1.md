@@ -1,7 +1,7 @@
 ---
 title: "Joint Account or Separate Accounts?"
 excerpt: "Should couples have joint or separate bank accounts? Our real experience switching from separate to shared finances and what worked best for us."
-date: "2025-06-02"
+date: "2025-06-28"
 author: "Stephan Lerner"
 authorBio: "The Monee development team working on building the best money management app."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"

@@ -8,6 +8,33 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
   const appKeywords = translations?.global?.app_keywords || siteConfig.app_keywords;
   const appScreenshot = translations?.global?.app_screenshot || 'assets/screenshot_en.webp';
   
+  // Get translated feature list from translations
+  const getFeatureList = () => {
+    if (translations?.global?.features && Array.isArray(translations.global.features)) {
+      return translations.global.features.map(feature => feature.title);
+    }
+    // Fallback to English feature list
+    return [
+      "Quick & Easy Entry",
+      "Insightful Overview", 
+      "Shared Household",
+      "Unlimited Accounts",
+      "Unlimited Transactions",
+      "Recurring Transactions",
+      "Custom Categories",
+      "Powerful Filters",
+      "Worldwide Currencies",
+      "Export Data",
+      "Seamless Across Devices",
+      "Biometric & Code Protection",
+      "Flexible Monthly Start",
+      "Balance Transfer",
+      "No Registration",
+      "No Ads, No Tracking",
+      "100% Free"
+    ];
+  };
+  
   // Create the JSON-LD structured data for Mobile Application
   const structuredData = {
     "@context": "https://schema.org",
@@ -16,7 +43,7 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
     "description": appDescription,
     "applicationCategory": "FinanceApplication",
     "operatingSystem": "iOS",
-    "url": siteConfig.site_url,
+    "url": currentLocale === 'en' ? siteConfig.site_url : `${siteConfig.site_url}/${currentLocale}`,
     "downloadUrl": siteConfig.appstore_link,
     "image": `${siteConfig.site_url}/${appScreenshot}`,
     "screenshot": `${siteConfig.site_url}/${appScreenshot}`,
@@ -51,25 +78,7 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
     "genre": "Finance",
     "inLanguage": currentLocale,
     "isAccessibleForFree": true,
-    "featureList": [
-      "Quick & Easy Entry",
-      "Insightful Overview", 
-      "Shared Household",
-      "Unlimited Accounts",
-      "Unlimited Transactions",
-      "Recurring Transactions",
-      "Custom Categories",
-      "Powerful Filters",
-      "Worldwide Currencies",
-      "Export Data",
-      "Seamless Across Devices",
-      "Biometric & Code Protection",
-      "Flexible Monthly Start",
-      "Balance Transfer",
-      "No Registration",
-      "No Ads, No Tracking",
-      "100% Free"
-    ]
+    "featureList": getFeatureList()
   };
 
   // Add additional structured data for the Organization/Developer
@@ -96,20 +105,12 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
     "@type": "WebSite",
     "name": appName,
     "description": appDescription,
-    "url": siteConfig.site_url,
+    "url": currentLocale === 'en' ? siteConfig.site_url : `${siteConfig.site_url}/${currentLocale}`,
     "publisher": {
       "@type": "Person",
       "name": siteConfig.your_name
     },
-    "inLanguage": siteConfig.languages,
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": {
-        "@type": "EntryPoint",
-        "urlTemplate": `${siteConfig.site_url}/?q={search_term_string}`
-      },
-      "query-input": "required name=search_term_string"
-    }
+    "inLanguage": currentLocale
   };
 
   return (

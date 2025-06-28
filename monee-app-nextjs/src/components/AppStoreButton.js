@@ -2,8 +2,8 @@ import Image from 'next/image';
 import useTranslations from '../hooks/useTranslations';
 import siteConfig from '../lib/siteConfig';
 
-export default function AppStoreButton({ playstoreLink, appstoreLink }) {
-  const { t, isLoading } = useTranslations();
+export default function AppStoreButton({ playstoreLink, appstoreLink, translations }) {
+  const { t, isLoading } = useTranslations(translations);
 
   if (isLoading) return <div>Loading...</div>;
 

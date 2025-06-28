@@ -1,7 +1,7 @@
 ---
 title: "Compte commun ou comptes séparés ?"
 excerpt: "Compte commun ou séparé pour les couples ? Notre expérience réelle du passage aux finances partagées et ce qui a fonctionné pour nous."
-date: "2025-06-25"
+date: "2025-06-28"
 author: "Stephan Lerner"
 authorBio: "L'équipe de développement Monee travaille à créer la meilleure application de gestion d'argent."
 keywords: "compte commun, finances séparées, gestion argent couple, dépenses partagées, planification financière couple, argent mariage, budget couple, relation argent"

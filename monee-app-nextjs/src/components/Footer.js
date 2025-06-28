@@ -81,7 +81,7 @@ const Footer = () => {
             }
           }
           
-          const url = link.url.startsWith('/') ? `/${locale}${link.url}` : link.url;
+          const url = link.url.startsWith('/') ? `/${locale !== 'en' ? locale + '/' : ''}${link.url.substring(1)}` : link.url;
 
           return (
             <Link href={url} key={link.url} legacyBehavior>

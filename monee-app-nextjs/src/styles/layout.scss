@@ -1211,6 +1211,44 @@ footer {
   }
 }
 
+// Invite page content styling
+.hero-section .page-content {
+  flex: 1;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: variables.$feature-title-color;
+  }
+  
+  p {
+    font-size: 1.125rem;
+    line-height: 1.6;
+    color: variables.$feature-text-color;
+    margin-bottom: 2rem;
+  }
+  
+  .downloadButtonsContainer {
+    margin-top: 2rem;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    padding: 20px;
+    
+    h1 {
+      font-size: 2rem;
+    }
+    
+    p {
+      font-size: 1rem;
+    }
+  }
+}
 .headerName {
   color: variables.$header-title-color;
   white-space: nowrap;

@@ -7,17 +7,13 @@ import Header from '@/components/Header';
 
 export async function getStaticProps({ locale }) {
   const currentLocale = locale || siteConfig.defaultLanguage;
-  const commonTranslations = await getTranslations(currentLocale, 'common');
+  const allTranslations = await getTranslations(currentLocale);
   const pageTranslations = await getTranslations(currentLocale, 'imprint');
   const markdownContent = await getMarkdownContent(currentLocale, 'imprint');
-  
-  // Get all translations for global context
-  const allTranslations = await getTranslations(currentLocale);
   
   // Global translations for all pages
   const globalTranslations = {
     ...allTranslations,
-    common: commonTranslations,
     global: allTranslations?.global || {}
   };
   
@@ -33,7 +29,7 @@ export async function getStaticProps({ locale }) {
 
   return {
     props: {
-      commonTranslations,
+      translations: allTranslations,
       pageTranslations,
       contentHtml,
       frontmatter,
@@ -43,10 +39,10 @@ export async function getStaticProps({ locale }) {
   };
 }
 
-export default function ImprintPage({ commonTranslations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
+export default function ImprintPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
   // Determine title and description like in the original
-  const title = pageTranslations?.title || frontmatter?.title || commonTranslations?.imprint_title || 'Monee - Budget & Expense Tracker';
-  const description = pageTranslations?.description || frontmatter?.description || commonTranslations?.app_description || 'Monee puts you back in control of your finances.';
+  const title = pageTranslations?.title || frontmatter?.title || translations?.global?.app_name || 'Monee - Budget & Expense Tracker';
+  const description = pageTranslations?.description || frontmatter?.description || translations?.global?.app_description || 'Monee puts you back in control of your finances.';
 
   return (
     <>
@@ -76,7 +72,7 @@ export default function ImprintPage({ commonTranslations, pageTranslations, cont
       
       <div className="headerBackground subPageHeaderBackground">
         <div className="container subPageContainer">
-          <Header translations={commonTranslations} />
+          <Header translations={translations} />
           <article className="page markdown-body">
             <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
           </article>

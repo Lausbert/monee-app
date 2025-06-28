@@ -20,8 +20,8 @@ const AppIconShadowSVG = () => (
   </svg>
 );
 
-export default function AppInfo({ appIconUrl, appNameKey, appDescriptionKey, ratings }) {
-  const { t, isLoading, translations } = useTranslations();
+export default function AppInfo({ appIconUrl, appNameKey, appDescriptionKey, ratings, translations: propTranslations }) {
+  const { t, isLoading, translations } = useTranslations(propTranslations);
 
   if (isLoading) return <div>Loading translations...</div>;
 
@@ -92,6 +92,7 @@ export default function AppInfo({ appIconUrl, appNameKey, appDescriptionKey, rat
         <AppStoreButton 
           playstoreLink={siteConfig.playstore_link} 
           appstoreLink={siteConfig.appstore_link} 
+          translations={translations}
         />
       </div>
     </div>

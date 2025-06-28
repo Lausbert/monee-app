@@ -7,10 +7,6 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        {/* Prevent search engine indexing */}
-        <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
-        <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet, noimageindex" />
-        
         {/* Font Awesome CDN for social icons */}
         <link 
           rel="stylesheet" 

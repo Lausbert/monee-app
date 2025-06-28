@@ -1,55 +1,82 @@
-import Layout from '@/components/Layout';
 import { getTranslations, getMarkdownContent, parseMarkdown } from '@/lib/i18n';
 import siteConfig from '@/lib/siteConfig';
 import { remark } from 'remark';
 import html from 'remark-html';
+import Head from 'next/head';
+import Header from '@/components/Header';
+import AppStoreButton from '@/components/AppStoreButton';
 
 export async function getStaticProps({ locale }) {
   const currentLocale = locale || siteConfig.defaultLanguage;
-  const commonTranslations = await getTranslations(currentLocale, 'common');
-  const pageTranslations = await getTranslations(currentLocale, 'invite');
+  const allTranslations = await getTranslations(currentLocale);
   const markdownContent = await getMarkdownContent(currentLocale, 'invite');
   
-  // Get all translations for global context
-  const allTranslations = await getTranslations(currentLocale);
-
   let contentHtml = '';
-  let frontmatter = {};
-
   if (markdownContent) {
-    const { frontmatter: fm, content } = parseMarkdown(markdownContent);
-    frontmatter = fm;
+    const { content } = parseMarkdown(markdownContent);
     const processedContent = await remark().use(html).process(content);
     contentHtml = processedContent.toString();
   }
-  // Global translations for all pages
-  const globalTranslations = {
-    ...allTranslations,
-    common: commonTranslations,
-    global: allTranslations?.global || {}
-  };
 
   return {
     props: {
-      commonTranslations,
-      pageTranslations,
+      translations: allTranslations || {},
       contentHtml,
-      frontmatter,
-      currentLocale,      globalTranslations,
+      currentLocale,
+      appName: allTranslations?.global?.app_name || '',
+      appDescription: allTranslations?.global?.app_description || '',
     },
   };
 }
 
-export default function InvitePage({ commonTranslations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
-  const title = pageTranslations?.title || frontmatter?.title || commonTranslations?.invite_title || 'Invite Friends';
-  const description = pageTranslations?.description || frontmatter?.description || commonTranslations?.app_description;
+export default function InvitePage({ translations, contentHtml, currentLocale, appName, appDescription }) {
 
   return (
-    <Layout translations={commonTranslations} title={title} description={description} currentLocale={currentLocale}>
-      <article className="page-content">
-        <h1>{pageTranslations?.headline || frontmatter?.title || title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
-      </article>
-    </Layout>
+    <>
+      <Head>
+        <title>{appName}</title>
+        <meta name="description" content={appDescription} />
+        <link rel="shortcut icon" href="/assets/appicon.webp" />
+        
+        {/* Essential meta tags for the browser tab */}
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta charSet="utf-8" />
+        
+        {/* Privacy-related meta tags for invite pages */}
+        <meta name="robots" content="noindex,nofollow" />
+        <meta httpEquiv="Cache-Control" content="no-store, no-cache, must-revalidate, proxy-revalidate" />
+        <meta httpEquiv="Pragma" content="no-cache" />
+        <meta httpEquiv="Expires" content="0" />
+        
+        {/* Open Graph for social media */}
+        <meta property="og:title" content={appName} />
+        <meta property="og:description" content={appDescription} />
+        <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
+        
+        {/* Canonical URL */}
+        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}invite/`} />
+        
+        {/* Language alternates */}
+        <link rel="alternate" hreflang="en" href="https://monee-app.com/invite/" />
+        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/invite/" />
+        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/invite/" />
+        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/invite/" />
+      </Head>
+      
+      <div className="headerBackground subPageHeaderBackground">
+        <div className="container subPageContainer">
+          <Header translations={translations} />
+          <article className="page markdown-body">
+            <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
+            
+            <AppStoreButton 
+              playstoreLink="android"
+              appstoreLink={siteConfig.appstore_link}
+              translations={translations}
+            />
+          </article>
+        </div>
+      </div>
+    </>
   );
 }

@@ -9,7 +9,7 @@ const Header = ({ translations }) => {  const router = useRouter();
   const { t } = useTranslations(translations);
   
   // Get app_name value from translations first, then fallback to siteConfig
-  const appName = translations?.newsletter?.app_name || siteConfig.app_name;
+  const appName = translations?.global?.app_name || siteConfig.app_name;
   const appIcon = siteConfig.app_icon;
 
   return (
@@ -23,7 +23,7 @@ const Header = ({ translations }) => {  const router = useRouter();
               </clipPath>
             </defs>
           </svg>          {router.pathname !== '/' ? (
-            <Link href={`/${locale}/`} legacyBehavior>
+            <Link href={`/${locale !== 'en' ? locale + '/' : ''}`} legacyBehavior>
               <a target="_self" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                 {appIcon && <Image className="headerIcon" src={appIcon} alt={`${appName} icon`} width={50} height={50} style={{ clipPath: 'url(#shape)', position: 'static' }} />}
               </a>
