@@ -45,10 +45,29 @@ function generateSitemap() {
   const languages = siteConfig.languages || ['en', 'de', 'fr'];
   const defaultLanguage = siteConfig.defaultLanguage || 'en';
   
+  // First, collect all blog posts from all languages to find the newest date
+  const allBlogPosts = {};
+  let newestBlogDate = '2000-01-01'; // Initialize with very old date so any real post date will be newer
+  
+  languages.forEach(lang => {
+    allBlogPosts[lang] = getBlogPosts(lang);
+    // Find the newest date from this language's posts
+    allBlogPosts[lang].forEach(post => {
+      if (post.lastmod > newestBlogDate) {
+        newestBlogDate = post.lastmod;
+      }
+    });
+  });
+  
+  // If no blog posts found, use current date as fallback
+  if (newestBlogDate === '2000-01-01') {
+    newestBlogDate = "ERROR";
+  }
+
   // Static pages that exist for all languages
   const staticPages = [
     { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-06-28' }, // Homepage
-    { path: 'blog', priority: '0.8', changefreq: 'weekly' }, // Blog uses dynamic dates
+    { path: 'blog', priority: '0.8', changefreq: 'weekly', lastmod: newestBlogDate }, // Blog uses newest post date
     { path: 'android', priority: '0.2', changefreq: 'monthly', lastmod: '2025-06-28' },
     { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2025-06-28' },
     { path: 'imprint', priority: '0.1', changefreq: 'yearly', lastmod: '2025-06-28' }
@@ -71,7 +90,7 @@ function generateSitemap() {
             : `${baseUrl}/${language}/${page.path}`;
 
       sitemap += `  <url>
-    <loc>${url}</loc>
+    <loc>${url}/</loc>
     <lastmod>${page.lastmod || new Date().toISOString().split('T')[0]}</lastmod>
     <changefreq>${page.changefreq}</changefreq>
     <priority>${page.priority}</priority>`;
@@ -89,7 +108,7 @@ function generateSitemap() {
                 : `${baseUrl}/${altLang}/${page.path}`;
           
           sitemap += `
-    <xhtml:link rel="alternate" hreflang="${altLang}" href="${altUrl}"/>`;
+    <xhtml:link rel="alternate" hreflang="${altLang}" href="${altUrl}/"/>`;
         }
       });
 
@@ -100,12 +119,6 @@ function generateSitemap() {
   });
 
   // Add blog posts for each language
-  // First, collect all blog posts from all languages
-  const allBlogPosts = {};
-  languages.forEach(lang => {
-    allBlogPosts[lang] = getBlogPosts(lang);
-  });
-
   // Process each language's blog posts
   languages.forEach(language => {
     const blogPosts = allBlogPosts[language];
@@ -117,7 +130,7 @@ function generateSitemap() {
         : `${baseUrl}/${language}/blog/${post.slug}`;
 
       sitemap += `  <url>
-    <loc>${url}</loc>
+    <loc>${url}/</loc>
     <lastmod>${post.lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>`;
@@ -137,7 +150,7 @@ function generateSitemap() {
               : `${baseUrl}/${altLang}/blog/${altPost.slug}`;
             
             sitemap += `
-    <xhtml:link rel="alternate" hreflang="${altLang}" href="${altUrl}"/>`;
+    <xhtml:link rel="alternate" hreflang="${altLang}" href="${altUrl}/"/>`;
           }
         }
       });

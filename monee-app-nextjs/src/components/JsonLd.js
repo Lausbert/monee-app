@@ -43,7 +43,7 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
     "description": appDescription,
     "applicationCategory": "FinanceApplication",
     "operatingSystem": "iOS",
-    "url": currentLocale === 'en' ? siteConfig.site_url : `${siteConfig.site_url}/${currentLocale}`,
+    "url": currentLocale === 'en' ? siteConfig.site_url : `${siteConfig.site_url}/${currentLocale}/`,
     "downloadUrl": siteConfig.appstore_link,
     "image": `${siteConfig.site_url}/${appScreenshot}`,
     "screenshot": `${siteConfig.site_url}/${appScreenshot}`,
@@ -105,7 +105,7 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
     "@type": "WebSite",
     "name": appName,
     "description": appDescription,
-    "url": currentLocale === 'en' ? siteConfig.site_url : `${siteConfig.site_url}/${currentLocale}`,
+    "url": currentLocale === 'en' ? siteConfig.site_url : `${siteConfig.site_url}/${currentLocale}/`,
     "publisher": {
       "@type": "Person",
       "name": siteConfig.your_name

@@ -54,13 +54,13 @@ export default function InvitePage({ translations, contentHtml, currentLocale, a
         <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
         
         {/* Canonical URL */}
-        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}invite`} />
+        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}invite/`} />
         
         {/* Language alternates */}
-        <link rel="alternate" hreflang="en" href="https://monee-app.com/invite" />
-        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/invite" />
-        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/invite" />
-        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/invite" />
+        <link rel="alternate" hreflang="en" href="https://monee-app.com/invite/" />
+        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/invite/" />
+        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/invite/" />
+        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/invite/" />
       </Head>
       
       <div className="headerBackground subPageHeaderBackground">

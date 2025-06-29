@@ -44,17 +44,17 @@ const siteConfig = {  site_url: "https://monee-app.com", // Added from CNAME
   footer_links: [
     {
       title: "Blog",
-      url: "/blog",
+      url: "/blog/",
       title_key: "titles.blog"
     },
     {
       title: "Imprint",
-      url: "/imprint",
+      url: "/imprint/",
       title_key: "titles.imprint"
     },
     {
       title: "Privacy Policy", 
-      url: "/privacy",
+      url: "/privacy/",
       title_key: "titles.privacy"
     }  ],
   mailerlite_form_id: "153131010294286151", // MailerLite form ID from the URL

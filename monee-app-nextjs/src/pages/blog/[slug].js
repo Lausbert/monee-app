@@ -51,7 +51,7 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content={post.meta.title} />
-        <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}`} />
+        <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
         <meta property="og:site_name" content={translatedAppName} />
         <meta property="og:locale" content={locale === 'en' ? 'en_US' : locale === 'de' ? 'de_DE' : 'fr_FR'} />
         {/* Twitter Card */}
@@ -63,18 +63,18 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta name="twitter:site" content="@MoneeApp" />
         <meta name="twitter:creator" content="@MoneeApp" />
         {/* Canonical URL */}
-        <link rel="canonical" href={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}`} />
+        <link rel="canonical" href={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
         {/* Language alternates with translated slugs */}
         {translatedSlugs.en && (
-          <link rel="alternate" hreflang="en" href={`https://monee-app.com/blog/${translatedSlugs.en}`} />
+          <link rel="alternate" hreflang="en" href={`https://monee-app.com/blog/${translatedSlugs.en}/`} />
         )}
         {translatedSlugs.de && (
-          <link rel="alternate" hreflang="de" href={`https://monee-app.com/de/blog/${translatedSlugs.de}`} />
+          <link rel="alternate" hreflang="de" href={`https://monee-app.com/de/blog/${translatedSlugs.de}/`} />
         )}
         {translatedSlugs.fr && (
-          <link rel="alternate" hreflang="fr" href={`https://monee-app.com/fr/blog/${translatedSlugs.fr}`} />
+          <link rel="alternate" hreflang="fr" href={`https://monee-app.com/fr/blog/${translatedSlugs.fr}/`} />
         )}
-        <link rel="alternate" hreflang="x-default" href={`https://monee-app.com/blog/${translatedSlugs.en || post.slug}`} />
+        <link rel="alternate" hreflang="x-default" href={`https://monee-app.com/blog/${translatedSlugs.en || post.slug}/`} />
         {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"
@@ -101,13 +101,13 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
               ...(post.meta.modified && { dateModified: new Date(post.meta.modified).toISOString() }),
               mainEntityOfPage: {
                 "@type": "WebPage",
-                "@id": `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}`,
+                "@id": `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`,
               },
-              url: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}`,
+              url: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`,
               isPartOf: {
                 "@type": "Blog",
                 name: `${translatedAppName} Blog`,
-                url: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog`,
+                url: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/`,
               },
               ...(post.meta.keywords && { keywords: post.meta.keywords }),
               ...(post.meta.tags && { about: post.meta.tags.map(tag => ({ "@type": "Thing", name: tag })) }),

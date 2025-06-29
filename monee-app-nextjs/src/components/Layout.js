@@ -16,18 +16,12 @@ export default function Layout({ children, pageTitle, title, pageDescription, de
   const finalDescription = pageDescription || description || (translations?.description) || contextTranslations?.global?.app_description || siteConfig.app_description;
   const finalKeywords = pageKeywords || contextTranslations?.global?.app_keywords || siteConfig.app_keywords;
   let canonicalUrl = siteConfig.site_url || ''; // Use site_url from siteConfig, with fallback
-  console.log('Canonical URL:', asPath);
   if (locale && locale !== defaultLocale) {
     canonicalUrl += `/${locale}${asPath.startsWith(`/${locale}`) ? asPath.substring(locale.length + 1) : asPath}`;
   } else {
     canonicalUrl += asPath;
   }
   canonicalUrl = canonicalUrl.replace(/([^:])\/\/+/g, "$1"); // Remove double slashes
-  
-  // Remove trailing slash if it exists
-  if (canonicalUrl.endsWith('/') && canonicalUrl.length > 1) {
-    canonicalUrl = canonicalUrl.slice(0, -1);
-  }
   return (
     <>
       <Head>
@@ -68,18 +62,10 @@ export default function Layout({ children, pageTitle, title, pageDescription, de
           }
           let href = lang === (siteConfig.defaultLanguage || siteConfig.default_lang) ? `${siteConfig.site_url}/${langPath}` : `${siteConfig.site_url}/${lang}/${langPath}`;
           href = href.replace(/([^:])\/\/+/g, "$1"); // Remove double slashes
-          // Remove trailing slash if it exists
-          if (href.endsWith('/') && href.length > 1) {
-            href = href.slice(0, -1);
-          }
           return <link key={lang} rel="alternate" hreflang={lang} href={href} />;
         })}
         <link rel="alternate" hreflang="x-default" href={(() => {
           let xDefaultHref = `${siteConfig.site_url}${asPath.startsWith(`/${locale}`) ? asPath.substring(locale.length + 1) : asPath}`.replace(/([^:])\/\/+/g, "$1");
-          // Remove trailing slash if it exists
-          if (xDefaultHref.endsWith('/') && xDefaultHref.length > 1) {
-            xDefaultHref = xDefaultHref.slice(0, -1);
-          }
           return xDefaultHref;
         })()} />
         {siteConfig.enable_smart_app_banner && siteConfig.ios_app_id && (

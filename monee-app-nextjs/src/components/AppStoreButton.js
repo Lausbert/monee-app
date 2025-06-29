@@ -14,7 +14,7 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, translatio
   return (
     <div className="downloadButtonsContainer">
       {playstoreLink && (
-        <a className="playStoreLink" href={playstoreLink.startsWith('/') ? playstoreLink : `/${playstoreLink}`}>
+        <a className="playStoreLink" href={playstoreLink.startsWith('/') ? playstoreLink : `/${playstoreLink}/`}>
           <div className="badgeContainer">            <Image 
               className="playStore" 
               src="/assets/playstore.webp" 

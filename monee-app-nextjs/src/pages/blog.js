@@ -108,7 +108,7 @@ export default function BlogPage({ posts, allTranslations }) {
                 <meta property="og:image:width" content="1200" />
                 <meta property="og:image:height" content="630" />
                 <meta property="og:image:alt" content={`${translatedAppName} Blog`} />
-                <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog`} />
+                <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/`} />
                 <meta property="og:type" content="website" />
                 <meta property="og:site_name" content={translatedAppName} />
                 <meta
@@ -124,13 +124,13 @@ export default function BlogPage({ posts, allTranslations }) {
                 <meta name="twitter:image:alt" content={`${translatedAppName} Blog`} />
 
                 {/* Canonical URL */}
-                <link rel="canonical" href={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog`} />
+                <link rel="canonical" href={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/`} />
 
                 {/* Language alternates */}
-                <link rel="alternate" hreflang="en" href="https://monee-app.com/blog" />
-                <link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog" />
-                <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog" />
-                <link rel="alternate" hreflang="x-default" href="https://monee-app.com/blog" />
+                <link rel="alternate" hreflang="en" href="https://monee-app.com/blog/" />
+                <link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/" />
+                <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/" />
+                <link rel="alternate" hreflang="x-default" href="https://monee-app.com/blog/" />
 
                 {/* Override base.scss styles for blog read more button */}
                 <style dangerouslySetInnerHTML={{
