@@ -4,6 +4,7 @@ excerpt: "Gemeinsames oder getrenntes Konto für Paare? Unsere Erfahrung mit dem
 date: "2025-06-28"
 author: "Stephan Lerner"
 authorBio: "Das Monee-Entwicklungsteam arbeitet daran, die beste Geldverwaltungs-App zu entwickeln."
+authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "gemeinsames konto, getrennte finanzen, geld management paar, gemeinsame ausgaben, finanzplanung paare, ehe finanzen, budget zusammen, geld beziehung"
 ---
 

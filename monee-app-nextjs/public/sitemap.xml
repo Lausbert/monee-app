@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -129,6 +129,14 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -137,11 +145,27 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/"/>
   </url>
 </urlset>
