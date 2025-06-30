@@ -36,7 +36,7 @@ Budgeting isn't about restricting yourself—it's about aligning your spending w
 
 Regular tracking is the cornerstone of financial control. I genuinely believe manually recording expenses helps us understand our spending habits better. But don’t obsess. Life happens, and budgets sometimes flex. Just stay aware, learn, and adapt.
 
-**Step 6: Monthly Check-ins**
+## Step 6: Monthly Check-ins
 
 We do a quick monthly check-in to review and adjust our budget. It doesn't need to be formal or stressful—make it relaxed and brief. We usually chat about this over coffee when the kids are briefly entertained.
 
