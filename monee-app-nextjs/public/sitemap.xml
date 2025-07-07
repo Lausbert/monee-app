@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -145,6 +145,14 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-do-i-get-my-finances-under-control/</loc>
+    <lastmod>2025-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -169,6 +177,14 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/</loc>
+    <lastmod>2025-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -191,5 +207,13 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/</loc>
+    <lastmod>2025-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/"/>
   </url>
 </urlset>
