@@ -41,7 +41,7 @@ If you contact us through mail, your details will be saved so that they can be u
 
 The app and this website do use third-party services that may collect information used to identify you.
 
-### Github Pages
+### Vercel
 
 #### Type and purpose of processing:
 If you access this website, i.e. if you do not register or otherwise provide information, information of a general nature is automatically collected. This information (server log files) includes, for example, the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like.
@@ -58,7 +58,7 @@ for other administrative purposes.
 Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the stability and functionality of this website.
 
 #### Receiver:
-The data is received by [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) who works as a processor for the operation and maintenance of this website. Visit [GitHub’s Global Privacy Practices](https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices) for further information and options for objection.
+The data is received by [Vercel](https://vercel.com/blog/what-is-vercel) who works as a processor for the operation and maintenance of this website. Visit [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) for further information and options for objection.
 
 #### Storage duration:
 The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case for the data used to provide the website when the respective session has ended.

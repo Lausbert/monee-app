@@ -41,7 +41,7 @@ Si vous nous contactez par courrier, vos coordonnées seront enregistrées afin 
 
 L'application et ce site web utilisent des services tiers qui peuvent collecter des informations permettant de vous identifier.
 
-### Github Pages
+### Vercel
 
 #### Type et but du traitement :
 Si vous accédez à ce site web, c'est-à-dire si vous ne vous enregistrez pas ou ne fournissez pas d'autres informations, des informations de nature générale sont automatiquement collectées. Ces informations (fichiers journaux du serveur) incluent, par exemple, le type de navigateur web, le système d'exploitation utilisé, le nom de domaine de votre fournisseur de services Internet, votre adresse IP et autres.
@@ -58,7 +58,7 @@ Elles sont traitées notamment pour les finalités suivantes :
 Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. f RGPD sur la base de notre intérêt légitime à améliorer la stabilité et la fonctionnalité de ce site web.
 
 #### Destinataire :
-Les données sont reçues par [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) qui travaille en tant que sous-traitant pour l'exploitation et la maintenance de ce site web. Visitez [les Pratiques Mondiales de Confidentialité de GitHub](https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices) pour plus d'informations et d'options d'opposition.
+Les données sont reçues par [Vercel](https://vercel.com/blog/what-is-vercel) qui travaille en tant que sous-traitant pour l'exploitation et la maintenance de ce site web. Visitez [les Pratiques Mondiales de Confidentialité de Vercel](https://vercel.com/legal/privacy-policy) pour plus d'informations et d'options d'opposition.
 
 #### Durée de stockage :
 Les données seront supprimées dès qu'elles ne seront plus nécessaires à la finalité de la collecte. C'est généralement le cas pour les données utilisées pour fournir le site web lorsque la session respective est terminée.

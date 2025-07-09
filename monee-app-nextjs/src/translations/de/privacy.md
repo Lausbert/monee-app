@@ -41,7 +41,7 @@ Bei Ihrer Kontaktaufnahme per E-Mail werden Ihre Angaben gespeichert, damit auf 
 
 Die App und diese Website verwenden Dienste von Drittanbietern, die Informationen sammeln können, die zu Ihrer Identifizierung verwendet werden.
 
-### Github Pages
+### Vercel
 
 #### Art und Zweck der Verarbeitung:
 Wenn Sie auf diese Website zugreifen, also wenn Sie sich nicht registrieren oder anderweitig Informationen übermitteln, werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen (Server-Logfiles) beinhalten etwa die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse und Ähnliches.
@@ -58,7 +58,7 @@ für andere Verwaltungszwecke.
 Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität dieser Website.
 
 #### Empfänger:
-Die Daten werden von [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung dieser Webseite tätig sind. Besuchen Sie [GitHub’s Global Privacy Practices](https://docs.github.com/en/site-policy/privacy-policies/global-privacy-practices) für weitere Informationen und Widerspruchsmöglichkeiten.
+Die Daten werden von [Vercel](https://vercel.com/blog/what-is-vercel) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung dieser Webseite tätig sind. Besuchen Sie [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) für weitere Informationen und Widerspruchsmöglichkeiten.
 
 #### Speicherdauer:
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die Daten, die der Bereitstellung der Website dienen, ist dies in der Regel der Fall, wenn die jeweilige Sitzung beendet ist.
