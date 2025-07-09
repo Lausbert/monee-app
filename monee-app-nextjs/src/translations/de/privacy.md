@@ -1,5 +1,5 @@
 **Letzte Aktualisierung**
-<br>14\. Mai 2022
+<br>09\. Juli 2025
 
 # Datenschutz
 

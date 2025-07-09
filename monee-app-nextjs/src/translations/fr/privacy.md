@@ -1,5 +1,5 @@
 **Dernière mise à jour**  
-14 mai 2022
+09 juillet 2025
 
 # Politique de Confidentialité
 

@@ -1,5 +1,5 @@
 **Last updated**  
-May 14 2022
+July 09 2025
 
 # Privacy Policy
 
