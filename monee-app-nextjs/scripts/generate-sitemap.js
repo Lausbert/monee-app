@@ -66,10 +66,10 @@ function generateSitemap() {
 
   // Static pages that exist for all languages
   const staticPages = [
-    { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-06-28' }, // Homepage
+    { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-07-09' }, // Homepage
     { path: 'blog', priority: '0.8', changefreq: 'weekly', lastmod: newestBlogDate }, // Blog uses newest post date
     { path: 'android', priority: '0.2', changefreq: 'monthly', lastmod: '2025-06-28' },
-    { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2025-06-28' },
+    { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2025-07-09' },
     { path: 'imprint', priority: '0.1', changefreq: 'yearly', lastmod: '2025-06-28' }
   ];
 
