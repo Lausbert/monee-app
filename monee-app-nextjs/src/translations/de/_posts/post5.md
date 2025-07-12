@@ -3,7 +3,7 @@ title: "Fixkosten überprüfen und reduzieren – Ein konkreter Leitfaden"
 excerpt: "2025 Fixkosten senken trotz 2 % Inflation: So sparen Familien bei Miete, Strom (Ø 26,9 ct/kWh) & Versicherungen und investieren Ersparnis clever in ETFs."
 date: "2025-07-08"
 author: "Stephan Lerner"
-authorBio: "Das Monee-Entwicklungsteam arbeitet daran, die beste Geldverwaltungs-App zu entwickeln."
+authorBio: "Ich entwickle die beste Geldverwaltungs-App."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Fixkosten senken 2025,Kosten reduzieren,Strompreis 2025,Inflation Deutschland,Versicherung wechseln,Streaming Abos kündigen,ETF Sparplan,Familienbudget,Nebenkosten sparen,Geld sparen Tipps"
 ---

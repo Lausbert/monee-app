@@ -3,7 +3,7 @@ title: "Wie bringe ich meine Finanzen unter Kontrolle?"
 excerpt: "Inflation 2 % in Deutschland, EZB senkt Zins – so bringst du 2025 deine Finanzen unter Kontrolle: Budget-Tracking, ETF-Sparplan & MSCI World."
 date: "2025-07-07"
 author: "Stephan Lerner"
-authorBio: "Das Monee-Entwicklungsteam arbeitet daran, die beste Geldverwaltungs-App zu entwickeln."
+authorBio: "Ich entwickle die beste Geldverwaltungs-App."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Finanzen unter Kontrolle 2025, Budgetplanung, Haushaltsbuch App, ETF Sparplan 2025, MSCI World, Inflation Deutschland 2%, EZB Zinssenkung 2025, Zinseszins Rechner, Familienbudget Tipps, Finanzplanung Familie, Passive Indexfonds, Geld sparen Alltag"
 ---

@@ -3,7 +3,7 @@ title: "Welche Ausgaben übersehen Familien oft und wie lässt sich das vermeide
 excerpt: "Inflation bei 2 % (Juni 2025) – doch Familien verlieren Geld durch Abo-Fallen, Kinderhobbys & Co. Entdecken Sie 6 Budget-Tipps, die sofort sparen."
 date: "2025-07-09"
 author: "Stephan Lerner"
-authorBio: "Das Monee-Entwicklungsteam arbeitet daran, die beste Geldverwaltungs-App zu entwickeln."
+authorBio: "Ich entwickle die beste Geldverwaltungs-App."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Familienbudget 2025, versteckte Kosten Familie, Inflation Deutschland 2025, Streaming Abo Kosten 2025, Abo-Fallen, Kinderaktivitäten Gebühren, Geschenk Budget Tipps, Haushaltsreparaturen Kostenplan, Gesundheitskosten Familie, Impulskäufe vermeiden, Geld sparen Eltern, Spartipps Haushalt"
 ---

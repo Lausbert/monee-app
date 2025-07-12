@@ -3,7 +3,7 @@ title: "Budget planning for two: step-by-step guide"
 excerpt: "Learn budget planning for couples with our step-by-step guide. Simple tips for financial harmony, expense tracking & goal setting."
 date: "2025-06-30"
 author: "Stephan Lerner"
-authorBio: "The Monee development team working on building the best money management app."
+authorBio: "I'm developing the best money management app."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "budget planning couples, family budget, expense tracking, financial planning, couple finances, budgeting tips, money management, household budget, financial goals, budgeting apps, monthly budget, joint finances"
 ---

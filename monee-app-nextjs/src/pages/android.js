@@ -1,4 +1,5 @@
 import { getTranslations, getMarkdownContent, parseMarkdown } from '@/lib/i18n';
+import { fetchAppStoreData } from '@/lib/appstore';
 import siteConfig from '@/lib/siteConfig';
 import { remark } from 'remark';
 import html from 'remark-html';
@@ -13,6 +14,9 @@ export async function getStaticProps({ locale }) {
   const allTranslations = await getTranslations(currentLocale);
   const pageTranslations = await getTranslations(currentLocale, 'android');
   const markdownContent = await getMarkdownContent(currentLocale, 'android');
+  
+  // Fetch App Store data at build time
+  const appStoreData = await fetchAppStoreData(currentLocale);
   
   // Global translations for all pages
   const globalTranslations = {
@@ -39,13 +43,14 @@ export async function getStaticProps({ locale }) {
       currentLocale,
       globalTranslations,
       allTranslations,
+      appStoreData,
       playstoreLink: siteConfig.playstore_link,
       appstoreLink: siteConfig.appstore_link,
     },
   };
 }
 
-export default function AndroidPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale, globalTranslations, allTranslations, playstoreLink, appstoreLink }) {
+export default function AndroidPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale, globalTranslations, allTranslations, appStoreData, playstoreLink, appstoreLink }) {
   // Determine title and description like in the original
   const title = pageTranslations?.title || frontmatter?.title || translations?.global?.app_name || 'Monee - Budget & Expense Tracker';
   const description = pageTranslations?.description || frontmatter?.description || translations?.global?.app_description || 'Monee puts you back in control of your finances.';
@@ -97,6 +102,7 @@ export default function AndroidPage({ translations, pageTranslations, contentHtm
             <AppStoreButton 
               playstoreLink="android"
               appstoreLink={appstoreLink || "https://apps.apple.com/app/monee-budget-expense-tracker/id1617877213"}
+              appStoreData={appStoreData}
               translations={allTranslations}
             />
               {/* Newsletter */}

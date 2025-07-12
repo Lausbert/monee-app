@@ -3,7 +3,7 @@ title: "Comptabilité domestique numérique ou analogique - Avantages et inconv�
 excerpt: "Analogique ou numérique ? Trouvez la méthode 2025 idéale pour maîtriser votre budget familial malgré l’inflation et booster votre épargne."
 date: "2025-07-06"
 author: "Stephan Lerner"
-authorBio: "L'équipe de développement Monee travaille à créer la meilleure application de gestion d'argent."
+authorBio: "Je développe la meilleure application de gestion d'argent."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "budget familial 2025, comptabilité domestique, application budgétisation, finance personnelle, gestion dépenses, analogique vs numérique, inflation 2024 France, suivi dépenses, épargne, bullet journal, excel budget, appli budget 2025"
 ---

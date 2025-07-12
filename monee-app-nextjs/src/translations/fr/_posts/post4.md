@@ -3,7 +3,7 @@ title: "Comment prendre le contrôle de mes finances ?"
 excerpt: "Suivez vos dépenses, investissez en ETF MSCI World et anticipez l'inflation à 2 % et le Livret A à 2,4 % en 2025 pour reprendre vos finances."
 date: "2025-07-07"
 author: "Stephan Lerner"
-authorBio: "L'équipe de développement Monee travaille à créer la meilleure application de gestion d'argent."
+authorBio: "Je développe la meilleure application de gestion d'argent."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "contrôle finances 2025,budget familial,suivi dépenses,ETF MSCI World,inflation 2%,Livret A 2,4%,épargne 50/30/20,application budget,liberté financière,plan investissement régulier"
 ---

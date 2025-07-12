@@ -3,7 +3,7 @@ title: "How do I get my finances under control?"
 excerpt: "Struggling with money? Learn 2025's top budgeting hacks, expense-tracking tips, and MSCI World ETF strategy to simplify family finances and boost savings."
 date: "2025-07-07"
 author: "Stephan Lerner"
-authorBio: "The Monee development team working on building the best money management app."
+authorBio: "I'm developing the best money management app."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "personal finance 2025, budgeting apps 2025, family budget tips, expense tracking, MSCI World ETF, ETF investing 2025, best-performing ETFs 2025, high-yield savings rates, money management apps, financial planning parents, debt payoff strategies, automate savings, inflation 2025"
 ---

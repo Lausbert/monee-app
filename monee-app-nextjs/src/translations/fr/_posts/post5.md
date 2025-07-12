@@ -3,7 +3,7 @@ title: "Réviser et réduire les coûts fixes – Un guide concret"
 excerpt: "Avec l'inflation ramenée à 1,6 % en 2025, apprenez à scanner vos coûts fixes, négocier chaque contrat et investir les économies dans un ETF MSCI World."
 date: "2025-07-08"
 author: "Stephan Lerner"
-authorBio: "L'équipe de développement Monee travaille à créer la meilleure application de gestion d'argent."
+authorBio: "Je développe la meilleure application de gestion d'argent."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "réduire coûts fixes,budget familial 2025,dépenses contraintes,inflation 2025 France,économies mensuelles,optimiser budget,négocier assurances,forfait mobile pas cher,baisser facture internet,investir ETF MSCI World,épargne automatique,indépendance financière"
 ---

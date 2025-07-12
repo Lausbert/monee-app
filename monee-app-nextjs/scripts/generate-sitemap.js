@@ -6,7 +6,7 @@ const matter = require('gray-matter');
 const siteConfig = {
   site_url: "https://monee-app.com",
   defaultLanguage: "en",
-  languages: ["en", "de", "fr"]
+  languages: ["en", "de", "fr", "es"]
 };
 
 // Helper function to convert title to URL-friendly slug (matching blog.js logic)

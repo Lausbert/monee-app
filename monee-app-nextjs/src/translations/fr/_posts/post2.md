@@ -3,7 +3,7 @@ title: "Planification budgétaire à deux : guide étape par étape"
 excerpt: "Planification budgétaire pour couples : guide étape par étape pour l'harmonie financière. Conseils pratiques et suivi des dépenses."
 date: "2025-06-30"
 author: "Stephan Lerner"
-authorBio: "L'équipe de développement Monee travaille à créer la meilleure application de gestion d'argent."
+authorBio: "Je développe la meilleure application de gestion d'argent."
 authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "planification budgétaire couples, budget familial, suivi dépenses, planification financière, finances couple, conseils budget, gestion argent, budget mensuel, objectifs financiers, application budget, finances communes"
 ---

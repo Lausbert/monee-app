@@ -7,6 +7,7 @@ import Reviews from "@/components/Reviews";
 import Newsletter from "@/components/Newsletter";
 import Award from "@/components/Award";
 import { getTranslations } from "@/lib/i18n";
+import { fetchAppStoreData } from "@/lib/appstore";
 import siteConfig from "@/lib/siteConfig";
 import { Geist, Geist_Mono } from "next/font/google";
 
@@ -27,6 +28,7 @@ export default function HomePage({
   commonTranslations,
   globalTranslations,
   allTranslations,
+  appStoreData,
 }) {
   return (
     <Layout
@@ -45,6 +47,7 @@ export default function HomePage({
           translations={allTranslations} 
           appNameKey="global.app_name"
           appDescriptionKey="global.app_description"
+          appStoreData={appStoreData}
           ratings={{
             starsKey: "global.app_ratings.stars",
             scoreKey: "global.app_ratings.score",
@@ -77,6 +80,9 @@ export async function getStaticProps({ locale }) {
   const newsletterTranslations = await getTranslations(currentLocale, "newsletter").catch(() => ({}));
   const awardTranslations = allTranslations?.global?.award || {};
   
+  // Fetch App Store data at build time
+  const appStoreData = await fetchAppStoreData(currentLocale);
+  
   // Structure them in a way that's accessible via dot notation in components
   // Make sure all properties are defined to avoid serialization errors
   const globalTranslations = allTranslations || {};
@@ -91,6 +97,7 @@ export async function getStaticProps({ locale }) {
       awardTranslations,
       globalTranslations, // The complete translations object
       allTranslations,    // Same as globalTranslations for compatibility
+      appStoreData,       // App Store data fetched at build time
       currentLocale,
     },
   };
