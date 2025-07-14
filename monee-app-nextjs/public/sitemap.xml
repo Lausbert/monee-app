@@ -7,6 +7,7 @@
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
@@ -15,6 +16,7 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/"/>
   </url>
   <url>
     <loc>https://monee-app.com/android/</loc>
@@ -23,6 +25,7 @@
     <priority>0.2</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/android/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/android/"/>
   </url>
   <url>
     <loc>https://monee-app.com/privacy/</loc>
@@ -31,6 +34,7 @@
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/privacy/"/>
   </url>
   <url>
     <loc>https://monee-app.com/imprint/</loc>
@@ -39,6 +43,7 @@
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/imprint/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/</loc>
@@ -47,6 +52,7 @@
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
@@ -55,6 +61,7 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/android/</loc>
@@ -63,6 +70,7 @@
     <priority>0.2</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/android/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/android/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/privacy/</loc>
@@ -71,6 +79,7 @@
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/privacy/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/privacy/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/imprint/</loc>
@@ -79,6 +88,7 @@
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/imprint/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/</loc>
@@ -87,6 +97,7 @@
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
@@ -95,6 +106,7 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/android/</loc>
@@ -103,6 +115,7 @@
     <priority>0.2</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/android/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/android/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/privacy/</loc>
@@ -111,6 +124,7 @@
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/privacy/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/privacy/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/imprint/</loc>
@@ -119,6 +133,52 @@
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/imprint/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/</loc>
+    <lastmod>2025-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/</loc>
+    <lastmod>2025-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/android/</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/privacy/</loc>
+    <lastmod>2025-07-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/imprint/</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/joint-account-or-separate-accounts/</loc>
@@ -127,6 +187,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/</loc>
@@ -135,6 +196,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/planificacion-presupuestaria-para-dos-guia-paso-a-paso/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
@@ -143,6 +205,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-do-i-get-my-finances-under-control/</loc>
@@ -151,6 +214,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-pongo-mis-finanzas-bajo-control/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
@@ -159,6 +223,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/</loc>
@@ -167,6 +232,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
@@ -175,6 +241,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/</loc>
@@ -183,6 +250,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/planificacion-presupuestaria-para-dos-guia-paso-a-paso/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/</loc>
@@ -191,6 +259,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/</loc>
@@ -199,6 +268,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-pongo-mis-finanzas-bajo-control/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
@@ -207,6 +277,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/</loc>
@@ -215,6 +286,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
@@ -223,6 +295,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/</loc>
@@ -231,6 +304,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/planificacion-presupuestaria-para-dos-guia-paso-a-paso/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/</loc>
@@ -239,6 +313,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/</loc>
@@ -247,6 +322,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-pongo-mis-finanzas-bajo-control/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
@@ -255,6 +331,7 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/</loc>
@@ -263,5 +340,60 @@
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/</loc>
+    <lastmod>2025-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/planificacion-presupuestaria-para-dos-guia-paso-a-paso/</loc>
+    <lastmod>2025-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/</loc>
+    <lastmod>2025-07-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-pongo-mis-finanzas-bajo-control/</loc>
+    <lastmod>2025-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
+    <lastmod>2025-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/</loc>
+    <lastmod>2025-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/"/>
   </url>
 </urlset>
