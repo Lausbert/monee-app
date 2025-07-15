@@ -74,6 +74,12 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         {translatedSlugs.fr && (
           <link rel="alternate" hreflang="fr" href={`https://monee-app.com/fr/blog/${translatedSlugs.fr}/`} />
         )}
+        {translatedSlugs.es && (
+          <link rel="alternate" hreflang="es" href={`https://monee-app.com/es/blog/${translatedSlugs.es}/`} />
+        )}
+        {translatedSlugs.pt && (
+          <link rel="alternate" hreflang="pt" href={`https://monee-app.com/pt/blog/${translatedSlugs.pt}/`} />
+        )}
         <link rel="alternate" hreflang="x-default" href={`https://monee-app.com/blog/${translatedSlugs.en || post.slug}/`} />
         {/* JSON-LD Structured Data */}
         <script
@@ -275,7 +281,7 @@ export async function getStaticProps({ params, locale }) {
   }
     // Get translated slugs for hreflang links
   const translatedSlugs = {};
-  const supportedLocales = ['en', 'de', 'fr'];
+  const supportedLocales = ['en', 'de', 'fr', 'es', 'pt'];
   
   for (const lang of supportedLocales) {
     // Get all posts for this language and find the corresponding post

@@ -88,6 +88,8 @@ export default function AndroidPage({ translations, pageTranslations, contentHtm
         <link rel="alternate" hreflang="en" href="https://monee-app.com/android/" />
         <link rel="alternate" hreflang="de" href="https://monee-app.com/de/android/" />
         <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/android/" />
+        <link rel="alternate" hreflang="es" href="https://monee-app.com/es/android/" />
+        <link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/android/" />
         <link rel="alternate" hreflang="x-default" href="https://monee-app.com/android/" />        
         {/* Smart App Banner */}
         <meta name="apple-itunes-app" content="app-id=1617877213" />

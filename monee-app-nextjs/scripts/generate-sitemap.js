@@ -6,7 +6,7 @@ const matter = require('gray-matter');
 const siteConfig = {
   site_url: "https://monee-app.com",
   defaultLanguage: "en",
-  languages: ["en", "de", "fr", "es"]
+  languages: ["en", "de", "fr", "es", "pt"]
 };
 
 // Helper function to convert title to URL-friendly slug (matching blog.js logic)
@@ -42,7 +42,7 @@ function titleToSlug(title) {
  */
 function generateSitemap() {
   const baseUrl = siteConfig.site_url;
-  const languages = siteConfig.languages || ['en', 'de', 'fr'];
+  const languages = siteConfig.languages || ['en', 'de', 'fr', 'es', 'pt'];
   const defaultLanguage = siteConfig.defaultLanguage || 'en';
   
   // First, collect all blog posts from all languages to find the newest date

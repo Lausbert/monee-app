@@ -37,7 +37,7 @@ const siteConfig = {  site_url: "https://monee-app.com", // Added from CNAME
   footer_text_color: "#666666",
   default_lang: "en", // Keep for backward compatibility
   defaultLanguage: "en", // Standard format
-  languages: ["en", "de", "fr", "es"],
+  languages: ["en", "de", "fr", "es", "pt"],
   app_name: "Monee - Budget & Expense Tracker",
   app_description: "Money Tracking App",
   app_keywords: "money tracking, finance, expenses, budgeting",  

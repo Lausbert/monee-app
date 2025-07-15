@@ -69,6 +69,8 @@ export default function ImprintPage({ translations, pageTranslations, contentHtm
         <link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/" />
         <link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint/" />
         <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/imprint/" />
+        <link rel="alternate" hreflang="es" href="https://monee-app.com/es/imprint/" />
+        <link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/imprint/" />
         <link rel="alternate" hreflang="x-default" href="https://monee-app.com/imprint/" />
       </Head>
       
