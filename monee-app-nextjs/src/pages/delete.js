@@ -8,24 +8,22 @@ import Header from '@/components/Header';
 export async function getStaticProps({ locale }) {
   const currentLocale = locale || siteConfig.defaultLanguage;
   const allTranslations = await getTranslations(currentLocale);
-  const pageTranslations = await getTranslations(currentLocale, 'privacy');
-  const markdownContent = await getMarkdownContent(currentLocale, 'privacy');
+  const pageTranslations = await getTranslations(currentLocale, 'delete');
+  const markdownContent = await getMarkdownContent(currentLocale, 'delete');
   
   // Global translations for all pages
   const globalTranslations = {
-    ...allTranslations, // Contains 'global' and other top-level sections from the main YAML file
+    ...allTranslations,
+    global: allTranslations?.global || {}
   };
   
   let contentHtml = '';
   let frontmatter = {};
+
   if (markdownContent) {
     const { frontmatter: fm, content } = parseMarkdown(markdownContent);
     frontmatter = fm;
-    
-    // Replace template variables with actual values from siteConfig
-    const processedMarkdown = content.replace(/{{ site\.email_address }}/g, siteConfig.email_address);
-    
-    const processedContent = await remark().use(html).process(processedMarkdown);
+    const processedContent = await remark().use(html).process(content);
     contentHtml = processedContent.toString();
   }
 
@@ -41,16 +39,17 @@ export async function getStaticProps({ locale }) {
   };
 }
 
-export default function PrivacyPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
-  // Determine title and description
-  const title = pageTranslations?.title || frontmatter?.title || translations?.global?.app_name || 'Privacy Policy';
-  const description = pageTranslations?.description || frontmatter?.description || translations?.global?.app_description || 'Our privacy policy details.';
+export default function DeletePage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
+  // Determine title and description like in the original
+  const title = pageTranslations?.title || frontmatter?.title || 'Delete Account - Monee';
+  const description = pageTranslations?.description || frontmatter?.description || 'Learn how to delete your Monee account permanently.';
 
   return (
     <>
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta name="robots" content="noindex, nofollow" />
         <link rel="shortcut icon" href="/assets/appicon.webp" />
         
         {/* Essential meta tags for the browser tab */}
@@ -62,19 +61,19 @@ export default function PrivacyPage({ translations, pageTranslations, contentHtm
         <meta property="og:description" content={description} />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="https://monee-app.com/assets/appicon.webp" />
-        <meta property="og:url" content={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}privacy/`} />
+        <meta property="og:url" content={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}delete/`} />
         
         {/* Canonical URL */}
-        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}privacy/`} />
+        <link rel="canonical" href={`https://monee-app.com/${currentLocale !== 'en' ? currentLocale + '/' : ''}delete/`} />
         
         {/* Language alternates */}
-        <link rel="alternate" hreflang="en" href="https://monee-app.com/privacy/" />
-        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/privacy/" />
-        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/privacy/" />
-        <link rel="alternate" hreflang="es" href="https://monee-app.com/es/privacy/" />
-        <link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/privacy/" />
-        <link rel="alternate" hreflang="it" href="https://monee-app.com/it/privacy/" />
-        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/privacy/" />
+        <link rel="alternate" hreflang="en" href="https://monee-app.com/delete/" />
+        <link rel="alternate" hreflang="de" href="https://monee-app.com/de/delete/" />
+        <link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/delete/" />
+        <link rel="alternate" hreflang="es" href="https://monee-app.com/es/delete/" />
+        <link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/delete/" />
+        <link rel="alternate" hreflang="it" href="https://monee-app.com/it/delete/" />
+        <link rel="alternate" hreflang="x-default" href="https://monee-app.com/delete/" />
       </Head>
       
       <div className="headerBackground subPageHeaderBackground">

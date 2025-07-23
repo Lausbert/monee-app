@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /delete/
+Disallow: /*/delete/
 
 Sitemap: https://monee-app.com/sitemap.xml
