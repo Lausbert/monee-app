@@ -22,7 +22,7 @@ Erst einmal das Wichtigste: Herausfinden, wofür man monatlich genau bezahlt. Me
 * Streaming-Dienste
 * Abonnements (Apps, Zeitschriften)
 
-Sie werden vielleicht überrascht sein – ich war es jedenfalls – zu sehen, wie sich all diese kleinen wiederkehrenden Gebühren summieren.
+Du wirst vielleicht überrascht sein – ich war es jedenfalls – zu sehen, wie sich all diese kleinen wiederkehrenden Gebühren summieren.
 
 ## Schritt 2: Die schwierigen Fragen stellen
 
@@ -34,8 +34,8 @@ Wir haben Netflix behalten, aber einen zusätzlichen Streaming-Dienst gekündigt
 
 Reduzieren bedeutet nicht immer eliminieren. Manchmal ist es so einfach wie den Anbieter zu wechseln oder einen besseren Tarif auszuhandeln.
 
-* **Versicherung:** Wir haben schnell Versicherungstarife online verglichen und überraschend viel Geld gespart, nur indem wir unseren Autoversicherungsanbieter gewechselt haben. (Profi-Tipp: Machen Sie das jährlich.)
-* **Handy und Internet:** Ein kurzer Anruf bei unserem aktuellen Anbieter führte zu einem niedrigeren Monatstarif. Es stellt sich heraus, dass Unternehmen gerne Rabatte geben, wenn es bedeutet, Sie als Kunden zu behalten.
+* **Versicherung:** Wir haben schnell Versicherungstarife online verglichen und überraschend viel Geld gespart, nur indem wir unseren Autoversicherungsanbieter gewechselt haben. (Profi-Tipp: Mach das jährlich.)
+* **Handy und Internet:** Ein kurzer Anruf bei unserem aktuellen Anbieter führte zu einem niedrigeren Monatstarif. Es stellt sich heraus, dass Unternehmen gerne Rabatte geben, wenn es bedeutet, dich als Kunden zu behalten.
 
 ## Schritt 4: Das Gesparte automatisch anlegen
 
@@ -45,6 +45,6 @@ Wir haben beschlossen, dass jedes Geld, das durch die Reduzierung von Fixkosten 
 
 Regelmäßige Überprüfungen sind wichtig. Wir machen das jetzt ein- oder zweimal im Jahr. Es fühlt sich nicht mühsam an; es ist einfach Teil unserer Routine, wie Reifendruck prüfen oder altes Spielzeug sortieren.
 
-Fixkosten sind nicht per Definition schlecht – sie sind wesentlich. Aber sie regelmäßig zu überprüfen und anzupassen, sorgt dafür, dass Ihr Geld für Sie arbeitet, anstatt stillschweigend zu verschwinden.
+Fixkosten sind nicht per Definition schlecht – sie sind wesentlich. Aber sie regelmäßig zu überprüfen und anzupassen, sorgt dafür, dass dein Geld für dich arbeitet, anstatt stillschweigend zu verschwinden.
 
-Am Ende geht es beim Kürzen von Fixkosten nicht darum, geizig zu sein. Es geht darum, bewusst zu wählen, was für Sie und Ihre Familie wertvoll ist. Denn seien wir ehrlich, das Leben ist bereits teuer genug.
+Am Ende geht es beim Kürzen von Fixkosten nicht darum, geizig zu sein. Es geht darum, bewusst zu wählen, was für dich und deine Familie wertvoll ist. Denn seien wir ehrlich, das Leben ist bereits teuer genug.

@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -112,7 +112,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -212,7 +212,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -311,6 +311,16 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quais-despesas-as-familias-frequentemente-esquecem-e-como-evitar-isso/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -369,6 +379,16 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quais-despesas-as-familias-frequentemente-esquecem-e-como-evitar-isso/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
@@ -431,6 +451,16 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quais-despesas-as-familias-frequentemente-esquecem-e-como-evitar-isso/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -491,6 +521,16 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quais-despesas-as-familias-frequentemente-esquecem-e-como-evitar-isso/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/conta-conjunta-ou-contas-separadas/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -549,5 +589,15 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/</loc>
+    <lastmod>2025-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/"/>
   </url>
 </urlset>
