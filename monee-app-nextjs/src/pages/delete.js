@@ -49,7 +49,6 @@ export default function DeletePage({ translations, pageTranslations, contentHtml
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
-        <meta name="robots" content="noindex, nofollow" />
         <link rel="shortcut icon" href="/assets/appicon.webp" />
         
         {/* Essential meta tags for the browser tab */}

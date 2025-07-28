@@ -1,5 +1,5 @@
-# Supprimer le compte
+# Supprimer votre compte Monee
 
-Tu peux supprimer ton compte toi-même en ouvrant Monee sur ton appareil. Puis appuie sur "Paramètres" (icône d'engrenage) puis sur "Profil". Maintenant appuie sur "Supprimer le profil".
+Vous pouvez supprimer votre compte vous-même en ouvrant Monee sur votre appareil. Appuyez ensuite sur 'Paramètres' (icône d'engrenage) puis sur 'Profil'. Appuyez maintenant sur 'Supprimer le profil'. Toutes vos données seront définitivement supprimées immédiatement et ne pourront pas être restaurées.
 
-Alternativement, n'hésite pas à me contacter à [info@monee-app.com](mailto:info@monee-app.com) et je m'en occuperai pour toi.
+Alternativement, n'hésitez pas à m'envoyer votre compte Apple ou Google à [info@monee-app.com](mailto:info@monee-app.com) et je m'en occuperai pour vous.
