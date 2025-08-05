@@ -2509,6 +2509,34 @@ footer {
   }
 }
 
+// Integrated SEO backlink as text link within author bio
+.author-bio-app-link {
+  margin: 0.25rem 0 1.5rem 0; // Less top margin, more bottom margin
+  color: #4a5568;
+  font-size: 1.3rem; // Same as author bio description
+  line-height: 1.6;
+  
+  a {
+    color: #3CBCB8;
+    text-decoration: none; // No underline
+    transition: all 0.3s ease;
+    font-weight: 500;
+    
+    &:hover {
+      color: #2a9b97;
+    }
+  }
+}
+
+// Remove the old styles
+.author-bio-footer {
+  display: none;
+}
+
+.blog-single-cta-section {
+  display: none;
+}
+
 // Responsive adjustments for blog single
 @media (max-width: 768px) {
  

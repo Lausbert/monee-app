@@ -120,6 +120,57 @@ export function getAllBlogPosts(locale) {
   return posts;
 }
 
+// Function to get related posts based on keywords and tags
+export function getRelatedPosts(currentPost, locale, maxPosts = 2) {
+  const allPosts = getAllBlogPosts(locale);
+  
+  // Filter out the current post
+  const otherPosts = allPosts.filter(post => post.slug !== currentPost.slug);
+  
+  if (otherPosts.length === 0) {
+    return [];
+  }
+  
+  // Score posts based on keyword similarity
+  const scoredPosts = otherPosts.map(post => {
+    let score = 0;
+    
+    // Get keywords from both posts
+    const currentKeywords = currentPost.meta.keywords ? 
+      currentPost.meta.keywords.toLowerCase().split(',').map(k => k.trim()) : [];
+    const postKeywords = post.meta.keywords ? 
+      post.meta.keywords.toLowerCase().split(',').map(k => k.trim()) : [];
+    
+    // Score based on keyword overlap
+    currentKeywords.forEach(keyword => {
+      postKeywords.forEach(postKeyword => {
+        if (keyword.includes(postKeyword) || postKeyword.includes(keyword)) {
+          score += 2;
+        }
+      });
+    });
+    
+    // Score based on title similarity (basic word matching)
+    const currentTitleWords = currentPost.meta.title.toLowerCase().split(' ');
+    const postTitleWords = post.meta.title.toLowerCase().split(' ');
+    currentTitleWords.forEach(word => {
+      if (word.length > 3 && postTitleWords.includes(word)) {
+        score += 1;
+      }
+    });
+    
+    return {
+      ...post,
+      similarityScore: score
+    };
+  });
+  
+  // Sort by score (descending) and return top posts
+  return scoredPosts
+    .sort((a, b) => b.similarityScore - a.similarityScore)
+    .slice(0, maxPosts);
+}
+
 export async function markdownToHtml(markdown) {
   const result = await remark().use(html).process(markdown);
   return result.toString();

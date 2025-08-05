@@ -1,12 +1,13 @@
 import { useRouter } from 'next/router';
 import Head from 'next/head';
 import Image from 'next/image';
+import Link from 'next/link';
 import Header from '@/components/Header';
-import { getBlogPostBySlug, getAllBlogPosts, markdownToHtml } from '@/lib/blog';
+import { getBlogPostBySlug, getAllBlogPosts, markdownToHtml, getRelatedPosts } from '@/lib/blog';
 import { getTranslations } from '@/lib/i18n';
 import siteConfig from '@/lib/siteConfig';
 
-export default function BlogPost({ post, content, allTranslations, commonTranslations, translatedSlugs }) {
+export default function BlogPost({ post, content, allTranslations, commonTranslations, translatedSlugs, relatedPosts }) {
   const router = useRouter();
   const { locale } = router;
 
@@ -120,6 +121,20 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
               },
               ...(post.meta.keywords && { keywords: post.meta.keywords }),
               ...(post.meta.tags && { about: post.meta.tags.map(tag => ({ "@type": "Thing", name: tag })) }),
+              // Add related posts to structured data for better SEO
+              ...(relatedPosts && relatedPosts.length > 0 && {
+                mentions: relatedPosts.map(relatedPost => ({
+                  "@type": "BlogPosting",
+                  headline: relatedPost.meta.title,
+                  description: relatedPost.meta.excerpt,
+                  url: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${relatedPost.slug}/`,
+                  datePublished: new Date(relatedPost.meta.date).toISOString(),
+                  author: {
+                    "@type": "Person",
+                    name: relatedPost.meta.author
+                  }
+                }))
+              }),
             }),
           }}
         />
@@ -189,7 +204,7 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                 {post.meta.authorBio && (
                   <aside className="blog-single-author-bio">
                     <div className="author-bio-header">
-                      <h3>{blogTranslations?.about_author || "About the Author"}</h3>
+                      <h3>{blogTranslations.about_author}</h3>
                     </div>
                     <div className="author-bio-content">
                       <div className="author-bio-avatar">
@@ -207,6 +222,14 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                         </h4>
                         <p className="author-bio-description">
                           {post.meta.authorBio}
+                        </p>
+                        <p className="author-bio-app-link">
+                          <Link
+                            href={`/${locale !== 'en' ? locale : ''}`}
+                            title={blogTranslations.discover_app}
+                          >
+                            {blogTranslations.discover_app}
+                          </Link>
                         </p>
                         {post.meta.authorLinkedIn && (
                           <div className="author-bio-social">
@@ -227,11 +250,51 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                               >
                                 <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
                               </svg>
-                              {blogTranslations?.connect_linkedin || "Connect on LinkedIn"}
+                              {blogTranslations.connect_linkedin}
                             </a>
                           </div>
                         )}
                       </div>
+                    </div>
+                  </aside>
+                )}
+                {/* Related Posts Section */}
+                {relatedPosts && relatedPosts.length > 0 && (
+                  <aside className="blog-single-related-posts">
+                    <div className="related-posts-header">
+                      <h3>{blogTranslations.related_posts}</h3>
+                    </div>
+                    <div className="related-posts-grid">
+                      {relatedPosts.map((relatedPost) => {
+                        const relatedFormattedDate = new Date(relatedPost.meta.date).toLocaleDateString(locale, {
+                          year: 'numeric',
+                          month: 'long',
+                          day: 'numeric',
+                        });
+                        
+                        return (
+                          <article key={relatedPost.slug} className="related-post-card">
+                            <Link href={`/${locale !== 'en' ? locale + '/' : ''}blog/${relatedPost.slug}/`}>
+                              <div className="related-post-content">
+                                <h4 className="related-post-title">
+                                  {relatedPost.meta.title}
+                                </h4>
+                                <p className="related-post-excerpt">
+                                  {relatedPost.meta.excerpt}
+                                </p>
+                                <div className="related-post-meta">
+                                  <time dateTime={new Date(relatedPost.meta.date).toISOString()}>
+                                    {relatedFormattedDate}
+                                  </time>
+                                  <span className="related-post-cta">
+                                    {blogTranslations.continue_reading} →
+                                  </span>
+                                </div>
+                              </div>
+                            </Link>
+                          </article>
+                        );
+                      })}
                     </div>
                   </aside>
                 )}
@@ -301,6 +364,9 @@ export async function getStaticProps({ params, locale }) {
   
   const content = await markdownToHtml(post.content || '');
   
+  // Get related posts for internal linking
+  const relatedPosts = getRelatedPosts(post, currentLocale);
+  
   // Get translations
   const allTranslations = await getTranslations(currentLocale);
   const commonTranslations = await getTranslations(currentLocale, 'common');
@@ -312,6 +378,7 @@ export async function getStaticProps({ params, locale }) {
       allTranslations,
       commonTranslations,
       translatedSlugs,
+      relatedPosts,
     },
     // Pure SSG - no revalidation, pages generated only at build time
   };

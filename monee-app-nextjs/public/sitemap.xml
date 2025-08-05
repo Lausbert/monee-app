@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -123,7 +123,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -178,7 +178,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -233,7 +233,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -288,7 +288,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -408,6 +408,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
+    <lastmod>2025-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -483,6 +494,17 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/</loc>
+    <lastmod>2025-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
@@ -562,6 +584,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/</loc>
+    <lastmod>2025-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -637,6 +670,17 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/</loc>
+    <lastmod>2025-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/conta-conjunta-ou-contas-separadas/</loc>
@@ -716,6 +760,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/</loc>
+    <lastmod>2025-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -791,5 +846,16 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/</loc>
+    <lastmod>2025-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
   </url>
 </urlset>
