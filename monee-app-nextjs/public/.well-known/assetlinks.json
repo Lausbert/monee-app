@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.monee",
+      "sha256_cert_fingerprints": [
+        "13:82:D6:0C:9C:9E:5E:2B:05:12:6D:14:88:35:01:45:D4:4F:78:9B:C2:F5:FC:63:3C:DE:E1:F3:60:67:AD:F1"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.monee.debug",
+      "sha256_cert_fingerprints": [
+        "3C:6D:6D:9B:E8:3A:35:58:70:E3:FD:1B:D1:1B:A0:0D:00:53:A5:A2:67:CC:6D:8B:41:73:CA:66:0B:94:41:C3"
+      ]
+    }
+  }
+]
