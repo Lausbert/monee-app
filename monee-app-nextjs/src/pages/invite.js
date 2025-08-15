@@ -73,7 +73,7 @@ export default function InvitePage({ translations, contentHtml, currentLocale, a
             <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
             
             <AppStoreButton 
-              playstoreLink="android"
+              playstoreLink={siteConfig.playstore_link}
               appstoreLink={siteConfig.appstore_link}
               translations={translations}
             />

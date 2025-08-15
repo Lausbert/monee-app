@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import Link from 'next/link';
 import useTranslations from '../hooks/useTranslations';
 import siteConfig from '../lib/siteConfig';
 import { getAppStoreLink } from '../lib/appstore';
@@ -9,9 +8,8 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
 
   if (isLoading) return <div>Loading...</div>;
 
-  const playStoreAlt = t('global.play_store_badge_alt') || 'Coming soon on Google Play';
+  const playStoreAlt = t('global.play_store_badge_alt') || 'Download on Google Play';
   const appStoreAlt = t('global.app_store_badge_alt') || 'Download on the App Store';
-  const comingSoonText = t('global.coming_soon') || 'Coming Soon';
   
   // Use App Store data if available, otherwise fall back to props or siteConfig
   const finalAppStoreLink = getAppStoreLink(appStoreData) || appstoreLink;
@@ -19,7 +17,7 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
   return (
     <div className="downloadButtonsContainer">
       {playstoreLink && (
-        <Link href={playstoreLink.startsWith('/') ? playstoreLink : `/${playstoreLink}/`} className="playStoreLink">
+        <a href={playstoreLink} className="playStoreLink" target="_blank" rel="noopener">
           <div className="badgeContainer">
             <Image 
               className="playStore" 
@@ -28,11 +26,8 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
               width={240} 
               height={75} 
             />
-            {playstoreLink === 'android' && (
-              <div className="comingSoonBadge">{comingSoonText}</div>
-            )}
           </div>
-        </Link>
+        </a>
       )}
       
       {(finalAppStoreLink || siteConfig.appstore_link) && (
