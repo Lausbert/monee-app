@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -57,7 +57,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -101,7 +101,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -145,7 +145,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -189,7 +189,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -233,7 +233,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -353,6 +353,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/finally-monee-is-now-available-for-android/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -439,6 +450,17 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
@@ -529,6 +551,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -615,6 +648,17 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/conta-conjunta-ou-contas-separadas/</loc>
@@ -705,6 +749,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -791,5 +846,16 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/"/>
   </url>
 </urlset>
