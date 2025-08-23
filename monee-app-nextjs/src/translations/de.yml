@@ -28,7 +28,7 @@ global:
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Globale Bewertung: 4.9 / 5.0"
-    count: "Basierend auf über 5000 Bewertungen"
+    count: "Basierend auf über 6000 Bewertungen"
     downloads: "Über 100.000 Downloads weltweit"
   reviews:
     - title: Tolle App !!
