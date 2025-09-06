@@ -6,13 +6,18 @@ const matter = require('gray-matter');
 const siteConfig = {
   site_url: "https://monee-app.com",
   defaultLanguage: "en",
-  languages: ["en", "de", "fr", "es", "pt", "it"]
+  languages: ["en", "de", "fr", "es", "pt", "it", "ru", "hi"]
 };
 
 // Helper function to convert title to URL-friendly slug (matching blog.js logic)
 function titleToSlug(title) {
+  const cyrillicMap = {
+    'а':'a','б':'b','в':'v','г':'g','д':'d','е':'e','ё':'yo','ж':'zh','з':'z','и':'i','й':'y','к':'k','л':'l','м':'m','н':'n','о':'o','п':'p','р':'r','с':'s','т':'t','у':'u','ф':'f','х':'h','ц':'ts','ч':'ch','ш':'sh','щ':'sch','ъ':'','ы':'y','ь':'','э':'e','ю':'yu','я':'ya'
+  };
   return title
     .toLowerCase()
+    // Transliterate Cyrillic to Latin
+    .replace(/[абвгдеёжзийклмнопрстуфхцчшщъыьэюя]/g, (c) => cyrillicMap[c] || '')
     // Replace accented characters with their non-accented equivalents
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '')
@@ -42,7 +47,7 @@ function titleToSlug(title) {
  */
 function generateSitemap() {
   const baseUrl = siteConfig.site_url;
-  const languages = siteConfig.languages || ['en', 'de', 'fr', 'es', 'pt', 'it'];
+  const languages = siteConfig.languages || ['en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'hi'];
   const defaultLanguage = siteConfig.defaultLanguage || 'en';
   
   // First, collect all blog posts from all languages to find the newest date
@@ -182,13 +187,13 @@ function getBlogPosts(language) {
       const fileContents = fs.readFileSync(filePath, 'utf8');
       const { data } = matter(fileContents);
       
-      // Only include posts with titles (matching blog.js logic)
-      if (!data.title) {
+      // Only include posts that have either slug or title (matching blog.js logic)
+      if (!data.title && !data.slug) {
         return null;
       }
       
-      // Generate slug from title (matching blog.js logic)
-      const titleSlug = titleToSlug(data.title);
+      // Generate slug (prefer frontmatter slug, fallback to title)
+      const titleSlug = data.slug ? String(data.slug).toLowerCase() : titleToSlug(data.title);
       
       return {
         slug: titleSlug,

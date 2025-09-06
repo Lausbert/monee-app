@@ -193,3 +193,8 @@ blog:
   related_posts: "Ähnliche Artikel"
   continue_reading: "Weiterlesen"
   keywords: "blog, persönliche Finanzen, Budgetierung, Geldverwaltung, Finanztipps, Finanzberatung, Budget-Tracker, Ausgabenmanagement"
+
+reviews:
+  previous: "Zurück"
+  next: "Weiter"
+  no_reviews: "Keine Bewertungen verfügbar."

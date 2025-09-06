@@ -193,3 +193,8 @@ blog:
   related_posts: "Artigos Relacionados"
   continue_reading: "Continuar lendo"
   keywords: "blog, finanças pessoais, orçamento, gestão de dinheiro, dicas financeiras, conselhos financeiros, controlo de orçamento, gestão de despesas"
+
+reviews:
+  previous: "Anterior"
+  next: "Seguinte"
+  no_reviews: "Nenhuma avaliação disponível de momento."

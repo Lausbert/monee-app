@@ -193,3 +193,8 @@ blog:
   related_posts: "Artículos Relacionados"
   continue_reading: "Continuar leyendo"
   keywords: "blog, finanzas personales, presupuesto, gestión de dinero, consejos financieros, asesoramiento financiero, rastreador de presupuesto, gestión de gastos"
+
+reviews:
+  previous: "Anterior"
+  next: "Siguiente"
+  no_reviews: "No hay reseñas disponibles por el momento."

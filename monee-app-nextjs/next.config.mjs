@@ -2,7 +2,7 @@
 const nextConfig = {
   trailingSlash: true,
   i18n: {
-    locales: ['en', 'de', 'fr', 'es', 'pt', 'it'],
+    locales: ['en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'hi'],
     defaultLocale: 'en',
     localeDetection: false,
   },
@@ -37,6 +37,16 @@ const nextConfig = {
       {
         source: '/it/android/',
         destination: '/it/',
+        permanent: true,
+      },
+      {
+        source: '/ru/android/',
+        destination: '/ru/',
+        permanent: true,
+      },
+      {
+        source: '/hi/android/',
+        destination: '/hi/',
         permanent: true,
       },
     ];

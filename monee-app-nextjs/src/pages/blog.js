@@ -25,7 +25,12 @@ export default function BlogPage({ posts, allTranslations }) {
         const localeMap = {
             'en': 'en-US',
             'de': 'de-DE',
-            'fr': 'fr-FR'
+            'fr': 'fr-FR',
+            'es': 'es-ES',
+            'pt': 'pt-PT',
+            'it': 'it-IT',
+            'ru': 'ru-RU',
+            'hi': 'hi-IN',
         };
         return new Date(dateString).toLocaleDateString(localeMap[locale] || 'en-US', {
             year: 'numeric',
@@ -113,7 +118,7 @@ export default function BlogPage({ posts, allTranslations }) {
                 <meta property="og:site_name" content={translatedAppName} />
                 <meta
                     property="og:locale"
-                    content={locale === 'en' ? 'en_US' : locale === 'de' ? 'de_DE' : 'fr_FR'}
+                    content={{ en: 'en_US', de: 'de_DE', fr: 'fr_FR', es: 'es_ES', pt: 'pt_PT', it: 'it_IT', ru: 'ru_RU', hi: 'hi_IN' }[locale] || 'en_US'}
                 />                
 
                 {/* Twitter Cards */}
@@ -133,6 +138,8 @@ export default function BlogPage({ posts, allTranslations }) {
                 <link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/" />
                 <link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/" />
                 <link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/" />
+                <link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/" />
+                <link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/" />
                 <link rel="alternate" hreflang="x-default" href="https://monee-app.com/blog/" />
 
                 {/* Override base.scss styles for blog read more button */}

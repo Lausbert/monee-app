@@ -193,3 +193,8 @@ blog:
   related_posts: "Articles Similaires"
   continue_reading: "Continuer la lecture"
   keywords: "blog, finances personnelles, budgétisation, gestion d'argent, conseils financiers, conseils budgétaires, suivi de budget, gestion des dépenses"
+
+reviews:
+  previous: "Précédent"
+  next: "Suivant"
+  no_reviews: "Aucun avis disponible pour le moment."

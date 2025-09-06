@@ -54,7 +54,10 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta property="og:image:alt" content={post.meta.title} />
         <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
         <meta property="og:site_name" content={translatedAppName} />
-        <meta property="og:locale" content={locale === 'en' ? 'en_US' : locale === 'de' ? 'de_DE' : 'fr_FR'} />
+        <meta 
+          property="og:locale" 
+          content={{ en: 'en_US', de: 'de_DE', fr: 'fr_FR', es: 'es_ES', pt: 'pt_PT', it: 'it_IT', ru: 'ru_RU', hi: 'hi_IN' }[locale] || 'en_US'} 
+        />
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${title} | ${translatedAppName}`} />
@@ -83,6 +86,12 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         )}
         {translatedSlugs.it && (
           <link rel="alternate" hreflang="it" href={`https://monee-app.com/it/blog/${translatedSlugs.it}/`} />
+        )}
+        {translatedSlugs.hi && (
+          <link rel="alternate" hreflang="hi" href={`https://monee-app.com/hi/blog/${translatedSlugs.hi}/`} />
+        )}
+        {translatedSlugs.ru && (
+          <link rel="alternate" hreflang="ru" href={`https://monee-app.com/ru/blog/${translatedSlugs.ru}/`} />
         )}
         <link rel="alternate" hreflang="x-default" href={`https://monee-app.com/blog/${translatedSlugs.en || post.slug}/`} />
         {/* JSON-LD Structured Data */}
@@ -347,7 +356,7 @@ export async function getStaticProps({ params, locale }) {
   }
     // Get translated slugs for hreflang links
   const translatedSlugs = {};
-  const supportedLocales = ['en', 'de', 'fr', 'es', 'pt', 'it'];
+  const supportedLocales = ['en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'hi'];
   
   for (const lang of supportedLocales) {
     // Get all posts for this language and find the corresponding post

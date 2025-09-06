@@ -193,3 +193,8 @@ blog:
   related_posts: "Articoli Correlati"
   continue_reading: "Continua a leggere"
   keywords: "blog, finanze personali, budgeting, gestione denaro, consigli finanziari, consulenza finanziaria, tracker budget, gestione spese"
+
+reviews:
+  previous: "Precedente"
+  next: "Successivo"
+  no_reviews: "Nessuna recensione disponibile al momento."

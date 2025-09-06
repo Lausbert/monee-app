@@ -193,3 +193,8 @@ blog:
   related_posts: "Related Articles"
   continue_reading: "Continue reading"
   keywords: "blog, personal finance, budgeting, money management, financial tips, financial advice, budget tracker, expense management"
+
+reviews:
+  previous: "Previous"
+  next: "Next"
+  no_reviews: "No reviews available at the moment."
