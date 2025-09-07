@@ -57,7 +57,7 @@ export default function AppInfo({ appIconUrl, appNameKey, appDescriptionKey, rat
   // Format the ratings exactly like the original HTML
   const ratingStars = ratings?.starsKey ? t(ratings.starsKey) : '⭐️⭐️⭐️⭐️⭐️';
   const ratingScore = ratings?.scoreKey ? t(ratings.scoreKey) : 'Global Rating: 4.9 / 5.0';
-  const ratingCount = ratings?.countKey ? t(ratings.countKey) : 'Based on 6000+ Ratings & Reviews';
+  const ratingCount = ratings?.countKey ? t(ratings.countKey) : 'Based on 7000+ Ratings & Reviews';
   const downloadCount = ratings?.downloadsKey ? t(ratings.downloadsKey) : '100.000+ Downloads worldwide';
 
   return (

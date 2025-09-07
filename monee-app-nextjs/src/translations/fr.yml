@@ -28,7 +28,7 @@ global:
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Note Globale : 4.9 / 5.0"
-    count: "Basé sur plus de 6000 avis"
+    count: "Basé sur plus de 7000 avis"
     downloads: "Plus de 100.000 téléchargements dans le monde"
   reviews:
     - title: "Excellente application !!"
