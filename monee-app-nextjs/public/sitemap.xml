@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -119,7 +119,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -171,7 +171,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -223,7 +223,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -275,7 +275,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -327,7 +327,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -379,7 +379,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -428,6 +428,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/obschiy-schyot-ili-otdelnye-scheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/joint-account-or-separate-accounts/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/</loc>
@@ -547,6 +560,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/joint-account-or-separate-accounts/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/</loc>
     <lastmod>2025-06-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -662,6 +688,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/obschiy-schyot-ili-otdelnye-scheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/joint-account-or-separate-accounts/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/</loc>
@@ -781,6 +820,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/joint-account-or-separate-accounts/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/planificacion-presupuestaria-para-dos-guia-paso-a-paso/</loc>
     <lastmod>2025-06-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -896,6 +948,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/obschiy-schyot-ili-otdelnye-scheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/joint-account-or-separate-accounts/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/planejamento-de-orcamento-para-dois-guia-passo-a-passo/</loc>
@@ -1015,6 +1080,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/joint-account-or-separate-accounts/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/pianificazione-del-budget-di-coppia-guida-passo-dopo-passo/</loc>
     <lastmod>2025-06-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -1132,6 +1210,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/joint-account-or-separate-accounts/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/byudzhet-dlya-dvoih-poshagovoe-rukovodstvo/</loc>
     <lastmod>2025-06-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -1247,6 +1338,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/conta-conjunta-ou-contas-separadas/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/obschiy-schyot-ili-otdelnye-scheta/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/monee-shared-households/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/budget-planning-for-two-step-by-step-guide/</loc>
