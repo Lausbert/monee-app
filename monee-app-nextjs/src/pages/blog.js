@@ -42,7 +42,7 @@ export default function BlogPage({ posts, allTranslations }) {
     // Generate structured data for SEO
     const generateStructuredData = () => {
         const baseUrl = 'https://monee-app.com';
-        const blogUrl = `${baseUrl}/${locale !== 'en' ? locale + '/' : ''}blog`;        
+        const blogUrl = `${baseUrl}/${locale !== 'en' ? locale + '/' : ''}blog/`;
         const structuredData = {
             "@context": "https://schema.org",
             "@type": "Blog",
@@ -64,13 +64,15 @@ export default function BlogPage({ posts, allTranslations }) {
         };
 
         if (posts && posts.length > 0) {
-            structuredData.blogPost = posts.map((post) => ({
+            structuredData.blogPost = posts.map((post) => {
+                const postUrl = `${baseUrl}/${locale !== 'en' ? `${locale}/` : ''}blog/${post.slug}/`;
+                return ({
                 "@type": "BlogPosting",
                 headline: post.meta.title,
                 description: post.meta.excerpt || subtitle,
-                url: `${baseUrl}/blog/${post.slug}`,
+                url: postUrl,
                 datePublished: post.meta.date,
-                dateModified: post.meta.date,                
+                dateModified: post.meta.date,
                 author: {
                     "@type": "Person",
                     name: post.meta.author,
@@ -81,9 +83,10 @@ export default function BlogPage({ posts, allTranslations }) {
                 },
                 mainEntityOfPage: {
                     "@type": "WebPage",
-                    "@id": `${baseUrl}/blog/${post.slug}`,
+                    "@id": postUrl,
                 },
-            }));
+                });
+            });
         }
         return JSON.stringify(structuredData);
     };

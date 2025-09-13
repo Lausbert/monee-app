@@ -62,6 +62,8 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta property="og:type" content="article" />
         <meta property="og:title" content={`${title} | ${translatedAppName}`} />
         <meta property="og:description" content={description} />
+        <meta property="og:image" content={post.meta.authorImage} />
+        <meta property="og:image:alt" content={post.meta.title} />
         <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
         <meta property="og:site_name" content={translatedAppName} />
         <meta 
@@ -72,6 +74,8 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${title} | ${translatedAppName}`} />
         <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={post.meta.authorImage} />
+        <meta name="twitter:image:alt" content={post.meta.title} />
         <meta name="twitter:site" content="@MoneeApp" />
         <meta name="twitter:creator" content="@MoneeApp" />
         {/* Canonical URL */}
