@@ -1,10 +1,6 @@
 ---
 title: "Budget hebdomadaire vs. mensuel : Lequel fonctionne le mieux (et comment changer)"
 excerpt: "Vous avez du mal à respecter votre budget ? Découvrez si le budget hebdomadaire ou mensuel fonctionne mieux pour votre style de vie, plus des conseils pratiques pour passer d'une approche à l'autre et créer un système hybride qui fonctionne vraiment."
-date: "2025-08-05"
-author: "Stephan Lerner"
-authorBio: "Je développe la meilleure application de gestion d'argent."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "budget hebdomadaire, budget mensuel, planification budgétaire, finances personnelles, gestion de l'argent, conseils budgétaires, fréquence budgétaire, budget hybride, suivi du budget, gestion des dépenses"
 ---
 

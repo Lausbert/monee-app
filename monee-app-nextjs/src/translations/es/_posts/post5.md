@@ -1,10 +1,6 @@
 ---
 title: "Revisar y Reducir Costos Fijos – Una Guía Concreta"
 excerpt: "Con la inflación aún en 2.4% anual (junio 2025), recortar costos fijos y redirigir los ahorros a ETFs es la forma más fácil de superar los precios en aumento."
-date: "2025-07-08"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "reducir costos fijos 2025, recortar gastos mensuales, vencer inflación 2025, ahorrar dinero rápido, bajar primas seguro, auditoría suscripciones, negociar facturas, ahorros alto rendimiento 5% TAE, inversión ETF, independencia financiera"
 ---
 

@@ -1,10 +1,6 @@
 ---
 title: "Contabilità domestica digitale o analogica - Pro e contro"
 excerpt: "Confronta il budgeting con carta e penna con le migliori app del 2025 come YNAB e Monarch Money. Scopri pro, contro e consigli per tenere sotto controllo le finanze familiari."
-date: "2025-07-06"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "budgeting digitale, budgeting analogico, contabilità domestica, budget familiare, app budgeting 2025, YNAB, Monarch Money, EveryDollar, tracker spese, budget carta e penna, mindfulness finanziaria, consigli finanza personale, contabilità cloud, foglio budget, pianificatore budget"
 ---
 

@@ -198,3 +198,18 @@ reviews:
   previous: "Zurück"
   next: "Weiter"
   no_reviews: "Keine Bewertungen verfügbar."
+
+authors:
+  stephan_lerner:
+    bio: "Ich entwickle die beste Geldverwaltungs-App."
+  lina:
+    bio: "Berliner Kommunikationsstudentin, die echte Zahlen und unkomplizierte Budget-Experimente teilt, die wirklich zum Studentenleben passen."
+  maya_and_tom:
+    bio: "Hamburger Paar, das zeigt, wie es Lebensmittel, Rechnungen und Reisen fair aufteilt – mit einfachen Regeln, die jeder nachmachen kann."
+  jules:
+    bio: "Freiberuflicher Designer aus Köln, der Budgetieren bei unregelmäßigem Einkommen mit praktischen Vorlagen, Kategoriensystemen und Monatsrückblicken entmystifiziert."
+  elena:
+    bio: "Münchner Mama und Familien-CFO, die versteckte Kosten aufspürt und einen wöchentlichen 15-Minuten-Money-Check-in etabliert."
+  marco:
+    bio: "In Lissabon lebender Expat aus Frankfurt, der Mehrwährungs-Reisebudgets, Stadt-für-Stadt-Ausgabenleitfäden und Carryover-Hacks teilt."
+    

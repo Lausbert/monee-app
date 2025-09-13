@@ -1,10 +1,6 @@
 ---
 title: "Como coloco minhas finanças em ordem?"
 excerpt: "Lutando com dinheiro? Aprenda os principais truques de orçamento de 2025, dicas de rastreamento de despesas e estratégia de ETF MSCI World para simplificar finanças familiares e aumentar economias."
-date: "2025-07-07"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "finanças pessoais 2025, aplicativos orçamento 2025, dicas orçamento familiar, rastreamento despesas, MSCI World ETF, investimento ETF 2025, ETFs melhor performance 2025, taxas poupança alta rentabilidade, aplicativos gestão financeira, planejamento financeiro pais, estratégias pagamento dívidas, automatizar poupança, inflação 2025"
 ---
 

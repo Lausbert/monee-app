@@ -1,10 +1,6 @@
 ---
 title: "Divide los gastos de forma sencilla: Hogares compartidos en Monee"
 excerpt: "Divide los gastos del hogar sin hojas de cálculo ni incómodos ajustes. Los Hogares Compartidos de Monee facilitan el registro rápido, las vistas claras y la sincronización con privacidad por delante para parejas, familias y compañeros de piso que quieren un control de presupuesto simple."
-date: "2025-09-12"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Monee, hogares compartidos, dividir gastos, aplicación de presupuesto, presupuesto para parejas, presupuesto familiar, compañeros de piso, privacidad, iOS, Android, gastos recurrentes, categorías, exportación de datos, sincronización, claridad financiera"
 ---
 Como desarrollador de software casado con dos niños pequeños (5 y 2), el tiempo es el recurso más escaso en nuestra casa. Priorizamos lo esencial: la familia, comida decente, bicicletas, algo de aire fresco. El dinero es una herramienta, no un trofeo; nuestro coche solo tiene que arrancar y llevar el cochecito. En cuanto al presupuesto, lo mantenemos simple: ETFs a largo plazo para invertir y seguimiento manual del gasto del día a día. Esa última parte es la clave. Anotar los gastos—rápido, sin complicaciones—nos mantiene alineados sin convertir el dinero en un tema de control. No necesitar es mejor que tener, y la claridad nos ayuda a elegir lo “suficiente”.

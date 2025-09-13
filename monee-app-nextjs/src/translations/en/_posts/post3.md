@@ -1,10 +1,6 @@
 ---
 title: "Digital or analog household bookkeeping - Pros and cons"
 excerpt: "Compare pen-and-paper budgeting with 2025’s top apps like YNAB & Monarch Money. See pros, cons & tips to keep family finances on track."
-date: "2025-07-06"
-author: "Stephan Lerner"
-authorBio: "I'm developing the best money management app."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "digital budgeting, analog budgeting, household bookkeeping, family budget, budgeting apps 2025, YNAB, Monarch Money, EveryDollar, expense tracker, pen and paper budget, financial mindfulness, personal finance tips, cloud bookkeeping, budget spreadsheet, budget planner"
 ---
 

@@ -1,10 +1,6 @@
 ---
 title: "Perché Tracciare Ogni Spesa è Importante nel 2025"
 excerpt: "Scopri perché tracciare ogni spesa è diventato essenziale nel 2025. Con l'aumento dei costi e i cambiamenti economici imprevedibili, comprendere esattamente dove vanno a finire i tuoi soldi è fondamentale per la stabilità finanziaria e la riduzione dello stress."
-date: "2025-07-21"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "tracciamento spese, budget familiare, gestione finanziaria, controllo delle spese, pianificazione finanziaria, finanza personale, gestione del budget, monitoraggio delle spese, trasparenza finanziaria, abitudini finanziarie"
 ---
 

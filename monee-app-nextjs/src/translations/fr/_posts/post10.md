@@ -1,10 +1,6 @@
 ---
 title: "Partager les dépenses en toute simplicité : Foyers partagés dans Monee"
 excerpt: "Partagez les dépenses du foyer sans tableurs ni remboursements gênants. Les Foyers partagés de Monee facilitent la saisie rapide, les vues claires et une synchronisation centrée sur la confidentialité pour les couples, les familles et les colocataires qui veulent un contrôle budgétaire simple."
-date: "2025-09-12"
-author: "Stephan Lerner"
-authorBio: "Je développe la meilleure application de gestion d'argent."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Monee, foyers partagés, partage des dépenses, application de budget, budget pour couples, budget familial, colocataires, confidentialité, iOS, Android, dépenses récurrentes, catégories, export de données, synchronisation, clarté financière"
 ---
 En tant que développeur marié avec deux jeunes enfants (5 et 2 ans), le temps est la ressource la plus rare chez nous. Nous priorisons l’essentiel : la famille, une bonne nourriture, les vélos, un peu d’air frais. L’argent est un outil, pas un trophée — notre voiture doit juste démarrer et transporter la poussette. Côté budget, nous restons simples : ETF à long terme pour l’investissement, et suivi manuel pour les dépenses du quotidien. Ce dernier point est la clé. Noter les dépenses — rapidement, sans chichi — nous maintient alignés sans faire de l’argent un sujet de contrôle. Ne pas avoir besoin vaut mieux que posséder, et la clarté nous aide à choisir « assez ».

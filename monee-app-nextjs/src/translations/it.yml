@@ -198,3 +198,17 @@ reviews:
   previous: "Precedente"
   next: "Successivo"
   no_reviews: "Nessuna recensione disponibile al momento."
+
+authors:
+  stephan_lerner:
+    bio: "Sto sviluppando la migliore app per la gestione del denaro."
+  lina:
+    bio: "Studentessa di comunicazione a Berlino che condivide numeri reali ed esperimenti di budgeting senza fronzoli che si adattano davvero alla vita universitaria."
+  maya_and_tom:
+    bio: "Coppia di Amburgo che documenta come dividono in modo equo spesa, bollette e viaggi, con regole semplici che chiunque può copiare."
+  jules:
+    bio: "Designer freelance con base a Colonia che rende semplice il budgeting con redditi irregolari grazie a modelli pratici, sistemi di categorie e riepiloghi mensili."
+  elena:
+    bio: "Mamma di Monaco e CFO della famiglia che scova le spese nascoste e conduce un leggero check-in finanziario settimanale di 15 minuti."
+  marco:
+    bio: "Expat con base a Lisbona, originario di Francoforte, che condivide budget di viaggio in più valute, guide alla spesa città per città e trucchi di riporto."

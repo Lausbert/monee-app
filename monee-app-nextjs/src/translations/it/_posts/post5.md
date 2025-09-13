@@ -1,10 +1,6 @@
 ---
 title: "Rivedi e Riduci i Costi Fissi – Una Guida Concreta"
 excerpt: "Con l'inflazione ancora al 2,4% su base annua (giugno 2025), tagliare i costi fissi e ridirigere i risparmi verso gli ETF è il modo più semplice per superare l'aumento dei prezzi."
-date: "2025-07-08"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "ridurre costi fissi 2025, tagliare spese mensili, battere inflazione 2025, risparmiare velocemente, ridurre premi assicurativi, controllo abbonamenti, negoziare bollette, conto deposito 5% APY, investimenti ETF, indipendenza finanziaria"
 ---
 

@@ -1,10 +1,6 @@
 ---
 title: "Why Tracking Every Expense Matters in 2025"
 excerpt: "Discover why tracking every expense has become essential in 2025. With rising costs and unpredictable economic shifts, understanding exactly where your money goes is crucial for financial stability and stress reduction."
-date: "2025-07-21"
-author: "Stephan Lerner"
-authorBio: "I'm developing the best money management app."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "expense tracking, family budget, financial management, spending control, financial planning, personal finance, budget management, money tracking, financial transparency, financial habits"
 ---
 

@@ -203,8 +203,8 @@ export default function BlogPage({ posts, allTranslations }) {
                                             <div className="blog-card-header flex-shrink-0">
                                                 <div className="blog-card-author">
                                                     <Image
-                                                        src='/assets/Stephan_Lerner.jpg'
-                                                        alt={'Author Stephan Lerner'}
+                                                        src={post.meta.authorImage || '/assets/Stephan_Lerner.jpg'}
+                                                        alt={post.meta.author ? `Author ${post.meta.author}` : 'Author'}
                                                         width={56}
                                                         height={56}
                                                         className="blog-card-author-avatar rounded-full object-cover object-top border-2 border-teal-400/20"

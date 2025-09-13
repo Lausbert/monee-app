@@ -1,10 +1,6 @@
 ---
 title: "Quali Spese Trascurano Spesso le Famiglie e Come Evitarlo?"
 excerpt: "Le famiglie sprecano $32 in abbonamenti inutilizzati e $91 in membership. Individua i costi nascosti—dagli sport per bambini alle riparazioni domestiche—e sigilla le perdite con trucchi di budgeting 2025."
-date: "2025-07-09"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "budget familiare, spese trascurate, costi nascosti, stanchezza da abbonamenti 2025, spesa media abbonamenti, costo abbonamenti inutilizzati, tariffe attività bambini, budget regali, fondo manutenzione casa, co-pagamenti medici, acquisti impulsivi online, inflazione 2025, finanze domestiche, trucchi budget 2025, consigli risparmio"
 ---
 

@@ -1,10 +1,6 @@
 ---
 title: "Warum es 2025 wichtig ist, jede Ausgabe zu tracken"
 excerpt: "In Zeiten steigender Kosten und wirtschaftlicher Unsicherheit ist das bewusste Tracking jeder Ausgabe entscheidend für finanzielle Stabilität. Erfahre, wie manuelles Ausgaben-Tracking zu besseren Entscheidungen, weniger Stress und mehr finanzieller Klarheit führt."
-date: "2025-07-21"
-author: "Stephan Lerner"
-authorBio: "Ich entwickle die beste Geldverwaltungs-App."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Ausgaben-Tracking, Budgetierung, Familienfinanzen, Geldverwaltung, finanzielle Planung, Ausgabenkontrolle, Budget-App, manuelles Tracking, Finanzstrategie, Geldsparen"
 ---
 

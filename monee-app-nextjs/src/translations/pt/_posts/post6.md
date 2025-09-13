@@ -1,10 +1,6 @@
 ---
 title: "Quais despesas as famílias frequentemente esquecem, e como evitar isso?"
 excerpt: "Famílias desperdiçam R$160 em assinaturas não utilizadas e R$455 em mensalidades. Identifique custos ocultos—de esportes infantis a reparos domésticos—e sele vazamentos com truques de orçamento de 2025."
-date: "2025-07-09"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "orçamento familiar, despesas esquecidas, custos ocultos, fadiga assinaturas 2025, gasto médio assinaturas, custo assinaturas não utilizadas, taxas atividades infantis, orçamento presentes, fundo manutenção casa, copagamentos médicos, compras impulsivas online, inflação 2025, finanças domésticas, truques orçamento 2025, dicas economia dinheiro"
 ---
 

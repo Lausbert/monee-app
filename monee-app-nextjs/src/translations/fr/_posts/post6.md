@@ -1,10 +1,6 @@
 ---
 title: "Quelles dépenses les familles négligent-elles souvent et comment l'éviter ?"
 excerpt: "Budget familial 2025 : stop aux dépenses invisibles ! Astuces pour contrer inflation, hausse Netflix et frais cachés, économisez jusqu'à 200 €/mois."
-date: "2025-07-09"
-author: "Stephan Lerner"
-authorBio: "Je développe la meilleure application de gestion d'argent."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "budget familial 2025, dépenses invisibles, abonnements streaming, hausse prix Netflix 2025, inflation France 2025, gestion budget, dépenses contraintes, frais santé, entretien maison, cadeaux enfants, achats impulsifs, économie abonnement, plan budget famille, applications budget 2025, réduire dépenses"
 ---
 

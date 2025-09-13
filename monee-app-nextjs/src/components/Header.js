@@ -23,10 +23,21 @@ const Header = ({ translations }) => {  const router = useRouter();
               </clipPath>
             </defs>
           </svg>          {router.pathname !== '/' ? (
-            <Link href={`/${locale !== 'en' ? locale + '/' : ''}`} legacyBehavior>
-              <a target="_self" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-                {appIcon && <Image className="headerIcon" src={appIcon} alt={`${appName} icon`} width={50} height={50} style={{ clipPath: 'url(#shape)', position: 'static' }} />}
-              </a>
+            <Link
+              href={`/${locale !== 'en' ? locale + '/' : ''}`}
+              target="_self"
+              style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}
+            >
+              {appIcon && (
+                <Image
+                  className="headerIcon"
+                  src={appIcon}
+                  alt={`${appName} icon`}
+                  width={50}
+                  height={50}
+                  style={{ clipPath: 'url(#shape)', position: 'static' }}
+                />
+              )}
             </Link>
           ) : (
             appIcon && <Image className="headerIcon" src={appIcon} alt={`${appName} icon`} width={50} height={50} style={{ clipPath: 'url(#shape)', position: 'static' }} />

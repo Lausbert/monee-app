@@ -1,10 +1,6 @@
 ---
 title: "Ausgaben einfach teilen: Gemeinsame Haushalte in Monee"
 excerpt: "Haushaltsausgaben ohne Tabellenkalkulationen oder peinliche Ausgleichszahlungen aufteilen. Monees Gemeinsame Haushalte machen schnelle Eingaben, klare Übersichten und datenschutzorientierte Synchronisierung einfach – für Paare, Familien und Mitbewohner, die einfache Budgetkontrolle wollen."
-date: "2025-09-12"
-author: "Stephan Lerner"
-authorBio: "Ich entwickle die beste Geldverwaltungs-App."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Monee, gemeinsame Haushalte, Ausgaben aufteilen, Budget-App, Budgetierung für Paare, Familienbudget, Mitbewohner, Datenschutz, iOS, Android, wiederkehrende Ausgaben, Kategorien, Datenexport, Synchronisierung, finanzielle Klarheit"
 ---
 Als verheirateter Softwareentwickler mit zwei kleinen Kindern (5 und 2) ist Zeit die knappste Ressource in unserem Haushalt. Wir konzentrieren uns auf das Wesentliche: Familie, vernünftiges Essen, Fahrräder, etwas frische Luft. Geld ist ein Werkzeug, keine Trophäe – unser Auto muss nur anspringen und den Kinderwagen transportieren. Beim Budgetieren halten wir es einfach: langfristige ETFs fürs Investieren und manuelles Erfassen der täglichen Ausgaben. Letzteres ist der Schlüssel. Ausgaben aufzuschreiben – schnell, ohne Aufwand – hält uns auf demselben Stand, ohne Geld zum Kontrollthema zu machen. Nicht brauchen ist besser als haben, und Klarheit hilft uns, „genug“ zu wählen.

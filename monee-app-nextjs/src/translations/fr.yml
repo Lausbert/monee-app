@@ -198,3 +198,17 @@ reviews:
   previous: "Précédent"
   next: "Suivant"
   no_reviews: "Aucun avis disponible pour le moment."
+
+authors:
+  stephan_lerner:
+    bio: "Je développe la meilleure application de gestion d'argent."
+  lina:
+    bio: "Étudiante en communication à Berlin, elle partage des chiffres réels et des expériences de budget sans chichis qui collent vraiment à la vie étudiante."
+  maya_and_tom:
+    bio: "Couple de Hambourg documentant comment ils répartissent équitablement courses, factures et voyages — avec des règles simples que tout le monde peut copier."
+  jules:
+    bio: "Designer indépendant·e basé·e à Cologne qui démystifie le budget avec revenus irréguliers grâce à des modèles pratiques, des systèmes de catégories et des bilans mensuels."
+  elena:
+    bio: "Maman munichoise et CFO du foyer qui traque les dépenses cachées et mène un doux point argent hebdomadaire de 15 minutes."
+  marco:
+    bio: "Expat installé à Lisbonne, originaire de Francfort, partageant des budgets de voyage multi-devises, des guides de dépenses ville par ville et des astuces de report."

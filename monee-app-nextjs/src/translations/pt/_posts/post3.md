@@ -1,10 +1,6 @@
 ---
 title: "Contabilidade doméstica digital ou analógica - Prós e contras"
 excerpt: "Compare orçamento com papel e caneta com os principais aplicativos de 2025 como YNAB e Monarch Money. Veja prós, contras e dicas para manter as finanças familiares no caminho certo."
-date: "2025-07-06"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "orçamento digital, orçamento analógico, contabilidade doméstica, orçamento familiar, aplicativos orçamento 2025, YNAB, Monarch Money, EveryDollar, rastreador despesas, orçamento papel caneta, consciência financeira, dicas finanças pessoais, contabilidade nuvem, planilha orçamento, planejador orçamento"
 ---
 

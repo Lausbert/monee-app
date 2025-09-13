@@ -1,10 +1,6 @@
 ---
 title: "Dividir Despesas de Forma Simples: Residências Compartilhadas no Monee"
 excerpt: "Divida despesas da casa sem planilhas nem acertos constrangedores. As Residências Compartilhadas do Monee tornam o lançamento rápido, a visão clara e a sincronização com privacidade em primeiro lugar fáceis para casais, famílias e colegas de casa que querem controle simples do orçamento."
-date: "2025-09-12"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Monee, residências compartilhadas, dividir despesas, aplicativo de orçamento, orçamento para casais, orçamento familiar, colegas de casa, privacidade, iOS, Android, despesas recorrentes, categorias, exportação de dados, sincronização, clareza financeira"
 ---
 Como desenvolvedor de software casado com dois filhos pequenos (5 e 2), tempo é o recurso mais escasso em casa. Priorizamos o essencial: família, comida decente, bicicletas, um pouco de ar fresco. Dinheiro é uma ferramenta, não um troféu — nosso carro só precisa ligar e levar o carrinho. Quando se trata de orçamento, mantemos simples: ETFs de longo prazo para investir e registro manual para os gastos do dia a dia. Essa última parte é a chave. Anotar despesas — rapidamente, sem frescura — nos mantém alinhados sem transformar dinheiro em um tema de controle. Não precisar é melhor do que ter, e a clareza ajuda a escolher o “suficiente”.

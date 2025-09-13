@@ -1,10 +1,6 @@
 ---
 title: "Wöchentlich vs. monatlich budgetieren: Was funktioniert besser (und wie man wechselt)"
 excerpt: "Entdecke die Vor- und Nachteile von wöchentlicher vs. monatlicher Budgetplanung für Familien. Praktische Tipps vom App-Entwickler: Welches System passt zu deinem Alltag und wie du erfolgreich wechselst. Mit Schritt-für-Schritt-Anleitung und bewährten Strategien für bessere Finanzkontrolle."
-date: "2025-08-05"
-author: "Stephan Lerner"
-authorBio: "Ich entwickle die beste App für Geldverwaltung."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "wöchentliches budget, monatliches budget, budgetplanung, familienbudget, geld sparen, haushaltsbudget, finanzplanung, budgeting app, ausgaben kontrollieren, geldverwaltung, sparen mit kindern, budget erstellen, finanzielle kontrolle, budgetierung tipps, haushaltsplan"
 ---
 

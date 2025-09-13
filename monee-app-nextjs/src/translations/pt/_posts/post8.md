@@ -1,10 +1,6 @@
 ---
 title: "Orçamento semanal vs. mensal: qual funciona melhor (e como mudar)"
 excerpt: "Tem dificuldade em manter seu orçamento? Descubra se o orçamento semanal ou mensal funciona melhor para seu estilo de vida, além de dicas práticas para alternar entre abordagens e criar um sistema híbrido que realmente funciona."
-date: "2025-08-05"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão de dinheiro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "orçamento semanal, orçamento mensal, planejamento orçamentário, finanças pessoais, gestão de dinheiro, dicas de orçamento, frequência de orçamento, orçamento híbrido, rastreamento de orçamento, gestão de despesas"
 ---
 

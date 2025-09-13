@@ -1,10 +1,6 @@
 ---
 title: "Por Que Rastrear Cada Despesa Importa em 2025"
 excerpt: "Descubra por que rastrear cada despesa se tornou essencial em 2025. Com custos crescentes e mudanças econômicas, entender exatamente para onde vai seu dinheiro é fundamental para estabilidade financeira e redução do estresse."
-date: "2025-07-21"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "rastreamento de despesas, orçamento familiar, gestão financeira, controle de gastos, planejamento financeiro, economia doméstica, finanças pessoais, redução de gastos, transparência financeira, hábitos financeiros"
 ---
 

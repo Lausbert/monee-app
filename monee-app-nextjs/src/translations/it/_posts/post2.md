@@ -1,10 +1,6 @@
 ---
 title: "Pianificazione del budget di coppia: guida passo dopo passo"
 excerpt: "Impara la pianificazione del budget per coppie con la nostra guida passo dopo passo. Consigli semplici per l'armonia finanziaria, il tracciamento delle spese e la definizione degli obiettivi."
-date: "2025-06-30"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "pianificazione budget coppie, budget familiare, tracciamento spese, pianificazione finanziaria, finanze di coppia, consigli budgeting, gestione denaro, budget domestico, obiettivi finanziari, app budgeting, budget mensile, finanze congiunte"
 ---
 

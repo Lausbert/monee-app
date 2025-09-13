@@ -198,3 +198,17 @@ reviews:
   previous: "Anterior"
   next: "Siguiente"
   no_reviews: "No hay reseñas disponibles por el momento."
+
+authors:
+  stephan_lerner:
+    bio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
+  lina:
+    bio: "Estudiante de Comunicación en Berlín que comparte cifras reales y experimentos de presupuesto sin complicaciones que de verdad encajan con la vida universitaria."
+  maya_and_tom:
+    bio: "Pareja de Hamburgo que documenta cómo reparten de forma justa la compra, las facturas y los viajes, con reglas sencillas que cualquiera puede copiar."
+  jules:
+    bio: "Diseñador/a freelance afincado/a en Colonia que descomplica el presupuesto con ingresos irregulares mediante plantillas prácticas, sistemas de categorías y resúmenes mensuales."
+  elena:
+    bio: "Madre de Múnich y CFO del hogar que detecta gastos ocultos y realiza una revisión financiera semanal de 15 minutos."
+  marco:
+    bio: "Expat afincado en Lisboa, de Fráncfort, que comparte presupuestos de viaje en varias divisas, guías de gasto por ciudad y trucos de arrastre de saldo."

@@ -1,10 +1,6 @@
 ---
 title: "Digitale oder analoge Haushaltsführung - Vor- und Nachteile"
 excerpt: "Vergleich 2025: Ist das analoge Haushaltsbuch oder die Budget-App besser? Vor- & Nachteile, Datenschutz-Fakten und Spartipps für Familien im Alltag."
-date: "2025-07-06"
-author: "Stephan Lerner"
-authorBio: "Ich entwickle die beste Geldverwaltungs-App."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "digitales Haushaltsbuch, analoges Haushaltsbuch, Budget App 2025, Haushaltsbuch App, Finanzguru, Banktrack, N26, Money Manager, Revolut, Kontist, Familienbudget, Ausgaben tracken, Finanzplanung 2025, Spartipps"
 ---
 

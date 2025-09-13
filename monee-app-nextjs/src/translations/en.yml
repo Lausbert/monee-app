@@ -198,3 +198,17 @@ reviews:
   previous: "Previous"
   next: "Next"
   no_reviews: "No reviews available at the moment."
+
+authors:
+  stephan_lerner:
+    bio: "I'm developing the best money management app."
+  lina:
+    bio: "Berlin communications student sharing real numbers and no-fuss budgeting experiments that actually fit student life."
+  maya_and_tom:
+    bio: "Hamburg couple documenting how they split groceries, bills, and travel fairly—with simple rules anyone can copy."
+  jules:
+    bio: "Cologne-based freelance designer demystifying irregular-income budgeting with practical templates, category systems, and monthly recaps."
+  elena:
+    bio: "Munich mom and household CFO who hunts leaky family costs and runs a gentle 15-minute weekly money check-in."
+  marco:
+    bio: "Lisbon-based expat from Frankfurt sharing multi-currency travel budgets, city-by-city spending guides, and carryover hacks."

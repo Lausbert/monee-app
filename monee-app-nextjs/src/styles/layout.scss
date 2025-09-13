@@ -2528,6 +2528,41 @@ footer {
   }
 }
 
+// Compact download buttons within blog author bio
+.blog-single-author-bio .appButtonContainer {
+  margin-top: 0.5rem;
+}
+
+.blog-single-author-bio .downloadButtonsContainer {
+  margin-top: 0.5rem;
+  gap: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.blog-single-author-bio .downloadButtonsContainer .playStore,
+.blog-single-author-bio .downloadButtonsContainer .appStore {
+  height: 48px;
+  width: auto;
+  border-radius: 8px;
+}
+
+.blog-single-author-bio .downloadButtonsContainer .playStore {
+  margin-right: 12px;
+}
+
+@media (max-width: 768px) {
+  .blog-single-author-bio .downloadButtonsContainer {
+    justify-content: center;
+    gap: 10px;
+  }
+  .blog-single-author-bio .downloadButtonsContainer .playStore,
+  .blog-single-author-bio .downloadButtonsContainer .appStore {
+    height: 44px;
+    width: auto;
+  }
+}
+
 // Remove the old styles
 .author-bio-footer {
   display: none;

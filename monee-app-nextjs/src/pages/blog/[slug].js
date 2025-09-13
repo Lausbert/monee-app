@@ -3,11 +3,13 @@ import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
 import Header from '@/components/Header';
+import AppStoreButton from '@/components/AppStoreButton';
 import { getBlogPostBySlug, getAllBlogPosts, markdownToHtml, getRelatedPosts } from '@/lib/blog';
 import { getTranslations } from '@/lib/i18n';
 import siteConfig from '@/lib/siteConfig';
+import { fetchAppStoreData } from '@/lib/appstore';
 
-export default function BlogPost({ post, content, allTranslations, commonTranslations, translatedSlugs, relatedPosts }) {
+export default function BlogPost({ post, content, allTranslations, commonTranslations, translatedSlugs, relatedPosts, appStoreData }) {
   const router = useRouter();
   const { locale } = router;
 
@@ -15,11 +17,23 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
   const translatedAppName = allTranslations?.global?.app_name || siteConfig.app_name;
   const title = post.meta.title;
   const description = post.meta.excerpt;
+  // Ensure absolute URLs for JSON-LD and meta tags
+  const toAbsoluteUrl = (url) => {
+    if (!url) return undefined;
+    return url.startsWith('http') ? url : `${siteConfig.site_url}${url}`;
+  };
   const formattedDate = new Date(post.meta.date).toLocaleDateString(locale, {
     year: 'numeric',
     month: 'long',
     day: 'numeric',
   });
+
+  // Resolve author bio from translation key if provided
+  const getByPath = (obj, pathStr) => {
+    if (!obj || !pathStr) return undefined;
+    return pathStr.split('.').reduce((acc, key) => (acc && acc[key] !== undefined ? acc[key] : undefined), obj);
+  };
+  const authorBioFromKey = getByPath(allTranslations, post.meta.authorBioKey);
 
   return (
     <>
@@ -48,10 +62,6 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta property="og:type" content="article" />
         <meta property="og:title" content={`${title} | ${translatedAppName}`} />
         <meta property="og:description" content={description} />
-        <meta property="og:image" content={post.meta.featuredImage} />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:image:alt" content={post.meta.title} />
         <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
         <meta property="og:site_name" content={translatedAppName} />
         <meta 
@@ -62,8 +72,6 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${title} | ${translatedAppName}`} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={post.meta.featuredImage} />
-        <meta name="twitter:image:alt" content={post.meta.title} />
         <meta name="twitter:site" content="@MoneeApp" />
         <meta name="twitter:creator" content="@MoneeApp" />
         {/* Canonical URL */}
@@ -104,17 +112,20 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
               headline: post.meta.title,
               description: description,
               articleBody: content.replace(/<[^>]*>/g, ''), // Strip HTML tags for plain text
-              image: post.meta.featuredImage,
               author: {
                 "@type": "Person",
                 name: post.meta.author,
-                image: "https://monee-app.com/assets/Stephan_Lerner.jpg",
+                image: toAbsoluteUrl(post.meta.authorImage || '/assets/Stephan_Lerner.jpg'),
                 ...(post.meta.authorBio && { description: post.meta.authorBio }),
                 ...(post.meta.authorLinkedIn && { sameAs: [post.meta.authorLinkedIn] }),
               },
               publisher: {
-                "@type": "Person",
-                name: post.meta.author,
+                "@type": "Organization",
+                name: translatedAppName,
+                logo: {
+                  "@type": "ImageObject",
+                  url: toAbsoluteUrl(siteConfig.app_icon),
+                },
               },
               datePublished: new Date(post.meta.date).toISOString(),
               ...(post.meta.modified && { dateModified: new Date(post.meta.modified).toISOString() }),
@@ -144,8 +155,8 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                   }
                 }))
               }),
-            }),
-          }}
+              }),
+            }}
         />
       </Head>
       {/* Colored header section with navigation */}
@@ -162,8 +173,8 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                 <div className="blog-single-author">
                   <div className="blog-single-author-avatar">
                     <Image
-                      src="/assets/Stephan_Lerner.jpg"
-                      alt="Author Stephan Lerner"
+                      src={post.meta.authorImage || '/assets/Stephan_Lerner.jpg'}
+                      alt={post.meta.author ? `Author ${post.meta.author}` : 'Author'}
                       width={40}
                       height={40}
                       style={{ borderRadius: '50%', objectFit: 'cover', objectPosition: 'top' }}
@@ -193,24 +204,12 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
           <div className="blog-single-container">
             <article className="blog-single-article">
               <div className="blog-single-content">
-                {/* Featured image moved to content area */}
-                {post.meta.featuredImage && (
-                  <figure className="blog-single-featured-image">
-                    <Image
-                      src={post.meta.featuredImage}
-                      alt={`Featured image for: ${post.meta.title}`}
-                      width={800}
-                      height={400}
-                      style={{ width: '100%', height: 'auto', borderRadius: '12px' }}
-                      priority
-                    />
-                  </figure>
-                )}
+                
                 <div
                   className="blog-single-body markdown-body"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
-                {post.meta.authorBio && (
+                {(authorBioFromKey || post.meta.authorBio) && (
                   <aside className="blog-single-author-bio">
                     <div className="author-bio-header">
                       <h3>{blogTranslations.about_author}</h3>
@@ -218,8 +217,8 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                     <div className="author-bio-content">
                       <div className="author-bio-avatar">
                         <Image
-                          src="/assets/Stephan_Lerner.jpg"
-                          alt="Author Stephan Lerner"
+                          src={post.meta.authorImage || '/assets/Stephan_Lerner.jpg'}
+                          alt={post.meta.author ? `Author ${post.meta.author}` : 'Author'}
                           width={80}
                           height={80}
                           style={{ borderRadius: '50%', objectFit: 'cover', objectPosition: 'top' }}
@@ -230,7 +229,7 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                           {post.meta.author}
                         </h4>
                         <p className="author-bio-description">
-                          {post.meta.authorBio}
+                          {authorBioFromKey || post.meta.authorBio}
                         </p>
                         <p className="author-bio-app-link">
                           <Link
@@ -263,6 +262,15 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                             </a>
                           </div>
                         )}
+                        {/* App download badges */}
+                        <div className="appButtonContainer">
+                          <AppStoreButton
+                            playstoreLink={siteConfig.playstore_link}
+                            appstoreLink={siteConfig.appstore_link}
+                            appStoreData={appStoreData}
+                            translations={allTranslations}
+                          />
+                        </div>
                       </div>
                     </div>
                   </aside>
@@ -380,6 +388,9 @@ export async function getStaticProps({ params, locale }) {
   const allTranslations = await getTranslations(currentLocale);
   const commonTranslations = await getTranslations(currentLocale, 'common');
   
+  // Get App Store data for locale-aware link (build-time)
+  const appStoreData = await fetchAppStoreData(currentLocale);
+  
   return {
     props: {
       post,
@@ -388,6 +399,7 @@ export async function getStaticProps({ params, locale }) {
       commonTranslations,
       translatedSlugs,
       relatedPosts,
+      appStoreData,
     },
     // Pure SSG - no revalidation, pages generated only at build time
   };

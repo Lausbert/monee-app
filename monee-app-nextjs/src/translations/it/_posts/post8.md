@@ -1,10 +1,6 @@
 ---
 title: "Budget settimanale vs. mensile: quale funziona meglio (e come cambiare)"
 excerpt: "Fai fatica a rispettare il tuo budget? Scopri se il budget settimanale o mensile funziona meglio per il tuo stile di vita, più consigli pratici per passare da un approccio all'altro e creare un sistema ibrido che funziona davvero."
-date: "2025-08-05"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "budget settimanale, budget mensile, pianificazione del budget, finanze personali, gestione del denaro, consigli per il budget, frequenza del budget, budget ibrido, monitoraggio del budget, gestione delle spese"
 ---
 

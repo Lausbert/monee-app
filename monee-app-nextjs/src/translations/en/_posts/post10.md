@@ -1,10 +1,6 @@
 ---
 title: "Split Expenses the Simple Way: Shared Households in Monee"
 excerpt: "Split household expenses without spreadsheets or awkward settle-ups. Monee’s Shared Households make fast entry, clear overviews, and privacy-first sync easy for couples, families, and roommates who want simple budget control."
-date: "2025-09-12"
-author: "Stephan Lerner"
-authorBio: "I'm developing the best money management app."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Monee, shared households, split expenses, budgeting app, couples budgeting, family budget, roommates, privacy, iOS, Android, recurring expenses, categories, data export, sync, financial clarity"
 ---
 As a married software developer with two small kids (5 and 2), time is the scarcest resource in our house. We prioritize the essentials: family, decent food, bikes, some fresh air. Money is a tool, not a trophy—our car just needs to start and carry the stroller. When it comes to budgeting, we keep it simple: long-term ETFs for investing, and manual tracking for day-to-day spending. That last part is the key. Writing expenses down—quickly, without fuss—keeps us on the same page without turning money into a control topic. Not needing is better than having, and clarity helps us choose “enough.”

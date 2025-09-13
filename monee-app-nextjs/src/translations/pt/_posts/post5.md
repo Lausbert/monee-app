@@ -1,10 +1,6 @@
 ---
 title: "Revisar e reduzir custos fixos – Um guia concreto"
 excerpt: "Com a inflação ainda em 2,4% ao ano (junho de 2025), cortar custos fixos e redirecionar as economias para ETFs é a maneira mais fácil de superar o aumento dos preços."
-date: "2025-07-08"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "reduzir custos fixos 2025, cortar gastos mensais, vencer inflação 2025, economizar dinheiro rápido, reduzir prêmios seguro, auditoria assinaturas, negociar contas, poupança alta rentabilidade 5% aa, investimento ETF, independência financeira"
 ---
 

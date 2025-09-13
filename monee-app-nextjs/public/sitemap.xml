@@ -15,8 +15,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/"/>
@@ -67,8 +67,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/"/>
@@ -119,8 +119,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -171,8 +171,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -223,8 +223,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -275,8 +275,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -327,8 +327,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -379,8 +379,8 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-09-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -418,7 +418,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/joint-account-or-separate-accounts/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/"/>
@@ -431,7 +431,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/"/>
@@ -443,8 +443,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/"/>
@@ -457,7 +470,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/"/>
@@ -470,7 +483,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-do-i-get-my-finances-under-control/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/"/>
@@ -483,7 +496,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/"/>
@@ -496,7 +509,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/"/>
@@ -509,7 +522,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/"/>
@@ -522,7 +535,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/"/>
@@ -535,7 +548,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/finally-monee-is-now-available-for-android/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/"/>
@@ -548,7 +561,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
@@ -561,7 +574,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/ausgaben-einfach-teilen-gemeinsame-haushalte-in-monee/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
@@ -573,8 +586,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/budgetplanung-zu-zweit-schritt-fur-schritt-anleitung/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
@@ -587,7 +613,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
@@ -600,7 +626,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wie-bringe-ich-meine-finanzen-unter-kontrolle/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
@@ -613,7 +639,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
@@ -626,7 +652,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
@@ -639,7 +665,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
@@ -652,7 +678,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
@@ -665,7 +691,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
@@ -678,7 +704,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
@@ -691,7 +717,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/partager-les-depenses-en-toute-simplicite-foyers-partages-dans-monee/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
@@ -703,8 +729,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/planification-budgetaire-a-deux-guide-etape-par-etape/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
@@ -717,7 +756,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
@@ -730,7 +769,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-prendre-le-controle-de-mes-finances/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
@@ -743,7 +782,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
@@ -756,7 +795,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
@@ -769,7 +808,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
@@ -782,7 +821,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
@@ -795,7 +834,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
@@ -808,7 +847,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
@@ -821,7 +860,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/divide-los-gastos-de-forma-sencilla-hogares-compartidos-en-monee/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
@@ -833,8 +872,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/planificacion-presupuestaria-para-dos-guia-paso-a-paso/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
@@ -847,7 +899,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
@@ -860,7 +912,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-pongo-mis-finanzas-bajo-control/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
@@ -873,7 +925,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
@@ -886,7 +938,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
@@ -899,7 +951,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
@@ -912,7 +964,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
@@ -925,7 +977,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
@@ -938,7 +990,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/conta-conjunta-ou-contas-separadas/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
@@ -951,7 +1003,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/dividir-despesas-de-forma-simples-residencias-compartilhadas-no-monee/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
@@ -963,8 +1015,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/planejamento-de-orcamento-para-dois-guia-passo-a-passo/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
@@ -977,7 +1042,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/contabilidade-domestica-digital-ou-analogica-pros-e-contras/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
@@ -990,7 +1055,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-coloco-minhas-financas-em-ordem/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
@@ -1003,7 +1068,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
@@ -1016,7 +1081,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/quais-despesas-as-familias-frequentemente-esquecem-e-como-evitar-isso/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
@@ -1029,7 +1094,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
@@ -1042,7 +1107,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
@@ -1055,7 +1120,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
@@ -1068,7 +1133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
@@ -1081,7 +1146,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/dividi-le-spese-nel-modo-piu-semplice-nuclei-domestici-condivisi-in-monee/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
@@ -1093,8 +1158,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/pianificazione-del-budget-di-coppia-guida-passo-dopo-passo/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
@@ -1107,7 +1185,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/contabilita-domestica-digitale-o-analogica-pro-e-contro/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
@@ -1120,7 +1198,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-faccio-a-tenere-sotto-controllo-le-mie-finanze/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
@@ -1133,7 +1211,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
@@ -1146,7 +1224,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/quali-spese-trascurano-spesso-le-famiglie-e-come-evitarlo/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
@@ -1159,7 +1237,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
@@ -1172,7 +1250,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
@@ -1185,7 +1263,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
@@ -1198,7 +1276,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/obschiy-schyot-ili-otdelnye-scheta/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
@@ -1211,7 +1289,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
@@ -1223,8 +1301,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee-shared-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/byudzhet-dlya-dvoih-poshagovoe-rukovodstvo/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
@@ -1237,7 +1328,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/domashnyaya-buhgalteriya-tsifrovaya-ili-bumazhnaya-plyusy-i-minusy/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
@@ -1250,7 +1341,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/kak-vzyat-finansy-pod-kontrol/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
@@ -1263,7 +1354,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
@@ -1276,7 +1367,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/kakie-rashody-semi-chasto-upuskayut-i-kak-etogo-izbezhat/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
@@ -1289,7 +1380,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/pochemu-vazhno-zapisyvat-kazhdyy-rashod-v-2025-godu/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
@@ -1302,7 +1393,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
@@ -1315,7 +1406,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>
@@ -1328,7 +1419,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/joint-account-or-separate-accounts/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/joint-account-or-separate-accounts/"/>
@@ -1341,7 +1432,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/monee-shared-households/</loc>
-    <lastmod>2025-09-12</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/split-expenses-the-simple-way-shared-households-in-monee/"/>
@@ -1353,8 +1444,21 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/delite-rashody-prosche-vsego-sovmestnye-domohozyaystva-v-monee/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/hi/blog/monee/</loc>
+    <lastmod>2025-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/hi/blog/budget-planning-for-two-step-by-step-guide/</loc>
-    <lastmod>2025-06-30</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/budget-planning-for-two-step-by-step-guide/"/>
@@ -1367,7 +1471,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/"/>
@@ -1380,7 +1484,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/</loc>
-    <lastmod>2025-07-07</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-do-i-get-my-finances-under-control/"/>
@@ -1393,7 +1497,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/"/>
@@ -1406,7 +1510,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/"/>
@@ -1419,7 +1523,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/why-tracking-every-expense-matters-in-2025/</loc>
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/"/>
@@ -1432,7 +1536,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
@@ -1445,7 +1549,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/</loc>
-    <lastmod>2025-08-17</lastmod>
+    <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/finally-monee-is-now-available-for-android/"/>

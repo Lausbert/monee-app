@@ -1,10 +1,6 @@
 ---
 title: "Conto Cointestato o Conti Separati?"
 excerpt: "Le coppie dovrebbero avere conti bancari condivisi o separati? La nostra esperienza reale nel passaggio da finanze separate a condivise e cosa ha funzionato meglio per noi."
-date: "2025-06-28"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "conto cointestato, finanze separate, gestione denaro coppie, spese condivise, pianificazione finanziaria coppie, finanze matrimonio, budget insieme, relazione denaro"
 ---
 

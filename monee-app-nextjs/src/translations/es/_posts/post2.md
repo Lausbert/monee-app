@@ -1,10 +1,6 @@
 ---
 title: "Planificación presupuestaria para dos: guía paso a paso"
 excerpt: "Aprende planificación presupuestaria para parejas con nuestra guía paso a paso. Consejos simples para armonía financiera, seguimiento de gastos y establecimiento de metas."
-date: "2025-06-30"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "planificación presupuestaria parejas, presupuesto familiar, seguimiento gastos, planificación financiera, finanzas parejas, consejos presupuesto, gestión dinero, presupuesto hogar, metas financieras, aplicaciones presupuesto, presupuesto mensual, finanzas conjuntas"
 ---
 

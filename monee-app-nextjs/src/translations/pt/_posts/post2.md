@@ -1,10 +1,6 @@
 ---
 title: "Planejamento de orçamento para dois: guia passo a passo"
 excerpt: "Aprenda planejamento de orçamento para casais com nosso guia passo a passo. Dicas simples para harmonia financeira, rastreamento de despesas e definição de metas."
-date: "2025-06-30"
-author: "Stephan Lerner"
-authorBio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "planejamento orçamento casais, orçamento familiar, rastreamento despesas, planejamento financeiro, finanças casal, dicas orçamento, gestão financeira, orçamento doméstico, metas financeiras, aplicativos orçamento, orçamento mensal, finanças conjuntas"
 ---
 

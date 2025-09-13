@@ -1,10 +1,6 @@
 ---
 title: "Which Expenses Do Families Often Overlook, and How to Avoid That?"
 excerpt: "Families waste $32 on unused subs and $91 on memberships. Spot hidden costs—from kid sports to home repairs—and seal leaks with 2025 budgeting hacks."
-date: "2025-07-09"
-author: "Stephan Lerner"
-authorBio: "I'm developing the best money management app."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "family budget, overlooked expenses, hidden costs, subscription fatigue 2025, average subscription spend, unused subscriptions cost, kids activity fees, gift budgeting, home maintenance fund, medical co-pays, impulse buys online, inflation 2025, household finance, budget hacks 2025, money-saving tips"
 ---
 

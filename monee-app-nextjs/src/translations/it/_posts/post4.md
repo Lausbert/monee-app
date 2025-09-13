@@ -1,10 +1,6 @@
 ---
 title: "Come faccio a tenere sotto controllo le mie finanze?"
 excerpt: "Hai problemi con i soldi? Scopri i migliori trucchi di budgeting del 2025, consigli per tracciare le spese e la strategia MSCI World ETF per semplificare le finanze familiari e aumentare i risparmi."
-date: "2025-07-07"
-author: "Stephan Lerner"
-authorBio: "Sto sviluppando la migliore app per la gestione del denaro."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "finanze personali 2025, app budgeting 2025, consigli budget familiare, tracciamento spese, MSCI World ETF, investimenti ETF 2025, ETF migliori performance 2025, tassi risparmio alto rendimento, app gestione denaro, pianificazione finanziaria genitori, strategie eliminazione debiti, automatizzare risparmi, inflazione 2025"
 ---
 

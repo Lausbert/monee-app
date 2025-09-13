@@ -1,10 +1,6 @@
 ---
 title: "Presupuesto semanal vs. mensual: ¿Cuál funciona mejor (y cómo cambiar)?"
 excerpt: "¿Te cuesta mantener tu presupuesto? Descubre si el presupuesto semanal o mensual funciona mejor para tu estilo de vida, además de consejos prácticos para cambiar entre enfoques y crear un sistema híbrido que realmente funcione."
-date: "2025-08-05"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "presupuesto semanal, presupuesto mensual, planificación presupuestaria, finanzas personales, gestión del dinero, consejos de presupuesto, frecuencia de presupuesto, presupuesto híbrido, seguimiento del presupuesto, gestión de gastos"
 ---
 

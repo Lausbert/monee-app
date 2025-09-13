@@ -5,6 +5,7 @@ import { remark } from 'remark';
 import html from 'remark-html';
 
 const postsDirectory = path.join(process.cwd(), 'src/translations');
+const postsMetaDirectory = path.join(process.cwd(), 'src/blog-meta');
 
 // Helper function to convert title to URL-friendly slug
 function titleToSlug(title) {
@@ -56,9 +57,27 @@ export function getBlogPostBySlug(slug, locale) {
     const computedSlug = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
     if (computedSlug) {
       if (computedSlug === slug) {
+        // Merge with shared metadata (by postId derived from filename)
+        const postId = path.parse(file).name; // e.g., 'post1'
+        let sharedMeta = {};
+        try {
+          const metaPath = path.join(postsMetaDirectory, `${postId}.json`);
+          if (fs.existsSync(metaPath)) {
+            const raw = fs.readFileSync(metaPath, 'utf8');
+            sharedMeta = JSON.parse(raw);
+          }
+        } catch (e) {
+          // noop: fall back to frontmatter only
+        }
+
+        // Prefer shared meta for redundant fields; fall back to frontmatter
+        const mergedMeta = {
+          ...data,
+          ...(sharedMeta || {}),
+        };
         return {
           slug: computedSlug,
-          meta: data,
+          meta: mergedMeta,
           content,
         };
       }
@@ -82,6 +101,18 @@ export function getAllBlogPosts(locale) {
       const filePath = path.join(fullPath, file);
       const fileContents = fs.readFileSync(filePath, 'utf8');
       const { data, content } = matter(fileContents);
+      // Merge with shared metadata (by postId derived from filename)
+      const postId = path.parse(file).name; // e.g., 'post1'
+      let sharedMeta = {};
+      try {
+        const metaPath = path.join(postsMetaDirectory, `${postId}.json`);
+        if (fs.existsSync(metaPath)) {
+          const raw = fs.readFileSync(metaPath, 'utf8');
+          sharedMeta = JSON.parse(raw);
+        }
+      } catch (e) {
+        // noop: fall back to frontmatter only
+      }
       
       if (!data.title && !data.slug) {
         return null; // Skip posts without titles
@@ -91,7 +122,10 @@ export function getAllBlogPosts(locale) {
       
       return {
         slug: titleSlug,
-        meta: data,
+        meta: {
+          ...data,
+          ...(sharedMeta || {}),
+        },
         content,
       };
     })

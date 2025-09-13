@@ -1,10 +1,6 @@
 ---
 title: "¿Cómo pongo mis finanzas bajo control?"
 excerpt: "¿Luchando con el dinero? Aprende los mejores trucos de presupuesto de 2025, consejos de seguimiento de gastos y estrategia MSCI World ETF para simplificar las finanzas familiares y aumentar ahorros."
-date: "2025-07-07"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "finanzas personales 2025, aplicaciones presupuesto 2025, consejos presupuesto familiar, seguimiento gastos, MSCI World ETF, inversión ETF 2025, mejores ETF rendimiento 2025, tasas ahorro alto rendimiento, aplicaciones gestión dinero, planificación financiera padres, estrategias pago deudas, automatizar ahorros, inflación 2025"
 ---
 

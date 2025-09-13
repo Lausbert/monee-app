@@ -1,10 +1,6 @@
 ---
 title: "Review and Reduce Fixed Costs – A Concrete Guide"
 excerpt: "With inflation still at 2.4% YoY (June 2025), slashing fixed costs and redirecting the savings to ETFs is the easiest way to outpace rising prices."
-date: "2025-07-08"
-author: "Stephan Lerner"
-authorBio: "I'm developing the best money management app."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "reduce fixed costs 2025, cut monthly expenses, beat inflation 2025, save money fast, lower insurance premiums, subscription audit, negotiate bills, high-yield savings 5% APY, ETF investing, financial independence"
 ---
 

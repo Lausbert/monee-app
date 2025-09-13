@@ -1,10 +1,6 @@
 ---
 title: "Budgetplanung zu zweit: Schritt-für-Schritt Anleitung"
 excerpt: "Budgetplanung für Paare: Schritt-für-Schritt Anleitung für finanzielle Harmonie. Tipps für Ausgabenverfolgung und gemeinsame Ziele."
-date: "2025-06-30"
-author: "Stephan Lerner"
-authorBio: "Ich entwickle die beste Geldverwaltungs-App."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "Budgetplanung Paare, Familienbudget, Ausgabenverfolgung, Finanzplanung, Haushaltsbudget, Budget App, Geld sparen, gemeinsame Finanzen, Budgeting Tipps, monatliches Budget, Finanzharmonie, Geld verwalten"
 ---
 

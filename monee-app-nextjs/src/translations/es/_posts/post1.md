@@ -1,10 +1,6 @@
 ---
 title: "¿Cuenta conjunta o cuentas separadas?"
 excerpt: "¿Deberían las parejas tener cuentas bancarias conjuntas o separadas? Nuestra experiencia real cambiando de finanzas separadas a compartidas y qué funcionó mejor para nosotros."
-date: "2025-06-28"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "cuenta bancaria conjunta, finanzas separadas, gestión de dinero parejas, gastos compartidos, planificación financiera parejas, finanzas matrimonio, presupuesto conjunto, relación dinero"
 ---
 

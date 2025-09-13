@@ -198,3 +198,17 @@ reviews:
   previous: "Anterior"
   next: "Seguinte"
   no_reviews: "Nenhuma avaliação disponível de momento."
+
+authors:
+  stephan_lerner:
+    bio: "Estou desenvolvendo o melhor aplicativo de gestão financeira."
+  lina:
+    bio: "Estudante de comunicação em Berlim que compartilha números reais e experimentos de orçamento sem complicação que realmente cabem na vida universitária."
+  maya_and_tom:
+    bio: "Casal de Hamburgo documentando como dividem de forma justa as compras, as contas e as viagens — com regras simples que qualquer pessoa pode copiar."
+  jules:
+    bio: "Designer freelancer em Colônia que descomplica o orçamento com renda irregular usando modelos práticos, sistemas de categorias e resumos mensais."
+  elena:
+    bio: "Mãe de Munique e CFO da família que caça gastos ocultos e conduz um check-in financeiro semanal leve de 15 minutos."
+  marco:
+    bio: "Expat em Lisboa, de Frankfurt, que compartilha orçamentos de viagem em múltiplas moedas, guias de gastos cidade a cidade e truques de carryover (reaproveitamento de saldo)."

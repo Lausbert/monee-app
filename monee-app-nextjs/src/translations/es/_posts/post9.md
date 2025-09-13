@@ -1,10 +1,6 @@
 ---
 title: "¡Por fin! Monee ya está disponible para Android"
 excerpt: "Monee llega a Android: una app gratuita y respetuosa con la privacidad para presupuestar y registrar gastos en Google Play, con registro rápido, hogares compartidos y sincronización fluida."
-date: "2025-08-17"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor app de gestión del dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "monee, android, google play, app de presupuesto, registro de gastos, seguimiento de dinero, presupuesto familiar, presupuesto compartido, finanzas en pareja, gastos del hogar, finanzas personales, app gratuita, sin anuncios, privacidad, transacciones recurrentes, categorías, exportación de datos, sincronización"
 ---
 

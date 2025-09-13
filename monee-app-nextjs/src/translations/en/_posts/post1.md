@@ -1,10 +1,6 @@
 ---
 title: "Joint Account or Separate Accounts?"
 excerpt: "Should couples have joint or separate bank accounts? Our real experience switching from separate to shared finances and what worked best for us."
-date: "2025-06-28"
-author: "Stephan Lerner"
-authorBio: "I'm developing the best money management app."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "joint bank account, separate finances, couples money management, shared expenses, financial planning couples, marriage finances, budgeting together, money relationship"
 ---
 

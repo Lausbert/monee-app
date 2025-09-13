@@ -1,10 +1,6 @@
 ---
 title: "¿Qué Gastos Pasan Desapercibidos Frecuentemente en las Familias, y Cómo Evitarlo?"
 excerpt: "Las familias desperdician $32 en suscripciones no utilizadas y $91 en membresías. Detecta costos ocultos—desde deportes infantiles hasta reparaciones del hogar—y sella las fugas con trucos de presupuesto 2025."
-date: "2025-07-09"
-author: "Stephan Lerner"
-authorBio: "Estoy desarrollando la mejor aplicación de gestión de dinero."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "presupuesto familiar, gastos pasados por alto, costos ocultos, fatiga suscripciones 2025, gasto promedio suscripciones, costo suscripciones no utilizadas, tarifas actividades niños, presupuesto regalos, fondo mantenimiento hogar, copagos médicos, compras impulsivas online, inflación 2025, finanzas hogar, trucos presupuesto 2025, consejos ahorro dinero"
 ---
 

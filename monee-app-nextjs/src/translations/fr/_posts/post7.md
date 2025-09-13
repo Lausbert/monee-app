@@ -1,10 +1,6 @@
 ---
 title: "Pourquoi suivre chaque dépense compte en 2025"
 excerpt: "Découvrez pourquoi suivre chaque dépense est devenu essentiel en 2025. Avec des coûts croissants et des changements économiques imprévisibles, comprendre exactement où va votre argent est crucial pour la stabilité financière et la réduction du stress."
-date: "2025-07-21"
-author: "Stephan Lerner"
-authorBio: "Je développe la meilleure application de gestion d'argent."
-authorLinkedIn: "https://www.linkedin.com/in/stephan-lerner-301ba091/"
 keywords: "suivi des dépenses, budget familial, gestion financière, contrôle des dépenses, planification financière, économie domestique, finances personnelles, réduction des coûts, transparence financière, habitudes financières"
 ---
 
