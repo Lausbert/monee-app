@@ -41,8 +41,8 @@ export async function getStaticProps({ locale }) {
 
 export default function ImprintPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
   // Determine title and description like in the original
-  const title = pageTranslations?.title || frontmatter?.title || translations?.global?.app_name || 'Monee - Budget & Expense Tracker';
-  const description = pageTranslations?.description || frontmatter?.description || translations?.global?.app_description || 'Monee puts you back in control of your finances.';
+  const title = translations?.titles?.imprint || 'Imprint';
+  const description = translations?.titles?.imprint + ': ' + translations?.global?.app_description || 'Imprint Monee';
 
   return (
     <>

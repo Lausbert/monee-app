@@ -136,7 +136,7 @@ export function getAllBlogPosts(locale) {
 }
 
 // Function to get related posts based on keywords and tags
-export function getRelatedPosts(currentPost, locale, maxPosts = 2) {
+export function getRelatedPosts(currentPost, locale, maxPosts = 4) {
   const allPosts = getAllBlogPosts(locale);
   
   // Filter out the current post

@@ -38,7 +38,7 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
   return (
     <>
       <Head>
-        <title>{`${title}`}</title>
+        <title>{`${title} | ${translatedAppName}`}</title>
         <meta name="description" content={description} />
         <link rel="shortcut icon" href="/assets/appicon.webp" />
         {/* Essential meta tags for the browser tab */}

@@ -43,8 +43,8 @@ export async function getStaticProps({ locale }) {
 
 export default function PrivacyPage({ translations, pageTranslations, contentHtml, frontmatter, currentLocale }) {
   // Determine title and description
-  const title = pageTranslations?.title || frontmatter?.title || translations?.global?.app_name || 'Privacy Policy';
-  const description = pageTranslations?.description || frontmatter?.description || translations?.global?.app_description || 'Our privacy policy details.';
+  const title = translations?.titles?.privacy || 'Privacy Policy';
+  const description = translations?.titles?.privacy + ': ' + translations?.global?.app_description || 'Privacy Policy Monee';
 
   return (
     <>
