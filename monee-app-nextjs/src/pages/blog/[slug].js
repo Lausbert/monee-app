@@ -213,6 +213,18 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                   className="blog-single-body markdown-body"
                   dangerouslySetInnerHTML={{ __html: content }}
                 />
+                {/* End-of-post CTA: Discover & Download */}
+                <section className="blog-single-cta-section" aria-label="App call to action">
+                  <h3 className="blog-single-cta-title">{blogTranslations.discover_app}</h3>
+                  <div className="blog-single-cta-buttons">
+                    <AppStoreButton
+                      playstoreLink={siteConfig.playstore_link}
+                      appstoreLink={siteConfig.appstore_link}
+                      appStoreData={appStoreData}
+                      translations={allTranslations}
+                    />
+                  </div>
+                </section>
                 {(authorBioFromKey || post.meta.authorBio) && (
                   <aside className="blog-single-author-bio">
                     <div className="author-bio-header">
@@ -234,14 +246,6 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                         </h4>
                         <p className="author-bio-description">
                           {authorBioFromKey || post.meta.authorBio}
-                        </p>
-                        <p className="author-bio-app-link">
-                          <Link
-                            href={`/${locale !== 'en' ? locale : ''}`}
-                            title={blogTranslations.discover_app}
-                          >
-                            {blogTranslations.discover_app}
-                          </Link>
                         </p>
                         {post.meta.authorLinkedIn && (
                           <div className="author-bio-social">
@@ -266,15 +270,6 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                             </a>
                           </div>
                         )}
-                        {/* App download badges */}
-                        <div className="appButtonContainer">
-                          <AppStoreButton
-                            playstoreLink={siteConfig.playstore_link}
-                            appstoreLink={siteConfig.appstore_link}
-                            appStoreData={appStoreData}
-                            translations={allTranslations}
-                          />
-                        </div>
                       </div>
                     </div>
                   </aside>
