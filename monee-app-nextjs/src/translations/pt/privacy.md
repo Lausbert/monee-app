@@ -1,5 +1,5 @@
-**Última atualização**  
-9 de julho de 2025
+**Última atualização**
+15 de setembro de 2025
 
 # Política de Privacidade
 
@@ -39,57 +39,11 @@ Se nos contactar através de correio, os seus dados serão guardados para que po
 
 A aplicação e este website usam serviços de terceiros que podem recolher informações usadas para identificá-lo.
 
-### Vercel
+### App
 
-#### Tipo e propósito do processamento:
-Se aceder a este website, ou seja, se não se registar ou fornecer informações de outra forma, informações de natureza geral são recolhidas automaticamente. Esta informação (ficheiros de log do servidor) inclui, por exemplo, o tipo de navegador web, o sistema operativo usado, o nome do domínio do seu fornecedor de serviços de Internet, o seu endereço IP e similares.
+#### Firebase Authentication
 
-São processados em particular para os seguintes propósitos:
-
-- Garantir uma ligação sem problemas ao website,
-- Garantir o uso suave deste website,
-- Avaliação da segurança e estabilidade do sistema, bem como
-para outros propósitos administrativos.
-- Não usamos os seus dados para tirar conclusões sobre si pessoalmente. Informações deste tipo podem ser avaliadas estatisticamente por nós para otimizar este website e a tecnologia por trás dele.
-
-#### Base legal:
-O processamento ocorre de acordo com o Art. 6 Para. 1 lit. f RGPD baseado no nosso interesse legítimo em melhorar a estabilidade e funcionalidade deste website.
-
-#### Recetor:
-Os dados são recebidos pela [Vercel](https://vercel.com/blog/what-is-vercel) que trabalha como processador para a operação e manutenção deste website. Visite [Práticas de Privacidade Global da Vercel](https://vercel.com/legal/privacy-policy) para mais informações e opções para objeção.
-
-#### Duração de armazenamento:
-Os dados serão eliminados assim que deixarem de ser necessários para o propósito da recolha. Este é geralmente o caso dos dados usados para fornecer o website quando a respetiva sessão terminou.
-
-#### Provisão obrigatória ou necessária:
-A provisão dos dados pessoais acima mencionados não é legalmente nem contratualmente obrigatória. Sem o endereço IP, no entanto, o serviço e funcionalidade deste website não são garantidos. Além disso, serviços individuais e serviços podem não estar disponíveis ou restritos. Por esta razão, uma objeção está excluída.
-
-### MailerLite
-
-#### Tipo e propósito do processamento:
-
-Se subscrever a nossa newsletter ou atualizações por email através do nosso website, recolheremos o seu endereço de email (e qualquer informação que forneça para este propósito) através de um formulário de inscrição operado pelo MailerLite. Estes dados são usados exclusivamente para gerir a sua subscrição e enviar-lhe a newsletter ou atualizações que solicitou. São processados em particular para o seguinte propósito:
-Enviar-lhe emails periódicos de newsletter sobre atualizações do produto, ofertas ou notícias relevantes que subscreveu para receber, e gerir as suas preferências de subscrição (como honrar pedidos de cancelamento de subscrição).
-
-#### Base legal:
-
-O processamento ocorre de acordo com o Art. 6 Para. 1 lit. a RGPD, baseado no seu consentimento para receber a nossa newsletter. (Por outras palavras, só recolheremos e usaremos o seu email para este propósito se tiver subscrito ativamente. Pode retirar o seu consentimento a qualquer momento cancelando a subscrição da newsletter.)
-
-#### Recetor:
-
-Os dados são recebidos pelo MailerLite, um fornecedor de serviços de marketing por email, que atua como processador em nosso nome para gerir subscrições de newsletter e distribuir emails. O MailerLite armazena o seu endereço de email nos seus servidores seguros. Estes servidores podem estar localizados fora da Área Económica Europeia (por exemplo, nos Estados Unidos), mas o MailerLite garante que qualquer transferência de dados pessoais fora da EEA é protegida por salvaguardas apropriadas em conformidade com as leis de proteção de dados da UE – por exemplo, através do uso de Cláusulas Contratuais Padrão da UE (SCCs). Visite [Política de Privacidade do MailerLite](https://www.mailerlite.com/legal/privacy-policy) para mais informações sobre como o MailerLite processa e protege dados pessoais.
-
-#### Duração de armazenamento:
-
-Reteremos o seu endereço de email apenas enquanto permanecer subscrito à nossa newsletter. Pode cancelar a subscrição a qualquer momento usando o link de cancelamento fornecido em cada email ou contactando-nos diretamente. Se cancelar a subscrição ou solicitar a eliminação dos seus dados, o seu endereço de email será prontamente removido da nossa lista de correio e eliminado do sistema do MailerLite. Da mesma forma, se descontinuarmos o nosso serviço de newsletter, eliminaremos todos os dados de subscrição de email associados.
-
-#### Provisão obrigatória ou necessária:
-
-A provisão do seu endereço de email para o serviço de newsletter é inteiramente voluntária e nem legalmente nem contratualmente obrigatória. Escolher não subscrever (ou cancelar a subscrição mais tarde) significa simplesmente que não receberá os nossos emails de newsletter, mas não afetará a sua capacidade de usar outras funcionalidades do nosso Serviço. A sua decisão de fornecer ou reter um email para este propósito não impacta o seu uso da aplicação Monee ou website de qualquer outra forma. Esta adição alinha-se com o nosso compromisso com a transparência e conformidade com RGPD, garantindo que está informado sobre como lidamos com o seu endereço de email para propósitos de newsletter.
-
-### Firebase Authentication
-
-#### Tipo e propósito do processamento:
+##### Tipo e propósito do processamento:
 
 Ao registar-se e usar a aplicação, é possível transmitir um endereço de email. Recomendamos usar a funcionalidade "Hide my email" da Apple para ocultar o endereço de email real.
 
@@ -97,22 +51,22 @@ São processados em particular para o seguinte propósito:
 
 - Identificar unicamente um utilizador e restaurar dados para um dispositivo no caso de logout, mudança de dispositivo ou nova instalação
 
-#### Base legal:
+##### Base legal:
 O processamento ocorre de acordo com o Art. 6 Para. 1 lit. f RGPD baseado no nosso interesse legítimo em fornecer a funcionalidade da nossa aplicação.
 
-#### Recetor:
+##### Recetor:
 
 Os dados são recebidos pelo [Firebase, uma empresa do Google](https://firebase.google.com), que trabalha como processador para a operação e manutenção da nossa aplicação. Visite [Política de Privacidade do Google](https://policies.google.com/privacy) ou [Firebase](https://firebase.google.com/support/privacy) para mais informações e opções para objeção.
 
-#### Duração de armazenamento:
+##### Duração de armazenamento:
 A Firebase Authentication retém informações de autenticação até eliminar a sua conta, após o que os dados são removidos dentro de 180 dias.
 
-#### Provisão obrigatória ou necessária:
+##### Provisão obrigatória ou necessária:
 A provisão do seu endereço de email é voluntária, unicamente com base no seu consentimento. Infelizmente, não podemos restaurar a sua conta no caso de logout, mudança de dispositivo ou nova instalação sem um endereço de email.
 
-### Firebase Realtime Database
+#### Firebase Realtime Database
 
-#### Tipo e propósito do processamento:
+##### Tipo e propósito do processamento:
 
 Ao usar a aplicação, é necessário fornecer um nome. Recomendamos dar um apelido que possa ser claramente atribuído por todos no agregado familiar. Também é possível transmitir dados sobre as suas despesas e receitas pessoais.
 
@@ -122,22 +76,22 @@ São processados em particular para o seguinte propósito:
 - Apresentar-lhe uma visão geral e insights nas suas finanças pessoais
 - Partilhar dados com membros do seu agregado familiar
 
-#### Base legal:
+##### Base legal:
 O processamento ocorre de acordo com o Art. 6 Para. 1 lit. f RGPD baseado no nosso interesse legítimo em fornecer a funcionalidade da nossa aplicação.
 
-#### Recetor:
+##### Recetor:
 
 Os dados são recebidos pelo [Firebase, uma empresa do Google](https://firebase.google.com), que trabalha como processador para a operação e manutenção da nossa aplicação. Visite [Política de Privacidade do Google](https://policies.google.com/privacy) ou [Firebase](https://firebase.google.com/support/privacy) para mais informações e opções para objeção.
 
-#### Duração de armazenamento:
+##### Duração de armazenamento:
 Os dados serão eliminados assim que deixarem de ser necessários para o propósito da recolha. Este é geralmente o caso quando elimina a sua conta.
 
-#### Provisão obrigatória ou necessária:
+##### Provisão obrigatória ou necessária:
 A provisão do seu nome e dados financeiros é voluntária, unicamente com base no seu consentimento. Infelizmente, não podemos fornecer funcionalidade útil sem estes dados.
 
-### Firebase Crashlytics
+#### Firebase Crashlytics
 
-#### Tipo e propósito do processamento:
+##### Tipo e propósito do processamento:
 
 No caso de uma falha da aplicação, os dados serão recolhidos. Isso pode incluir: 
 
@@ -150,18 +104,91 @@ São processados em particular para o seguinte propósito:
 - Depuração de falhas da aplicação
 - Acessibilidade confiável e garantia de todas as funcionalidades da aplicação
 
-#### Base legal:
+##### Base legal:
 O processamento ocorre de acordo com o Art. 6 Para. 1 lit. f RGPD baseado no nosso interesse legítimo em melhorar a funcionalidade da nossa aplicação.
 
-#### Recetor:
+##### Recetor:
 
 Os dados são recebidos pelo [Firebase, uma empresa do Google](https://firebase.google.com), que trabalha como processador para a operação e manutenção da nossa aplicação. Visite [Política de Privacidade do Google](https://policies.google.com/privacy) ou [Firebase](https://firebase.google.com/support/privacy) para mais informações e opções para objeção.
 
-#### Duração de armazenamento:
+##### Duração de armazenamento:
 Os dados são eliminados dentro de 90 dias.
 
-#### Provisão obrigatória ou necessária:
+##### Provisão obrigatória ou necessária:
 A provisão dos dados acima mencionados não é legalmente nem contratualmente obrigatória. Sem os dados, no entanto, o serviço e funcionalidade da nossa aplicação não são garantidos.
+
+### Web
+
+#### Vercel
+
+##### Tipo e propósito do processamento:
+Se aceder a este website, ou seja, se não se registar ou fornecer informações de outra forma, informações de natureza geral são recolhidas automaticamente. Esta informação (ficheiros de log do servidor) inclui, por exemplo, o tipo de navegador web, o sistema operativo usado, o nome do domínio do seu fornecedor de serviços de Internet, o seu endereço IP e similares.
+
+São processados em particular para os seguintes propósitos:
+
+- Garantir uma ligação sem problemas ao website,
+- Garantir o uso suave deste website,
+- Avaliação da segurança e estabilidade do sistema, bem como
+para outros propósitos administrativos.
+- Não usamos os seus dados para tirar conclusões sobre si pessoalmente. Informações deste tipo podem ser avaliadas estatisticamente por nós para otimizar este website e a tecnologia por trás dele.
+
+##### Base legal:
+O processamento ocorre de acordo com o Art. 6 Para. 1 lit. f RGPD baseado no nosso interesse legítimo em melhorar a estabilidade e funcionalidade deste website.
+
+##### Recetor:
+Os dados são recebidos pela [Vercel](https://vercel.com/blog/what-is-vercel) que trabalha como processador para a operação e manutenção deste website. Visite [Práticas de Privacidade Global da Vercel](https://vercel.com/legal/privacy-policy) para mais informações e opções para objeção.
+
+##### Duração de armazenamento:
+Os dados serão eliminados assim que deixarem de ser necessários para o propósito da recolha. Este é geralmente o caso dos dados usados para fornecer o website quando a respetiva sessão terminou.
+
+##### Provisão obrigatória ou necessária:
+A provisão dos dados pessoais acima mencionados não é legalmente nem contratualmente obrigatória. Sem o endereço IP, no entanto, o serviço e funcionalidade deste website não são garantidos. Além disso, serviços individuais e serviços podem não estar disponíveis ou restritos. Por esta razão, uma objeção está excluída.
+
+#### PostHog Analytics
+
+##### Âmbito do tratamento de dados
+Utilizamos o PostHog no nosso site. O PostHog é uma ferramenta de análise open source da PostHog Inc. que nos permite recolher e analisar dados sobre a utilização do nosso site pelos visitantes. Estes dados são usados para melhorar o nosso site e garantir uma melhor experiência do utilizador.
+
+Quando visita o nosso site, o PostHog recolhe informações como as páginas que visita, o tempo despendido nessas páginas, o site de origem, o tipo de dispositivo, o navegador e o sistema operativo utilizados, bem como diversos dados de interação. Estes dados são armazenados em servidores da PostHog Inc. nos Estados Unidos.
+
+##### Base jurídica para o tratamento de dados
+A base jurídica para o tratamento dos dados dos utilizadores é o art. 6.º, n.º 1, alínea f), do RGPD (interesse legítimo). O nosso interesse legítimo reside na análise, otimização e operação económica do nosso site.
+
+##### Finalidade do tratamento de dados
+O PostHog é utilizado para analisar a utilização do nosso site e para melhorar continuamente determinadas funcionalidades e ofertas. A avaliação estatística do comportamento dos utilizadores permite-nos melhorar a nossa oferta e torná-la mais interessante para si.
+
+##### Duração de armazenamento
+Os dados serão eliminados assim que deixarem de ser necessários para as finalidades da sua recolha. No nosso caso, após 14 meses.
+
+##### Oposição e opções de remoção
+Pode impedir a recolha e a utilização dos seus dados pelo PostHog definindo um cookie de opt-out que impede o armazenamento dos seus dados em visitas futuras a este site.
+
+Pode impedir a recolha dos dados gerados pelo cookie e relacionados com a sua utilização do site (incluindo o seu endereço IP) e o tratamento desses dados pelo PostHog seguindo as instruções no seguinte site: [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
+
+Tenha em atenção que, se os cookies forem eliminados nas definições do navegador, o cookie de opt-out também pode ser eliminado e poderá ter de o ativar novamente.
+
+#### MailerLite
+
+##### Tipo e propósito do processamento:
+
+Se subscrever a nossa newsletter ou atualizações por email através do nosso website, recolheremos o seu endereço de email (e qualquer informação que forneça para este propósito) através de um formulário de inscrição operado pelo MailerLite. Estes dados são usados exclusivamente para gerir a sua subscrição e enviar-lhe a newsletter ou atualizações que solicitou. São processados em particular para o seguinte propósito:
+Enviar-lhe emails periódicos de newsletter sobre atualizações do produto, ofertas ou notícias relevantes que subscreveu para receber, e gerir as suas preferências de subscrição (como honrar pedidos de cancelamento de subscrição).
+
+##### Base legal:
+
+O processamento ocorre de acordo com o Art. 6 Para. 1 lit. a RGPD, baseado no seu consentimento para receber a nossa newsletter. (Por outras palavras, só recolheremos e usaremos o seu email para este propósito se tiver subscrito ativamente. Pode retirar o seu consentimento a qualquer momento cancelando a subscrição da newsletter.)
+
+##### Recetor:
+
+Os dados são recebidos pelo MailerLite, um fornecedor de serviços de marketing por email, que atua como processador em nosso nome para gerir subscrições de newsletter e distribuir emails. O MailerLite armazena o seu endereço de email nos seus servidores seguros. Estes servidores podem estar localizados fora da Área Económica Europeia (por exemplo, nos Estados Unidos), mas o MailerLite garante que qualquer transferência de dados pessoais fora da EEA é protegida por salvaguardas apropriadas em conformidade com as leis de proteção de dados da UE – por exemplo, através do uso de Cláusulas Contratuais Padrão da UE (SCCs). Visite [Política de Privacidade do MailerLite](https://www.mailerlite.com/legal/privacy-policy) para mais informações sobre como o MailerLite processa e protege dados pessoais.
+
+##### Duração de armazenamento:
+
+Reteremos o seu endereço de email apenas enquanto permanecer subscrito à nossa newsletter. Pode cancelar a subscrição a qualquer momento usando o link de cancelamento fornecido em cada email ou contactando-nos diretamente. Se cancelar a subscrição ou solicitar a eliminação dos seus dados, o seu endereço de email será prontamente removido da nossa lista de correio e eliminado do sistema do MailerLite. Da mesma forma, se descontinuarmos o nosso serviço de newsletter, eliminaremos todos os dados de subscrição de email associados.
+
+##### Provisão obrigatória ou necessária:
+
+A provisão do seu endereço de email para o serviço de newsletter é inteiramente voluntária e nem legalmente nem contratualmente obrigatória. Escolher não subscrever (ou cancelar a subscrição mais tarde) significa simplesmente que não receberá os nossos emails de newsletter, mas não afetará a sua capacidade de usar outras funcionalidades do nosso Serviço. A sua decisão de fornecer ou reter um email para este propósito não impacta o seu uso da aplicação Monee ou website de qualquer outra forma. Esta adição alinha-se com o nosso compromisso com a transparência e conformidade com RGPD, garantindo que está informado sobre como lidamos com o seu endereço de email para propósitos de newsletter.
 
 ## Segurança
 

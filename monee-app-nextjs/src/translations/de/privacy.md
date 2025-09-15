@@ -1,5 +1,5 @@
 **Letzte Aktualisierung**
-<br>09\. Juli 2025
+<br>15\. September 2025
 
 # Datenschutz
 
@@ -41,56 +41,11 @@ Bei Ihrer Kontaktaufnahme per E-Mail werden Ihre Angaben gespeichert, damit auf 
 
 Die App und diese Website verwenden Dienste von Drittanbietern, die Informationen sammeln können, die zu Ihrer Identifizierung verwendet werden.
 
-### Vercel
+### App
 
-#### Art und Zweck der Verarbeitung:
-Wenn Sie auf diese Website zugreifen, also wenn Sie sich nicht registrieren oder anderweitig Informationen übermitteln, werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen (Server-Logfiles) beinhalten etwa die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse und Ähnliches.
+#### Firebase Authentication
 
-Sie werden insbesondere zu folgenden Zwecken verarbeitet:
-
-- Gewährleistung eines problemlosen Verbindungsaufbaus der Website,
-- Gewährleistung einer reibungslosen Nutzung dieser Website,
-- Bewertung der Systemsicherheit und -stabilität sowie
-für andere Verwaltungszwecke.
-- Wir verwenden Ihre Daten nicht, um Rückschlüsse auf Ihre Person zu ziehen. Informationen dieser Art werden von uns ggfs. statistisch ausgewertet, um diesen Internetauftritt und die dahinterstehende Technik zu optimieren.
-
-#### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität dieser Website.
-
-#### Empfänger:
-Die Daten werden von [Vercel](https://vercel.com/blog/what-is-vercel) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung dieser Webseite tätig sind. Besuchen Sie [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) für weitere Informationen und Widerspruchsmöglichkeiten.
-
-#### Speicherdauer:
-Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die Daten, die der Bereitstellung der Website dienen, ist dies in der Regel der Fall, wenn die jeweilige Sitzung beendet ist.
-
-#### Bereitstellung erforderlich oder vorgeschrieben:
-Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die IP-Adresse ist jedoch der Dienst und die Funktionsfähigkeit dieser Website nicht gewährleistet. Darüber hinaus können einzelne Dienste und Dienste nicht verfügbar oder eingeschränkt sein. Ein Widerspruch ist aus diesem Grund ausgeschlossen.
-
-### MailerLite
-
-#### Art und Zweck der Verarbeitung:
-
-Wenn Sie sich über unsere Website für unseren Newsletter oder E-Mail-Updates anmelden, erfassen wir Ihre E-Mail-Adresse (sowie alle weiteren Informationen, die Sie zu diesem Zweck angeben) über ein Anmeldeformular, das von MailerLite betrieben wird. Diese Daten werden ausschließlich verwendet, um Ihre Anmeldung zu verwalten und Ihnen den gewünschten Newsletter oder die Updates zuzusenden. Sie werden insbesondere zu folgendem Zweck verarbeitet: Versand regelmäßiger Newsletter-E-Mails mit Produktaktualisierungen, Angeboten oder relevanten Nachrichten, für die Sie sich angemeldet haben, sowie Verwaltung Ihrer Abonnementpräferenzen (z. B. das Berücksichtigen von Abmeldewünschen).
-
-#### Rechtsgrundlage:
-
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. a DSGVO auf Grundlage Ihrer Einwilligung zum Erhalt unseres Newsletters. (Mit anderen Worten: Wir erheben und verwenden Ihre E-Mail-Adresse zu diesem Zweck nur, wenn Sie aktiv ein Abonnement abgeschlossen haben. Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie sich vom Newsletter abmelden.)
-
-#### Empfänger:
-
-Die Daten werden von MailerLite empfangen, einem Anbieter für E-Mail-Marketing-Dienste, der in unserem Auftrag als Auftragsverarbeiter Newsletter-Abonnements verwaltet und E-Mails versendet. MailerLite speichert Ihre E-Mail-Adresse auf sicheren Servern. Diese Server können sich außerhalb des Europäischen Wirtschaftsraums befinden (z. B. in den Vereinigten Staaten), jedoch stellt MailerLite sicher, dass jede Übertragung personenbezogener Daten außerhalb des EWR durch geeignete Garantien gemäß den EU-Datenschutzvorschriften geschützt ist – etwa durch den Einsatz von EU-Standardvertragsklauseln (SCCs). Weitere Informationen zur Verarbeitung und zum Schutz personenbezogener Daten durch MailerLite finden Sie in MailerLites [Datenschutzrichtlinie​](https://www.mailerlite.com/legal/privacy-policy).
-
-#### Speicherdauer:
-
-Wir speichern Ihre E-Mail-Adresse nur so lange, wie Sie für unseren Newsletter angemeldet sind. Sie können sich jederzeit über den Abmeldelink in jeder E-Mail oder durch direkte Kontaktaufnahme mit uns abmelden. Wenn Sie sich abmelden oder die Löschung Ihrer Daten verlangen, wird Ihre E-Mail-Adresse umgehend aus unserem Verteiler entfernt und aus dem System von MailerLite gelöscht. Ebenso löschen wir alle zugehörigen Abonnementdaten, wenn wir den Newsletter-Dienst einstellen.
-
-#### Bereitstellung erforderlich oder verpflichtend:
-
-Die Angabe Ihrer E-Mail-Adresse für den Newsletter-Dienst ist vollständig freiwillig und weder gesetzlich noch vertraglich vorgeschrieben. Wenn Sie sich nicht anmelden (oder sich später abmelden), bedeutet dies lediglich, dass Sie keine Newsletter-E-Mails erhalten – es beeinträchtigt jedoch in keiner Weise Ihre Nutzung anderer Funktionen unseres Dienstes. Ihre Entscheidung, Ihre E-Mail-Adresse zu diesem Zweck bereitzustellen oder nicht, hat keinerlei Auswirkungen auf Ihre Nutzung der Monee-App oder der Website. Diese Ergänzung entspricht unserem Engagement für Transparenz und DSGVO-Konformität und stellt sicher, dass Sie darüber informiert sind, wie wir Ihre E-Mail-Adresse im Rahmen des Newsletter-Dienstes verarbeiten.
-
-### Firebase Authentication
-
-#### Art und Zweck der Verarbeitung:
+##### Art und Zweck der Verarbeitung:
 
 Bei der Registrierung und Nutzung der App ist die Übermittlung einer E-Mail-Adresse möglich. Wir empfehlen die Verwendung der „Hide my email“-Funktion von Apple, um die tatsächliche E-Mail-Adresse zu verbergen.
 
@@ -98,22 +53,22 @@ Sie wird insbesondere zu folgenden Zwecken verarbeitet:
 
 - Eindeutige Identifizierung eines Benutzers und Wiederherstellung von Daten auf einem Gerät im Falle einer Abmeldung, eines Gerätewechsels oder einer Neuinstallation
 
-#### Rechtliche Grundlage:
+##### Rechtliche Grundlage:
 Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
 
-#### Empfänger:
+##### Empfänger:
 
 Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com), empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
 
-#### Speicherdauer:
+##### Speicherdauer:
 Firebase Authentication speichert Authentifizierungsinformationen, bis Sie Ihr Konto löschen, danach werden die Daten innerhalb von 180 Tagen entfernt.
 
-#### Bereitstellung erforderlich oder vorgeschrieben:
+##### Bereitstellung erforderlich oder vorgeschrieben:
 Die Bereitstellung Ihrer E-Mail-Adresse erfolgt freiwillig, ausschließlich auf Grundlage Ihrer Einwilligung. Leider können wir Ihren Account bei einem Logout, Gerätewechsel oder einer Neuinstallation ohne E-Mail-Adresse nicht wiederherstellen.
 
-### Firebase Realtime Database
+#### Firebase Realtime Database
 
-#### Art und Zweck der Verarbeitung:
+##### Art und Zweck der Verarbeitung:
 
 Bei der Nutzung der App ist die Angabe eines Namens erforderlich. Wir empfehlen die Vergabe eines Spitznamens, der von allen im Haushalt eindeutig zugeordnet werden kann. Auch die Übermittlung von Daten zu Ihren persönlichen Ausgaben und Einnahmen ist möglich.
 
@@ -123,22 +78,22 @@ Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 - Präsentiert Ihnen einen Überblick und Einblicke in Ihre persönlichen Finanzen
 - Teilen von Daten mit Mitgliedern Ihres Haushalts
 
-#### Rechtliche Grundlage:
+##### Rechtliche Grundlage:
 Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
 
-#### Empfänger:
+##### Empfänger:
 
 Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
 
-#### Speicherdauer:
+##### Speicherdauer:
 Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Dies ist in der Regel der Fall, wenn Sie Ihr Konto löschen.
 
-#### Bereitstellung erforderlich oder vorgeschrieben:
+##### Bereitstellung erforderlich oder vorgeschrieben:
 Die Angabe Ihres Namens und Ihrer Finanzdaten erfolgt freiwillig, ausschließlich auf Grundlage Ihrer Einwilligung. Ohne diese Daten können wir leider keine sinnvolle Funktionalität bereitstellen.
 
-### Firebase Crashlytics
+#### Firebase Crashlytics
 
-#### Art und Zweck der Verarbeitung:
+##### Art und Zweck der Verarbeitung:
 
 Im Falle eines App-Absturzes werden Daten gesammelt. Das kann beinhalten:
 
@@ -151,18 +106,91 @@ Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 - Debugging von Appcrashes
 - Zuverlässige Erreichbarkeit und Gewährleistung aller App-Funktionalitäten
 
-#### Rechtliche Grundlage:
+##### Rechtliche Grundlage:
 Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Funktionalität unserer App.
 
-#### Empfänger:
+##### Empfänger:
 
 Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
 
-#### Speicherdauer:
+##### Speicherdauer:
 Daten werden innerhalb von 90 Tagen gelöscht.
 
-#### Bereitstellung erforderlich oder vorgeschrieben:
+##### Bereitstellung erforderlich oder vorgeschrieben:
 Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht gewährleistet.
+
+### Web
+
+#### Vercel
+
+##### Art und Zweck der Verarbeitung:
+Wenn Sie auf diese Website zugreifen, also wenn Sie sich nicht registrieren oder anderweitig Informationen übermitteln, werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen (Server-Logfiles) beinhalten etwa die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse und Ähnliches.
+
+Sie werden insbesondere zu folgenden Zwecken verarbeitet:
+
+- Gewährleistung eines problemlosen Verbindungsaufbaus der Website,
+- Gewährleistung einer reibungslosen Nutzung dieser Website,
+- Bewertung der Systemsicherheit und -stabilität sowie
+für andere Verwaltungszwecke.
+- Wir verwenden Ihre Daten nicht, um Rückschlüsse auf Ihre Person zu ziehen. Informationen dieser Art werden von uns ggfs. statistisch ausgewertet, um diesen Internetauftritt und die dahinterstehende Technik zu optimieren.
+
+##### Rechtliche Grundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität dieser Website.
+
+##### Empfänger:
+Die Daten werden von [Vercel](https://vercel.com/blog/what-is-vercel) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung dieser Webseite tätig sind. Besuchen Sie [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) für weitere Informationen und Widerspruchsmöglichkeiten.
+
+##### Speicherdauer:
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die Daten, die der Bereitstellung der Website dienen, ist dies in der Regel der Fall, wenn die jeweilige Sitzung beendet ist.
+
+##### Bereitstellung erforderlich oder vorgeschrieben:
+Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die IP-Adresse ist jedoch der Dienst und die Funktionsfähigkeit dieser Website nicht gewährleistet. Darüber hinaus können einzelne Dienste und Dienste nicht verfügbar oder eingeschränkt sein. Ein Widerspruch ist aus diesem Grund ausgeschlossen.
+
+#### PostHog Analytics
+
+##### Umfang der Datenverarbeitung
+Wir verwenden auf unserer Website PostHog. PostHog ist ein Open-Source-Analysewerkzeug von PostHog Inc., mit dem wir Daten über die Nutzung unserer Website durch Besucher erfassen und auswerten. Diese Daten dienen der Verbesserung unserer Website und einer besseren Nutzererfahrung.
+
+Wenn Sie unsere Website besuchen, erfasst PostHog Informationen wie die von Ihnen aufgerufenen Seiten, die Verweildauer auf diesen Seiten, von welcher Website Sie gekommen sind, welchen Gerätetyp, Browser und welches Betriebssystem Sie verwenden sowie verschiedene Interaktionsdaten. Diese Daten werden auf Servern der PostHog Inc. in den Vereinigten Staaten gespeichert.
+
+##### Rechtsgrundlage der Datenverarbeitung
+Rechtsgrundlage für die Verarbeitung der Nutzerdaten ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse). Unser berechtigtes Interesse liegt in der Analyse, Optimierung und dem wirtschaftlichen Betrieb unserer Website.
+
+##### Zweck der Datenverarbeitung
+PostHog wird zum Zweck der Analyse der Nutzung unserer Website sowie zur fortlaufenden Verbesserung einzelner Funktionen und Angebote eingesetzt. Die statistische Auswertung des Nutzerverhaltens ermöglicht es uns, unser Angebot zu verbessern und für Sie als Nutzer interessanter zu gestalten.
+
+##### Speicherdauer
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Erhebung nicht mehr erforderlich sind. In unserem Fall ist dies nach 14 Monaten der Fall.
+
+##### Widerspruchs- und Beseitigungsmöglichkeiten
+Sie können die Erfassung und Nutzung Ihrer Daten durch PostHog verhindern, indem Sie ein Opt-out-Cookie setzen, das die Speicherung Ihrer Daten bei zukünftigen Besuchen dieser Website verhindert.
+
+Sie können die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (einschließlich Ihrer IP-Adresse) sowie die Verarbeitung dieser Daten durch PostHog verhindern, indem Sie den Anweisungen auf folgender Website folgen: [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
+
+Bitte beachten Sie, dass bei einer Löschung von Cookies in den Browsereinstellungen auch das Opt-out-Cookie gelöscht werden kann und ggf. erneut aktiviert werden muss.
+
+#### MailerLite
+
+##### Art und Zweck der Verarbeitung:
+
+Wenn Sie sich über unsere Website für unseren Newsletter oder E-Mail-Updates anmelden, erfassen wir Ihre E-Mail-Adresse (sowie alle weiteren Informationen, die Sie zu diesem Zweck angeben) über ein Anmeldeformular, das von MailerLite betrieben wird. Diese Daten werden ausschließlich verwendet, um Ihre Anmeldung zu verwalten und Ihnen den gewünschten Newsletter oder die Updates zuzusenden. Sie werden insbesondere zu folgendem Zweck verarbeitet: Versand regelmäßiger Newsletter-E-Mails mit Produktaktualisierungen, Angeboten oder relevanten Nachrichten, für die Sie sich angemeldet haben, sowie Verwaltung Ihrer Abonnementpräferenzen (z. B. das Berücksichtigen von Abmeldewünschen).
+
+##### Rechtsgrundlage:
+
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. a DSGVO auf Grundlage Ihrer Einwilligung zum Erhalt unseres Newsletters. (Mit anderen Worten: Wir erheben und verwenden Ihre E-Mail-Adresse zu diesem Zweck nur, wenn Sie aktiv ein Abonnement abgeschlossen haben. Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie sich vom Newsletter abmelden.)
+
+##### Empfänger:
+
+Die Daten werden von MailerLite empfangen, einem Anbieter für E-Mail-Marketing-Dienste, der in unserem Auftrag als Auftragsverarbeiter Newsletter-Abonnements verwaltet und E-Mails versendet. MailerLite speichert Ihre E-Mail-Adresse auf sicheren Servern. Diese Server können sich außerhalb des Europäischen Wirtschaftsraums befinden (z. B. in den Vereinigten Staaten), jedoch stellt MailerLite sicher, dass jede Übertragung personenbezogener Daten außerhalb des EWR durch geeignete Garantien gemäß den EU-Datenschutzvorschriften geschützt ist – etwa durch den Einsatz von EU-Standardvertragsklauseln (SCCs). Weitere Informationen zur Verarbeitung und zum Schutz personenbezogener Daten durch MailerLite finden Sie in MailerLites [Datenschutzrichtlinie​](https://www.mailerlite.com/legal/privacy-policy).
+
+##### Speicherdauer:
+
+Wir speichern Ihre E-Mail-Adresse nur so lange, wie Sie für unseren Newsletter angemeldet sind. Sie können sich jederzeit über den Abmeldelink in jeder E-Mail oder durch direkte Kontaktaufnahme mit uns abmelden. Wenn Sie sich abmelden oder die Löschung Ihrer Daten verlangen, wird Ihre E-Mail-Adresse umgehend aus unserem Verteiler entfernt und aus dem System von MailerLite gelöscht. Ebenso löschen wir alle zugehörigen Abonnementdaten, wenn wir den Newsletter-Dienst einstellen.
+
+##### Bereitstellung erforderlich oder verpflichtend:
+
+Die Angabe Ihrer E-Mail-Adresse für den Newsletter-Dienst ist vollständig freiwillig und weder gesetzlich noch vertraglich vorgeschrieben. Wenn Sie sich nicht anmelden (oder sich später abmelden), bedeutet dies lediglich, dass Sie keine Newsletter-E-Mails erhalten – es beeinträchtigt jedoch in keiner Weise Ihre Nutzung anderer Funktionen unseres Dienstes. Ihre Entscheidung, Ihre E-Mail-Adresse zu diesem Zweck bereitzustellen oder nicht, hat keinerlei Auswirkungen auf Ihre Nutzung der Monee-App oder der Website. Diese Ergänzung entspricht unserem Engagement für Transparenz und DSGVO-Konformität und stellt sicher, dass Sie darüber informiert sind, wie wir Ihre E-Mail-Adresse im Rahmen des Newsletter-Dienstes verarbeiten.
+
 
 ## Sicherheit
 

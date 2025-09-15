@@ -1,5 +1,5 @@
-**Ultimo aggiornamento**  
-09 Luglio 2025
+**Ultimo aggiornamento**
+15 Settembre 2025
 
 # Informativa sulla Privacy
 
@@ -41,57 +41,11 @@ Se ci contatti tramite e-mail, i tuoi dettagli verranno salvati in modo che poss
 
 L'app e questo sito web utilizzano servizi di terze parti che potrebbero raccogliere informazioni utilizzate per identificarti.
 
-### Vercel
+### App
 
-#### Tipo e scopo del trattamento:
-Se accedi a questo sito web, cioè se non ti registri o non fornisci altrimenti informazioni, vengono automaticamente raccolte informazioni di natura generale. Queste informazioni (file di log del server) includono, ad esempio, il tipo di browser web, il sistema operativo utilizzato, il nome del dominio del tuo provider di servizi Internet, il tuo indirizzo IP e simili.
+#### Firebase Authentication
 
-Vengono elaborati in particolare per i seguenti scopi:
-
-- Garantire una connessione senza problemi al sito web,
-- Garantire un uso fluido di questo sito web,
-- Valutazione della sicurezza e stabilità del sistema nonché
-per altri scopi amministrativi.
-- Non utilizziamo i tuoi dati per trarre conclusioni su di te personalmente. Informazioni di questo tipo possono essere valutate statisticamente da noi al fine di ottimizzare questo sito web e la tecnologia dietro di esso.
-
-#### Base legale:
-Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. f GDPR basato sul nostro legittimo interesse nel migliorare la stabilità e funzionalità di questo sito web.
-
-#### Destinatario:
-I dati vengono ricevuti da [Vercel](https://vercel.com/blog/what-is-vercel) che lavora come processore per il funzionamento e la manutenzione di questo sito web. Visita [Vercel's Global Privacy Practices](https://vercel.com/legal/privacy-policy) per ulteriori informazioni e opzioni di opposizione.
-
-#### Durata di conservazione:
-I dati verranno cancellati non appena non saranno più necessari per lo scopo della raccolta. Questo è generalmente il caso per i dati utilizzati per fornire il sito web quando la rispettiva sessione è terminata.
-
-#### Fornitura richiesta o necessaria:
-La fornitura dei suddetti dati personali non è richiesta né legalmente né contrattualmente. Senza l'indirizzo IP, tuttavia, il servizio e la funzionalità di questo sito web non sono garantiti. Inoltre, singoli servizi e funzionalità potrebbero non essere disponibili o essere limitati. Per questo motivo, un'opposizione è esclusa.
-
-### MailerLite
-
-#### Tipo e scopo del trattamento:
-
-Se ti iscrivi alla nostra newsletter o agli aggiornamenti e-mail tramite il nostro sito web, raccoglieremo il tuo indirizzo e-mail (e qualsiasi informazione che fornisci a questo scopo) attraverso un modulo di iscrizione gestito da MailerLite. Questi dati vengono utilizzati esclusivamente per gestire la tua iscrizione e inviarti la newsletter o gli aggiornamenti che hai richiesto. Vengono elaborati in particolare per il seguente scopo:
-Inviarti e-mail periodiche della newsletter su aggiornamenti del prodotto, offerte o notizie rilevanti a cui ti sei iscritto per ricevere, e gestire le tue preferenze di iscrizione (come rispettare le richieste di disiscrizione).
-
-#### Base legale:
-
-Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. a GDPR, basato sul tuo consenso a ricevere la nostra newsletter. (In altre parole, raccoglieremo e utilizzeremo la tua e-mail per questo scopo solo se ti sei attivamente iscritto. Puoi ritirare il tuo consenso in qualsiasi momento disiscrivendoti dalla newsletter.)
-
-#### Destinatario:
-
-I dati vengono ricevuti da MailerLite, un fornitore di servizi di email marketing, che agisce come processore per nostro conto per la gestione delle iscrizioni alla newsletter e la distribuzione delle e-mail. MailerLite memorizza il tuo indirizzo e-mail sui suoi server sicuri. Questi server potrebbero essere localizzati al di fuori dello Spazio Economico Europeo (ad esempio, negli Stati Uniti), ma MailerLite garantisce che qualsiasi trasferimento di dati personali al di fuori del SEE sia protetto da garanzie appropriate in conformità alle leggi europee sulla protezione dei dati – ad esempio, attraverso l'uso delle Clausole Contrattuali Standard dell'UE (SCC). Visita [MailerLite's Privacy Policy](https://www.mailerlite.com/legal/privacy-policy) per ulteriori informazioni su come MailerLite elabora e protegge i dati personali.
-
-#### Durata di conservazione:
-
-Conserveremo il tuo indirizzo e-mail solo finché rimani iscritto alla nostra newsletter. Puoi disiscriverti in qualsiasi momento utilizzando il link di disiscrizione fornito in ogni e-mail o contattandoci direttamente. Se ti disiscrivi o richiedi la cancellazione dei tuoi dati, il tuo indirizzo e-mail verrà prontamente rimosso dalla nostra mailing list e cancellato dal sistema di MailerLite. Allo stesso modo, se interrompiamo il nostro servizio di newsletter, cancelleremo tutti i dati di iscrizione e-mail associati.
-
-#### Fornitura richiesta o necessaria:
-
-La fornitura del tuo indirizzo e-mail per il servizio newsletter è interamente volontaria e non è richiesta né legalmente né contrattualmente. Scegliere di non iscriversi (o disiscriversi successivamente) significa semplicemente che non riceverai le nostre e-mail della newsletter, ma non influenzerà la tua capacità di utilizzare altre funzionalità del nostro Servizio. La tua decisione di fornire o trattenere un'e-mail per questo scopo non influisce sul tuo uso dell'app o del sito web Monee in nessun altro modo. Questa aggiunta si allinea al nostro impegno per la trasparenza e la conformità al GDPR, assicurando che tu sia informato su come gestiamo il tuo indirizzo e-mail per scopi di newsletter.
-
-### Firebase Authentication
-
-#### Tipo e scopo del trattamento:
+##### Tipo e scopo del trattamento:
 
 Durante la registrazione e l'uso dell'app, è possibile trasmettere un indirizzo e-mail. Raccomandiamo di utilizzare la funzionalità "Nascondi la mia e-mail" di Apple per nascondere l'indirizzo e-mail reale.
 
@@ -99,22 +53,22 @@ Vengono elaborati in particolare per il seguente scopo:
 
 - Identificare univocamente un utente e ripristinare i dati su un dispositivo in caso di logout, cambio di dispositivo o nuova installazione
 
-#### Base legale:
+##### Base legale:
 Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. f GDPR basato sul nostro legittimo interesse nel fornire la funzionalità della nostra app.
 
-#### Destinatario:
+##### Destinatario:
 
 I dati vengono ricevuti da [Firebase, una società Google](https://firebase.google.com), che lavora come processore per il funzionamento e la manutenzione della nostra app. Visita [Google's Privacy Policy](https://policies.google.com/privacy) o [Firebase](https://firebase.google.com/support/privacy) per ulteriori informazioni e opzioni di opposizione.
 
-#### Durata di conservazione:
+##### Durata di conservazione:
 Firebase Authentication conserva le informazioni di autenticazione finché non cancelli il tuo account, dopo di che i dati vengono rimossi entro 180 giorni.
 
-#### Fornitura richiesta o necessaria:
+##### Fornitura richiesta o necessaria:
 La fornitura del tuo indirizzo e-mail è volontaria, esclusivamente sulla base del tuo consenso. Sfortunatamente, non possiamo ripristinare il tuo account in caso di logout, cambio di dispositivo o nuova installazione senza un indirizzo e-mail.
 
-### Firebase Realtime Database
+#### Firebase Realtime Database
 
-#### Tipo e scopo del trattamento:
+##### Tipo e scopo del trattamento:
 
 Durante l'uso dell'app, è necessario fornire un nome. Raccomandiamo di dare un soprannome che possa essere chiaramente assegnato da tutti nella famiglia. È anche possibile trasmettere dati sulle tue spese e entrate personali.
 
@@ -124,22 +78,22 @@ Vengono elaborati in particolare per il seguente scopo:
 - Presentarti una panoramica e approfondimenti sulle tue finanze personali
 - Condivisione di dati con i membri della tua famiglia
 
-#### Base legale:
+##### Base legale:
 Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. f GDPR basato sul nostro legittimo interesse nel fornire la funzionalità della nostra app.
 
-#### Destinatario:
+##### Destinatario:
 
 I dati vengono ricevuti da [Firebase, una società Google](https://firebase.google.com), che lavora come processore per il funzionamento e la manutenzione della nostra app. Visita [Google's Privacy Policy](https://policies.google.com/privacy) o [Firebase](https://firebase.google.com/support/privacy) per ulteriori informazioni e opzioni di opposizione.
 
-#### Durata di conservazione:
+##### Durata di conservazione:
 I dati verranno cancellati non appena non saranno più necessari per lo scopo della raccolta. Questo è generalmente il caso quando cancelli il tuo account.
 
-#### Fornitura richiesta o necessaria:
+##### Fornitura richiesta o necessaria:
 La fornitura del tuo nome e dei dati finanziari è volontaria, esclusivamente sulla base del tuo consenso. Sfortunatamente, non possiamo fornire alcuna funzionalità utile senza questi dati.
 
-### Firebase Crashlytics
+#### Firebase Crashlytics
 
-#### Tipo e scopo del trattamento:
+##### Tipo e scopo del trattamento:
 
 In caso di crash dell'app, verranno raccolti dei dati. Ciò può includere: 
 
@@ -152,18 +106,91 @@ Vengono elaborati in particolare per il seguente scopo:
 - Debug dei crash dell'app
 - Accessibilità affidabile e garanzia di tutte le funzionalità dell'app
 
-#### Base legale:
+##### Base legale:
 Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. f GDPR basato sul nostro legittimo interesse nel migliorare la funzionalità della nostra app.
 
-#### Destinatario:
+##### Destinatario:
 
 I dati vengono ricevuti da [Firebase, una società Google](https://firebase.google.com), che lavora come processore per il funzionamento e la manutenzione della nostra app. Visita [Google's Privacy Policy](https://policies.google.com/privacy) o [Firebase](https://firebase.google.com/support/privacy) per ulteriori informazioni e opzioni di opposizione.
 
-#### Durata di conservazione:
+##### Durata di conservazione:
 I dati vengono cancellati entro 90 giorni.
 
-#### Fornitura richiesta o necessaria:
+##### Fornitura richiesta o necessaria:
 La fornitura dei suddetti dati non è richiesta né legalmente né contrattualmente. Senza i dati, tuttavia, il servizio e la funzionalità della nostra app non sono garantiti.
+
+### Web
+
+#### Vercel
+
+##### Tipo e scopo del trattamento:
+Se accedi a questo sito web, cioè se non ti registri o non fornisci altrimenti informazioni, vengono automaticamente raccolte informazioni di natura generale. Queste informazioni (file di log del server) includono, ad esempio, il tipo di browser web, il sistema operativo utilizzato, il nome del dominio del tuo provider di servizi Internet, il tuo indirizzo IP e simili.
+
+Vengono elaborati in particolare per i seguenti scopi:
+
+- Garantire una connessione senza problemi al sito web,
+- Garantire un uso fluido di questo sito web,
+- Valutazione della sicurezza e stabilità del sistema nonché
+per altri scopi amministrativi.
+- Non utilizziamo i tuoi dati per trarre conclusioni su di te personalmente. Informazioni di questo tipo possono essere valutate statisticamente da noi al fine di ottimizzare questo sito web e la tecnologia dietro di esso.
+
+##### Base legale:
+Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. f GDPR basato sul nostro legittimo interesse nel migliorare la stabilità e funzionalità di questo sito web.
+
+##### Destinatario:
+I dati vengono ricevuti da [Vercel](https://vercel.com/blog/what-is-vercel) che lavora come processore per il funzionamento e la manutenzione di questo sito web. Visita [Vercel's Global Privacy Practices](https://vercel.com/legal/privacy-policy) per ulteriori informazioni e opzioni di opposizione.
+
+##### Durata di conservazione:
+I dati verranno cancellati non appena non saranno più necessari per lo scopo della raccolta. Questo è generalmente il caso per i dati utilizzati per fornire il sito web quando la rispettiva sessione è terminata.
+
+##### Fornitura richiesta o necessaria:
+La fornitura dei suddetti dati personali non è richiesta né legalmente né contrattualmente. Senza l'indirizzo IP, tuttavia, il servizio e la funzionalità di questo sito web non sono garantiti. Inoltre, singoli servizi e funzionalità potrebbero non essere disponibili o essere limitati. Per questo motivo, un'opposizione è esclusa.
+
+#### PostHog Analytics
+
+##### Ambito del trattamento dei dati
+Utilizziamo PostHog sul nostro sito web. PostHog è uno strumento di analisi open source di PostHog Inc. che ci consente di raccogliere e analizzare dati sull’utilizzo del nostro sito da parte dei visitatori. Tali dati sono utilizzati per migliorare il nostro sito e garantire una migliore esperienza utente.
+
+Quando visitate il nostro sito, PostHog raccoglie informazioni quali le pagine visitate, il tempo trascorso su tali pagine, il sito di provenienza, il tipo di dispositivo, il browser e il sistema operativo utilizzati, nonché vari dati di interazione. Questi dati sono conservati su server di PostHog Inc. situati negli Stati Uniti.
+
+##### Base giuridica del trattamento dei dati
+La base giuridica del trattamento dei dati degli utenti è l’art. 6, par. 1, lett. f), del GDPR (interesse legittimo). Il nostro interesse legittimo consiste nell’analisi, nell’ottimizzazione e nella gestione economica del nostro sito web.
+
+##### Finalità del trattamento dei dati
+PostHog è utilizzato per analizzare l’uso del nostro sito web e per migliorare continuamente singole funzioni e offerte. La valutazione statistica del comportamento degli utenti ci consente di migliorare la nostra offerta e renderla più interessante per voi.
+
+##### Periodo di conservazione
+I dati vengono eliminati non appena non sono più necessari per le finalità per le quali sono stati raccolti. Nel nostro caso, dopo 14 mesi.
+
+##### Opposizione e possibilità di cancellazione
+Potete impedire la raccolta e l’utilizzo dei vostri dati da parte di PostHog impostando un cookie di opt-out che impedisce la memorizzazione dei vostri dati durante le visite future a questo sito.
+
+Potete impedire la raccolta dei dati generati dal cookie e relativi al vostro uso del sito (compreso il vostro indirizzo IP) e il trattamento di tali dati da parte di PostHog seguendo le istruzioni riportate al seguente sito web: [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
+
+Si noti che, se i cookie vengono eliminati nelle impostazioni del browser, anche il cookie di opt-out potrebbe essere eliminato e potrebbe essere necessario attivarlo nuovamente.
+
+#### MailerLite
+
+##### Tipo e scopo del trattamento:
+
+Se ti iscrivi alla nostra newsletter o agli aggiornamenti e-mail tramite il nostro sito web, raccoglieremo il tuo indirizzo e-mail (e qualsiasi informazione che fornisci a questo scopo) attraverso un modulo di iscrizione gestito da MailerLite. Questi dati vengono utilizzati esclusivamente per gestire la tua iscrizione e inviarti la newsletter o gli aggiornamenti che hai richiesto. Vengono elaborati in particolare per il seguente scopo:
+Inviarti e-mail periodiche della newsletter su aggiornamenti del prodotto, offerte o notizie rilevanti a cui ti sei iscritto per ricevere, e gestire le tue preferenze di iscrizione (come rispettare le richieste di disiscrizione).
+
+##### Base legale:
+
+Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. a GDPR, basato sul tuo consenso a ricevere la nostra newsletter. (In altre parole, raccoglieremo e utilizzeremo la tua e-mail per questo scopo solo se ti sei attivamente iscritto. Puoi ritirare il tuo consenso in qualsiasi momento disiscrivendoti dalla newsletter.)
+
+##### Destinatario:
+
+I dati vengono ricevuti da MailerLite, un fornitore di servizi di email marketing, che agisce come processore per nostro conto per la gestione delle iscrizioni alla newsletter e la distribuzione delle e-mail. MailerLite memorizza il tuo indirizzo e-mail sui suoi server sicuri. Questi server potrebbero essere localizzati al di fuori dello Spazio Economico Europeo (ad esempio, negli Stati Uniti), ma MailerLite garantisce che qualsiasi trasferimento di dati personali al di fuori del SEE sia protetto da garanzie appropriate in conformità alle leggi europee sulla protezione dei dati – ad esempio, attraverso l'uso delle Clausole Contrattuali Standard dell'UE (SCC). Visita [MailerLite's Privacy Policy](https://www.mailerlite.com/legal/privacy-policy) per ulteriori informazioni su come MailerLite elabora e protegge i dati personali.
+
+##### Durata di conservazione:
+
+Conserveremo il tuo indirizzo e-mail solo finché rimani iscritto alla nostra newsletter. Puoi disiscriverti in qualsiasi momento utilizzando il link di disiscrizione fornito in ogni e-mail o contattandoci direttamente. Se ti disiscrivi o richiedi la cancellazione dei tuoi dati, il tuo indirizzo e-mail verrà prontamente rimosso dalla nostra mailing list e cancellato dal sistema di MailerLite. Allo stesso modo, se interrompiamo il nostro servizio di newsletter, cancelleremo tutti i dati di iscrizione e-mail associati.
+
+##### Fornitura richiesta o necessaria:
+
+La fornitura del tuo indirizzo e-mail per il servizio newsletter è interamente volontaria e non è richiesta né legalmente né contrattualmente. Scegliere di non iscriversi (o disiscriversi successivamente) significa semplicemente che non riceverai le nostre e-mail della newsletter, ma non influenzerà la tua capacità di utilizzare altre funzionalità del nostro Servizio. La tua decisione di fornire o trattenere un'e-mail per questo scopo non influisce sul tuo uso dell'app o del sito web Monee in nessun altro modo. Questa aggiunta si allinea al nostro impegno per la trasparenza e la conformità al GDPR, assicurando che tu sia informato su come gestiamo il tuo indirizzo e-mail per scopi di newsletter.
 
 ## Sicurezza
 

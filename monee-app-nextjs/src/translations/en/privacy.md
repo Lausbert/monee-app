@@ -1,5 +1,5 @@
-**Last updated**  
-July 09 2025
+**Last updated**
+September 15 2025
 
 # Privacy Policy
 
@@ -41,57 +41,11 @@ If you contact us through mail, your details will be saved so that they can be u
 
 The app and this website do use third-party services that may collect information used to identify you.
 
-### Vercel
+### App
 
-#### Type and purpose of processing:
-If you access this website, i.e. if you do not register or otherwise provide information, information of a general nature is automatically collected. This information (server log files) includes, for example, the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like.
+#### Firebase Authentication
 
-They are processed in particular for the following purposes:
-
-- Ensuring a problem-free connection to the website,
-- Ensuring smooth use of this website,
-- Evaluation of system security and stability as well as
-for other administrative purposes.
-- We do not use your data to draw conclusions about you personally. Information of this type may be statistically evaluated by us in order to optimize this website and the technology behind it.
-
-#### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the stability and functionality of this website.
-
-#### Receiver:
-The data is received by [Vercel](https://vercel.com/blog/what-is-vercel) who works as a processor for the operation and maintenance of this website. Visit [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) for further information and options for objection.
-
-#### Storage duration:
-The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case for the data used to provide the website when the respective session has ended.
-
-#### Provision required or required:
-The provision of the aforementioned personal data is neither legally nor contractually required. Without the IP address, however, the service and functionality of this website is not guaranteed. In addition, individual services and services may not be available or restricted. For this reason, an objection is excluded.
-
-### MailerLite
-
-#### Type and purpose of processing:
-
-If you subscribe to our newsletter or email updates via our website, we will collect your email address (and any information you provide for this purpose) through a sign-up form operated by MailerLite. This data is used exclusively to manage your subscription and send you the newsletter or updates you have requested. They are processed in particular for the following purpose:
-Sending you periodic newsletter emails about product updates, offers, or relevant news that you signed up to receive, and managing your subscription preferences (such as honoring unsubscribe requests).
-
-#### Legal basis:
-
-Processing takes place in accordance with Art. 6 Para. 1 lit. a GDPR, based on your consent to receive our newsletter. (In other words, we will only collect and use your email for this purpose if you have actively subscribed. You may withdraw your consent at any time by unsubscribing from the newsletter.)
-
-#### Receiver:
-
-The data is received by MailerLite, an email marketing service provider, who acts as a processor on our behalf for managing newsletter subscriptions and distributing emails​.vMailerLite stores your email address on its secure servers. These servers may be located outside the European Economic Area (for example, in the United States), but MailerLite ensures that any transfer of personal data outside the EEA is protected by appropriate safeguards in compliance with EU data protection laws – for instance, through the use of EU Standard Contractual Clauses (SCCs)​. Visit [MailerLite’s Privacy Policy​](https://www.mailerlite.com/legal/privacy-policy) or further information on how MailerLite processes and protects personal data.
-
-#### Storage duration:
-
-We will retain your email address only as long as you remain subscribed to our newsletter. You can unsubscribe at any time by using the unsubscribe link provided in each email or by contacting us directly. If you unsubscribe or request deletion of your data, your email address will be promptly removed from our mailing list and deleted from MailerLite’s system​. Likewise, if we discontinue our newsletter service, we will delete all associated email subscription data.
-
-#### Provision required or required:
-
-The provision of your email address for the newsletter service is entirely voluntary and neither legally nor contractually required. Choosing not to subscribe (or later unsubscribing) simply means you will not receive our newsletter emails, but it will not affect your ability to use any other features of our Service. Your decision to provide or withhold an email for this purpose does not impact your use of the Monee app or website in any other way. This addition aligns with our commitment to transparency and GDPR compliance, ensuring you are informed about how we handle your email address for newsletter purposes.
-
-### Firebase Authentication
-
-#### Type and purpose of processing:
+##### Type and purpose of processing:
 
 When registering and using the app, it is possible to transmit an email address. We recommend using Apple's "Hide my email" functionality to hide the actual email address.
 
@@ -99,22 +53,22 @@ They are processed in particular for the following purpose:
 
 - Uniquely identifying a user and restoring data to a device in the event of a logout, device change or a new installation
 
-#### Legal basis:
+##### Legal basis:
 Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
 
-#### Receiver:
+##### Receiver:
 
 The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
 
-#### Storage duration:
+##### Storage duration:
 Firebase Authentication retains authentication information until you delete your account, after which data is removed within 180 days.
 
-#### Provision required or required:
+##### Provision required or required:
 The provision of your email adress is voluntary, solely on the basis of your consent. Unfortunately, we can not restore your account in the event of a logout, device change or a new installation without an email address.
 
-### Firebase Realtime Database
+#### Firebase Realtime Database
 
-#### Type and purpose of processing:
+##### Type and purpose of processing:
 
 When using the app, it is necessary to provide a name. We recommend giving a nickname that can be clearly assigned by everyone in the household. It is also possible to transmit data on your personal expenditures and revenues.
 
@@ -124,22 +78,22 @@ They are processed in particular for the following purpose:
 - Presenting you an overview and insights in your personal finances
 - Sharing data with members of your household
 
-#### Legal basis:
+##### Legal basis:
 Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
 
-#### Receiver:
+##### Receiver:
 
 The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
 
-#### Storage duration:
+##### Storage duration:
 The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case you delete your account.
 
-#### Provision required or required:
+##### Provision required or required:
 The provision of your name and financial data is voluntary, solely on the basis of your consent. Unfortunately, we can not provide any useful functionality without this data.
 
-### Firebase Crashlytics
+#### Firebase Crashlytics
 
-#### Type and purpose of processing:
+##### Type and purpose of processing:
 
 In the event of an app crash, data will be collected. That may include: 
 
@@ -152,18 +106,95 @@ They are processed in particular for the following purpose:
 - Debugging app crashes
 - Reliable accessibility and guarantee of all app functionalities
 
-#### Legal basis:
+##### Legal basis:
 Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
 
-#### Receiver:
+##### Receiver:
 
 The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
 
-#### Storage duration:
+##### Storage duration:
 Data is deleted within 90 days.
 
-#### Provision required or required:
+##### Provision required or required:
 The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
+
+### Web
+
+#### Vercel
+
+##### Type and purpose of processing:
+If you access this website, i.e. if you do not register or otherwise provide information, information of a general nature is automatically collected. This information (server log files) includes, for example, the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like.
+
+They are processed in particular for the following purposes:
+
+- Ensuring a problem-free connection to the website,
+- Ensuring smooth use of this website,
+- Evaluation of system security and stability as well as
+for other administrative purposes.
+- We do not use your data to draw conclusions about you personally. Information of this type may be statistically evaluated by us in order to optimize this website and the technology behind it.
+
+##### Legal basis:
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the stability and functionality of this website.
+
+##### Receiver:
+The data is received by [Vercel](https://vercel.com/blog/what-is-vercel) who works as a processor for the operation and maintenance of this website. Visit [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) for further information and options for objection.
+
+##### Storage duration:
+The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case for the data used to provide the website when the respective session has ended.
+
+##### Provision required or required:
+
+#### PostHog Analytics
+
+##### Scope of Processing Data
+
+We use PostHog on our website. PostHog is an open-source analytics tool from PostHog Inc. that allows us to collect and analyze data about the use of our website by visitors. This data is used to improve our website and ensure a better user experience.
+
+When you visit our website, PostHog collects information such as the pages you visit, the time spent on these pages, which website you came from, what type of device, browser, and operating system you use, as well as various interaction data. This data is stored on servers of PostHog Inc. in the United States.
+
+##### Legal Basis for Processing Data
+
+The legal basis for processing users' data is Art. 6 Para. 1 lit. f GDPR (legitimate interest). Our legitimate interest lies in the analysis, optimization, and economic operation of our website.
+
+##### Purpose of Data Processing
+
+PostHog is used for the purpose of analyzing the use of our website and for continuously improving individual functions and offers. The statistical evaluation of user behavior enables us to improve our offer and make it more interesting for you as a user.
+
+##### Duration of Storage
+
+The data will be deleted as soon as they are no longer needed for our recording purposes. In our case, this is after 14 months.
+
+##### Objection and Removal Options
+
+You can prevent the collection and use of your data by PostHog by setting an opt-out cookie that prevents the storage of your data during future visits to this website.
+
+You can prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) and the processing of this data by PostHog by following the instructions on the following website: [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
+
+Please note that if cookies are deleted in the browser settings, the opt-out cookie may also be deleted and you may need to activate it again.
+
+#### MailerLite
+
+##### Type and purpose of processing:
+
+If you subscribe to our newsletter or email updates via our website, we will collect your email address (and any information you provide for this purpose) through a sign-up form operated by MailerLite. This data is used exclusively to manage your subscription and send you the newsletter or updates you have requested. They are processed in particular for the following purpose:
+Sending you periodic newsletter emails about product updates, offers, or relevant news that you signed up to receive, and managing your subscription preferences (such as honoring unsubscribe requests).
+
+##### Legal basis:
+
+Processing takes place in accordance with Art. 6 Para. 1 lit. a GDPR, based on your consent to receive our newsletter. (In other words, we will only collect and use your email for this purpose if you have actively subscribed. You may withdraw your consent at any time by unsubscribing from the newsletter.)
+
+##### Receiver:
+
+The data is received by MailerLite, an email marketing service provider, who acts as a processor on our behalf for managing newsletter subscriptions and distributing emails​.vMailerLite stores your email address on its secure servers. These servers may be located outside the European Economic Area (for example, in the United States), but MailerLite ensures that any transfer of personal data outside the EEA is protected by appropriate safeguards in compliance with EU data protection laws – for instance, through the use of EU Standard Contractual Clauses (SCCs)​. Visit [MailerLite’s Privacy Policy​](https://www.mailerlite.com/legal/privacy-policy) or further information on how MailerLite processes and protects personal data.
+
+##### Storage duration:
+
+We will retain your email address only as long as you remain subscribed to our newsletter. You can unsubscribe at any time by using the unsubscribe link provided in each email or by contacting us directly. If you unsubscribe or request deletion of your data, your email address will be promptly removed from our mailing list and deleted from MailerLite’s system​. Likewise, if we discontinue our newsletter service, we will delete all associated email subscription data.
+
+##### Provision required or required:
+
+The provision of your email address for the newsletter service is entirely voluntary and neither legally nor contractually required. Choosing not to subscribe (or later unsubscribing) simply means you will not receive our newsletter emails, but it will not affect your ability to use any other features of our Service. Your decision to provide or withhold an email for this purpose does not impact your use of the Monee app or website in any other way. This addition aligns with our commitment to transparency and GDPR compliance, ensuring you are informed about how we handle your email address for newsletter purposes.
 
 ## Security
 
