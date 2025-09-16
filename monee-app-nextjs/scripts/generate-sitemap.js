@@ -9,6 +9,9 @@ const siteConfig = {
   languages: ["en", "de", "fr", "es", "pt", "it", "ru", "hi"]
 };
 
+// Translations root to read cross-locale files when needed
+const translationsRoot = path.join(process.cwd(), 'src', 'translations');
+
 // Helper function to convert title to URL-friendly slug (matching blog.js logic)
 function titleToSlug(title) {
   const cyrillicMap = {
@@ -39,6 +42,20 @@ function titleToSlug(title) {
     .replace(/-+/g, '-') // Replace multiple hyphens with single hyphen
     .trim()
     .replace(/^-|-$/g, ''); // Remove leading/trailing hyphens
+}
+
+// Helper: get English slug for a given postId (e.g., "post16")
+function getEnglishSlugForPostId(postId) {
+  try {
+    const englishPath = path.join(translationsRoot, 'en', '_posts', `${postId}.md`);
+    if (!fs.existsSync(englishPath)) return null;
+    const englishContents = fs.readFileSync(englishPath, 'utf8');
+    const { data } = matter(englishContents);
+    const primary = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
+    return primary && primary.length > 0 ? primary : postId;
+  } catch (_) {
+    return null;
+  }
 }
 
 /**
@@ -186,19 +203,45 @@ function getBlogPosts(language) {
       const filePath = path.join(postsDirectory, name);
       const fileContents = fs.readFileSync(filePath, 'utf8');
       const { data } = matter(fileContents);
+      const postId = path.parse(name).name; // e.g., 'post16'
+      // Load shared blog meta (date, author, etc.)
+      let sharedMeta = {};
+      try {
+        const metaPath = path.join(process.cwd(), 'src', 'blog-meta', `${postId}.json`);
+        if (fs.existsSync(metaPath)) {
+          const raw = fs.readFileSync(metaPath, 'utf8');
+          sharedMeta = JSON.parse(raw);
+        }
+      } catch (_) {
+        // ignore malformed meta; fall back to frontmatter only
+      }
       
       // Only include posts that have either slug or title (matching blog.js logic)
       if (!data.title && !data.slug) {
         return null;
       }
       
-      // Generate slug (prefer frontmatter slug, fallback to title)
-      const titleSlug = data.slug ? String(data.slug).toLowerCase() : titleToSlug(data.title);
+      // Generate slug (prefer frontmatter slug, fallback to title); ensure non-empty by falling back to postId
+      const primarySlug = data.slug ? String(data.slug).toLowerCase() : titleToSlug(data.title);
+      let titleSlug = primarySlug && primarySlug.length > 0 ? primarySlug : postId;
+      // For Hindi posts >= 11, mirror app logic: use English slug for readability and consistency
+      if (language === 'hi') {
+        const match = postId.match(/^post(\d+)$/i);
+        const index = match ? parseInt(match[1], 10) : NaN;
+        if (!Number.isNaN(index) && index >= 11) {
+          const enSlug = getEnglishSlugForPostId(postId);
+          if (enSlug) titleSlug = enSlug;
+        }
+      }
       
+      // Determine lastmod: prefer modified, then date, from shared meta first, then frontmatter
+      const rawLastmod = sharedMeta.modified || sharedMeta.date || data.modified || data.date;
+      const lastmod = rawLastmod ? new Date(rawLastmod).toISOString().split('T')[0] : new Date().toISOString().split('T')[0];
+
       return {
         slug: titleSlug,
         filename: name, // Keep original filename for cross-language matching
-        lastmod: data.date ? new Date(data.date).toISOString().split('T')[0] : new Date().toISOString().split('T')[0],
+        lastmod,
         title: data.title,
         ...data
       };

@@ -1,30 +1,31 @@
 {
-  "name": "monee-app-nextjs",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "sitemap": "node scripts/generate-sitemap.js"
-  },
-  "dependencies": {
-    "gray-matter": "^4.0.3",
-    "js-yaml": "^4.1.0",
-    "next": "15.3.2",
-    "posthog-js": "1.266.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "remark": "^15.0.1",
-    "remark-html": "^16.0.1",
-    "sass": "^1.89.0"
-  },
-  "devDependencies": {
-    "@eslint/eslintrc": "^3",
-    "@tailwindcss/postcss": "^4",
-    "eslint": "^9",
-    "eslint-config-next": "15.3.2",
-    "tailwindcss": "^4"
-  }
+    "name": "monee-app-nextjs",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "sitemap": "node scripts/generate-sitemap.js"
+    },
+    "dependencies": {
+        "gray-matter": "^4.0.3",
+        "js-yaml": "^4.1.0",
+        "next": "15.3.2",
+        "posthog-js": "1.266.0",
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0",
+        "remark": "^15.0.1",
+        "remark-html": "^16.0.1",
+        "remark-gfm": "^4.0.0",
+        "sass": "^1.89.0"
+    },
+    "devDependencies": {
+        "@eslint/eslintrc": "^3",
+        "@tailwindcss/postcss": "^4",
+        "eslint": "^9",
+        "eslint-config-next": "15.3.2",
+        "tailwindcss": "^4"
+    }
 }

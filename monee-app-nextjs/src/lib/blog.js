@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
+import remarkGfm from 'remark-gfm';
 
 const postsDirectory = path.join(process.cwd(), 'src/translations');
 const postsMetaDirectory = path.join(process.cwd(), 'src/blog-meta');
@@ -39,6 +40,20 @@ function titleToSlug(title) {
     .replace(/^-|-$/g, ''); // Remove leading/trailing hyphens
 }
 
+// Helper: get English slug for a given postId (e.g., "post16")
+function getEnglishSlugForPostId(postId) {
+  try {
+    const englishPath = path.join(postsDirectory, 'en', '_posts', `${postId}.md`);
+    if (!fs.existsSync(englishPath)) return null;
+    const englishContents = fs.readFileSync(englishPath, 'utf8');
+    const { data } = matter(englishContents);
+    const primary = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
+    return primary && primary.length > 0 ? primary : postId;
+  } catch (_) {
+    return null;
+  }
+}
+
 export function getBlogPostBySlug(slug, locale) {
   const fullPath = path.join(postsDirectory, locale, '_posts');
   
@@ -54,11 +69,21 @@ export function getBlogPostBySlug(slug, locale) {
     const fileContents = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(fileContents);
 
-    const computedSlug = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
+    const postId = path.parse(file).name; // e.g., 'post1'
+    const primarySlug = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
+    let computedSlug = primarySlug && primarySlug.length > 0 ? primarySlug : postId;
+    // For Hindi posts >= 11, use the English slug to keep slugs consistent and readable
+    if (locale === 'hi') {
+      const match = postId.match(/^post(\d+)$/i);
+      const index = match ? parseInt(match[1], 10) : NaN;
+      if (!Number.isNaN(index) && index >= 11) {
+        const enSlug = getEnglishSlugForPostId(postId);
+        if (enSlug) computedSlug = enSlug;
+      }
+    }
     if (computedSlug) {
       if (computedSlug === slug) {
         // Merge with shared metadata (by postId derived from filename)
-        const postId = path.parse(file).name; // e.g., 'post1'
         let sharedMeta = {};
         try {
           const metaPath = path.join(postsMetaDirectory, `${postId}.json`);
@@ -118,7 +143,19 @@ export function getAllBlogPosts(locale) {
         return null; // Skip posts without titles
       }
       
-      const titleSlug = data.slug ? String(data.slug).toLowerCase() : titleToSlug(data.title);
+      // Compute slug from frontmatter or title; if empty after slugification (e.g., non-Latin titles),
+      // fall back to the file name to ensure a stable, non-empty slug.
+      const primarySlug = data.slug ? String(data.slug).toLowerCase() : titleToSlug(data.title);
+      let titleSlug = primarySlug && primarySlug.length > 0 ? primarySlug : postId;
+      // For Hindi posts >= 11, use the English slug to keep slugs consistent and readable
+      if (locale === 'hi') {
+        const match = postId.match(/^post(\d+)$/i);
+        const index = match ? parseInt(match[1], 10) : NaN;
+        if (!Number.isNaN(index) && index >= 11) {
+          const enSlug = getEnglishSlugForPostId(postId);
+          if (enSlug) titleSlug = enSlug;
+        }
+      }
       
       return {
         slug: titleSlug,
@@ -187,6 +224,6 @@ export function getRelatedPosts(currentPost, locale, maxPosts = 4) {
 }
 
 export async function markdownToHtml(markdown) {
-  const result = await remark().use(html).process(markdown);
+  const result = await remark().use(remarkGfm).use(html).process(markdown);
   return result.toString();
 }
