@@ -20,13 +20,10 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
   const trackStoreClick = (platform) => {
     try {
       if (!posthog || typeof posthog.capture !== 'function') return;
-      const href = typeof window !== 'undefined' ? window.location.href : '';
       const isBlog = router?.pathname === '/blog/[slug]';
       posthog.capture('appstore_button_click', {
         platform,
-        from_url: href,
         is_blog: isBlog,
-        path: router?.asPath,
       });
     } catch (e) {
       // no-op
