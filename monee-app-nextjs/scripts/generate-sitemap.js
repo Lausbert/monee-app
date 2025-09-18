@@ -88,8 +88,8 @@ function generateSitemap() {
 
   // Static pages that exist for all languages
   const staticPages = [
-    { path: '', priority: '0.8', changefreq: 'monthly', lastmod: '2025-07-09' }, // Homepage
-    { path: 'blog', priority: '1.0', changefreq: 'daily', lastmod: newestBlogDate }, // Blog uses newest post date
+    { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-07-09' }, // Homepage
+    { path: 'blog', priority: '0.8', changefreq: 'daily', lastmod: newestBlogDate }, // Blog uses newest post date
     { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2025-09-15' },
     { path: 'imprint', priority: '0.1', changefreq: 'yearly', lastmod: '2025-06-28' }
   ];
@@ -154,7 +154,7 @@ function generateSitemap() {
     <loc>${url}/</loc>
     <lastmod>${post.lastmod}</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>`;
+    <priority>0.9</priority>`;
 
       // Add alternate language links for blog posts
       // Match posts by filename (post1.md -> post1.md in other languages)
