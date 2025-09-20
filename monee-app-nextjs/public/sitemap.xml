@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -119,7 +119,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -171,7 +171,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -223,7 +223,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -275,7 +275,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -327,7 +327,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -379,7 +379,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-09-19</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -623,6 +623,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-per-svago-equi-per-coppie-regole-di-indennita-personale-che-funzionano/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/chestnye-dengi-na-udovolstvie-dlya-par-pravila-lichnyh-limitov-kotorye-rabotayut/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/fair-fun-money-for-couples-personal-allowance-rules-that-work/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
@@ -924,6 +937,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/fair-fun-money-for-couples-personal-allowance-rules-that-work/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1221,6 +1247,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-per-svago-equi-per-coppie-regole-di-indennita-personale-che-funzionano/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/chestnye-dengi-na-udovolstvie-dlya-par-pravila-lichnyh-limitov-kotorye-rabotayut/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/fair-fun-money-for-couples-personal-allowance-rules-that-work/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/</loc>
@@ -1522,6 +1561,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/fair-fun-money-for-couples-personal-allowance-rules-that-work/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1819,6 +1871,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-per-svago-equi-per-coppie-regole-di-indennita-personale-che-funzionano/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/chestnye-dengi-na-udovolstvie-dlya-par-pravila-lichnyh-limitov-kotorye-rabotayut/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/fair-fun-money-for-couples-personal-allowance-rules-that-work/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/contabilidade-domestica-digital-ou-analogica-pros-e-contras/</loc>
@@ -2120,6 +2185,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/fair-fun-money-for-couples-personal-allowance-rules-that-work/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/contabilita-domestica-digitale-o-analogica-pro-e-contro/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2419,6 +2497,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/fair-fun-money-for-couples-personal-allowance-rules-that-work/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/domashnyaya-buhgalteriya-tsifrovaya-ili-bumazhnaya-plyusy-i-minusy/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2716,6 +2807,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-de-lazer-justo-para-casais-regras-de-verba-pessoal-que-funcionam/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-per-svago-equi-per-coppie-regole-di-indennita-personale-che-funzionano/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/chestnye-dengi-na-udovolstvie-dlya-par-pravila-lichnyh-limitov-kotorye-rabotayut/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/haushaltsabschluss-zum-monatsende-checkliste-fur-eine-30minutige-budgetuberprufung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cloture-de-fin-de-mois-du-foyer-une-checklist-de-revue-budgetaire-en-30-minutes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cierre-de-fin-de-mes-del-hogar-lista-de-revision-del-presupuesto-en-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
