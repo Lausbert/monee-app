@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -119,7 +119,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -171,7 +171,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -223,7 +223,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -275,7 +275,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -327,7 +327,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -379,7 +379,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-09-20</lastmod>
+    <lastmod>2025-09-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -636,6 +636,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
@@ -950,6 +963,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1260,6 +1286,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/</loc>
@@ -1574,6 +1613,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1884,6 +1936,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/contabilidade-domestica-digital-ou-analogica-pros-e-contras/</loc>
@@ -2198,6 +2263,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/contabilita-domestica-digitale-o-analogica-pro-e-contro/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2510,6 +2588,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/household-monthend-close-a-30minute-budget-review-checklist/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/domashnyaya-buhgalteriya-tsifrovaya-ili-bumazhnaya-plyusy-i-minusy/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2820,6 +2911,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/fechamento-de-fim-de-mes-do-lar-checklist-de-revisao-do-orcamento-em-30-minutos/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chiusura-di-fine-mese-delleconomia-domestica-checklist-per-una-revisione-del-budget-in-30-minuti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnee-zakrytie-mesyatsa-cheklist-30minutnogo-obzora-byudzheta/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/</loc>
+    <lastmod>2025-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/windfall-money-without-regret-how-i-split-bonuses-and-tax-refunds/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/unerwartetes-geld-ohne-reue-wie-ich-boni-und-steuerruckzahlungen-aufteile/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/argent-inattendu-sans-regret-comment-je-repartis-primes-et-remboursements-dimpots/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/dinero-extra-sin-arrepentimientos-como-divido-bonos-y-devoluciones-de-impuestos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/dinheiro-inesperado-sem-arrependimentos-como-divido-bonus-e-restituicoes-de-imposto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/soldi-improvvisi-senza-rimpianti-come-divido-bonus-e-rimborsi-fiscali/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nezaplanirovannye-dengi-bez-sozhaleniy-kak-ya-delyu-bonusy-i-nalogovye-vozvraty/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
