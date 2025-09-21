@@ -6,7 +6,7 @@ const matter = require('gray-matter');
 const siteConfig = {
   site_url: "https://monee-app.com",
   defaultLanguage: "en",
-  languages: ["en", "de", "fr", "es", "pt", "it", "ru", "hi", "el"],
+  languages: ["en", "de", "fr", "es", "pt", "it", "ru", "hi", "el", "tr"],
   blogEnabledLocales: ["en", "de", "fr", "es", "pt", "it", "ru", "hi"],
 };
 
