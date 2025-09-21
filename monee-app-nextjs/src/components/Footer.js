@@ -81,6 +81,13 @@ const Footer = () => {
             }
           }
           
+          // Hide blog link for locales where blog is disabled
+          const isBlogLink = typeof link.url === 'string' && link.url.startsWith('/blog');
+          const enabledBlogLocales = Array.isArray(siteConfig.blog_enabled_locales) ? siteConfig.blog_enabled_locales : [];
+          if (isBlogLink && !enabledBlogLocales.includes(locale)) {
+            return null;
+          }
+          
           const url = link.url.startsWith('/') ? `/${locale !== 'en' ? locale + '/' : ''}${link.url.substring(1)}` : link.url;
 
           return (

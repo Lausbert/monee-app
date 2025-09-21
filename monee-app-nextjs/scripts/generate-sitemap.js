@@ -6,7 +6,8 @@ const matter = require('gray-matter');
 const siteConfig = {
   site_url: "https://monee-app.com",
   defaultLanguage: "en",
-  languages: ["en", "de", "fr", "es", "pt", "it", "ru", "hi"]
+  languages: ["en", "de", "fr", "es", "pt", "it", "ru", "hi", "el"],
+  blogEnabledLocales: ["en", "de", "fr", "es", "pt", "it", "ru", "hi"],
 };
 
 // Translations root to read cross-locale files when needed
@@ -65,6 +66,7 @@ function getEnglishSlugForPostId(postId) {
 function generateSitemap() {
   const baseUrl = siteConfig.site_url;
   const languages = siteConfig.languages || ['en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'hi'];
+  const blogEnabledLocales = siteConfig.blogEnabledLocales || languages;
   const defaultLanguage = siteConfig.defaultLanguage || 'en';
   
   // First, collect all blog posts from all languages to find the newest date
@@ -72,8 +74,14 @@ function generateSitemap() {
   let newestBlogDate = '2000-01-01'; // Initialize with very old date so any real post date will be newer
   
   languages.forEach(lang => {
-    allBlogPosts[lang] = getBlogPosts(lang);
-    // Find the newest date from this language's posts
+    if (blogEnabledLocales.includes(lang)) {
+      allBlogPosts[lang] = getBlogPosts(lang);
+    } else {
+      allBlogPosts[lang] = [];
+    }
+  });
+
+  blogEnabledLocales.forEach(lang => {
     allBlogPosts[lang].forEach(post => {
       if (post.lastmod > newestBlogDate) {
         newestBlogDate = post.lastmod;
@@ -101,6 +109,10 @@ function generateSitemap() {
   // Add static pages for each language
   languages.forEach(language => {
     staticPages.forEach(page => {
+      if (page.path === 'blog' && !blogEnabledLocales.includes(language)) {
+        return;
+      }
+
       const isDefault = language === defaultLanguage;
       const url = isDefault && page.path === '' 
         ? baseUrl 
@@ -119,6 +131,9 @@ function generateSitemap() {
       // Add alternate language links
       languages.forEach(altLang => {
         if (altLang !== language) {
+          if (page.path === 'blog' && !blogEnabledLocales.includes(altLang)) {
+            return;
+          }
           const isAltDefault = altLang === defaultLanguage;
           const altUrl = isAltDefault && page.path === '' 
             ? baseUrl 
@@ -141,7 +156,7 @@ function generateSitemap() {
 
   // Add blog posts for each language
   // Process each language's blog posts
-  languages.forEach(language => {
+  blogEnabledLocales.forEach(language => {
     const blogPosts = allBlogPosts[language];
     
     blogPosts.forEach(post => {
@@ -158,9 +173,9 @@ function generateSitemap() {
 
       // Add alternate language links for blog posts
       // Match posts by filename (post1.md -> post1.md in other languages)
-      languages.forEach(altLang => {
+      blogEnabledLocales.forEach(altLang => {
         if (altLang !== language) {
-          const altPosts = allBlogPosts[altLang];
+          const altPosts = allBlogPosts[altLang] || [];
           // Find corresponding post by filename
           const altPost = altPosts.find(p => p.filename === post.filename);
           

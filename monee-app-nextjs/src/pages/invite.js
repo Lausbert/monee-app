@@ -65,6 +65,7 @@ export default function InvitePage({ translations, contentHtml, currentLocale, a
         <link rel="alternate" hreflang="it" href="https://monee-app.com/it/invite/" />
         <link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/invite/" />
         <link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/invite/" />
+        <link rel="alternate" hreflang="el" href="https://monee-app.com/el/invite/" />
         <link rel="alternate" hreflang="x-default" href="https://monee-app.com/invite/" />
       </Head>
       

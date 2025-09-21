@@ -74,6 +74,7 @@ export default function DeletePage({ translations, pageTranslations, contentHtml
         <link rel="alternate" hreflang="it" href="https://monee-app.com/it/delete/" />
         <link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/delete/" />
         <link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/delete/" />
+        <link rel="alternate" hreflang="el" href="https://monee-app.com/el/delete/" />
         <link rel="alternate" hreflang="x-default" href="https://monee-app.com/delete/" />
       </Head>
       

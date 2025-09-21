@@ -76,6 +76,7 @@ export default function PrivacyPage({ translations, pageTranslations, contentHtm
         <link rel="alternate" hreflang="it" href="https://monee-app.com/it/privacy/" />
         <link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/privacy/" />
         <link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/privacy/" />
+        <link rel="alternate" hreflang="el" href="https://monee-app.com/el/privacy/" />
         <link rel="alternate" hreflang="x-default" href="https://monee-app.com/privacy/" />
       </Head>
       
