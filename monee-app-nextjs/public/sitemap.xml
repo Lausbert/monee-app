@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-09-21</lastmod>
+    <lastmod>2025-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -802,6 +802,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/first-apartment-budget-a-7category-starter-template/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1138,6 +1164,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-primo-appartamento-un-modello-iniziale-in-7-categorie/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pervoy-kvartiry-startovyy-shablon-iz-7-kategoriy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/first-apartment-budget-a-7category-starter-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/digitale-oder-analoge-haushaltsfuhrung-vor-und-nachteile/</loc>
@@ -1478,6 +1530,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/first-apartment-budget-a-7category-starter-template/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/comptabilite-domestique-numerique-ou-analogique-avantages-et-inconvenients/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1814,6 +1892,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-primo-appartamento-un-modello-iniziale-in-7-categorie/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pervoy-kvartiry-startovyy-shablon-iz-7-kategoriy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/first-apartment-budget-a-7category-starter-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/contabilidad-domestica-digital-o-analogica-pros-y-contras/</loc>
@@ -2154,6 +2258,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/first-apartment-budget-a-7category-starter-template/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/contabilidade-domestica-digital-ou-analogica-pros-e-contras/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2490,6 +2620,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-do-primeiro-apartamento-um-modelo-inicial-de-7-categorias/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pervoy-kvartiry-startovyy-shablon-iz-7-kategoriy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/first-apartment-budget-a-7category-starter-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/contabilita-domestica-digitale-o-analogica-pro-e-contro/</loc>
@@ -2830,6 +2986,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/first-apartment-budget-a-7category-starter-template/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/domashnyaya-buhgalteriya-tsifrovaya-ili-bumazhnaya-plyusy-i-minusy/</loc>
     <lastmod>2025-07-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -3166,6 +3348,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-do-primeiro-apartamento-um-modelo-inicial-de-7-categorias/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-primo-appartamento-un-modello-iniziale-in-7-categorie/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pervoy-kvartiry-startovyy-shablon-iz-7-kategoriy/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/unequal-incomes-fair-split-a-practical-playbook-for-couples/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ungleiche-einkommen-faire-aufteilung-ein-praktischer-leitfaden-fur-paare/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/revenus-inegaux-partage-equitable-un-playbook-pratique-pour-les-couples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/ingresos-desiguales-reparto-justo-un-manual-practico-para-parejas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/rendimentos-desiguais-divisao-justa-um-manual-pratico-para-casais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/redditi-diversi-divisione-giusta-un-playbook-pratico-per-le-coppie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/neravnye-dohody-chestnoe-razdelenie-prakticheskoe-rukovodstvo-dlya-par/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/</loc>
+    <lastmod>2025-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/moving-abroad-budget-visas-deposits-and-firstmonth-setup-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-fur-den-auslandsumzug-visa-kautionen-und-einrichtungskosten-im-ersten-monat/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-pour-sexpatrier-visas-depots-et-couts-dinstallation-du-premier-mois/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-para-mudarse-al-extranjero-visados-depositos-y-costos-de-instalacion-del-primer-mes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-para-mudanca-para-o-exterior-vistos-depositos-e-custos-de-instalacao-do-primeiro-mes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-trasferirsi-allestero-visti-depositi-e-costi-di-avvio-del-primo-mese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-pereezda-za-granitsu-vizy-depozity-i-startovye-rashody-pervogo-mesyatsa/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/digital-or-analog-household-bookkeeping-pros-and-cons/</loc>
