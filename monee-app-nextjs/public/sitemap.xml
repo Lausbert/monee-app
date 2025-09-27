@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-09-27</lastmod>
+    <lastmod>2025-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -997,6 +997,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -1502,6 +1515,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-faccio-a-tenere-sotto-controllo-le-mie-finanze/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vzyat-finansy-pod-kontrol/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
@@ -2011,6 +2037,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -2516,6 +2555,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-faccio-a-tenere-sotto-controllo-le-mie-finanze/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vzyat-finansy-pod-kontrol/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
@@ -3025,6 +3077,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -3530,6 +3595,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coloco-minhas-financas-em-ordem/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vzyat-finansy-pod-kontrol/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
@@ -4039,6 +4117,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-do-i-get-my-finances-under-control/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -4544,6 +4635,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coloco-minhas-financas-em-ordem/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-faccio-a-tenere-sotto-controllo-le-mie-finanze/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vzyat-finansy-pod-kontrol/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/</loc>
+    <lastmod>2025-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-annual-vs-monthly-subscriptions-with-breakeven-math/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-zwischen-jahres-und-monatsabos-mit-breakevenrechnung-entscheidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-suscripciones-anuales-y-mensuales-con-el-calculo-del-punto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-assinaturas-anuais-vs-mensais-com-matematica-de-ponto-de-equilibrio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-annuale-e-mensile-con-la-matematica-del-punto-di-pareggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-godovoy-i-pomesyachnoy-podpiskoy-s-raschyotom-tochki-bezubytochnosti/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
