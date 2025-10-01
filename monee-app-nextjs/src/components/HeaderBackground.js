@@ -17,7 +17,7 @@ export default function HeaderBackground() {
         alt="Header background"
         fill
         priority
-        sizes="100vw"
+        sizes="(max-width: 768px) 0px, 100vw"
         style={{
           objectFit: 'cover',
           objectPosition: 'top',
@@ -30,7 +30,7 @@ export default function HeaderBackground() {
         alt="Mobile header background"
         fill
         priority
-        sizes="100vw"
+        sizes="(max-width: 768px) 100vw, 0px"
         style={{
           objectFit: 'cover',
           objectPosition: 'top',
