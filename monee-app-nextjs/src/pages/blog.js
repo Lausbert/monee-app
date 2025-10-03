@@ -102,8 +102,8 @@ export default function BlogPage({ posts, allTranslations }) {
                     description: postDescription,
                     url: postUrl,
                     inLanguage: languageCode,
-                    datePublished: post.meta.date,
-                    dateModified: post.meta.updatedAt || post.meta.date,
+                    datePublished: new Date(post.meta.date).toISOString(),
+                    dateModified: new Date(post.meta.updatedAt || post.meta.date).toISOString(),
                     mainEntityOfPage: {
                         "@type": "WebPage",
                         "@id": postUrl,
