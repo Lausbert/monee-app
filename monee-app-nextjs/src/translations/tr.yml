@@ -184,6 +184,7 @@ blog:
   title: "Blog"
   subtitle: "En son güncellemeler ve ipuçları"
   read_more: "Daha fazlasını oku"
+  older_posts_heading: "Eski Yazılar"
   back_to_blog: "Blog'a dön"
   published_on: "Yayın tarihi"
   no_posts: "Henüz blog gönderisi mevcut değil."

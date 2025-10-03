@@ -190,6 +190,7 @@ blog:
   title: "Блог"
   subtitle: "Последние обновления и советы"
   read_more: "Читать далее"
+  older_posts_heading: "Более ранние статьи"
   back_to_blog: "Назад к блогу"
   published_on: "Опубликовано"
   no_posts: "Пока нет доступных публикаций."

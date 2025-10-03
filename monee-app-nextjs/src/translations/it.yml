@@ -184,6 +184,7 @@ blog:
   title: "Blog"
   subtitle: "Ultimi Aggiornamenti e Consigli"
   read_more: "Leggi di Più"
+  older_posts_heading: "Articoli più vecchi"
   back_to_blog: "Torna al Blog"
   published_on: "Pubblicato il"
   no_posts: "Nessun post del blog ancora disponibile."

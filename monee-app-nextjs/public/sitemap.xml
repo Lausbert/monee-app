@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-02</lastmod>
+    <lastmod>2025-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1153,6 +1153,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1801,6 +1814,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-le-utenze-in-modo-equo-quando-una-persona-lavora-da-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-delit-kommunalnye-rashody-esli-odin-chelovek-rabotaet-iz-doma/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/</loc>
@@ -2453,6 +2479,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -3101,6 +3140,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-le-utenze-in-modo-equo-quando-una-persona-lavora-da-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-delit-kommunalnye-rashody-esli-odin-chelovek-rabotaet-iz-doma/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/</loc>
@@ -3753,6 +3805,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/quais-despesas-as-familias-frequentemente-esquecem-e-como-evitar-isso/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -4401,6 +4466,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-servicos-de-forma-justa-quando-uma-pessoa-trabalha-de-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-delit-kommunalnye-rashody-esli-odin-chelovek-rabotaet-iz-doma/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/quali-spese-trascurano-spesso-le-famiglie-e-come-evitarlo/</loc>
@@ -5053,6 +5131,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kakie-rashody-semi-chasto-upuskayut-i-kak-etogo-izbezhat/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -5701,6 +5792,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-servicos-de-forma-justa-quando-uma-pessoa-trabalha-de-casa/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-le-utenze-in-modo-equo-quando-una-persona-lavora-da-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-delit-kommunalnye-rashody-esli-odin-chelovek-rabotaet-iz-doma/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/</loc>
+    <lastmod>2025-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/</loc>

@@ -190,6 +190,7 @@ blog:
   title: "ब्लॉग"
   subtitle: "ताज़ा अपडेट्स और सुझाव"
   read_more: "आगे पढ़ें"
+  older_posts_heading: "पुराने लेख"
   back_to_blog: "ब्लॉग पर वापस"
   published_on: "प्रकाशित"
   no_posts: "अभी कोई ब्लॉग पोस्ट उपलब्ध नहीं है।"

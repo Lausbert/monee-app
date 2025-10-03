@@ -25,7 +25,7 @@ export async function fetchAppStoreData(locale = 'en') {
     // Build the iTunes API URL
     const apiUrl = `https://itunes.apple.com/lookup?id=${siteConfig.ios_app_id}&country=${iosAppCountry}`;
 
-    console.log(`Fetching App Store data from: ${apiUrl}`);
+    // console.log(`Fetching App Store data from: ${apiUrl}`);
 
     // Fetch data from iTunes API
     const response = await fetch(apiUrl);
@@ -38,11 +38,11 @@ export async function fetchAppStoreData(locale = 'en') {
     
     if (data.results && data.results.length > 0) {
       const appInfo = data.results[0];
-      console.log('App Store data fetched successfully:', {
+      /*console.log('App Store data fetched successfully:', {
         trackName: appInfo.trackName,
         trackViewUrl: appInfo.trackViewUrl,
         country: iosAppCountry
-      });
+      });*/
       
       return {
         trackViewUrl: appInfo.trackViewUrl,

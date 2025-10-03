@@ -184,6 +184,7 @@ blog:
   title: "Blog"
   subtitle: "Últimas Atualizações e Dicas"
   read_more: "Ler Mais"
+  older_posts_heading: "Publicações antigas"
   back_to_blog: "Voltar ao Blog"
   published_on: "Publicado em"
   no_posts: "Ainda não há publicações de blog disponíveis."

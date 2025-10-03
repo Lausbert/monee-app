@@ -16,22 +16,27 @@ export default function BlogPage({ posts, allTranslations }) {
     const subtitle = blogTranslations?.subtitle;
     const readMore = blogTranslations?.read_more;
     const noPosts = blogTranslations?.no_posts;
+    const olderPostsHeading = blogTranslations?.older_posts_heading || 'Older Posts';
+    const postsArray = Array.isArray(posts) ? posts : [];
+    const latestPosts = postsArray.slice(0, 8);
+    const olderPosts = postsArray.slice(8);
     
     // Get translated keywords and app name
     const translatedKeywords = blogTranslations?.keywords;
     const translatedAppName = allTranslations?.global?.app_name || siteConfig.app_name;
 
+    const localeMap = {
+        'en': 'en-US',
+        'de': 'de-DE',
+        'fr': 'fr-FR',
+        'es': 'es-ES',
+        'pt': 'pt-PT',
+        'it': 'it-IT',
+        'ru': 'ru-RU',
+        'hi': 'hi-IN',
+    };
+
     const formatDate = (dateString) => {
-        const localeMap = {
-            'en': 'en-US',
-            'de': 'de-DE',
-            'fr': 'fr-FR',
-            'es': 'es-ES',
-            'pt': 'pt-PT',
-            'it': 'it-IT',
-            'ru': 'ru-RU',
-            'hi': 'hi-IN',
-        };
         return new Date(dateString).toLocaleDateString(localeMap[locale] || 'en-US', {
             year: 'numeric',
             month: 'long',
@@ -41,53 +46,87 @@ export default function BlogPage({ posts, allTranslations }) {
 
     // Generate structured data for SEO
     const generateStructuredData = () => {
-        const baseUrl = 'https://monee-app.com';
-        const blogUrl = `${baseUrl}/${locale !== 'en' ? locale + '/' : ''}blog/`;
+        const baseUrl = siteConfig.site_url.replace(/\/+$/, '');
+        const siteRootUrl = `${baseUrl}/`;
+        const blogPath = `${locale !== 'en' ? `${locale}/` : ''}blog/`;
+        const blogUrl = `${baseUrl}/${blogPath}`;
+        const languageCode = localeMap[locale] || 'en-US';
+        const resolveToAbsoluteUrl = (path) => {
+            if (!path) return undefined;
+            if (/^https?:\/\//i.test(path)) {
+                return path;
+            }
+            return `${baseUrl}${path.startsWith('/') ? '' : '/'}${path}`;
+        };
+        const publisher = {
+            "@type": "Organization",
+            name: translatedAppName,
+            url: siteRootUrl,
+            logo: {
+                "@type": "ImageObject",
+                url: resolveToAbsoluteUrl(siteConfig.app_icon || '/assets/appicon.webp'),
+            },
+        };
+        const blogDescription = subtitle || siteConfig.app_description || `${translatedAppName} blog`;
         const structuredData = {
             "@context": "https://schema.org",
             "@type": "Blog",
-            name: `${title} | ${translatedAppName}`,
-            description: subtitle,
+            "@id": blogUrl,
+            name: `${title || translatedAppName} | ${translatedAppName}`,
+            description: blogDescription,
             url: blogUrl,
-            publisher: {
-                "@type": "Organization",
-                name: translatedAppName,
-                logo: {
-                    "@type": "ImageObject",
-                    url: `${baseUrl}/assets/appicon.webp`,
-                },
-            },
+            inLanguage: languageCode,
+            publisher,
             mainEntityOfPage: {
                 "@type": "WebPage",
                 "@id": blogUrl,
             },
+            isPartOf: {
+                "@type": "WebSite",
+                "@id": siteRootUrl,
+                name: translatedAppName,
+                url: siteRootUrl,
+            },
+            image: resolveToAbsoluteUrl(siteConfig.cover_image || siteConfig.app_icon || '/assets/appicon.webp'),
         };
 
-        if (posts && posts.length > 0) {
-            structuredData.blogPost = posts.map((post) => {
+        if (postsArray.length > 0) {
+            structuredData.blogPost = postsArray.map((post) => {
                 const postUrl = `${baseUrl}/${locale !== 'en' ? `${locale}/` : ''}blog/${post.slug}/`;
-                return ({
-                "@type": "BlogPosting",
-                headline: post.meta.title,
-                description: post.meta.excerpt || subtitle,
-                url: postUrl,
-                datePublished: post.meta.date,
-                dateModified: post.meta.date,
-                author: {
-                    "@type": "Person",
-                    name: post.meta.author,
-                },
-                publisher: {
-                    "@type": "Person",
-                    name: post.meta.author,
-                },
-                mainEntityOfPage: {
-                    "@type": "WebPage",
+                const postDescription = post.meta.excerpt || blogDescription;
+                const authorName = post.meta.author || translatedAppName;
+                const postData = {
+                    "@type": "BlogPosting",
                     "@id": postUrl,
-                },
-                });
+                    headline: post.meta.title,
+                    description: postDescription,
+                    url: postUrl,
+                    inLanguage: languageCode,
+                    datePublished: post.meta.date,
+                    dateModified: post.meta.updatedAt || post.meta.date,
+                    mainEntityOfPage: {
+                        "@type": "WebPage",
+                        "@id": postUrl,
+                    },
+                    publisher,
+                    author: {
+                        "@type": "Person",
+                        name: authorName,
+                    },
+                };
+
+                if (post.meta.keywords) {
+                    postData.keywords = post.meta.keywords;
+                }
+
+                if (post.meta.authorImage) {
+                    postData.author.image = resolveToAbsoluteUrl(post.meta.authorImage);
+                }
+
+                return postData;
             });
         }
+
         return JSON.stringify(structuredData);
     };
 
@@ -181,8 +220,8 @@ export default function BlogPage({ posts, allTranslations }) {
                     <Header translations={allTranslations} />
                     <div className="blog-container">
                         <div className="blog-header">
-                            <h1 itemProp="name">{title}</h1>
-                            <p itemProp="description">{subtitle}</p>
+                            <h1>{title}</h1>
+                            <p>{subtitle}</p>
                         </div>
                     </div>
                 </div>
@@ -190,17 +229,15 @@ export default function BlogPage({ posts, allTranslations }) {
 
             <div className="container subPageContainer">
                 <main className="page" role="main">
-                    <div className="blog-container" itemScope itemType="https://schema.org/Blog">
+                    <div className="blog-container">
                         {/* Blog Posts Grid */}
-                        {posts && posts.length > 0 ? (
-                            <section className="blog-grid" aria-label="Blog Posts">
-                                {posts.map((post, index) => (
-                                    <article
-                                        key={post.slug}
-                                        className="blog-card flex flex-col h-full"
-                                        itemScope
-                                        itemType="https://schema.org/BlogPosting"
-                                    >
+                        {postsArray.length > 0 ? (
+                            <>
+                                <section className="blog-grid" aria-label="Blog Posts">
+                                    {latestPosts.map((post) => (
+                                        <article
+                                            key={post.slug}
+                                            className="blog-card flex flex-col h-full">
                                         <div className="blog-card-content flex flex-col h-full flex-1">
                                             {/* Author and Date - moved to top with bigger image */}
                                             <div className="blog-card-header flex-shrink-0">
@@ -215,16 +252,12 @@ export default function BlogPage({ posts, allTranslations }) {
                                                     <div className="blog-card-author-info">
                                                         {post.meta.author && (
                                                             <p
-                                                                className="blog-card-author-name"
-                                                                itemProp="author"
-                                                                itemScope
-                                                                itemType="https://schema.org/Person"
-                                                            >
-                                                                <span itemProp="name">{post.meta.author}</span>
+                                                                className="blog-card-author-name">
+                                                                <span>{post.meta.author}</span>
                                                             </p>
                                                         )}
                                                         <p className="blog-card-date">
-                                                            <time dateTime={post.meta.date} itemProp="datePublished">
+                                                            <time dateTime={post.meta.date}>
                                                                 {formatDate(post.meta.date)}
                                                             </time>
                                                         </p>
@@ -234,8 +267,8 @@ export default function BlogPage({ posts, allTranslations }) {
 
                                             {/* Title with more spacing */}
                                             <div className="blog-card-title-section flex-shrink-0">
-                                                <h2 className="blog-card-title" itemProp="headline">
-                                                    <Link href={`/blog/${post.slug}`} itemProp="url">
+                                                <h2 className="blog-card-title">
+                                                    <Link href={`/blog/${post.slug}`}>
                                                         {post.meta.title}
                                                     </Link>
                                                 </h2>
@@ -244,7 +277,7 @@ export default function BlogPage({ posts, allTranslations }) {
                                             {/* Excerpt */}
                                             {post.meta.excerpt && (
                                                 <div className="blog-card-excerpt-section flex-grow flex flex-col">
-                                                    <p className="blog-card-excerpt" itemProp="description">
+                                                    <p className="blog-card-excerpt">
                                                         {post.meta.excerpt}
                                                     </p>
                                                 </div>
@@ -262,8 +295,7 @@ export default function BlogPage({ posts, allTranslations }) {
                                                         textDecoration: 'none',
                                                         alignItems: 'center',
                                                         display: 'inline-flex'
-                                                    }}
-                                                >
+                                                    }}>
                                                     <span style={{ 
                                                         color: '#ffffff',
                                                         lineHeight: '1.2'
@@ -273,7 +305,25 @@ export default function BlogPage({ posts, allTranslations }) {
                                         </div>
                                     </article>
                                 ))}
-                            </section>
+                                </section>
+                                {olderPosts.length > 0 && (
+                                    <section className="older-posts-section" aria-label={olderPostsHeading}>
+                                        <h2 className="older-posts-heading">{olderPostsHeading}</h2>
+                                        <ul className="older-posts-list">
+                                            {olderPosts.map((post) => (
+                                                <li key={post.slug} className="older-posts-item">
+                                                    <Link href={'/blog/' + post.slug} className="older-posts-link">
+                                                        <span className="older-posts-title">{post.meta.title}</span>
+                                                        <time dateTime={post.meta.date} className="older-posts-date">
+                                                            {formatDate(post.meta.date)}
+                                                        </time>
+                                                    </Link>
+                                                </li>
+                                            ))}
+                                        </ul>
+                                    </section>
+                                )}
+                            </>
                         ) : (
                             /* Empty State */
                             <section className="blog-empty-state" aria-label="No blog posts available">
@@ -294,7 +344,7 @@ export default function BlogPage({ posts, allTranslations }) {
 
 export async function getStaticProps({ locale }) {
     // Get all blog posts for the current locale
-    const posts = getAllBlogPosts(locale || 'en');
+    const posts = getAllBlogPosts(locale || 'en', { includeContent: false });
 
     // Get translations
     const allTranslations = await getTranslations(locale || 'en');

@@ -112,7 +112,8 @@ export function getBlogPostBySlug(slug, locale) {
   return null;
 }
 
-export function getAllBlogPosts(locale) {
+export function getAllBlogPosts(locale, options = {}) {
+  const { includeContent = true } = options || {};
   const fullPath = path.join(postsDirectory, locale, '_posts');
   
   if (!fs.existsSync(fullPath)) {
@@ -157,14 +158,19 @@ export function getAllBlogPosts(locale) {
         }
       }
       
-      return {
+      const postEntry = {
         slug: titleSlug,
         meta: {
           ...data,
           ...(sharedMeta || {}),
         },
-        content,
       };
+
+      if (includeContent) {
+        postEntry.content = content;
+      }
+
+      return postEntry;
     })
     .filter(Boolean)
     .sort((post1, post2) => (post1.meta.date > post2.meta.date ? -1 : 1));
@@ -174,7 +180,7 @@ export function getAllBlogPosts(locale) {
 
 // Function to get related posts based on keywords and tags
 export function getRelatedPosts(currentPost, locale, maxPosts = 4) {
-  const allPosts = getAllBlogPosts(locale);
+  const allPosts = getAllBlogPosts(locale, { includeContent: false });
   
   // Filter out the current post
   const otherPosts = allPosts.filter(post => post.slug !== currentPost.slug);

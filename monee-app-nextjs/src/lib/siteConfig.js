@@ -1,4 +1,4 @@
-const siteConfig = {  site_url: "https://monee-app.com", // Added from CNAME
+const siteConfig = {  site_url: "https://monee-app.com",
   ios_app_id: "1617877213",
   appstore_link: "https://apps.apple.com/app/id1617877213", // Direct App Store link
   playstore_link: "https://play.google.com/store/apps/details?id=app.monee",

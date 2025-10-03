@@ -184,6 +184,7 @@ blog:
   title: "Blog"
   subtitle: "Dernières Mises à Jour et Conseils"
   read_more: "Lire Plus"
+  older_posts_heading: "Articles plus anciens"
   back_to_blog: "Retour au Blog"
   published_on: "Publié le"
   no_posts: "Aucun article de blog disponible pour le moment."
