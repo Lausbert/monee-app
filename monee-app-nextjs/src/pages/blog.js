@@ -47,8 +47,9 @@ export default function BlogPage({ posts, allTranslations }) {
     // Generate structured data for SEO
     const generateStructuredData = () => {
         const baseUrl = siteConfig.site_url.replace(/\/+$/, '');
-        const siteRootUrl = `${baseUrl}/`;
-        const blogPath = `${locale !== 'en' ? `${locale}/` : ''}blog/`;
+        const localizedPathPrefix = locale && locale !== 'en' ? `${locale}/` : '';
+        const siteRootUrl = `${baseUrl}/${localizedPathPrefix}`;
+        const blogPath = `${localizedPathPrefix}blog/`;
         const blogUrl = `${baseUrl}/${blogPath}`;
         const languageCode = localeMap[locale] || 'en-US';
         const resolveToAbsoluteUrl = (path) => {
@@ -92,7 +93,7 @@ export default function BlogPage({ posts, allTranslations }) {
 
         if (postsArray.length > 0) {
             structuredData.blogPost = postsArray.map((post) => {
-                const postUrl = `${baseUrl}/${locale !== 'en' ? `${locale}/` : ''}blog/${post.slug}/`;
+                const postUrl = `${baseUrl}/${localizedPathPrefix}blog/${post.slug}/`;
                 const postDescription = post.meta.excerpt || blogDescription;
                 const authorName = post.meta.author || translatedAppName;
                 const postData = {
