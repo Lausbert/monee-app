@@ -22,6 +22,15 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
     if (!url) return undefined;
     return url.startsWith('http') ? url : `${siteConfig.site_url}${url}`;
   };
+  // Locale helpers for OG and JSON-LD
+  const ogLocaleMap = { en: 'en_US', de: 'de_DE', fr: 'fr_FR', es: 'es_ES', pt: 'pt_PT', it: 'it_IT', ru: 'ru_RU', hi: 'hi_IN' };
+  const ogLocale = ogLocaleMap[locale] || 'en_US';
+  const bcp47Locale = ogLocale.replace('_', '-');
+
+  // Prefer a post-specific image for sharing, with sensible fallbacks
+  const shareImage = toAbsoluteUrl(
+    post.meta.image || post.meta.coverImage || post.meta.authorImage || siteConfig.cover_image || siteConfig.app_icon
+  );
   const formattedDate = new Date(post.meta.date).toLocaleDateString(locale, {
     year: 'numeric',
     month: 'long',
@@ -62,20 +71,34 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
         <meta property="og:type" content="article" />
         <meta property="og:title" content={`${title} | ${translatedAppName}`} />
         <meta property="og:description" content={description} />
-        <meta property="og:image" content={toAbsoluteUrl(post.meta.authorImage)} />
+        <meta property="og:image" content={shareImage} />
+        <meta property="og:image:secure_url" content={shareImage} />
         <meta property="og:image:alt" content={post.meta.title} />
         <meta property="og:url" content={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
         <meta property="og:site_name" content={translatedAppName} />
-        <meta 
-          property="og:locale" 
-          content={{ en: 'en_US', de: 'de_DE', fr: 'fr_FR', es: 'es_ES', pt: 'pt_PT', it: 'it_IT', ru: 'ru_RU', hi: 'hi_IN' }[locale] || 'en_US'} 
-        />
+        <meta property="og:locale" content={ogLocale} />
+        {/* Alternate locales for Open Graph */}
+        {Object.entries(ogLocaleMap)
+          .filter(([lang]) => translatedSlugs[lang] && lang !== locale)
+          .map(([lang, alt]) => (
+            <meta key={`og-alt-${lang}`} property="og:locale:alternate" content={alt} />
+          ))}
+        {/* Updated time for modified articles */}
+        {post.meta.modified && (
+          <meta property="og:updated_time" content={new Date(post.meta.modified).toISOString()} />
+        )}
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={`${title} | ${translatedAppName}`} />
         <meta name="twitter:description" content={description} />
-        <meta name="twitter:image" content={toAbsoluteUrl(post.meta.authorImage)} />
+        <meta name="twitter:image" content={shareImage} />
         <meta name="twitter:image:alt" content={post.meta.title} />
+        {siteConfig.twitter_username && (
+          <meta name="twitter:site" content={`@${siteConfig.twitter_username}`} />
+        )}
+        {(post.meta.twitter || siteConfig.twitter_username) && (
+          <meta name="twitter:creator" content={`@${post.meta.twitter || siteConfig.twitter_username}`} />
+        )}
         {/* Canonical URL */}
         <link rel="canonical" href={`https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`} />
         {/* Language alternates with translated slugs */}
@@ -113,6 +136,10 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
               "@type": "BlogPosting",
               headline: post.meta.title,
               description: description,
+              inLanguage: bcp47Locale,
+              image: shareImage,
+              wordCount: (content || '').replace(/<[^>]*>/g, ' ').trim().split(/\s+/).filter(Boolean).length,
+              articleSection: 'Finance',
               articleBody: content.replace(/<[^>]*>/g, ''), // Strip HTML tags for plain text
               author: {
                 "@type": "Person",
@@ -157,8 +184,38 @@ export default function BlogPost({ post, content, allTranslations, commonTransla
                   }
                 }))
               }),
-              }),
-            }}
+            }),
+          }}
+        />
+        {/* Breadcrumb structured data */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              itemListElement: [
+                {
+                  "@type": "ListItem",
+                  position: 1,
+                  name: 'Home',
+                  item: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}`,
+                },
+                {
+                  "@type": "ListItem",
+                  position: 2,
+                  name: 'Blog',
+                  item: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/`,
+                },
+                {
+                  "@type": "ListItem",
+                  position: 3,
+                  name: post.meta.title,
+                  item: `https://monee-app.com/${locale !== 'en' ? locale + '/' : ''}blog/${post.slug}/`,
+                },
+              ],
+            }),
+          }}
         />
       </Head>
       {/* Colored header section with navigation */}
