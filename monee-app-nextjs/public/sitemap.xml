@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2025-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1218,6 +1218,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-for-annual-bills-and-renewals-without-surprises/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1931,6 +1970,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-bollette-e-rinnovi-annuali-senza-sorprese/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-ezhegodnye-scheta-i-prodleniya-bez-syurprizov/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-for-annual-bills-and-renewals-without-surprises/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/welche-ausgaben-ubersehen-familien-oft-und-wie-lasst-sich-das-vermeiden/</loc>
@@ -2648,6 +2726,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-for-annual-bills-and-renewals-without-surprises/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/quelles-depenses-les-familles-negligent-elles-souvent-et-comment-leviter/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -3361,6 +3478,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-bollette-e-rinnovi-annuali-senza-sorprese/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-ezhegodnye-scheta-i-prodleniya-bez-syurprizov/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-for-annual-bills-and-renewals-without-surprises/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/que-gastos-pasan-desapercibidos-frecuentemente-en-las-familias-y-como-evitarlo/</loc>
@@ -4078,6 +4234,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-for-annual-bills-and-renewals-without-surprises/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/quais-despesas-as-familias-frequentemente-esquecem-e-como-evitar-isso/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -4791,6 +4986,45 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-contas-e-renovacoes-anuais-sem-surpresas/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-ezhegodnye-scheta-i-prodleniya-bez-syurprizov/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-for-annual-bills-and-renewals-without-surprises/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/quali-spese-trascurano-spesso-le-famiglie-e-come-evitarlo/</loc>
@@ -5508,6 +5742,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-for-annual-bills-and-renewals-without-surprises/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kakie-rashody-semi-chasto-upuskayut-i-kak-etogo-izbezhat/</loc>
     <lastmod>2025-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -6221,6 +6494,45 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-contas-e-renovacoes-anuais-sem-surpresas/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-bollette-e-rinnovi-annuali-senza-sorprese/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-ezhegodnye-scheta-i-prodleniya-bez-syurprizov/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-reconcile-cash-cards-and-transfers-without-double-counting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-karten-und-uberweisungen-ohne-doppelzahlung-abgleichst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-rapprocher-especes-cartes-et-transferts-sans-double-comptabilisation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-conciliar-efectivo-tarjetas-y-transferencias-sin-doble-contabilizacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-conciliar-dinheiro-cartoes-e-transferencias-sem-dupla-contagem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-riconciliare-contanti-carte-e-trasferimenti-senza-doppio-conteggio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sveryat-nalichnye-karty-i-perevody-bez-dvoynogo-uchyota/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-medical-bills-and-set-a-nointerest-payment-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-medizinische-rechnungen-verhandelst-und-einen-zinsfreien-zahlungsplan-einrichtest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-des-factures-medicales-et-mettre-en-place-un-plan-de-paiement-sans-interets/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-facturas-medicas-y-establecer-un-plan-de-pago-sin-intereses/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-contas-medicas-e-definir-um-plano-de-pagamento-sem-juros/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-le-fatture-mediche-e-impostare-un-piano-di-pagamento-senza-interessi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-po-meditsinskim-schetam-i-oformit-besprotsentnyy-plan-platezhey/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-onetime-household-purchases-fairly-over-time/</loc>
+    <lastmod>2025-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-onetime-household-purchases-fairly-over-time/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-einmalige-haushaltsanschaffungen-fair-uber-die-zeit-aufteilt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-dans-le-temps-des-achats-menagers-ponctuels/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-de-forma-justa-en-el-tiempo-las-compras-puntuales-del-hogar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-compras-domesticas-unicas-de-forma-justa-ao-longo-do-tempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-nel-tempo-gli-acquisti-domestici-una-tantum/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-raspredelyat-razovye-domashnie-pokupki-so-vremenem/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/which-expenses-do-families-often-overlook-and-how-to-avoid-that/</loc>
