@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1309,6 +1309,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-gift-cards-and-store-credits-without-losing-money/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -2100,6 +2126,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-di-gift-card-e-crediti-negozio-senza-perdere-soldi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-podarochnye-karty-i-kredity-magazina-ne-teryaya-dengi/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-gift-cards-and-store-credits-without-losing-money/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/</loc>
@@ -2895,6 +2947,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-gift-cards-and-store-credits-without-losing-money/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -3686,6 +3764,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-di-gift-card-e-crediti-negozio-senza-perdere-soldi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-podarochnye-karty-i-kredity-magazina-ne-teryaya-dengi/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-gift-cards-and-store-credits-without-losing-money/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/</loc>
@@ -4481,6 +4585,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-gift-cards-and-store-credits-without-losing-money/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -5272,6 +5402,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-rastrear-cartoespresente-e-creditos-de-loja-sem-perder-dinheiro/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-podarochnye-karty-i-kredity-magazina-ne-teryaya-dengi/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-gift-cards-and-store-credits-without-losing-money/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/</loc>
@@ -6067,6 +6223,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-gift-cards-and-store-credits-without-losing-money/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/pochemu-vazhno-zapisyvat-kazhdyy-rashod-v-2025-godu/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -6858,6 +7040,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-rastrear-cartoespresente-e-creditos-de-loja-sem-perder-dinheiro/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-di-gift-card-e-crediti-negozio-senza-perdere-soldi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-podarochnye-karty-i-kredity-magazina-ne-teryaya-dengi/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-90-day-cash-flow-forecast-youll-actually-use/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-90tagecashflowprognose-erstellst-die-du-wirklich-nutzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-prevision-de-tresorerie-sur-90-jours-que-vous-utiliserez-vraiment/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-pronostico-de-flujo-de-caja-a-90-dias-que-realmente-usaras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-uma-previsao-de-fluxo-de-caixa-de-90-dias-que-voce-realmente-vai-usar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-previsione-di-flusso-di-cassa-a-90-giorni-che-userai-davvero/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-90dnevnyy-prognoz-denezhnogo-potoka-kotorym-vy-deystvitelno-budete-polzovatsya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-ihr-das-erste-babyjahr-budgetiert-ohne-zu-raten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-la-premiere-annee-de-bebe-sans-devinettes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-primer-ano-de-un-bebe-sin-adivinar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/why-tracking-every-expense-matters-in-2025/</loc>
