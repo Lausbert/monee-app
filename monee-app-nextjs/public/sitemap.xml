@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-08</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1335,6 +1335,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -2152,6 +2178,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/</loc>
@@ -2973,6 +3025,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -3790,6 +3868,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/</loc>
@@ -4611,6 +4715,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -5428,6 +5558,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/</loc>
@@ -6249,6 +6405,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-babys-first-year-without-guessing/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/pochemu-vazhno-zapisyvat-kazhdyy-rashod-v-2025-godu/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -7066,6 +7248,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-o-primeiro-ano-do-bebe-sem-adivinhacoes/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-il-primo-anno-del-bambino-senza-tirare-a-indovinare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-na-pervyy-god-zhizni-rebenka-bez-dogadok/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-for-a-local-move-without-surprise-costs/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-a-local-move-without-surprise-costs/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-un-demenagement-local-sans-frais-imprevus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-una-mudanza-local-sin-costos-sorpresa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-orcamento-para-uma-mudanca-local-sem-custos-surpresa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-per-un-trasloco-locale-senza-costi-imprevisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-dlya-mestnogo-pereezda-bez-neozhidannyh-rashodov/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/</loc>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-mieterhohung-verhandelst-ohne-brucken-zu-verbrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-negocier-une-augmentation-de-loyer-sans-bruler-les-ponts/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-negociar-un-aumento-de-alquiler-sin-quemar-puentes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/why-tracking-every-expense-matters-in-2025/</loc>
