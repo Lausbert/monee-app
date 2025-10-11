@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-09</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1361,6 +1361,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/why-tracking-every-expense-matters-in-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -2204,6 +2243,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/warum-es-2025-wichtig-ist-jede-ausgabe-zu-tracken/</loc>
@@ -3051,6 +3129,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/pourquoi-suivre-chaque-depense-compte-en-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -3894,6 +4011,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-que-rastrear-cada-gasto-importa-en-2025/</loc>
@@ -4741,6 +4897,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/por-que-rastrear-cada-despesa-importa-em-2025/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -5584,6 +5779,45 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/perche-tracciare-ogni-spesa-e-importante-nel-2025/</loc>
@@ -6431,6 +6665,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-negotiate-a-rent-increase-without-burning-bridges/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/pochemu-vazhno-zapisyvat-kazhdyy-rashod-v-2025-godu/</loc>
     <lastmod>2025-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -7274,6 +7547,45 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-negociar-um-aumento-de-aluguel-sem-queimar-pontes/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-negoziare-un-aumento-dellaffitto-senza-bruciare-i-ponti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-dogovoritsya-o-povyshenii-arendy-ne-szhigaya-mosty/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-off-the-credit-card-float-without-a-cash-crunch/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-vom-kreditkartenfloat-runterkommst-ohne-liquiditatsengpass/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-sortir-du-flottement-sur-carte-de-credit-sans-choc-de-tresorerie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-salir-del-float-de-la-tarjeta-de-credito-sin-una-crisis-de-efectivo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-sair-do-float-do-cartao-de-credito-sem-aperto-de-caixa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-uscire-dal-float-della-carta-di-credito-senza-una-stretta-di-cassa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vyyti-iz-flouta-po-kreditnoy-karte-bez-kassovogo-razryva/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-coparenting-costs-5050-vs-prorata-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-coparentingkosten-aufteilt-5050-vs-prorataregeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-les-couts-de-coparentalite-5050-vs-regles-au-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costos-de-la-coparentalidad-reglas-5050-vs-prorrata/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-coparentalidade-5050-vs-regras-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-i-costi-della-cogenitorialita-5050-vs-regole-prorata/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-sovmestnye-roditelskie-rashody-5050-vs-prorata/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-run-a-30day-spend-audit-without-burnout/</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-run-a-30day-spend-audit-without-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-fuhrst-du-ein-30tagiges-ausgabenaudit-ohne-burnout-durch/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-realiser-un-audit-des-depenses-sur-30-jours-sans-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-realizar-una-auditoria-de-gastos-de-30-dias-sin-agotamiento/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-realizar-uma-auditoria-de-gastos-de-30-dias-sem-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-eseguire-un-audit-delle-spese-di-30-giorni-senza-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-provesti-30dnevnyy-audit-rashodov-bez-vygoraniya/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/why-tracking-every-expense-matters-in-2025/</loc>
