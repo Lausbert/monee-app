@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-12</lastmod>
+    <lastmod>2025-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1439,6 +1439,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-budget-when-you-hate-tracking/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -2347,6 +2373,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-budget-quando-odi-registrare-ogni-spesa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-byudzhet-esli-vy-nenavidite-uchyot/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-budget-when-you-hate-tracking/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/</loc>
@@ -3259,6 +3311,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-budget-when-you-hate-tracking/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -4167,6 +4245,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-budget-quando-odi-registrare-ogni-spesa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-byudzhet-esli-vy-nenavidite-uchyot/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-budget-when-you-hate-tracking/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/</loc>
@@ -5079,6 +5183,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-budget-when-you-hate-tracking/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -5987,6 +6117,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-orcamento-quando-voce-odeia-acompanhar-gastos/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-byudzhet-esli-vy-nenavidite-uchyot/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-budget-when-you-hate-tracking/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/</loc>
@@ -6899,6 +7055,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-budget-when-you-hate-tracking/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -7807,6 +7989,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-orcamento-quando-voce-odeia-acompanhar-gastos/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-budget-quando-odi-registrare-ogni-spesa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-byudzhet-esli-vy-nenavidite-uchyot/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-between-a-gym-membership-and-home-workouts-with-a-weighted-costuse-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mithilfe-einer-gewichteten-kostennutzungsmatrix-zwischen-fitnessstudiomitgliedschaft-und-heimtraining-wahlst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-un-abonnement-a-la-salle-et-des-entrainements-a-domicile-avec-une-matrice-ponderee-coutusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-entre-una-membresia-de-gimnasio-y-entrenamientos-en-casa-con-una-matriz-ponderada-de-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-entre-uma-academia-e-treinos-em-casa-com-uma-matriz-ponderada-de-custouso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-un-abbonamento-in-palestra-e-allenamenti-a-casa-con-una-matrice-ponderata-costouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-abonementom-v-zal-i-trenirovkami-doma-s-pomoschyu-vzveshennoy-matritsy-stoimostispolzovanie/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/</loc>
+    <lastmod>2025-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-entscheiden-sie-mit-einem-einfachen-flussdiagramm-ob-eine-ausgabe-gemeinsam-oder-personlich-ist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-si-une-depense-est-partagee-ou-personnelle-a-laide-dun-organigramme-simple/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-un-gasto-es-compartido-o-personal-usando-un-diagrama-de-flujo-simple/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
