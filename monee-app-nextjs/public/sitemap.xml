@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-13</lastmod>
+    <lastmod>2025-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1465,6 +1465,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -2399,6 +2451,58 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/</loc>
@@ -3337,6 +3441,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -4271,6 +4427,58 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/</loc>
@@ -5209,6 +5417,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -6143,6 +6403,58 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/</loc>
@@ -7081,6 +7393,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-if-an-expense-is-shared-or-personal-using-a-simple-flowchart/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -8015,6 +8379,58 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-se-uma-despesa-e-compartilhada-ou-pessoal-usando-um-fluxograma-simples/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-una-spesa-e-condivisa-o-personale-con-un-semplice-diagramma-di-flusso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-yavlyaetsya-li-rashod-obschim-ili-lichnym-s-pomoschyu-prostoy-blokshemy/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-move-bill-due-dates-to-match-your-paydays/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-move-bill-due-dates-to-match-your-paydays/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-verschieben-sie-falligkeitsdaten-damit-sie-zu-ihren-zahltagen-passen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-deplacer-les-dates-decheance-pour-les-aligner-sur-vos-jours-de-paie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mover-las-fechas-de-vencimiento-de-tus-facturas-para-que-coincidan-con-tus-dias-de-pago/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-mudar-as-datas-de-vencimento-para-coincidir-com-seus-dias-de-pagamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-spostare-le-scadenze-delle-bollette-in-linea-con-i-giorni-di-stipendio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perenesti-daty-oplaty-schetov-pod-dni-zarplaty/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-handle-refunds-returns-and-chargebacks-in-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-handhabst-du-ruckerstattungen-ruckgaben-und-chargebacks-in-deinem-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-gerer-les-remboursements-retours-et-retrofacturations-dans-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-manejar-reembolsos-devoluciones-y-contracargos-en-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-lidar-com-reembolsos-devolucoes-e-estornos-no-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-rimborsi-resi-e-chargeback-nel-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-vozvraty-otmeny-i-chardzhbeki-v-byudzhete/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-household-replacement-cycle-appliances-tech-and-tires/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-einen-haushaltsersatzzyklus-gerate-technik-und-reifen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-cycle-de-remplacement-domestique-appareils-tech-et-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ciclo-de-reemplazo-del-hogar-electrodomesticos-tecnologia-y-neumaticos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-ciclo-de-substituicao-domestico-eletrodomesticos-tecnologia-e-pneus/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-ciclo-di-sostituzione-domestico-elettrodomestici-tecnologia-e-pneumatici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-postroit-tsikl-zameny-dlya-doma-tehnika-gadzhety-i-shiny/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erstellst-du-ein-dreitopfbudget-rechnungen-wochentliche-ausgaben-ziele/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-construire-un-budget-a-trois-compartiments-factures-depenses-hebdomadaires-objectifs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-presupuesto-de-tres-cubetas-facturas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
