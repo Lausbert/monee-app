@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-14</lastmod>
+    <lastmod>2025-10-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1517,6 +1517,38 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-set-up-a-kids-allowance-with-savespendgive-buckets/</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -2503,6 +2535,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wochentlich-vs-monatlich-budgetieren-was-funktioniert-besser-und-wie-man-wechselt/</loc>
@@ -3493,6 +3551,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/budget-hebdomadaire-vs-mensuel-lequel-fonctionne-le-mieux-et-comment-changer/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -4479,6 +4563,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/presupuesto-semanal-vs-mensual-cual-funciona-mejor-y-como-cambiar/</loc>
@@ -5469,6 +5579,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -6455,6 +6591,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/</loc>
@@ -7445,6 +7607,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -8431,6 +8619,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-um-orcamento-de-tres-baldes-contas-gasto-semanal-metas/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-costruire-un-budget-a-tre-comparti-bollette-spesa-settimanale-obiettivi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-byudzhet-iz-treh-korzin-scheta-ezhenedelnye-traty-tseli/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-glatten-sie-unregelmassige-rechnungen-mit-einem-einfachen-levelpaypuffer/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-lisser-des-factures-irregulieres-avec-un-simple-coussin-a-paiement-lisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-suavizar-facturas-irregulares-con-un-sencillo-colchon-de-pago-nivelado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-suavizar-contas-irregulares-com-um-simples-amortecedor-de-pagamentos-nivelados/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-rendere-regolari-le-bollette-irregolari-con-un-semplice-buffer-a-quota-costante/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sgladit-neregulyarnye-scheta-s-prostym-buferom-fiksirovannyh-platezhey/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-car-costs-fairly-fuel-repairs-insurance-and-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-autokosten-fair-aufteilt-kraftstoff-reparaturen-versicherung-und-wertverlust/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-couts-dune-voiture-carburant-reparations-assurance-et-depreciation/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-costes-del-coche-de-forma-justa-combustible-reparaciones-seguro-y-depreciacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-do-carro-de-forma-justa-combustivel-reparos-seguro-e-depreciacao/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-equamente-i-costi-dellauto-carburante-riparazioni-assicurazione-e-deprezzamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-rashody-na-avtomobil-toplivo-remonty-strahovka-i-amortizatsiya/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/</loc>
