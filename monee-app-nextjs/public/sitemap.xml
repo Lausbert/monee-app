@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-16</lastmod>
+    <lastmod>2025-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1517,12 +1517,6 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-threebucket-budget-bills-weekly-spend-goals/"/>
   </url>
   <url>
-    <loc>https://monee-app.com/blog/how-to-set-up-a-kids-allowance-with-savespendgive-buckets/</loc>
-    <lastmod>2025-10-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
     <loc>https://monee-app.com/blog/how-to-smooth-irregular-bills-with-a-simple-level-pay-buffer/</loc>
     <lastmod>2025-10-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -1560,6 +1554,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/finally-monee-is-now-available-for-android/</loc>
@@ -2576,6 +2596,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -3588,6 +3634,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/</loc>
@@ -4604,6 +4676,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -5616,6 +5714,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/</loc>
@@ -6632,6 +6756,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -7646,6 +7796,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/weekly-vs-monthly-budgeting-which-works-better-and-how-to-switch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -8658,6 +8834,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-semanal-vs-mensal-qual-funciona-melhor-e-como-mudar/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-settimanale-vs-mensile-quale-funziona-meglio-e-come-cambiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nedelnyy-ili-mesyachnyy-byudzhet-chto-luchshe-i-kak-pereklyuchitsya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-coordinate-household-shopping-lists-to-prevent-double-buying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-koordinieren-sie-haushaltseinkaufslisten-um-doppelkaufe-zu-vermeiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-coordonner-les-listes-de-courses-du-foyer-pour-eviter-les-achats-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-coordinar-listas-de-compras-del-hogar-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-coordenar-listas-de-compras-da-casa-para-evitar-compras-duplicadas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-coordinare-le-liste-della-spesa-di-casa-per-evitare-doppi-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-soglasovyvat-domashnie-spiski-pokupok-chtoby-izbezhat-dvoynyh-pokupok/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-man-mit-einer-gewichteten-kostenzeitmatrix-zwischen-kochboxen-takeout-und-selbst-kochen-entscheidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-entre-les-box-repas-a-emporter-et-la-cuisine-maison-avec-une-matrice-ponderee-couttemps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-entre-kits-de-comida-comida-para-llevar-y-cocinar-en-casa-con-una-matriz-ponderada-de-costotiempo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/</loc>
