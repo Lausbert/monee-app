@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-17</lastmod>
+    <lastmod>2025-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1582,6 +1582,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/finally-monee-is-now-available-for-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -2620,6 +2646,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/</loc>
@@ -3662,6 +3714,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -4700,6 +4778,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/</loc>
@@ -5742,6 +5846,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -6780,6 +6910,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/</loc>
@@ -7822,6 +7978,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-between-meal-kits-takeout-and-home-cooking-with-a-weighted-costtime-matrix/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -8860,6 +9042,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-entre-kits-de-refeicao-takeout-e-cozinhar-em-casa-com-uma-matriz-ponderada-de-custotempo/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-tra-meal-kit-takeaway-e-cucina-in-casa-con-una-matrice-ponderata-costotempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-mezhdu-naborami-dlya-gotovki-edoy-navynos-i-domashney-gotovkoy-s-pomoschyu-vzveshennoy-matritsy-stoimostvremya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-for-five-week-months-without-overspending/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-five-week-months-without-overspending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetieren-sie-fur-funfwochenmonate-ohne-zu-viel-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-mois-a-cinq-semaines-sans-trop-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-para-meses-de-cinco-semanas-sin-gastar-de-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-meses-de-cinco-semanas-sem-gastar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-nei-mesi-con-cinque-settimane-senza-sforare/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavlyat-byudzhet-v-mesyatsy-s-pyatyu-pyatnitsami-bez-pererashoda/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/</loc>
+    <lastmod>2025-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-setzt-ihr-smarte-kategorieobergrenzen-anhand-der-ausgaben-des-letzten-monats/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-definir-des-plafonds-de-categories-intelligents-a-partir-des-depenses-du-mois-dernier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-establecer-topes-de-categoria-inteligentes-usando-el-gasto-del-mes-pasado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/</loc>
