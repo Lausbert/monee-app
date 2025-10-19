@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-18</lastmod>
+    <lastmod>2025-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1608,6 +1608,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/finally-monee-is-now-available-for-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -2672,6 +2698,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/</loc>
@@ -3740,6 +3792,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -4804,6 +4882,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/</loc>
@@ -5872,6 +5976,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -6936,6 +7066,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/</loc>
@@ -8004,6 +8160,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-smart-category-caps-using-last-months-spending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -9068,6 +9250,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-limites-inteligentes-por-categoria-usando-o-gasto-do-mes-passado/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-impostare-tetti-di-categoria-intelligenti-usando-la-spesa-del-mese-scorso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustanovit-razumnye-limity-po-kategoriyam-na-osnove-trat-proshlogo-mesyatsa/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-evaluate-buy-now-pay-later-offers-without-traps/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-buynowpaylaterangebote-ohne-fallen-bewertest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-evaluer-les-offres-achetez-maintenant-payez-plus-tard-sans-pieges/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evaluar-las-ofertas-de-compra-ahora-paga-despues-sin-trampas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-avaliar-ofertas-de-compre-agora-pague-depois-sem-armadilhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-valutare-le-offerte-compra-ora-paga-dopo-senza-tranelli/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otsenivat-predlozheniya-buy-now-pay-later-bez-lovushek/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/</loc>
+    <lastmod>2025-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-separate-shared-groceries-from-personal-treats-on-a-single-receipt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-trennst-du-gemeinsame-lebensmittel-von-personlichen-extras-auf-einer-einzigen-quittung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-separer-les-courses-partagees-des-petits-plaisirs-personnels-sur-un-seul-ticket-de-caisse/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-separar-los-comestibles-compartidos-de-los-antojos-personales-en-un-solo-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-separar-as-compras-de-supermercado-compartilhadas-dos-mimos-pessoais-em-um-unico-recibo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-separare-la-spesa-condivisa-dagli-sfizi-personali-su-un-unico-scontrino/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-obschie-produkty-i-lichnye-pokupki-v-odnom-cheke/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/</loc>
