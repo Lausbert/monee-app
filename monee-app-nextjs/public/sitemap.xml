@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-20</lastmod>
+    <lastmod>2025-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1660,6 +1660,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/finally-monee-is-now-available-for-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -2776,6 +2802,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-i-costi-dellabitazione-quando-uno-dei-partner-possiede-la-casa-un-diagramma-decisionale/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-rashody-na-zhilyo-esli-dom-prinadlezhit-odnomu-partnyoru-derevo-resheniy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/endlich-monee-ist-jetzt-fur-android-verfugbar/</loc>
@@ -3896,6 +3948,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/enfin-monee-est-desormais-disponible-sur-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -5012,6 +5090,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-i-costi-dellabitazione-quando-uno-dei-partner-possiede-la-casa-un-diagramma-decisionale/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-rashody-na-zhilyo-esli-dom-prinadlezhit-odnomu-partnyoru-derevo-resheniy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/por-fin-monee-ya-esta-disponible-para-android/</loc>
@@ -6132,6 +6236,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -7248,6 +7378,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-moradia-quando-um-parceiro-e-o-proprietario-uma-arvore-de-decisao/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-rashody-na-zhilyo-esli-dom-prinadlezhit-odnomu-partnyoru-derevo-resheniy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/</loc>
@@ -8368,6 +8524,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/</loc>
     <lastmod>2025-08-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -9484,6 +9666,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-moradia-quando-um-parceiro-e-o-proprietario-uma-arvore-de-decisao/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ripartire-i-costi-dellabitazione-quando-uno-dei-partner-possiede-la-casa-un-diagramma-decisionale/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-rashody-na-zhilyo-esli-dom-prinadlezhit-odnomu-partnyoru-derevo-resheniy/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-plan-your-budget-when-one-partner-takes-parental-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-plant-ihr-euer-budget-wenn-ein-partner-in-elternzeit-geht/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-planifier-votre-budget-lorsque-lun-des-partenaires-prend-un-conge-parental/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-planificar-el-presupuesto-cuando-uno-de-los-miembros-de-la-pareja-toma-una-licencia-parental/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-planejar-seu-orcamento-quando-um-parceiro-tira-licenca-parental/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-quando-un-partner-prende-il-congedo-parentale/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-byudzhet-esli-odin-iz-partnerov-uhodit-v-otpusk-po-uhodu-za-rebenkom/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/</loc>
+    <lastmod>2025-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-decide-whether-to-keep-or-sell-your-car-with-a-weighted-costconvenience-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-mit-einer-gewichteten-kostenkomfortmatrix-entscheiden-ob-sie-ihr-auto-behalten-oder-verkaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-decider-de-garder-ou-vendre-votre-voiture-avec-une-matrice-ponderee-coutcommodite/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-decidir-si-conservar-o-vender-tu-auto-con-una-matriz-ponderada-de-costoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-decidir-manter-ou-vender-seu-carro-com-uma-matriz-ponderada-de-custoconveniencia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-decidere-se-tenere-o-vendere-lauto-con-una-matrice-ponderata-costicomodita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reshit-ostavit-ili-prodat-avtomobil-s-pomoschyu-vzveshennoy-matritsy-stoimostudobstvo/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/</loc>
