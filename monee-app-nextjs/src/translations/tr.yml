@@ -28,8 +28,8 @@ global:
   app_ratings:
     stars: "⭐⭐⭐⭐⭐"
     score: "Küresel Puan: 4.9 / 5.0"
-    count: "7000+ değerlendirme ve incelemeye dayanıyor"
-    downloads: "Dünya çapında 100.000+ indirme"
+    count: "10.000+ değerlendirme ve incelemeye dayanıyor"
+    downloads: "Dünya çapında 200.000+ indirme"
   reviews:
     - title: "Harika uygulama!!"
       body: "Bir ev bütçesi defterinin ne kadar faydalı olduğu bir yana, geliştiricinin Monee ile büyük bir başarı elde ettiğini düşünüyorum! Arayüz çok net, sezgisel ve kullanımı kolay. Tüm temel özellikler mevcut ve elbette gelir-gider analizi de var. Başka bir uygulamaya ihtiyacım kalmadı—üstelik tamamen ücretsiz ve reklamsız. Geliştiriciye saygı ve çok teşekkürler!"

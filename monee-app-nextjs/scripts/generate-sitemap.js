@@ -96,10 +96,10 @@ function generateSitemap() {
 
   // Static pages that exist for all languages
   const staticPages = [
-    { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-07-09' }, // Homepage
+    { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-10-22' }, // Homepage
     { path: 'blog', priority: '0.8', changefreq: 'daily', lastmod: newestBlogDate }, // Blog uses newest post date
     { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2025-09-15' },
-    { path: 'imprint', priority: '0.1', changefreq: 'yearly', lastmod: '2025-06-28' }
+    { path: 'imprint', priority: '0.1', changefreq: 'yearly', lastmod: '2025-10-22' }
   ];
 
   let sitemap = `<?xml version="1.0" encoding="UTF-8"?>

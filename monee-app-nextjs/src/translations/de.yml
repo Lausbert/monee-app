@@ -28,8 +28,8 @@ global:
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Globale Bewertung: 4.9 / 5.0"
-    count: "Basierend auf über 7000 Bewertungen"
-    downloads: "Über 100.000 Downloads weltweit"
+    count: "Basierend auf über 10.000 Bewertungen"
+    downloads: "Über 200.000 Downloads weltweit"
   reviews:
     - title: Tolle App !!
       body: "Mal davon abgesehen, dass ein Haushaltsbuch eine super nützliche und wichtige Sache ist, ist dem Entwickler mit Monee meiner Meinung nach der ganz große Wurf gelungen! Übersichtlich gestaltet, intuitiv und einfach zu bedienen, alle notwendigen Funktionen vorhanden und natürlich fehlt auch eine Auswertung der Einnahmen und Ausgaben nicht. Ich brauch keine andere App mehr… und das Ganze völlig kostenlos und ohne Werbung. Respekt und vielen Dank an den Entwickler!!!"

@@ -28,8 +28,8 @@ global:
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Valutazione Globale: 4.9 / 5.0"
-    count: "Basato su oltre 7000 Valutazioni e Recensioni"
-    downloads: "Oltre 100.000 Download in tutto il mondo"
+    count: "Basato su oltre 10.000 Valutazioni e Recensioni"
+    downloads: "Oltre 200.000 Download in tutto il mondo"
   reviews:
     - title: "Ottima app!!"
       body: "A parte il fatto che un registro delle spese domestiche è una cosa super utile e importante, penso che lo sviluppatore abbia fatto centro con Monee! È chiaramente strutturata, intuitiva e facile da usare, tutte le funzioni essenziali sono incluse e ovviamente c'è un'analisi di entrate e spese. Non ho più bisogno di altre app... e il tutto è completamente gratuito e senza pubblicità. Rispetto e molte grazie allo sviluppatore!!!"

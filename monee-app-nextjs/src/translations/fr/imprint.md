@@ -1,8 +1,8 @@
 # Mentions Légales
 
 Stephan Lerner  
-Domhorst 0  
-22113 Oststeinbek
+Oldesloer Weg 9  
+21614 Buxtehude
 
 #### Contact
 

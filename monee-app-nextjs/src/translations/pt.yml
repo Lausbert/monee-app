@@ -28,8 +28,8 @@ global:
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Classificação Global: 4.9 / 5.0"
-    count: "Baseado em mais de 7000 Classificações e Avaliações"
-    downloads: "Mais de 100.000 downloads mundialmente"
+    count: "Baseado em mais de 10.000 Classificações e Avaliações"
+    downloads: "Mais de 200.000 downloads mundialmente"
   reviews:
     - title: "Excelente aplicação!!"
       body: "Além do facto de um livro de contas domésticas ser uma coisa super útil e importante, acho que o desenvolvedor conseguiu um verdadeiro sucesso com o Monee! É claro, intuitivo e fácil de usar, todas as funções essenciais estão incluídas e obviamente há uma análise de receitas e despesas. Já não preciso de outra aplicação... e tudo isto é completamente gratuito e sem anúncios. Respeito e muito obrigado ao desenvolvedor!!!"

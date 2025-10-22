@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://monee-app.com/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/"/>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -45,7 +45,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/imprint/"/>
@@ -60,7 +60,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -103,7 +103,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -118,7 +118,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -161,7 +161,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -219,7 +219,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -234,7 +234,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -277,7 +277,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -292,7 +292,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -335,7 +335,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -350,7 +350,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -393,7 +393,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -408,7 +408,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-21</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -451,7 +451,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -466,7 +466,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/el/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -496,7 +496,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/el/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -511,7 +511,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/tr/</loc>
-    <lastmod>2025-07-09</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/"/>
@@ -541,7 +541,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/tr/imprint/</loc>
-    <lastmod>2025-06-28</lastmod>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/imprint/"/>
@@ -1699,6 +1699,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -2841,6 +2867,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
@@ -3987,6 +4039,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -5129,6 +5207,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/conta-conjunta-ou-contas-separadas/</loc>
@@ -6275,6 +6379,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7417,6 +7547,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/obschiy-schyot-ili-otdelnye-scheta/</loc>
@@ -8563,6 +8719,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/finally-monee-is-now-available-for-android/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/hi/blog/joint-account-or-separate-accounts/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -9705,5 +9887,31 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/finalmente-monee-agora-esta-disponivel-para-android/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/finalmente-monee-e-ora-disponibile-per-android/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/nakonetsto-monee-teper-dostupen-na-android/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-shared-subscriptions-fairly-when-people-join-and-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gemeinsame-abos-fair-aufteilen-wenn-personen-beitreten-oder-ausscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-abonnements-partages-lorsque-des-personnes-rejoignent-ou-quittent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-suscripciones-compartidas-de-forma-justa-cuando-alguien-se-une-o-se-va/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-assinaturas-compartilhadas-de-forma-justa-quando-pessoas-entram-e-saem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-gli-abbonamenti-condivisi-quando-le-persone-si-uniscono-e-se-ne-vanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-delit-sovmestnye-podpiski-kogda-lyudi-prisoedinyayutsya-i-uhodyat/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-security-deposits-and-move-out-costs-fairly/</loc>
+    <lastmod>2025-10-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-security-deposits-and-move-out-costs-fairly/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-kautionen-und-auszugskosten-fair-aufgeteilt-werden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-repartir-equitablement-les-depots-de-garantie-et-les-frais-de-depart/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-de-forma-justa-los-depositos-de-garantia-y-los-costos-de-desocupacion/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-depositos-de-seguranca-e-custos-de-desocupacao-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-equamente-i-depositi-cauzionali-e-i-costi-di-uscita/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-strahovoy-depozit-i-rashody-pri-vyezde/"/>
   </url>
 </urlset>

@@ -58,7 +58,7 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
       "ratingValue": "4.9",
       "bestRating": "5",
       "worstRating": "1",
-      "ratingCount": "7000"
+      "ratingCount": "10000"
     },
     "author": {
       "@type": "Person",

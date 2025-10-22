@@ -28,8 +28,8 @@ global:
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Global Rating: 4.9 / 5.0"
-    count: "Based on 7000+ Ratings & Reviews"
-    downloads: "100.000+ Downloads worldwide"
+    count: "Based on 10.000+ Ratings & Reviews"
+    downloads: "200.000+ Downloads worldwide"
   reviews:
     - title: "Great app!!"
       body: "Apart from the fact that a household ledger is a super-useful and important thing, I think the developer has scored a real coup with Monee! It’s clearly laid out, intuitive and easy to use, all the essential functions are included and of course there’s an analysis of income and expenses. I don’t need any other app anymore… and the whole thing is completely free and ad-free. Respect and many thanks to the developer!!!"
