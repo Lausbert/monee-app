@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-24</lastmod>
+    <lastmod>2025-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1762,6 +1762,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-organizzare-un-weekend-senza-spese-senza-sentirti-privato-di-nulla/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsames-konto-oder-getrennte-konten/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -2967,6 +2993,32 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-fin-de-semana-sin-gastos-sin-sentir-que-te-privas/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-fim-de-semana-sem-gastos-sem-sentir-privacao/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-organizzare-un-weekend-senza-spese-senza-sentirti-privato-di-nulla/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/compte-commun-ou-comptes-separes/</loc>
@@ -4176,6 +4228,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-organizzare-un-weekend-senza-spese-senza-sentirti-privato-di-nulla/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/cuenta-conjunta-o-cuentas-separadas/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -5381,6 +5459,32 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-organiser-un-weekend-sans-depenses-sans-se-sentir-prive/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-fim-de-semana-sem-gastos-sem-sentir-privacao/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-organizzare-un-weekend-senza-spese-senza-sentirti-privato-di-nulla/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/conta-conjunta-ou-contas-separadas/</loc>
@@ -6590,6 +6694,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-organizzare-un-weekend-senza-spese-senza-sentirti-privato-di-nulla/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/conto-cointestato-o-conti-separati/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -7797,6 +7927,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-um-fim-de-semana-sem-gastos-sem-sentir-privacao/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/obschiy-schyot-ili-otdelnye-scheta/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -8993,6 +9149,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-credit-card-rewards-without-skewing-your-budget/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/hi/blog/joint-account-or-separate-accounts/</loc>
     <lastmod>2025-06-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -10187,5 +10369,31 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-acompanhar-recompensas-do-cartao-de-credito-sem-distorcer-seu-orcamento/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-monitorare-le-ricompense-della-carta-di-credito-senza-falsare-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-bonusy-po-kreditnym-kartam-ne-iskazhaya-byudzhet/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-get-a-credit-for-internet-outages-with-a-3line-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erhaltst-du-eine-gutschrift-fur-internetausfalle-mit-einem-3zeilenskript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-obtenir-un-credit-pour-des-pannes-dinternet-avec-un-script-en-3-lignes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-obtener-un-credito-por-caidas-de-internet-con-un-guion-de-3-lineas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-obter-credito-por-interrupcoes-de-internet-com-um-script-de-3-linhas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ottenere-un-credito-per-disservizi-internet-con-uno-script-in-3-righe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poluchit-pereraschet-za-sboi-interneta-s-pomoschyu-3strochnogo-stsenariya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/</loc>
+    <lastmod>2025-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-tipflation-with-a-simple-tipping-policy-youll-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-schlagen-sie-die-tipflation-mit-einer-einfachen-trinkgeldrichtlinie-an-die-sie-sich-halten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-vaincre-la-tipflation-avec-une-politique-de-pourboire-simple-que-vous-suivrez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-tipflacion-con-una-politica-de-propinas-sencilla-que-si-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-driblar-a-tipflation-com-uma-politica-simples-de-gorjetas-que-voce-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-tipflation-con-una-semplice-politica-di-mancia-a-cui-resterai-fedele/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-tipflyatsiyu-s-prostoy-politikoy-chaevyh-kotoroy-vy-budete-priderzhivatsya/"/>
   </url>
 </urlset>
