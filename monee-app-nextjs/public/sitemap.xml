@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-29</lastmod>
+    <lastmod>2025-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -618,6 +618,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dello-streaming-dopo-le-strette-sulle-password-con-la-regola-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-striming-posle-uzhestocheniya-politiki-paroley-s-pomoschyu-pravila-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-streaming-costs-after-password-crackdowns-with-a-rotate2-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/</loc>
@@ -1931,6 +1957,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-streaming-costs-after-password-crackdowns-with-a-rotate2-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -3240,6 +3292,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dello-streaming-dopo-le-strette-sulle-password-con-la-regola-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-striming-posle-uzhestocheniya-politiki-paroley-s-pomoschyu-pravila-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-streaming-costs-after-password-crackdowns-with-a-rotate2-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/</loc>
@@ -4553,6 +4631,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-streaming-costs-after-password-crackdowns-with-a-rotate2-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -5862,6 +5966,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dello-streaming-dopo-le-strette-sulle-password-con-la-regola-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-striming-posle-uzhestocheniya-politiki-paroley-s-pomoschyu-pravila-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-streaming-costs-after-password-crackdowns-with-a-rotate2-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/</loc>
@@ -7175,6 +7305,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-streaming-costs-after-password-crackdowns-with-a-rotate2-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -8486,6 +8642,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-streaming-costs-after-password-crackdowns-with-a-rotate2-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -9784,6 +9966,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-streaming-apos-as-repressoes-ao-compartilhamento-de-senhas-com-a-regra-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dello-streaming-dopo-le-strette-sulle-password-con-la-regola-rotate2/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-striming-posle-uzhestocheniya-politiki-paroley-s-pomoschyu-pravila-rotate2/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-sie-jugendsport-mit-einem-saisonfursaisonplan-budgetieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgeter-les-sports-pour-les-jeunes-avec-un-plan-saisonparsaison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-deportes-juveniles-con-un-plan-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-esportes-juvenis-com-um-plano-temporadaatemporada/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-per-gli-sport-giovanili-con-un-piano-stagioneperstagione/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-detskiy-sport-s-posezonnym-planom/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/</loc>
+    <lastmod>2025-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-behalten-sie-ihre-autopay-rabatte-ohne-kreditkartenpramien-zu-verlieren/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-conserver-vos-remises-dautopay-sans-perdre-les-recompenses-de-carte-de-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-mantener-tus-descuentos-por-pago-automatico-sin-perder-recompensas-de-tarjeta-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/stop-subscription-creep-track-recurring-charges-with-monee/</loc>
