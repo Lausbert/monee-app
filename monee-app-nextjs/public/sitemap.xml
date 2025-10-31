@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-10-30</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -644,6 +644,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/stop-subscription-creep-track-recurring-charges-with-monee/</loc>
@@ -1983,6 +2009,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/aboschleichwuchs-stoppen-wiederkehrende-kosten-mit-monee-verfolgen/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -3318,6 +3370,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/stop-a-la-derive-des-abonnements-suivez-les-frais-recurrents-avec-monee/</loc>
@@ -4657,6 +4735,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/deten-la-proliferacion-de-suscripciones-controla-cargos-recurrentes-con-monee/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -5992,6 +6096,32 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/pare-a-derrapagem-das-subscricoes-acompanhe-as-cobrancas-recorrentes-com-o-monee/</loc>
@@ -7331,6 +7461,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/stop-al-subscription-creep-traccia-gli-addebiti-ricorrenti-con-monee/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -8668,6 +8824,32 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/ostanovite-polzuchiy-rost-podpisok-otslezhivayte-regulyarnye-spisaniya-s-monee/</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -9992,6 +10174,32 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-manter-descontos-de-debito-automatico-sem-perder-recompensas-do-cartao-de-credito/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-mantenere-gli-sconti-autopay-senza-perdere-i-premi-della-carta-di-credito/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sohranit-skidki-za-avtoplatyozh-i-ne-poteryat-bonusy-po-kreditnoy-karte/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-choose-timeofuse-vs-standard-electricity-pricing-with-a-weighted-usageshift-matrix/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-zeitabhangige-timeofuse-vs-standardstrompreise-mit-einer-gewichteten-nutzungsshiftmatrix/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-choisir-entre-la-tarification-selon-lheure-dutilisation-et-le-tarif-standard-grace-a-une-matrice-ponderee-de-decalage-dusage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-elegir-precios-de-electricidad-por-tiempo-de-uso-vs-estandar-con-una-matriz-ponderada-de-desplazamiento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-escolher-tarifa-por-horario-de-uso-tou-vs-tarifa-padrao-com-uma-matriz-ponderada-de-deslocamento-de-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-scegliere-tra-tariffa-a-fasce-orarie-e-tariffa-standard-con-una-matrice-ponderata-di-spostamento-dei-consumi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vybrat-pochasovoe-timeofuse-ili-standartnoe-tsenoobrazovanie-na-elektroenergiyu-s-pomoschyu-vzveshennoy-matritsy-sdviga-potrebleniya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/</loc>
+    <lastmod>2025-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-file-your-taxes-for-free-with-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-geben-sie-ihre-steuererklarung-kostenlos-mit-irs-direct-file-ab/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-declarer-vos-impots-gratuitement-avec-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presentar-tus-impuestos-gratis-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-declarar-seus-impostos-gratuitamente-com-o-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-presentare-gratuitamente-la-dichiarazione-dei-redditi-con-irs-direct-file/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-besplatno-podat-nalogovuyu-deklaratsiyu-s-pomoschyu-irs-direct-file/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/stop-subscription-creep-track-recurring-charges-with-monee/</loc>
