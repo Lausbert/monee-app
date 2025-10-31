@@ -7,7 +7,14 @@
                 "paths": [
                     "/invite*",
                     "/de/invite*",
-                    "/fr/invite*"
+                    "/el/invite*",
+                    "/es/invite*",
+                    "/fr/invite*",
+                    "/hi/invite*",
+                    "/it/invite*",
+                    "/pt/invite*",
+                    "/ru/invite*",
+                    "/tr/invite*"
                 ],
                 "components": [
                     {
@@ -19,8 +26,36 @@
                         "comment": "Matches German localized invite URLs"
                     },
                     {
+                        "/": "/el/invite*",
+                        "comment": "Matches Greek localized invite URLs"
+                    },
+                    {
+                        "/": "/es/invite*",
+                        "comment": "Matches Spanish localized invite URLs"
+                    },
+                    {
                         "/": "/fr/invite*",
                         "comment": "Matches French localized invite URLs"
+                    },
+                    {
+                        "/": "/hi/invite*",
+                        "comment": "Matches Hindi localized invite URLs"
+                    },
+                    {
+                        "/": "/it/invite*",
+                        "comment": "Matches Italian localized invite URLs"
+                    },
+                    {
+                        "/": "/pt/invite*",
+                        "comment": "Matches Portuguese localized invite URLs"
+                    },
+                    {
+                        "/": "/ru/invite*",
+                        "comment": "Matches Russian localized invite URLs"
+                    },
+                    {
+                        "/": "/tr/invite*",
+                        "comment": "Matches Turkish localized invite URLs"
                     }
                 ]
             },
@@ -29,7 +64,14 @@
                 "paths": [
                     "/invite*",
                     "/de/invite*",
-                    "/fr/invite*"
+                    "/el/invite*",
+                    "/es/invite*",
+                    "/fr/invite*",
+                    "/hi/invite*",
+                    "/it/invite*",
+                    "/pt/invite*",
+                    "/ru/invite*",
+                    "/tr/invite*"
                 ],
                 "components": [
                     {
@@ -41,8 +83,36 @@
                         "comment": "Matches German localized invite URLs"
                     },
                     {
+                        "/": "/el/invite*",
+                        "comment": "Matches Greek localized invite URLs"
+                    },
+                    {
+                        "/": "/es/invite*",
+                        "comment": "Matches Spanish localized invite URLs"
+                    },
+                    {
                         "/": "/fr/invite*",
                         "comment": "Matches French localized invite URLs"
+                    },
+                    {
+                        "/": "/hi/invite*",
+                        "comment": "Matches Hindi localized invite URLs"
+                    },
+                    {
+                        "/": "/it/invite*",
+                        "comment": "Matches Italian localized invite URLs"
+                    },
+                    {
+                        "/": "/pt/invite*",
+                        "comment": "Matches Portuguese localized invite URLs"
+                    },
+                    {
+                        "/": "/ru/invite*",
+                        "comment": "Matches Russian localized invite URLs"
+                    },
+                    {
+                        "/": "/tr/invite*",
+                        "comment": "Matches Turkish localized invite URLs"
                     }
                 ]
             }
