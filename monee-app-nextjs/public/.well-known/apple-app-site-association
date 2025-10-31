@@ -6,7 +6,8 @@
                 "appID": "UD2UEZDYQ6.app.monee",
                 "paths": [
                     "/invite*",
-                    "/de/invite*"
+                    "/de/invite*",
+                    "/fr/invite*"
                 ],
                 "components": [
                     {
@@ -16,6 +17,10 @@
                     {
                         "/": "/de/invite*",
                         "comment": "Matches German localized invite URLs"
+                    },
+                    {
+                        "/": "/fr/invite*",
+                        "comment": "Matches French localized invite URLs"
                     }
                 ]
             },
@@ -23,7 +28,8 @@
                 "appID": "UD2UEZDYQ6.app.monee.debug",
                 "paths": [
                     "/invite*",
-                    "/de/invite*"
+                    "/de/invite*",
+                    "/fr/invite*"
                 ],
                 "components": [
                     {
@@ -33,6 +39,10 @@
                     {
                         "/": "/de/invite*",
                         "comment": "Matches German localized invite URLs"
+                    },
+                    {
+                        "/": "/fr/invite*",
+                        "comment": "Matches French localized invite URLs"
                     }
                 ]
             }
