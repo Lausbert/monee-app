@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-11-21</lastmod>
+    <lastmod>2025-12-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1101,6 +1101,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-teach-kids-about-money-with-an-allowance-chores-choices-plan/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -1114,6 +1153,136 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -1125,6 +1294,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/sinking-funds-made-simple-set-up-and-track-in-monee/</loc>
@@ -2854,6 +3062,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-teach-kids-about-money-with-an-allowance-chores-choices-plan/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/nullbasiertes-budgetieren-ohne-tabellenkalkulation-ein-einfacher-monee-workflow/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -2867,6 +3114,136 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/privates-budgetieren-ohne-werbung-so-bleibt-deine-moneedatenschutzhoheit-gewahrt/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -2878,6 +3255,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/sinking-funds-einfach-erklart-in-monee-einrichten-und-nachverfolgen/</loc>
@@ -4607,6 +5023,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-teach-kids-about-money-with-an-allowance-chores-choices-plan/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/budgetisation-a-base-zero-sans-tableurs-un-flux-de-travail-monee-simple/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -4620,6 +5075,136 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/budgetiser-en-prive-sans-pubs-comment-monee-garde-vos-donnees-a-vous/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -4631,6 +5216,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/fonds-de-provision-simplifies-configurez-les-et-suivez-les-dans-monee/</loc>
@@ -6360,6 +6984,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-teach-kids-about-money-with-an-allowance-chores-choices-plan/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/presupuesto-de-base-cero-sin-hojas-de-calculo-un-flujo-de-trabajo-simple-con-monee/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -6373,6 +7036,136 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/presupuestacion-privada-sin-anuncios-como-monee-mantiene-tus-datos-como-tuyos/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -6384,6 +7177,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/fondos-de-prevision-sin-complicaciones-configuralos-y-controlalos-en-monee/</loc>
@@ -8113,6 +8945,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-teach-kids-about-money-with-an-allowance-chores-choices-plan/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/orcamento-base-zero-sem-planilhas-um-fluxo-de-trabalho-simples-no-monee/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -8126,6 +8997,136 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/orcamentacao-privada-sem-anuncios-como-o-monee-mantem-seus-dados-so-seus/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -8137,6 +9138,45 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/fundos-de-reserva-descomplicados-configure-e-acompanhe-no-monee/</loc>
@@ -9866,6 +10906,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-teach-kids-about-money-with-an-allowance-chores-choices-plan/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/budget-a-base-zero-senza-fogli-di-calcolo-un-semplice-flusso-di-lavoro-monee/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -9879,6 +10958,136 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -9890,6 +11099,45 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamentacao-privada-sem-anuncios-como-o-monee-mantem-seus-dados-so-seus/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/fondi-di-accantonamento-senza-stress-come-configurarli-e-tracciarli-in-monee/</loc>
@@ -11619,6 +12867,45 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-teach-kids-about-money-with-an-allowance-chores-choices-plan/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/byudzhetirovanie-s-nulevoy-bazoy-bez-elektronnyh-tablits-prostoy-rabochiy-protsess-v-monee/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -11632,6 +12919,136 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -11643,6 +13060,45 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamentacao-privada-sem-anuncios-como-o-monee-mantem-seus-dados-so-seus/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/nakopitelnye-fondy-bez-slozhnostey-kak-nastroit-i-otslezhivat-v-monee/</loc>
@@ -13361,6 +14817,45 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nauchit-detey-obraschatsya-s-dengami-s-pomoschyu-plana-posobie-obyazannosti-vybor/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/hi/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-deinfluence-your-wishlist-and-curb-social-media-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-deine-wunschliste-deinfluencest-und-socialmediaausgaben-zugelst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-desinfluencer-ta-liste-denvies-et-freiner-les-depenses-liees-aux-reseaux-sociaux/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-desinfluir-tu-lista-de-deseos-y-frenar-el-gasto-en-redes-sociales/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-desinfluenciar-sua-lista-de-desejos-e-conter-os-gastos-nas-redes-sociais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-disinfluenzare-la-tua-wishlist-e-frenare-la-spesa-sui-social/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-devliyat-na-svoy-vishlist-i-umenshit-traty-izza-sotssetey/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-enjoy-little-treats-without-derailing-your-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-enjoy-little-treats-without-derailing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-kleine-belohnungen-geniesst-ohne-dein-budget-zu-entgleisen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-profiter-de-petits-plaisirs-sans-faire-derailler-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-disfrutar-de-pequenos-caprichos-sin-descarrilar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-aproveitar-pequenos-mimos-sem-sair-do-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-goderti-piccoli-sfizi-senza-mandare-fuori-strada-il-tuo-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-naslazhdatsya-malenkimi-radostyami-ne-sryvaya-byudzhet/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-test-living-in-a-cheaper-city-for-30-days-without-blowing-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-das-leben-in-einer-gunstigeren-stadt-30-tage-lang-testen-kannst-ohne-dein-budget-zu-sprengen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-tester-la-vie-dans-une-ville-moins-chere-pendant-30-jours-sans-exploser-votre-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-vivir-en-una-ciudad-mas-barata-durante-30-dias-sin-reventar-tu-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-testar-morar-em-uma-cidade-mais-barata-por-30-dias-sem-estourar-seu-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-testare-la-vita-in-una-citta-piu-economica-per-30-giorni-senza-sforare-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-protestirovat-zhizn-v-bolee-deshevom-gorode-za-30-dney-i-ne-vyyti-za-ramki-byudzheta/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/hi/blog/zerobased-budgeting-without-spreadsheets-a-simple-monee-workflow/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -13374,6 +14869,136 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhetirovanie-s-nulevoy-bazoy-bez-elektronnyh-tablits-prostoy-rabochiy-protsess-v-monee/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/hi/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-money-manifestation-trends-into-a-concrete-budget-you-can-stick-to/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-money-manifestationtrends-in-ein-konkretes-budget-verwandelst-an-das-du-dich-wirklich-haltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-transformer-les-tendances-de-manifestation-dargent-en-un-budget-concret-que-vous-pouvez-respecter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-tendencias-de-manifestacion-de-dinero-en-un-presupuesto-concreto-que-puedas-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-tendencias-de-manifestacao-de-dinheiro-em-um-orcamento-concreto-que-voce-consiga-seguir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-le-tendenze-di-money-manifestation-in-un-budget-concreto-che-puoi-davvero-seguire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-trendy-denezhnoy-manifestatsii-v-konkretnyy-byudzhet-kotorogo-vy-smozhete-priderzhivatsya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-side-hustle-income-without-burning-out/</loc>
+    <lastmod>2025-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-side-hustle-income-without-burning-out/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-einkommen-aus-deinem-side-hustle-budgetierst-ohne-auszubrennen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-les-revenus-de-votre-side-hustle-sans-finir-en-burnout/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-los-ingresos-de-tu-side-hustle-sin-agotarte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-a-renda-do-side-hustle-sem-entrar-em-esgotamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fare-un-budget-con-il-reddito-del-side-hustle-senza-bruciarti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-dohod-ot-podrabotki-i-ne-vygoret/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/</loc>
+    <lastmod>2025-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-make-a-lowbuy-year-youll-actually-stick-with/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-ein-lowbuyjahr-gestaltest-das-du-wirklich-durchhaltst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-annee-lowbuy-que-vous-pourrez-vraiment-tenir/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-un-ano-de-lowbuy-con-el-que-realmente-cumpliras/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-ano-lowbuy-que-voce-realmente-vai-manter/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-anno-lowbuy-che-riuscirai-davvero-a-mantenere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ustroit-loubay-god-kotorogo-vy-deystvitelno-budete-priderzhivatsya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/</loc>
+    <lastmod>2025-11-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-payday-routine-that-balances-bills-fun-and-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-eine-zahltagsroutine-aufbaust-die-rechnungen-spass-und-sparen-ausbalanciert/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-routine-de-jour-de-paie-qui-equilibre-factures-plaisir-et-epargne/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-crear-una-rutina-de-dia-de-pago-que-equilibre-facturas-diversion-y-ahorros/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-construir-uma-rotina-de-dia-de-pagamento-que-equilibre-contas-diversao-e-poupanca/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-una-routine-di-giorno-di-paga-che-bilanci-bollette-divertimento-e-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vystroit-zarplatnuyu-rutinu-kotoraya-uravnoveshivaet-scheta-udovolstvie-i-sberezheniya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/</loc>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-the-cash-stuffing-trend-without-keeping-all-your-money-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-cashstuffingtrend-ausprobierst-ohne-dein-ganzes-geld-zu-hause-zu-lagern/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-tendance-du-cash-stuffing-sans-garder-tout-votre-argent-a-la-maison/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-tendencia-del-cash-stuffing-sin-guardar-todo-tu-dinero-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-a-tendencia-de-cash-stuffing-sem-manter-todo-o-seu-dinheiro-em-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-tendenza-del-cash-stuffing-senza-tenere-tutti-i-tuoi-soldi-in-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-trend-keshstaffinga-ne-hranya-vse-dengi-doma/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-the-rule-of-5-wardrobe-challenge-to-cut-clothing-costs-without-feeling-deprived/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-mit-der-rule-of-5-garderoben-challenge-kleidungskosten-senkst-ohne-dich-eingeschrankt-zu-fuhlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-le-defi-de-garde-robe-regle-de-5-pour-reduire-les-depenses-vestimentaires-sans-se-sentir-privee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-reto-de-guardarropa-regla-de-5-para-reducir-gastos-en-ropa-sin-sentirte-privado/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-desafio-de-guarda-roupa-regra-dos-5-para-reduzir-gastos-com-roupas-sem-se-sentir-privado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-la-sfida-del-guardaroba-con-la-regola-delle-5-per-ridurre-le-spese-per-i-vestiti-senza-sentirti-privato/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-chellendzh-garderoba-po-pravilu-5-chtoby-sokratit-rashody-na-odezhdu-i-ne-chuvstvovat-sebya-lishyonnoy/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/</loc>
+    <lastmod>2025-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-the-spaving-trap-when-chasing-deals/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-die-spaving-falle-bei-der-schnappchenjagd-vermeidest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-le-piege-du-spaving-quand-on-chasse-les-bonnes-affaires/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-la-trampa-del-spaving-cuando-persigues-ofertas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-a-armadilha-do-spaving-ao-correr-atras-de-promocoes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-la-trappola-dello-spaving-quando-si-inseguono-le-offerte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-lovushki-speyvinga-v-pogone-za-skidkami/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-underconsumption-core-to-cut-everyday-spending-by-shopping-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-den-underconsumption-core-nutzt-um-alltagliche-ausgaben-zu-senken-indem-du-das-shoppst-was-du-bereits-besitzt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-lunderconsumption-core-pour-reduire-vos-depenses-quotidiennes-en-faisant-les-courses-dans-ce-que-vous-possedez-deja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-el-underconsumption-core-para-reducir-el-gasto-diario-comprando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-o-underconsumption-core-para-cortar-gastos-do-dia-a-dia-comprando-o-que-voce-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-lunderconsumption-core-per-ridurre-le-spese-quotidiane-facendo-shopping-tra-le-cose-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-underconsumption-core-chtoby-sokratit-povsednevnye-traty-shopyas-v-tom-chto-u-vas-uzhe-est/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/</loc>
+    <lastmod>2025-11-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-beat-funflation-with-a-tickettraveltreats-budget-template/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-funflation-mit-einer-tickettraveltreatsbudgetvorlage-schlagst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-contrer-la-funflation-avec-un-modele-de-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-vencer-la-funflation-con-una-plantilla-de-presupuesto-entradasviajescaprichos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-vencer-a-funflation-com-um-modelo-de-orcamento-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-battere-la-funflation-con-un-modello-di-budget-tickettraveltreats/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pobedit-fanflyatsiyu-s-pomoschyu-shablona-byudzheta-biletyputeshestviyaugoscheniya/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-use-cash-only-weekends-to-reset-your-spending/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-cash-only-weekends-to-reset-your-spending/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-bargeld-only-wochenenden-nutzt-um-deine-ausgaben-zuruckzusetzen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-utiliser-les-week-ends-100-cash-pour-reinitialiser-vos-depenses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-usar-fines-de-semana-solo-en-efectivo-para-reiniciar-tus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-fins-de-semana-so-com-dinheiro-em-especie-para-resetar-seus-gastos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-i-weekend-solo-contanti-per-resettare-le-spese/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ispolzovat-nalichnye-vyhodnye-chtoby-perezagruzit-traty/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/hi/blog/private-budgeting-without-ads-how-monee-keeps-your-data-yours/</loc>
     <lastmod>2025-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -13385,6 +15010,45 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamentacao-privada-sem-anuncios-como-o-monee-mantem-seus-dados-so-seus/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budgeting-privato-senza-pubblicita-come-monee-mantiene-i-tuoi-dati-tuoi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/konfidentsialnoe-byudzhetirovanie-bez-reklamy-kak-monee-ostavlyaet-vashi-dannye-tolko-vam/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/</loc>
+    <lastmod>2025-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-respond-to-streaming-and-subscription-price-hikes-with-a-cancel-or-counter-script/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-reagieren-sie-auf-preiserhohungen-bei-streaming-und-abos-mit-einem-kundigen-oder-gegenangebot-skript/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reagir-aux-hausses-de-prix-du-streaming-et-des-abonnements-avec-un-script-resilier-ou-renegocier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-responder-a-las-subidas-de-precio-de-streaming-y-suscripciones-con-un-guion-de-cancelar-o-contraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-responder-a-aumentos-de-preco-de-streaming-e-assinaturas-com-um-roteiro-de-cancelaroucontraofertar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-reagire-agli-aumenti-di-prezzo-di-streaming-e-abbonamenti-con-uno-script-annulla-o-contratta/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-reagirovat-na-povyshenie-tsen-na-striming-i-podpiski-s-pomoschyu-stsenariya-otmenit-ili-vstretit-vstrechnym-predlozheniem/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-build-a-capsule-wardrobe-that-cuts-clothing-costs-all-year-long/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-baust-du-eine-capsule-wardrobe-die-deine-kleidungskosten-das-ganze-jahr-uber-senkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-creer-une-garde-robe-capsule-qui-reduit-vos-depenses-vestimentaires-toute-lannee/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-construir-un-armario-capsula-que-reduzca-los-gastos-en-ropa-durante-todo-el-ano/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-montar-um-guardaroupa-capsula-que-reduz-os-gastos-com-roupas-o-ano-inteiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-guardaroba-capsula-che-riduce-le-spese-per-i-vestiti-tutto-lanno/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-kapsulnyy-garderob-i-sokratit-rashody-na-odezhdu-kruglyy-god/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/</loc>
+    <lastmod>2025-12-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-try-diy-financial-therapy-with-a-feelings-before-spending-checklist/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-diy-finanztherapie-mit-einer-checkliste-gefuhle-vor-dem-ausgeben-ausprobierst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-essayer-la-therapie-financiere-diy-avec-une-checklist-emotions-avant-de-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-probar-la-terapia-financiera-diy-con-un-checklist-de-emociones-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-experimentar-terapia-financeira-facavocemesmo-com-um-checklist-de-sentimentos-antes-de-gastar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-provare-la-terapia-finanziaria-fai-da-te-con-una-checklist-dei-sentimenti-prima-di-spendere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-poprobovat-samostoyatelnuyu-finansovuyu-terapiyu-s-cheklistom-chuvstvaperedtratami/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/sinking-funds-made-simple-set-up-and-track-in-monee/</loc>
