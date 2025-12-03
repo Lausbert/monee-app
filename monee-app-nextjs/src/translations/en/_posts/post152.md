@@ -1,28 +1,14 @@
 ---
 title: "Monee launches on Product Hunt on December 28th"
-excerpt: "TODO"
-keywords: "TODO"
+excerpt: "Monee goes live on Product Hunt on December 28th—an indie, privacy-first expense tracker that leans on quick manual entry to help couples reset after the holidays and plan the year ahead; follow now to support launch day and share feedback."
+keywords: "Product Hunt launch, Monee app, manual expense tracking, budgeting for couples, holiday spending reset, privacy-first finance app, indie maker, follow to get notified"
 ---
-
-The days between Christmas and New Year’s are always a bit strange. You don’t really know what day of the week it is, the fridge is full of leftovers, and the kids are (hopefully) occupied with their new toys.
-
-Ideally, I’d spend that time going for a run or finally catching up on One Piece. But this year, I have different plans.
 
 **On December 28th, Monee is launching on Product Hunt.**
 
 For those who don’t hang around tech circles: Product Hunt is a platform where new apps are presented to the world. It’s a big deal for independent developers like me. It’s the moment you step out of your quiet coding bubble and see if the rest of the world finds your work useful.
 
 [![Monee on Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1044516&theme=light&t=1764582520085)](https://www.producthunt.com/products/monee?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-monee)
-
-<iframe
-  style="border: none;"
-  src="https://cards.producthunt.com/cards/products/1132759"
-  width="500"
-  height="405"
-  frameborder="0"
-  scrolling="no"
-  allowfullscreen
-></iframe>
 
 ### Why launch during the holidays?
 
@@ -45,7 +31,7 @@ I’m not asking for money or a subscription. I’m just asking for a bit of att
 **Here is the link:**
 [Get notified on Product Hunt](https://www.producthunt.com/products/monee?launch=monee)
 
-If you click "Notify me," you’ll get a ping when we go live.
+If you click "Follow Monee," you’ll get a ping when we go live.
 
 If you have a moment on the 28th—maybe while the kids are napping or you’re hiding from relatives—I’d love for you to stop by, check out the app, and leave some honest feedback.
 
