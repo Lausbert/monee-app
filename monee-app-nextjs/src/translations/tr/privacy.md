@@ -1,5 +1,5 @@
-﻿**Son güncelleme**
-15 Eylül 2025
+**Son güncelleme**
+11 Aralık 2025
 
 # Gizlilik Politikası
 
@@ -113,6 +113,32 @@ Uygulama çökmesi durumunda Crashlytics kurulum kimliği, çökme izleri ve min
 **Zorunlu sağlama:**
 
 Bu verileri sağlamak yasal veya sözleşmesel olarak zorunlu değildir; ancak sağlanmaması uygulamanın kararlılığını olumsuz etkileyebilir.
+
+#### Brevo
+
+**İşlemenin türü ve amacı:**
+
+Uygulamayı Google veya Apple ile kullanarak giriş yapabilirsiniz. Bağlı e‑posta adresini, hesabınızın silinmesi planlandığında size bildirim e-postası göndermek için kullanırız.
+
+**İşlenen veriler şunlar içindir:**
+
+- Uzun süreli hareketsizlik sonrası planlanan hesap silinmesi hakkında sizi önceden bilgilendirmek ve yanıt verme imkânı vermek. Bu amaçla e-posta adresiniz, kullanıcı adınız ve planlanan silme tarihi işlenir.
+
+**Hukuki dayanak:**
+
+İşleme, hesabınızı silmeden önce sizi bilgilendirme yönündeki meşru menfaatimiz kapsamında GDPR Madde 6 (1) f uyarınca yapılır.
+
+**Alıcı:**
+
+Veriler, bu bilgilendirme e-postalarını gönderen veri işleyen olarak [Brevo](https://www.brevo.com/) (eski adıyla Sendinblue) tarafından alınır. Daha fazla bilgi ve itiraz seçenekleri için [Brevo Gizlilik Politikası](https://www.brevo.com/legal/privacypolicy/).
+
+**Saklama süresi:**
+
+E-posta gönderim kayıtları bir ay sonra silinir.
+
+**Zorunlu sağlama:**
+
+Bu kişisel verileri sağlamak yasal veya sözleşmesel olarak zorunlu değildir. E-posta adresi olmadan, planlanan hesap silinmesi hakkında önceden bildirim gönderemeyiz.
 
 ### Web sitesi
 

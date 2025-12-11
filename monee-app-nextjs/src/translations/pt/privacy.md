@@ -1,5 +1,5 @@
 **Última atualização**
-15 de setembro de 2025
+11 de dezembro de 2025
 
 # Política de Privacidade
 
@@ -116,6 +116,28 @@ Os dados são eliminados dentro de 90 dias.
 
 ##### Provisão obrigatória ou necessária:
 A provisão dos dados acima mencionados não é legalmente nem contratualmente obrigatória. Sem os dados, no entanto, o serviço e funcionalidade da nossa aplicação não são garantidos.
+
+#### Brevo
+
+##### Tipo e propósito do processamento:
+
+Ao usar o app, você pode entrar com Google ou Apple. Usamos o endereço de e-mail associado para enviar um e-mail de aviso se a exclusão da sua conta estiver programada.
+
+Estes dados são processados apenas para:
+
+- avisá-lo com antecedência sobre a exclusão planejada da sua conta após um período prolongado de inatividade e permitir que você responda. Para isso processamos seu endereço de e-mail, seu nome de usuário e a data prevista de exclusão da conta.
+
+##### Base legal:
+O processamento ocorre de acordo com o Art. 6º, §1º, alínea f do GDPR, com base em nosso interesse legítimo em notificá-lo antes de excluir sua conta.
+
+##### Recetor:
+Os dados são recebidos pela [Brevo](https://www.brevo.com/pt/) (antiga Sendinblue), um provedor de serviços de e-mail que atua como operador para enviar esses e-mails de aviso. Consulte a [Política de Privacidade da Brevo](https://www.brevo.com/pt/legal/privacypolicy/) para mais informações e opções de oposição.
+
+##### Duração do armazenamento:
+Os registos de envio de e-mail são apagados após um mês.
+
+##### Provisão obrigatória ou necessária:
+Fornecer estes dados pessoais não é exigido por lei nem contratualmente. Sem um endereço de e-mail não podemos enviar-lhe um aviso prévio sobre a exclusão planeada da sua conta.
 
 ### Web
 

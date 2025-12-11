@@ -1,5 +1,5 @@
 **Letzte Aktualisierung**
-<br>15\. September 2025
+<br>11\. Dezember 2025
 
 # Datenschutz
 
@@ -118,6 +118,27 @@ Daten werden innerhalb von 90 Tagen gelöscht.
 
 ##### Bereitstellung erforderlich oder vorgeschrieben:
 Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht gewährleistet.
+
+#### Brevo
+
+##### Art und Zweck der Verarbeitung:
+Bei Nutzung der App ist eine Anmeldung mit Google oder Apple möglich. Wir verwenden die dabei hinterlegte E-Mail-Adresse um Ihnen im Falle einer bevorstehenden Kontolöschung eine Benachrichtigungs-E-Mail zu senden.
+
+Diese Daten werden ausschließlich zu folgendem Zweck verarbeitet:
+
+- Sie rechtzeitig über die geplante Löschung Ihres Kontos nach längerer Inaktivität zu informieren und Ihnen die Möglichkeit zu geben, gegebenenfalls darauf zu reagieren. Die zu diesem Zweck verarbeiteten Daten umfassen Ihre E-Mail-Adresse, Ihren Benutzernamen sowie das vorgesehene Datum der Kontolöschung.
+
+##### Rechtsgrundlage:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses, Sie vor der Löschung Ihres Kontos zu benachrichtigen. 
+
+##### Empfänger:
+Die Daten werden von [Brevo](https://www.brevo.com/de/) empfangen, einem Anbieter für E-Mail-Dienste (vormals Sendinblue), der in unserem Auftrag als Auftragsverarbeiter den Versand dieser Hinweis-E-Mails durchführt. Besuchen Sie [Brevos Datenschutzerklärung](https://www.brevo.com/de/legal/privacypolicy/) für weitere Informationen und Widerspruchsmöglichkeiten.
+
+##### Speicherdauer:
+Die Protokolle des E-Mail-Versands werden nach einem Monat gelöscht.
+
+##### Bereitstellung erforderlich oder vorgeschrieben:
+Die Angabe der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Wenn Sie uns keine E-Mail-Adresse zur Verfügung stellen, können wir Ihnen allerdings keine Vorab-Benachrichtigung über eine geplante Kontolöschung zusenden.
 
 ### Web
 

@@ -1,5 +1,5 @@
 **Ultimo aggiornamento**
-15 Settembre 2025
+11 Dicembre 2025
 
 # Informativa sulla Privacy
 
@@ -118,6 +118,28 @@ I dati vengono cancellati entro 90 giorni.
 
 ##### Fornitura richiesta o necessaria:
 La fornitura dei suddetti dati non è richiesta né legalmente né contrattualmente. Senza i dati, tuttavia, il servizio e la funzionalità della nostra app non sono garantiti.
+
+#### Brevo
+
+##### Tipo e finalità del trattamento:
+
+Quando usi l'app puoi accedere con Google o Apple. Utilizziamo l'indirizzo email associato per inviarti un'email di avviso se è prevista la cancellazione del tuo account.
+
+Questi dati sono trattati esclusivamente per:
+
+- informarti per tempo sulla cancellazione prevista del tuo account dopo un lungo periodo di inattività e darti la possibilità di reagire. A questo scopo trattiamo il tuo indirizzo email, il tuo nome utente e la data prevista di cancellazione del tuo account.
+
+##### Base giuridica:
+Il trattamento avviene ai sensi dell'art. 6 par. 1 lett. f GDPR sulla base del nostro legittimo interesse a informarti prima di cancellare il tuo account.
+
+##### Destinatario:
+I dati sono ricevuti da [Brevo](https://www.brevo.com/it/) (ex Sendinblue), un fornitore di servizi email che agisce come responsabile del trattamento per l'invio di queste email di avviso. Consulta l'[informativa sulla privacy di Brevo](https://www.brevo.com/it/legal/privacypolicy/) per ulteriori informazioni e opzioni di opposizione.
+
+##### Durata della conservazione:
+I log di consegna delle email vengono eliminati dopo un mese.
+
+##### Obbligo di conferimento:
+Il conferimento di questi dati personali non è richiesto per legge né contrattualmente. Senza un indirizzo email non possiamo inviarti un preavviso sulla cancellazione programmata del tuo account.
 
 ### Web
 

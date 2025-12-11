@@ -1,5 +1,5 @@
 **Dernière mise à jour**
-15 septembre 2025
+11 décembre 2025
 
 # Politique de Confidentialité
 
@@ -118,6 +118,28 @@ Les données sont supprimées dans un délai de 90 jours.
 
 ##### Fourniture requise ou obligatoire :
 La fourniture des données susmentionnées n'est ni légalement ni contractuellement requise. Sans les données, cependant, le service et la fonctionnalité de notre application ne sont pas garantis.
+
+#### Brevo
+
+##### Type et but du traitement :
+
+Lorsque vous utilisez l'app, vous pouvez vous connecter avec Google ou Apple. Nous utilisons l'adresse e-mail associée pour vous envoyer un e-mail d'information si la suppression de votre compte est planifiée.
+
+Ces données sont traitées uniquement pour :
+
+- vous informer en amont de la suppression prévue de votre compte après une longue période d'inactivité et vous laisser la possibilité d'y répondre. Les données traitées à cette fin sont votre adresse e-mail, votre nom d'utilisateur et la date prévue de suppression du compte.
+
+##### Base juridique :
+Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. f RGPD sur la base de notre intérêt légitime à vous avertir avant de supprimer votre compte.
+
+##### Destinataire :
+Les données sont reçues par [Brevo](https://www.brevo.com/fr/) (anciennement Sendinblue), un prestataire de services e-mail qui agit en tant que sous-traitant pour l'envoi de ces e-mails d'information. Consultez la [Politique de Confidentialité de Brevo](https://www.brevo.com/fr/legal/privacypolicy/) pour plus d'informations et d'options d'opposition.
+
+##### Durée de stockage :
+Les journaux d'envoi des e-mails sont supprimés après un mois.
+
+##### Fourniture requise ou obligatoire :
+La fourniture de ces données personnelles n'est ni exigée par la loi ni contractuellement. Sans adresse e-mail, nous ne pouvons pas vous envoyer de préavis concernant la suppression planifiée de votre compte.
 
 ### Web
 

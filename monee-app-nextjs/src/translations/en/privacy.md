@@ -1,5 +1,5 @@
 **Last updated**
-September 15 2025
+December 11 2025
 
 # Privacy Policy
 
@@ -118,6 +118,28 @@ Data is deleted within 90 days.
 
 ##### Provision required or required:
 The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
+
+#### Brevo
+
+##### Type and purpose of processing:
+
+When using the app, you can sign in with Google or Apple. We use the email address associated with that account to send you a notification email if your account is scheduled for deletion.
+
+This data is processed solely for:
+
+- informing you in advance about the planned deletion of your account after extended inactivity and giving you the chance to respond. For this we process your email address, username and the scheduled deletion date of the account.
+
+##### Legal basis:
+Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in notifying you before deleting your account.
+
+##### Receiver:
+The data is received by [Brevo](https://www.brevo.com/) (formerly Sendinblue), an email service provider acting as our processor to send these notice emails. Visit [Brevo's Privacy Policy](https://www.brevo.com/legal/privacypolicy/) for further information and opt-out options.
+
+##### Storage duration:
+Email delivery logs are deleted after one month.
+
+##### Provision required or required:
+Providing this personal data is not legally or contractually required. Without an email address we cannot send you a prior notification about the planned deletion of your account.
 
 ### Web
 
