@@ -182,20 +182,3 @@ KI-Abos können sich ihren Platz im Budget absolut verdienen – besonders, wenn
 Sie in dieselbe Budget-Realität zu holen wie alles andere – wo sie erfasst, hinterfragt, verglichen und gelegentlich gestrichen werden – macht dich nicht „technikfeindlich“. Es bedeutet nur, dass du entscheidest, welche Tools einen festen Platz an deinem Tisch bekommen und welche von Anfang an nur auf Besuch da waren.
 
 Dein Budget ist die Geschichte dessen, was dir wichtig ist. KI kann dir helfen, Teile dieser Geschichte zu schreiben – aber die Handlung bestimmt sie nicht.
-
----
-
-## Quellen:
-
-- **[Accredited Debt Relief – „Wie du das ‚Subscription Creep‘ erkennst, das dein Budget aussaugt“ (2025)](SOURCE_1)**
-- **[Credit Counselling Society – „Einfache Tipps zum Verfolgen und Verwalten kostenpflichtiger Abos“ (2024)](SOURCE_2)**
-- **[Kudos – „5 Wege, Subscription Creep im Jahr 2025 zu bekämpfen“ (2025)](SOURCE_3)**
-- **[Nasdaq – „Subscription Creep 2026: Wie du verhinderst, dass es dein Budget ruiniert“ (2025)](SOURCE_4)**
-- **[The Desk – „Bericht: Amerikaner geben rund 200 Dollar pro Jahr für ungenutzte Abos aus“ (2025, zusammenfassend zu einer CNET-Umfrage)](SOURCE_5)**
-- **[The Motley Fool – „Umfrage: Die meisten glauben, dass sie für ihre Abos zu viel bezahlen“ (2024–2025)](SOURCE_6)**
-- **[NerdWallet – „Streamingdienste und dein Budget“ (2024+)](SOURCE_7)**
-- **[Emvigotech – „KI-Tools-Kosten: Umfassender Leitfaden zu Budgetierung, Preisen & ROI“ (2025)](SOURCE_8)**
-- **[AiZolo – „Wie du bei KI-Abos sparst: Strategien, um deine KI-Tools optimal zu nutzen“ (2025)](SOURCE_9)**
-- **[Finaigenius – „ChatGPT für Finanzen: KI-Leitfaden für persönliche Finanzen & Investieren“ (2025)](SOURCE_10)**
-- **[Forbes – „Lohnt sich ChatGPT Plus?“ (2024)](SOURCE_11)**
-- **[Wired – „Ist es endlich Zeit, für ChatGPT zu zahlen? Das bekommst du mit einem Abo“ (2024)](SOURCE_12)**

@@ -182,20 +182,3 @@ Gli abbonamenti all’IA possono assolutamente meritarsi un posto nel budget—s
 Portarli nella stessa realtà di budgeting di tutto il resto—dove vengono tracciati, messi in discussione, confrontati e a volte tagliati—non ti rende «anti–tecnologia». Significa semplicemente scegliere quali strumenti avranno un posto fisso al tuo tavolo e quali erano destinati a essere solo ospiti di passaggio.
 
 Il tuo budget è il racconto di ciò che valorizzi. L’IA può aiutarti a scriverne alcune pagine, ma non ha il diritto di decidere la trama.
-
----
-
-## Fonti:
-
-- **[Accredited Debt Relief – «How to Spot the ‘Subscription Creep’ Draining Your Budget» (2025)](SOURCE_1)**
-- **[Credit Counselling Society – «Easy Tips for Tracking and Managing Paid Subscriptions» (2024)](SOURCE_2)**
-- **[Kudos – «5 Ways to Fight Subscription Creep in 2025» (2025)](SOURCE_3)**
-- **[Nasdaq – «Subscription Creep in 2026: How to Stop It From Wrecking Your Budget» (2025)](SOURCE_4)**
-- **[The Desk – «Report: Americans spend about $200 a year on unused subscriptions» (2025, riassunto di un sondaggio CNET)](SOURCE_5)**
-- **[The Motley Fool – «Survey: Most Believe They’re Overpaying for Their Subscriptions» (2024–2025)](SOURCE_6)**
-- **[NerdWallet – «Streaming Services and Your Budget» (2024+)](SOURCE_7)**
-- **[Emvigotech – «AI Tools Cost: Complete Guide to Budgeting, Pricing & ROI» (2025)](SOURCE_8)**
-- **[AiZolo – «How to Save on AI Subscriptions: Strategies for Making the Most of Your AI Tools» (2025)](SOURCE_9)**
-- **[Finaigenius – «ChatGPT for Finance: AI Guide for Personal Finance & Investing» (2025)](SOURCE_10)**
-- **[Forbes – «Is ChatGPT Plus Worth It?» (2024)](SOURCE_11)**
-- **[Wired – «Is It Finally Time to Pay for ChatGPT? What You Get with a Subscription» (2024)](SOURCE_12)**

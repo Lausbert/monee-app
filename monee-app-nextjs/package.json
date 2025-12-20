@@ -8,7 +8,7 @@
         "start": "next start",
         "lint": "next lint",
         "sitemap": "node scripts/generate-sitemap.js",
-        "gen": "python scripts/blog-automation/generate_blog.py && python scripts/blog-automation/generate_blog.py && npm run build && npm run sitemap && vercel --prod"
+        "gen": "python scripts/blog-automation/generate_blog.py && npm run build && npm run sitemap && vercel --prod"
     },
     "dependencies": {
         "gray-matter": "^4.0.3",
