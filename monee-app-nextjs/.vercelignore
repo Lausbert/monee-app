@@ -1,0 +1,14 @@
+.geminiignore
+key2
+codebase_review.md
+featuremonee.md
+indexnow.py
+new_blog.py
+Prompt*.text
+.env.local
+zidees/
+scripts/
+node_modules
+.venv/
+.next/
+.claude/

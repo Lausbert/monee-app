@@ -260,20 +260,3 @@ Las fuentes proporcionadas incluyen marcos y resúmenes (traslado a precios, des
 Si quieres añadir números después, hazlo observando tu propio gasto por categoría y luego fijando topes con los que puedas vivir, sin convertir el hogar en un departamento de auditoría.
 
 Si usas un rastreador simple (incluido Monee), la ganancia práctica es mantener visibles los **esenciales compartidos** y las **categorías en vigilancia** para que las reglas sean fáciles de seguir, sin fricción extra.
-
----
-
-## Fuentes:
-- **[Tema + Palabras clave (proporcionados en el prompt)](LINK_NOT_PROVIDED)**
-- **[NBER Working Paper: “Tracking the Short-Run Price Impact of U.S. Tariffs” (Cavallo, Llamas, Vazquez), nov 2025](LINK_NOT_PROVIDED)**
-- **[The Budget Lab at Yale: “State of U.S. Tariffs”, 10 de julio de 2025](LINK_NOT_PROVIDED)**
-- **[Federal Reserve Bank of Boston: “The Impact of Tariffs on Inflation” (Current Policy Perspectives), 2025](LINK_NOT_PROVIDED)**
-- **[Pew Charitable Trusts: “States Consider Effects of Rising Federal Tariffs”, 8 de oct 2025](LINK_NOT_PROVIDED)**
-- **[Deloitte Insights: “Consumers brace for potential tariff headwinds”, 30 de mayo de 2025](LINK_NOT_PROVIDED)**
-- **[Comunicado de prensa de NRF sobre el impacto de los aranceles propuestos en el poder de gasto del consumidor, 4 de nov 2024](LINK_NOT_PROVIDED)**
-- **[ThredUp: “2025 Resale Report” (con GlobalData), 19 de mar 2025](LINK_NOT_PROVIDED)**
-- **[Edmunds: “Average price gap between new and used vehicles…” 29 de oct 2024](LINK_NOT_PROVIDED)**
-- **[The Guardian: “How rental ‘libraries of things’ have become the new way to save money” (6 de mayo de 2024; actualizado 6 de mar 2025)](LINK_NOT_PROVIDED)**
-- **[SELF: “How to Stop Buying Things You Don’t Actually Need, According to Financial Therapists”, 7 de oct 2025](LINK_NOT_PROVIDED)**
-- **[NerdWallet: “5 Tips to Keep Social Media From Spurring You to Overspend”, 11 de jul 2023](LINK_NOT_PROVIDED)**
-- **[Comunicado del USDA: “National Strategy for Reducing Food Loss and Waste and Recycling Organics”, 12 de jun 2024](LINK_NOT_PROVIDED)**

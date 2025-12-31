@@ -9,10 +9,23 @@ const Footer = () => {
 
   // Fallback for footer_links if not present in siteConfig or not an array
   const footerNavigationLinks = Array.isArray(siteConfig.footer_links) ? siteConfig.footer_links : [];
+  const awardTitle = t('global.award.title');
+  const awardShortTitle = t('global.award.short_title');
+  const awardLink = t('global.award.link');
+  const awardLabel =
+    awardShortTitle && awardShortTitle !== 'global.award.short_title'
+      ? awardShortTitle
+      : awardTitle;
+  const showAward =
+    awardLabel &&
+    awardLink &&
+    awardLabel !== 'global.award.title' &&
+    awardLink !== 'global.award.link';
+  const showMadeBy = Boolean(siteConfig.your_name);
 
   return (
     <footer>
-      {siteConfig.your_name && (
+      {showMadeBy && (
         <p className="footerText">
           Made by{' '}
           {siteConfig.your_link ? (
@@ -101,6 +114,16 @@ const Footer = () => {
             </Link>
           );
         })}
+        {showAward && (
+          <Link
+            href={awardLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            title={awardTitle !== 'global.award.title' ? awardTitle : undefined}
+          >
+            {awardLabel}
+          </Link>
+        )}
       </div>
     </footer>
   );

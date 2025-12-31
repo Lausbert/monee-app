@@ -417,19 +417,16 @@ export async function getStaticProps({ params, locale }) {
     };
   }
     // Get translated slugs for hreflang links
-  const translatedSlugs = {};
+  const translatedSlugs = { [currentLocale]: post.slug };
   const supportedLocales = ['en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'hi'];
   
   for (const lang of supportedLocales) {
-    // Get all posts for this language and find the corresponding post
-    const allPostsInLang = getAllBlogPosts(lang);
-    if (allPostsInLang.length > 0) {
-      // For now, we'll map based on the post position/date since we have the same posts in all languages
-      // You could enhance this by adding a unique ID field to your posts' frontmatter
-      const translatedPost = allPostsInLang.find(p => p.meta.date === post.meta.date) || allPostsInLang[0];
-      if (translatedPost) {
-        translatedSlugs[lang] = translatedPost.slug;
-      }
+    if (translatedSlugs[lang]) continue;
+    // Match translations by shared postId (filename) to avoid date collisions.
+    const allPostsInLang = getAllBlogPosts(lang, { includeContent: false });
+    const translatedPost = allPostsInLang.find(p => p.postId === post.postId);
+    if (translatedPost) {
+      translatedSlugs[lang] = translatedPost.slug;
     }
   }
   

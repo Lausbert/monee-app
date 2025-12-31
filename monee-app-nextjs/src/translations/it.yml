@@ -25,6 +25,9 @@ global:
   award:
     title: "🥳 Monee ha vinto il Premio TheAppNote.com \"Migliore App Budget & Tracker Spese 2025\""
     link: "https://www.theappnote.com/award/best-budget-expense-tracker-app-2025"
+    short_title: "Premio vinto 2025"
+  product_hunt:
+    title: "🚀 Monee è ora live su Product Hunt"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Valutazione Globale: 4.9 / 5.0"

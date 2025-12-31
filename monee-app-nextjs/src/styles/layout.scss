@@ -847,6 +847,11 @@ footer {
     color: variables.$app-title-color;
     margin: 0;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
 @media only screen and (max-width: 768px) {
@@ -858,6 +863,12 @@ footer {
     
     .award-title {
         font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .award-title {
+        gap: 40px;
     }
 }
 

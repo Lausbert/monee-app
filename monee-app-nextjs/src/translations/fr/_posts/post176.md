@@ -260,20 +260,3 @@ Les sources fournies incluent des cadres et des synthèses (répercussion, déca
 Si vous voulez ajouter des chiffres plus tard, faites‑le en observant vos dépenses par catégorie puis en fixant des plafonds avec lesquels vous pouvez vivre—sans transformer le foyer en service d’audit.
 
 Si vous utilisez un suivi simple (y compris Monee), le gain pratique est de garder les **essentiels communs** et les **catégories de la liste de veille** visibles pour que les règles soient faciles à suivre—sans friction supplémentaire.
-
----
-
-## Sources :
-- **[Sujet + mots-clés (fournis dans le prompt)](LINK_NOT_PROVIDED)**
-- **[Document de travail NBER : « Tracking the Short-Run Price Impact of U.S. Tariffs » (Cavallo, Llamas, Vazquez), nov. 2025](LINK_NOT_PROVIDED)**
-- **[The Budget Lab at Yale : « State of U.S. Tariffs », 10 juillet 2025](LINK_NOT_PROVIDED)**
-- **[Federal Reserve Bank of Boston : « The Impact of Tariffs on Inflation » (Current Policy Perspectives), 2025](LINK_NOT_PROVIDED)**
-- **[Pew Charitable Trusts : « States Consider Effects of Rising Federal Tariffs », 8 oct. 2025](LINK_NOT_PROVIDED)**
-- **[Deloitte Insights : « Consumers brace for potential tariff headwinds », 30 mai 2025](LINK_NOT_PROVIDED)**
-- **[Communiqué NRF sur l’impact des droits de douane proposés sur le pouvoir d’achat des consommateurs, 4 nov. 2024](LINK_NOT_PROVIDED)**
-- **[ThredUp : « 2025 Resale Report » (avec GlobalData), 19 mars 2025](LINK_NOT_PROVIDED)**
-- **[Edmunds : « Average price gap between new and used vehicles… » 29 oct. 2024](LINK_NOT_PROVIDED)**
-- **[The Guardian : « How rental ‘libraries of things’ have become the new way to save money » (6 mai 2024 ; mise à jour 6 mars 2025)](LINK_NOT_PROVIDED)**
-- **[SELF : « How to Stop Buying Things You Don’t Actually Need, According to Financial Therapists », 7 oct. 2025](LINK_NOT_PROVIDED)**
-- **[NerdWallet : « 5 Tips to Keep Social Media From Spurring You to Overspend », 11 juil. 2023](LINK_NOT_PROVIDED)**
-- **[Communiqué USDA : « National Strategy for Reducing Food Loss and Waste and Recycling Organics », 12 juin 2024](LINK_NOT_PROVIDED)**

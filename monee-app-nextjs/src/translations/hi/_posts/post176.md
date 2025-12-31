@@ -260,20 +260,3 @@ USDA की National Strategy for Reducing Food Loss and Waste पर प्र�
 अगर आप बाद में नंबर जोड़ना चाहें, तो अपने खर्च को श्रेणी के हिसाब से देखकर और फिर ऐसे कैप्स सेट करके करें जिनके साथ आप जी सकें—बिना घर को ऑडिट विभाग बनाए।
 
 अगर आप कोई सरल ट्रैकर (Monee सहित) इस्तेमाल करते हैं, तो व्यावहारिक जीत यह है कि **संयुक्त आवश्यकताएँ** और **वॉचलिस्ट श्रेणियाँ** दिखाई दें ताकि नियम आसानी से फॉलो हों—बिना अतिरिक्त friction के।
-
----
-
-## स्रोत:
-- **[Topic + Keywords (provided in prompt)](LINK_NOT_PROVIDED)**
-- **[NBER Working Paper: “Tracking the Short-Run Price Impact of U.S. Tariffs” (Cavallo, Llamas, Vazquez), Nov 2025](LINK_NOT_PROVIDED)**
-- **[The Budget Lab at Yale: “State of U.S. Tariffs”, July 10, 2025](LINK_NOT_PROVIDED)**
-- **[Federal Reserve Bank of Boston: “The Impact of Tariffs on Inflation” (Current Policy Perspectives), 2025](LINK_NOT_PROVIDED)**
-- **[Pew Charitable Trusts: “States Consider Effects of Rising Federal Tariffs”, Oct 8, 2025](LINK_NOT_PROVIDED)**
-- **[Deloitte Insights: “Consumers brace for potential tariff headwinds”, May 30, 2025](LINK_NOT_PROVIDED)**
-- **[NRF press release on proposed tariffs’ consumer spending power impact, Nov 4, 2024](LINK_NOT_PROVIDED)**
-- **[ThredUp: “2025 Resale Report” (with GlobalData), Mar 19, 2025](LINK_NOT_PROVIDED)**
-- **[Edmunds: “Average price gap between new and used vehicles…” Oct 29, 2024](LINK_NOT_PROVIDED)**
-- **[The Guardian: “How rental ‘libraries of things’ have become the new way to save money” (May 6, 2024; updated Mar 6, 2025)](LINK_NOT_PROVIDED)**
-- **[SELF: “How to Stop Buying Things You Don’t Actually Need, According to Financial Therapists”, Oct 7, 2025](LINK_NOT_PROVIDED)**
-- **[NerdWallet: “5 Tips to Keep Social Media From Spurring You to Overspend”, Jul 11, 2023](LINK_NOT_PROVIDED)**
-- **[USDA press release: “National Strategy for Reducing Food Loss and Waste and Recycling Organics”, Jun 12, 2024](LINK_NOT_PROVIDED)**

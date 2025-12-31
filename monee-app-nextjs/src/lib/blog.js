@@ -104,6 +104,7 @@ export function getBlogPostBySlug(slug, locale) {
           slug: computedSlug,
           meta: mergedMeta,
           content,
+          postId,
         };
       }
     }
@@ -160,6 +161,7 @@ export function getAllBlogPosts(locale, options = {}) {
       
       const postEntry = {
         slug: titleSlug,
+        postId,
         meta: {
           ...data,
           ...(sharedMeta || {}),

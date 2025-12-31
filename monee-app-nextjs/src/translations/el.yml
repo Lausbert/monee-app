@@ -27,6 +27,9 @@ global:
     title: 🥳 Η Monee κέρδισε το βραβείο TheAppNote.com «Καλύτερη Εφαρμογή Προϋπολογισμού
       & Παρακολούθησης Εξόδων 2025»
     link: https://www.theappnote.com/award/best-budget-expense-tracker-app-2025
+    short_title: "Βραβείο κερδήθηκε 2025"
+  product_hunt:
+    title: "🚀 Η Monee είναι τώρα live στο Product Hunt"
   app_ratings:
     stars: ⭐️⭐️⭐️⭐️⭐️
     score: 'Παγκόσμια βαθμολογία: 4.9 / 5.0'

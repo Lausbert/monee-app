@@ -25,6 +25,9 @@ global:
   award:
     title: "🥳 Monee TheAppNote.com 'En İyi Bütçe ve Harcama Takip Uygulaması 2025' ödülünü kazandı"
     link: "https://www.theappnote.com/award/best-budget-expense-tracker-app-2025"
+    short_title: "Ödül kazandı 2025"
+  product_hunt:
+    title: "🚀 Monee şimdi Product Hunt'ta yayında"
   app_ratings:
     stars: "⭐⭐⭐⭐⭐"
     score: "Küresel Puan: 4.9 / 5.0"

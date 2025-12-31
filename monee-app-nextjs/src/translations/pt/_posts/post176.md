@@ -262,19 +262,3 @@ Se você quiser adicionar números depois, faça isso observando seus próprios 
 Se você usa um rastreador simples (inclusive o Monee), o ganho prático é manter **essenciais conjuntos** e **categorias da lista** visíveis para que as regras sejam fáceis de seguir — sem fricção extra.
 
 ---
-
-## Fontes:
-- **[Tópico + Palavras-chave (fornecidos no prompt)](LINK_NOT_PROVIDED)**
-- **[NBER Working Paper: “Tracking the Short-Run Price Impact of U.S. Tariffs” (Cavallo, Llamas, Vazquez), Nov 2025](LINK_NOT_PROVIDED)**
-- **[The Budget Lab at Yale: “State of U.S. Tariffs”, 10 de julho de 2025](LINK_NOT_PROVIDED)**
-- **[Federal Reserve Bank of Boston: “The Impact of Tariffs on Inflation” (Current Policy Perspectives), 2025](LINK_NOT_PROVIDED)**
-- **[Pew Charitable Trusts: “States Consider Effects of Rising Federal Tariffs”, 8 de out de 2025](LINK_NOT_PROVIDED)**
-- **[Deloitte Insights: “Consumers brace for potential tariff headwinds”, 30 de maio de 2025](LINK_NOT_PROVIDED)**
-- **[Comunicado da NRF sobre o impacto das tarifas propostas no poder de compra do consumidor, 4 de nov de 2024](LINK_NOT_PROVIDED)**
-- **[ThredUp: “2025 Resale Report” (com GlobalData), 19 de mar de 2025](LINK_NOT_PROVIDED)**
-- **[Edmunds: “Average price gap between new and used vehicles…” 29 de out de 2024](LINK_NOT_PROVIDED)**
-- **[The Guardian: “How rental ‘libraries of things’ have become the new way to save money” (6 de maio de 2024; atualizado em 6 de mar de 2025)](LINK_NOT_PROVIDED)**
-- **[SELF: “How to Stop Buying Things You Don’t Actually Need, According to Financial Therapists”, 7 de out de 2025](LINK_NOT_PROVIDED)**
-- **[NerdWallet: “5 Tips to Keep Social Media From Spurring You to Overspend”, 11 de jul de 2023](LINK_NOT_PROVIDED)**
-- **[Comunicado do USDA: “National Strategy for Reducing Food Loss and Waste and Recycling Organics”, 12 de jun de 2024](LINK_NOT_PROVIDED)**
----

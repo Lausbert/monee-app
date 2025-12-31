@@ -260,20 +260,3 @@ Le fonti fornite includono framework e sintesi (pass-through, ritardi da inventa
 Se vuoi aggiungere numeri più avanti, fallo osservando la tua spesa per categoria e poi impostando tetti con cui puoi convivere—senza trasformare la casa in un ufficio audit.
 
 Se usi un tracker semplice (incluso Monee), la vittoria pratica è rendere visibili **essenziali condivisi** e **categorie watchlist** così le regole sono facili da seguire—senza attrito extra.
-
----
-
-## Fonti:
-- **[Tema + parole chiave (fornite nel prompt)](LINK_NOT_PROVIDED)**
-- **[NBER Working Paper: “Tracking the Short-Run Price Impact of U.S. Tariffs” (Cavallo, Llamas, Vazquez), Nov 2025](LINK_NOT_PROVIDED)**
-- **[The Budget Lab at Yale: “State of U.S. Tariffs”, 10 luglio 2025](LINK_NOT_PROVIDED)**
-- **[Federal Reserve Bank of Boston: “The Impact of Tariffs on Inflation” (Current Policy Perspectives), 2025](LINK_NOT_PROVIDED)**
-- **[Pew Charitable Trusts: “States Consider Effects of Rising Federal Tariffs”, 8 ott 2025](LINK_NOT_PROVIDED)**
-- **[Deloitte Insights: “Consumers brace for potential tariff headwinds”, 30 maggio 2025](LINK_NOT_PROVIDED)**
-- **[Comunicato NRF sull’impatto dei dazi proposti sul potere di spesa dei consumatori, 4 nov 2024](LINK_NOT_PROVIDED)**
-- **[ThredUp: “2025 Resale Report” (con GlobalData), 19 mar 2025](LINK_NOT_PROVIDED)**
-- **[Edmunds: “Average price gap between new and used vehicles…” 29 ott 2024](LINK_NOT_PROVIDED)**
-- **[The Guardian: “How rental ‘libraries of things’ have become the new way to save money” (6 maggio 2024; aggiornato 6 mar 2025)](LINK_NOT_PROVIDED)**
-- **[SELF: “How to Stop Buying Things You Don’t Actually Need, According to Financial Therapists”, 7 ott 2025](LINK_NOT_PROVIDED)**
-- **[NerdWallet: “5 Tips to Keep Social Media From Spurring You to Overspend”, 11 lug 2023](LINK_NOT_PROVIDED)**
-- **[Comunicato USDA: “National Strategy for Reducing Food Loss and Waste and Recycling Organics”, 12 giu 2024](LINK_NOT_PROVIDED)**

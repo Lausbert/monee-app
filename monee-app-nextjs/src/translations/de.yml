@@ -25,6 +25,9 @@ global:
   award:
     title: "🥳 Monee hat den TheAppNote.com-Award \"Beste Haushaltsbuch App 2025\" gewonnen"
     link: "https://www.theappnote.de/award/beste-haushaltsbuch-app-2025"
+    short_title: "Award gewonnen 2025"
+  product_hunt:
+    title: "🚀 Monee ist jetzt live auf Product Hunt"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Globale Bewertung: 4.9 / 5.0"
