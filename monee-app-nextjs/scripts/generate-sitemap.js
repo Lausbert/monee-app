@@ -96,7 +96,7 @@ function generateSitemap() {
 
   // Static pages that exist for all languages
   const staticPages = [
-    { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-10-22' }, // Homepage
+    { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-12-28' }, // Homepage
     { path: 'blog', priority: '0.8', changefreq: 'daily', lastmod: newestBlogDate }, // Blog uses newest post date
     { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2025-12-11' },
     { path: 'imprint', priority: '0.1', changefreq: 'yearly', lastmod: '2025-10-22' }
