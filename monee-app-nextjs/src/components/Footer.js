@@ -72,6 +72,14 @@ const Footer = () => {
             </span>
           </a>
         )}
+        {siteConfig.product_hunt_link && (
+          <a href={siteConfig.product_hunt_link} target="_blank" rel="noopener noreferrer" aria-label="Product Hunt">
+            <span className="fa-stack fa-1x">
+              <i className="socialIconBack fas fa-circle fa-stack-2x"></i>
+              <i className="socialIconTop fab fa-product-hunt fa-stack-1x"></i>
+            </span>
+          </a>
+        )}
         {siteConfig.email_address && (
           <a href={`mailto:${siteConfig.email_address}`} aria-label="Email">
             <span className="fa-stack fa-1x">
@@ -84,7 +92,7 @@ const Footer = () => {
         {footerNavigationLinks.map((link) => {
           // Use translation for title, fallback to link.title
           let title = link.title; // Default fallback
-          
+
           // Try to get translation using title_key if available
           if (link.title_key) {
             const translatedTitle = t(link.title_key);
@@ -93,37 +101,27 @@ const Footer = () => {
               title = translatedTitle;
             }
           }
-          
+
           // Hide blog link for locales where blog is disabled
           const isBlogLink = typeof link.url === 'string' && link.url.startsWith('/blog');
           const enabledBlogLocales = Array.isArray(siteConfig.blog_enabled_locales) ? siteConfig.blog_enabled_locales : [];
           if (isBlogLink && !enabledBlogLocales.includes(locale)) {
             return null;
           }
-          
+
           const url = link.url.startsWith('/') ? `/${locale !== 'en' ? locale + '/' : ''}${link.url.substring(1)}` : link.url;
 
           return (
-            <Link 
-              href={url} 
+            <Link
+              href={url}
               key={link.url}
-              target={link.url.startsWith('http') ? '_blank' : '_self'} 
+              target={link.url.startsWith('http') ? '_blank' : '_self'}
               rel={link.url.startsWith('http') ? 'noopener noreferrer' : ''}
             >
               {title}
             </Link>
           );
         })}
-        {showAward && (
-          <Link
-            href={awardLink}
-            target="_blank"
-            rel="noopener noreferrer"
-            title={awardTitle !== 'global.award.title' ? awardTitle : undefined}
-          >
-            {awardLabel}
-          </Link>
-        )}
       </div>
     </footer>
   );

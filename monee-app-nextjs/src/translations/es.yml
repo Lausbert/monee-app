@@ -26,6 +26,8 @@ global:
     title: "🥳 Monee ha ganado el Premio TheAppNote.com \"Mejor Aplicación de Presupuesto y Rastreador de Gastos 2025\""
     link: "https://www.theappnote.com/award/best-budget-expense-tracker-app-2025"
     short_title: "Premio ganado 2025"
+    badge_title: "Mejor App de Presupuesto y Gastos 2025"
+    badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee ya está en vivo en Product Hunt"
   app_ratings:

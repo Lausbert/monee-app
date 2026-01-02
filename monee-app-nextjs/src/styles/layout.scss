@@ -393,6 +393,145 @@ nav > ul li a:active {
 	}
 }
 
+// Winner Badge Styles
+.winner-badge {
+	display: inline-flex;
+	align-items: center;
+	justify-content: flex-start;
+	text-decoration: none;
+	transition: all 0.3s ease;
+	flex-shrink: 0;
+
+	&:hover {
+		transform: translateY(-2px);
+
+		.winner-badge-inner {
+			opacity: 1;
+		}
+	}
+}
+
+.winner-badge-inner {
+	display: flex;
+	align-items: center;
+	gap: 0;
+	height: 70px;
+	opacity: 0.95;
+	transition: opacity 0.3s ease;
+}
+
+.winner-badge-inner > .winner-badge-branch:first-child {
+	margin-right: -20px;
+}
+
+.winner-badge-inner > .winner-badge-branch:last-child {
+	margin-left: -20px;
+}
+
+.winner-badge-branch {
+	width: 42px;
+	height: 70px;
+	flex-shrink: 0;
+}
+
+.winner-badge-text {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	height: 100%;
+}
+
+.winner-badge-title {
+	font-size: 2rem;
+	font-weight: 700;
+	color: #ffffff;
+	line-height: 1.15;
+	max-width: 280px;
+}
+
+.winner-badge-subtitle {
+	font-size: 1.4rem;
+	font-weight: 500;
+	color: rgba(255, 255, 255, 0.8);
+	margin-top: 4px;
+}
+
+.ratings-award-container {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 30px;
+	width: 100%;
+}
+
+@media only screen and (max-width: 992px) {
+	.ratings-award-container {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 20px;
+	}
+
+	.winner-badge {
+		align-self: center;
+	}
+
+	.winner-badge-inner {
+		height: 60px;
+	}
+
+	.winner-badge-branch {
+		width: 36px;
+		height: 60px;
+	}
+
+	.winner-badge-inner > .winner-badge-branch:first-child {
+		margin-right: -8px;
+	}
+
+	.winner-badge-inner > .winner-badge-branch:last-child {
+		margin-left: -8px;
+	}
+
+	.winner-badge-title {
+		font-size: 1.8rem;
+	}
+
+	.winner-badge-subtitle {
+		font-size: 1.3rem;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	.winner-badge-inner {
+		gap: 0;
+		height: 54px;
+	}
+
+	.winner-badge-branch {
+		width: 32px;
+		height: 54px;
+	}
+
+	.winner-badge-inner > .winner-badge-branch:first-child {
+		margin-right: -6px;
+	}
+
+	.winner-badge-inner > .winner-badge-branch:last-child {
+		margin-left: -6px;
+	}
+
+	.winner-badge-title {
+		font-size: 1.6rem;
+		max-width: 220px;
+	}
+
+	.winner-badge-subtitle {
+		font-size: 1.2rem;
+	}
+}
+
 .appIconShadow {
 	display: flex;
 	filter: drop-shadow(0px 5px 10px rgba(0,0,0,0.1)) drop-shadow(0px 1px 1px rgba(0,0,0,0.2));

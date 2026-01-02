@@ -5,7 +5,6 @@ import IphonePreview from "@/components/IphonePreview";
 import Features from "@/components/Features";
 import Reviews from "@/components/Reviews";
 import Newsletter from "@/components/Newsletter";
-import Award from "@/components/Award";
 import { getTranslations } from "@/lib/i18n";
 import { fetchAppStoreData } from "@/lib/appstore";
 import siteConfig from "@/lib/siteConfig";
@@ -24,7 +23,6 @@ const geistMono = Geist_Mono({
 export default function HomePage({
   translations,
   reviewTranslations,
-  awardTranslations,
   commonTranslations,
   globalTranslations,
   allTranslations,
@@ -39,12 +37,11 @@ export default function HomePage({
     >
       <div className="container">
         <Header translations={allTranslations} />
-        <Award translations={awardTranslations} />
       </div>
       <div className="hero-section">
         <IphonePreview translations={translations} />
-        <AppInfo 
-          translations={allTranslations} 
+        <AppInfo
+          translations={allTranslations}
           appNameKey="global.app_name"
           appDescriptionKey="global.app_description"
           appStoreData={appStoreData}
@@ -68,21 +65,20 @@ export default function HomePage({
 export async function getStaticProps({ locale }) {
   // Use the locale from Next.js context or fall back to the default
   const currentLocale = locale || siteConfig.defaultLanguage;
-  
+
   // Get all translations for the current locale
   const allTranslations = await getTranslations(currentLocale);
-  
+
   // For individual sections, try to get them, but use empty objects as fallback
   const translations = await getTranslations(currentLocale, "homepage").catch(() => ({}));
   const commonTranslations = await getTranslations(currentLocale, "common").catch(() => ({}));
   const featureTranslations = allTranslations?.features || [];
   const reviewTranslations = allTranslations?.global?.reviews || [];
   const newsletterTranslations = await getTranslations(currentLocale, "newsletter").catch(() => ({}));
-  const awardTranslations = allTranslations?.global?.award || {};
-  
+
   // Fetch App Store data at build time
   const appStoreData = await fetchAppStoreData(currentLocale);
-  
+
   // Structure them in a way that's accessible via dot notation in components
   // Make sure all properties are defined to avoid serialization errors
   const globalTranslations = allTranslations || {};
@@ -94,7 +90,6 @@ export async function getStaticProps({ locale }) {
       featureTranslations,
       reviewTranslations,
       newsletterTranslations,
-      awardTranslations,
       globalTranslations, // The complete translations object
       allTranslations,    // Same as globalTranslations for compatibility
       appStoreData,       // App Store data fetched at build time

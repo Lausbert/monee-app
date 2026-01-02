@@ -26,6 +26,8 @@ global:
     title: "🥳 Monee a remporté le prix TheAppNote.com \"Meilleure Application de Suivi de Budget 2025\""
     link: "https://www.theappnote.fr/award/budget-et-suivi-de-depenses-2025"
     short_title: "Prix remporté 2025"
+    badge_title: "MBudget et suivi de dépenses 2025"
+    badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee est maintenant en ligne sur Product Hunt"
   app_ratings:
