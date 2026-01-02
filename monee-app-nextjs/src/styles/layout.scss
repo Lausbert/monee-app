@@ -1178,6 +1178,7 @@ footer {
     width: 280px;
     min-width: 280px;
     max-width: 280px;
+    scroll-snap-align: start;
   }
   
   .reviewTitle {
@@ -1188,6 +1189,40 @@ footer {
   .reviewsGridContainer {
     width: 280px; // Exactly 1 card = 280px
     max-width: 280px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    touch-action: pan-x;
+  }
+
+  .reviewsGridContainer::-webkit-scrollbar {
+    display: none;
+  }
+
+  .reviewsNavPrev,
+  .reviewsNavNext {
+    width: 44px;
+    height: 44px;
+    font-size: 28px;
+  }
+
+  .reviewsNav {
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .reviewsNavDots {
+    gap: 4px;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+  }
+
+  .reviewsNavDot {
+    width: 6px;
+    height: 6px;
   }
 }
 

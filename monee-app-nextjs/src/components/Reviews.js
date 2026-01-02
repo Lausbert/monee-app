@@ -1,81 +1,118 @@
-import { useState, useEffect, useRef } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import useTranslations from '@/hooks/useTranslations';
 
-const Reviews = () => {
-  const { t, translations } = useTranslations();
-  // Access the reviews array directly from translations object
-  const reviews = translations?.global?.reviews || []; // Expecting an array of review objects
+const MOBILE_BREAKPOINT = 768;
+const TABLET_BREAKPOINT = 992;
 
-  const carouselRef = useRef(null);
+const Reviews = ({ translations: translationsProp, reviews: reviewsProp } = {}) => {
+  const { t, translations: translationData } = useTranslations(
+    translationsProp && !Array.isArray(translationsProp) ? translationsProp : undefined
+  );
+
+  const reviews = useMemo(() => {
+    if (Array.isArray(reviewsProp)) return reviewsProp;
+    if (Array.isArray(translationsProp)) return translationsProp;
+    const source = translationData || translationsProp || {};
+    const fromGlobal = source?.global?.reviews;
+    if (Array.isArray(fromGlobal)) return fromGlobal;
+    if (Array.isArray(source?.reviews)) return source.reviews;
+    return [];
+  }, [reviewsProp, translationsProp, translationData]);
+
+  const scrollContainerRef = useRef(null);
   const [currentSlide, setCurrentSlide] = useState(0);
   const [visibleCards, setVisibleCards] = useState(3);
-  const [totalSlides, setTotalSlides] = useState(0);
-  const [cardWidth, setCardWidth] = useState(0);
-  const gapSize = 30; // Corresponds to CSS gap
+  const [cardWidth, setCardWidth] = useState(350);
+  const gapSize = 30; // Matches CSS gap
+
+  const totalSlides = useMemo(() => {
+    if (!reviews || reviews.length === 0) return 0;
+    return Math.ceil(reviews.length / visibleCards);
+  }, [reviews, visibleCards]);
+
+  const isMobile = visibleCards === 1;
 
   useEffect(() => {
-    const calculateVisibleCards = () => {
-      if (window.innerWidth <= 768) return 1;
-      if (window.innerWidth <= 992) return 2;
-      return 3;
-    };    const updateCarouselState = () => {
-      const newVisibleCards = calculateVisibleCards();
-      setVisibleCards(newVisibleCards);
-      
-      // Use fixed card widths that match CSS instead of measuring DOM
-      let fixedCardWidth;
-      if (window.innerWidth <= 768) {
-        fixedCardWidth = 280; // Mobile card width
-      } else if (window.innerWidth <= 992) {
-        fixedCardWidth = 300; // Tablet card width
-      } else {
-        fixedCardWidth = 350; // Desktop card width
+    const updateSizing = () => {
+      if (typeof window === 'undefined') return;
+
+      if (window.innerWidth <= MOBILE_BREAKPOINT) {
+        setVisibleCards(1);
+        setCardWidth(280);
+        return;
       }
-      
-      setCardWidth(fixedCardWidth);      if (reviews.length > 0) {
-        // Calculate total pages: each page shows a full set of visibleCards
-        // For 6 reviews with 3 visible: 2 pages (0-2, 3-5)
-        setTotalSlides(Math.ceil(reviews.length / newVisibleCards));
+
+      if (window.innerWidth <= TABLET_BREAKPOINT) {
+        setVisibleCards(2);
+        setCardWidth(300);
+        return;
       }
+
+      setVisibleCards(3);
+      setCardWidth(350);
     };
 
-    // Add a small delay to ensure DOM is rendered
-    const timeoutId = setTimeout(updateCarouselState, 100);
-    window.addEventListener('resize', updateCarouselState);
-    return () => {
-      clearTimeout(timeoutId);
-      window.removeEventListener('resize', updateCarouselState);
-    };
-  }, [reviews.length]);  useEffect(() => {
-    if (reviews.length > 0) {
-        // Calculate total pages: each page shows a full set of visibleCards
-        // For 6 reviews with 3 visible: 2 pages (0-2, 3-5)
-        setTotalSlides(Math.ceil(reviews.length / visibleCards));
-    }
-  }, [visibleCards, reviews.length]);
+    updateSizing();
+    window.addEventListener('resize', updateSizing);
+    return () => window.removeEventListener('resize', updateSizing);
+  }, []);
 
   useEffect(() => {
-    setCurrentSlide(prev => Math.min(prev, totalSlides > 0 ? totalSlides - 1 : 0));
+    setCurrentSlide((prev) => Math.min(prev, totalSlides > 0 ? totalSlides - 1 : 0));
   }, [totalSlides]);
 
-
   const goToSlide = (index) => {
+    if (totalSlides <= 0) return;
     const newSlide = Math.max(0, Math.min(index, totalSlides - 1));
     setCurrentSlide(newSlide);
-  };  if (!reviews || reviews.length === 0) {
-    return <p>{t('reviews.no_reviews') || 'No reviews available at the moment.'}</p>;
-  }  const carouselStyle = {
-    transform: `translateX(-${currentSlide * visibleCards * (cardWidth + gapSize)}px)`,
-    display: 'flex',
-    gap: `${gapSize}px`,
-    transition: 'transform 0.5s ease-in-out',
-    width: 'fit-content',
+
+    if (isMobile && scrollContainerRef.current) {
+      const left = newSlide * (cardWidth + gapSize);
+      scrollContainerRef.current.scrollTo({ left, behavior: 'smooth' });
+    }
   };
+
+  useEffect(() => {
+    if (!isMobile) return;
+    const container = scrollContainerRef.current;
+    if (!container) return;
+
+    let rafId = null;
+    const onScroll = () => {
+      if (rafId) return;
+      rafId = window.requestAnimationFrame(() => {
+        rafId = null;
+        const rawIndex = Math.round(container.scrollLeft / (cardWidth + gapSize));
+        const nextIndex = Math.max(0, Math.min(rawIndex, totalSlides - 1));
+        setCurrentSlide((prev) => (prev === nextIndex ? prev : nextIndex));
+      });
+    };
+
+    container.addEventListener('scroll', onScroll, { passive: true });
+    return () => {
+      if (rafId) window.cancelAnimationFrame(rafId);
+      container.removeEventListener('scroll', onScroll);
+    };
+  }, [isMobile, cardWidth, totalSlides]);
+
+  if (!reviews || reviews.length === 0) {
+    return <p>{t('reviews.no_reviews') || 'No reviews available at the moment.'}</p>;
+  }
+
+  const carouselStyle = isMobile
+    ? undefined
+    : {
+        transform: `translateX(-${currentSlide * visibleCards * (cardWidth + gapSize)}px)`,
+        display: 'flex',
+        gap: `${gapSize}px`,
+        transition: 'transform 0.5s ease-in-out',
+        width: 'fit-content',
+      };
   
   return (
     <div className="reviews">
-      <div className="reviewsGridContainer">
-        <div className="reviewsGrid" ref={carouselRef} style={carouselStyle}>
+      <div className="reviewsGridContainer" ref={scrollContainerRef}>
+        <div className="reviewsGrid" style={carouselStyle}>
           {reviews.map((review, index) => (
             <div 
               className="reviewCard" 
