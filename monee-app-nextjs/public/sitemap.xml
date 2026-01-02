@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2025-12-29</lastmod>
+    <lastmod>2026-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1983,6 +1983,58 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/calendario-del-flusso-di-cassa-mappa-il-mese-per-evitare-la-stretta-di-meta-ciclo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kalendar-denezhnogo-potoka-rasplaniruyte-mesyats-chtoby-izbezhat-napryazheniya-v-seredine-tsikla/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/cash-flow-calendar-map-your-month-to-avoid-mid-cycle-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/meal-planning-on-a-budget-build-a-10meal-rotation-to-cut-grocery-costs/</loc>
@@ -4518,6 +4570,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/cash-flow-calendar-map-your-month-to-avoid-mid-cycle-crunch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/essensplanung-mit-kleinem-budget-erstelle-eine-10mahlzeitenrotation-um-die-lebensmittelkosten-zu-senken/</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -7049,6 +7153,58 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/calendario-del-flusso-di-cassa-mappa-il-mese-per-evitare-la-stretta-di-meta-ciclo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kalendar-denezhnogo-potoka-rasplaniruyte-mesyats-chtoby-izbezhat-napryazheniya-v-seredine-tsikla/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/cash-flow-calendar-map-your-month-to-avoid-mid-cycle-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/planifier-ses-repas-avec-un-budget-serre-creer-une-rotation-de-10-repas-pour-reduire-le-cout-des-courses/</loc>
@@ -9584,6 +9740,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/cash-flow-calendar-map-your-month-to-avoid-mid-cycle-crunch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/planificacion-de-comidas-con-presupuesto-crea-una-rotacion-de-10comidas-para-reducir-los-gastos-de-la-compra/</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -12115,6 +12323,58 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/calendario-del-flusso-di-cassa-mappa-il-mese-per-evitare-la-stretta-di-meta-ciclo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kalendar-denezhnogo-potoka-rasplaniruyte-mesyats-chtoby-izbezhat-napryazheniya-v-seredine-tsikla/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/cash-flow-calendar-map-your-month-to-avoid-mid-cycle-crunch/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/planejamento-de-refeicoes-com-orcamento-monte-uma-rotacao-de-10-refeicoes-para-reduzir-os-custos-de-supermercado/</loc>
@@ -14650,6 +14910,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/cash-flow-calendar-map-your-month-to-avoid-mid-cycle-crunch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/pianificazione-dei-pasti-con-un-budget-crea-una-rotazione-di-10-pasti-per-ridurre-i-costi-della-spesa/</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -17183,6 +17495,58 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/cash-flow-calendar-map-your-month-to-avoid-mid-cycle-crunch/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/planirovanie-pitaniya-s-ogranichennym-byudzhetom-sostavte-rotatsiyu-iz-10-blyud-chtoby-sokratit-rashody-na-produkty/</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -19703,6 +20067,58 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/calendario-de-fluxo-de-caixa-mapeie-seu-mes-para-evitar-o-aperto-no-meio-do-ciclo/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/calendario-del-flusso-di-cassa-mappa-il-mese-per-evitare-la-stretta-di-meta-ciclo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kalendar-denezhnogo-potoka-rasplaniruyte-mesyats-chtoby-izbezhat-napryazheniya-v-seredine-tsikla/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-atm-fees-while-traveling-3-simple-rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-vermeidest-du-geldautomaten-gebuhren-auf-reisen-3-einfache-regeln/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-frais-de-distributeur-a-letranger-3-regles-simples/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-comisiones-de-cajero-al-viajar-3-reglas-sencillas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-taxas-de-levantamento-no-multibanco-em-viagem-3-regras-simples/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-le-commissioni-agli-sportelli-atm-in-viaggio-3-regole-semplici/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-izbezhat-komissiy-bankomatov-v-poezdkah-3-prostyh-pravila/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/</loc>
+    <lastmod>2025-12-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-home-maintenance-with-a-1-annual-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/hausinstandhaltung-planen-mit-der-1-prozent-regel-stressfrei-vorsorgen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-budgetiser-lentretien-de-sa-maison-avec-la-regle-annuelle-du-1/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-el-mantenimiento-del-hogar-con-la-regla-del-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-se-organizar-para-a-manutencao-da-casa-com-a-regra-do-1-anual/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-gestire-il-budget-per-la-manutenzione-della-casa-con-la-regola-dell1-annuo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-soderzhanie-doma-pravilo-1-dlya-par/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-lower-prescription-costs-with-a-3question-check/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-lower-prescription-costs-with-a-3question-check/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-du-rezeptkosten-mit-einem-3fragencheck-senkst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reduire-le-cout-des-medicaments-sur-ordonnance-avec-un-controle-en-3-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reducir-el-coste-de-tus-medicamentos-con-una-comprobacion-de-3-preguntas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-de-medicamentos-com-uma-verificacao-de-3-perguntas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ridurre-i-costi-dei-farmaci-prescritti-con-un-controllo-in-3-domande/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-snizit-rashody-na-retsepturnye-lekarstva-s-pomoschyu-proverki-iz-3-voprosov/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/back-to-school-budget-supplies-fees-lunch-plan/</loc>
+    <lastmod>2026-01-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/back-to-school-budget-supplies-fees-lunch-plan/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-zum-schulstart-materialien-gebuhren-lunchplan/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-de-rentree-scolaire-fournitures-frais-plan-repas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/presupuesto-de-vuelta-al-cole-material-cuotas-plan-de-comida/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-volta-as-aulas-materiais-taxas-plano-de-almoco/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-il-rientro-a-scuola-materiale-quote-piano-pranzi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/shkolnyy-byudzhet-k-uchebnomu-godu-prinadlezhnosti-sbory-plan-obedov/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/meal-planning-on-a-budget-build-a-10meal-rotation-to-cut-grocery-costs/</loc>
