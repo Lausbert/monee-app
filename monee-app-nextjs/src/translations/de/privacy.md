@@ -1,5 +1,5 @@
 **Letzte Aktualisierung**
-<br>11\. Dezember 2025
+<br>1\. Februar 2026
 
 # Datenschutz
 
@@ -54,7 +54,7 @@ Sie wird insbesondere zu folgenden Zwecken verarbeitet:
 - Eindeutige Identifizierung eines Benutzers und Wiederherstellung von Daten auf einem Gerät im Falle einer Abmeldung, eines Gerätewechsels oder einer Neuinstallation
 
 ##### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
 
 ##### Empfänger:
 
@@ -79,7 +79,7 @@ Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 - Teilen von Daten mit Mitgliedern Ihres Haushalts
 
 ##### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Bereitstellung der Funktionalität unserer App.
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
 
 ##### Empfänger:
 
@@ -129,7 +129,7 @@ Diese Daten werden ausschließlich zu folgendem Zweck verarbeitet:
 - Sie rechtzeitig über die geplante Löschung Ihres Kontos nach längerer Inaktivität zu informieren und Ihnen die Möglichkeit zu geben, gegebenenfalls darauf zu reagieren. Die zu diesem Zweck verarbeiteten Daten umfassen Ihre E-Mail-Adresse, Ihren Benutzernamen sowie das vorgesehene Datum der Kontolöschung.
 
 ##### Rechtsgrundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses, Sie vor der Löschung Ihres Kontos zu benachrichtigen. 
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
 
 ##### Empfänger:
 Die Daten werden von [Brevo](https://www.brevo.com/de/) empfangen, einem Anbieter für E-Mail-Dienste (vormals Sendinblue), der in unserem Auftrag als Auftragsverarbeiter den Versand dieser Hinweis-E-Mails durchführt. Besuchen Sie [Brevos Datenschutzerklärung](https://www.brevo.com/de/legal/privacypolicy/) für weitere Informationen und Widerspruchsmöglichkeiten.
@@ -156,7 +156,7 @@ für andere Verwaltungszwecke.
 - Wir verwenden Ihre Daten nicht, um Rückschlüsse auf Ihre Person zu ziehen. Informationen dieser Art werden von uns ggfs. statistisch ausgewertet, um diesen Internetauftritt und die dahinterstehende Technik zu optimieren.
 
 ##### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Stabilität und Funktionalität dieser Website.
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
 
 ##### Empfänger:
 Die Daten werden von [Vercel](https://vercel.com/blog/what-is-vercel) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung dieser Webseite tätig sind. Besuchen Sie [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) für weitere Informationen und Widerspruchsmöglichkeiten.
@@ -175,7 +175,7 @@ Wir verwenden auf unserer Website PostHog. PostHog ist ein Open-Source-Analysewe
 Wenn Sie unsere Website besuchen, erfasst PostHog Informationen wie die von Ihnen aufgerufenen Seiten, die Verweildauer auf diesen Seiten, von welcher Website Sie gekommen sind, welchen Gerätetyp, Browser und welches Betriebssystem Sie verwenden sowie verschiedene Interaktionsdaten. Diese Daten werden auf Servern der PostHog Inc. in den Vereinigten Staaten gespeichert.
 
 ##### Rechtsgrundlage der Datenverarbeitung
-Rechtsgrundlage für die Verarbeitung der Nutzerdaten ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse). Unser berechtigtes Interesse liegt in der Analyse, Optimierung und dem wirtschaftlichen Betrieb unserer Website.
+Rechtsgrundlage für die Verarbeitung der Nutzerdaten ist Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
 
 ##### Zweck der Datenverarbeitung
 PostHog wird zum Zweck der Analyse der Nutzung unserer Website sowie zur fortlaufenden Verbesserung einzelner Funktionen und Angebote eingesetzt. Die statistische Auswertung des Nutzerverhaltens ermöglicht es uns, unser Angebot zu verbessern und für Sie als Nutzer interessanter zu gestalten.

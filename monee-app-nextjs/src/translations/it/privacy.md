@@ -1,5 +1,5 @@
 **Ultimo aggiornamento**
-11 Dicembre 2025
+1 Febbraio 2026
 
 # Informativa sulla Privacy
 
@@ -79,7 +79,7 @@ Vengono elaborati in particolare per il seguente scopo:
 - Condivisione di dati con i membri della tua famiglia
 
 ##### Base legale:
-Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. f GDPR basato sul nostro legittimo interesse nel fornire la funzionalità della nostra app.
+Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. b GDPR in quanto necessario per l'esecuzione di un contratto con te.
 
 ##### Destinatario:
 
@@ -130,7 +130,7 @@ Questi dati sono trattati esclusivamente per:
 - informarti per tempo sulla cancellazione prevista del tuo account dopo un lungo periodo di inattività e darti la possibilità di reagire. A questo scopo trattiamo il tuo indirizzo email, il tuo nome utente e la data prevista di cancellazione del tuo account.
 
 ##### Base giuridica:
-Il trattamento avviene ai sensi dell'art. 6 par. 1 lett. f GDPR sulla base del nostro legittimo interesse a informarti prima di cancellare il tuo account.
+Il trattamento avviene ai sensi dell'art. 6 par. 1 lett. b GDPR in quanto necessario per l'esecuzione di un contratto con te.
 
 ##### Destinatario:
 I dati sono ricevuti da [Brevo](https://www.brevo.com/it/) (ex Sendinblue), un fornitore di servizi email che agisce come responsabile del trattamento per l'invio di queste email di avviso. Consulta l'[informativa sulla privacy di Brevo](https://www.brevo.com/it/legal/privacypolicy/) per ulteriori informazioni e opzioni di opposizione.
@@ -157,7 +157,7 @@ per altri scopi amministrativi.
 - Non utilizziamo i tuoi dati per trarre conclusioni su di te personalmente. Informazioni di questo tipo possono essere valutate statisticamente da noi al fine di ottimizzare questo sito web e la tecnologia dietro di esso.
 
 ##### Base legale:
-Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. f GDPR basato sul nostro legittimo interesse nel migliorare la stabilità e funzionalità di questo sito web.
+Il trattamento avviene in conformità all'Art. 6 Para. 1 lit. b GDPR in quanto necessario per l'esecuzione di un contratto con te.
 
 ##### Destinatario:
 I dati vengono ricevuti da [Vercel](https://vercel.com/blog/what-is-vercel) che lavora come processore per il funzionamento e la manutenzione di questo sito web. Visita [Vercel's Global Privacy Practices](https://vercel.com/legal/privacy-policy) per ulteriori informazioni e opzioni di opposizione.
@@ -176,7 +176,7 @@ Utilizziamo PostHog sul nostro sito web. PostHog è uno strumento di analisi ope
 Quando visitate il nostro sito, PostHog raccoglie informazioni quali le pagine visitate, il tempo trascorso su tali pagine, il sito di provenienza, il tipo di dispositivo, il browser e il sistema operativo utilizzati, nonché vari dati di interazione. Questi dati sono conservati su server di PostHog Inc. situati negli Stati Uniti.
 
 ##### Base giuridica del trattamento dei dati
-La base giuridica del trattamento dei dati degli utenti è l’art. 6, par. 1, lett. f), del GDPR (interesse legittimo). Il nostro interesse legittimo consiste nell’analisi, nell’ottimizzazione e nella gestione economica del nostro sito web.
+La base giuridica del trattamento dei dati degli utenti è l'art. 6, par. 1, lett. b), del GDPR in quanto necessario per l'esecuzione di un contratto con te.
 
 ##### Finalità del trattamento dei dati
 PostHog è utilizzato per analizzare l’uso del nostro sito web e per migliorare continuamente singole funzioni e offerte. La valutazione statistica del comportamento degli utenti ci consente di migliorare la nostra offerta e renderla più interessante per voi.

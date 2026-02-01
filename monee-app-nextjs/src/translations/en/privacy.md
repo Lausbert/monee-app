@@ -1,5 +1,5 @@
 **Last updated**
-December 11 2025
+February 1 2026
 
 # Privacy Policy
 
@@ -79,7 +79,7 @@ They are processed in particular for the following purpose:
 - Sharing data with members of your household
 
 ##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
+Processing takes place in accordance with Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
 
 ##### Receiver:
 
@@ -130,7 +130,7 @@ This data is processed solely for:
 - informing you in advance about the planned deletion of your account after extended inactivity and giving you the chance to respond. For this we process your email address, username and the scheduled deletion date of the account.
 
 ##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in notifying you before deleting your account.
+Processing takes place in accordance with Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
 
 ##### Receiver:
 The data is received by [Brevo](https://www.brevo.com/) (formerly Sendinblue), an email service provider acting as our processor to send these notice emails. Visit [Brevo's Privacy Policy](https://www.brevo.com/legal/privacypolicy/) for further information and opt-out options.
@@ -157,7 +157,7 @@ for other administrative purposes.
 - We do not use your data to draw conclusions about you personally. Information of this type may be statistically evaluated by us in order to optimize this website and the technology behind it.
 
 ##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the stability and functionality of this website.
+Processing takes place in accordance with Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
 
 ##### Receiver:
 The data is received by [Vercel](https://vercel.com/blog/what-is-vercel) who works as a processor for the operation and maintenance of this website. Visit [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) for further information and options for objection.
@@ -177,7 +177,7 @@ When you visit our website, PostHog collects information such as the pages you v
 
 ##### Legal Basis for Processing Data
 
-The legal basis for processing users' data is Art. 6 Para. 1 lit. f GDPR (legitimate interest). Our legitimate interest lies in the analysis, optimization, and economic operation of our website.
+The legal basis for processing users' data is Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
 
 ##### Purpose of Data Processing
 

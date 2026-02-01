@@ -1,5 +1,5 @@
 **Dernière mise à jour**
-11 décembre 2025
+1 février 2026
 
 # Politique de Confidentialité
 
@@ -79,7 +79,7 @@ Elles sont traitées notamment pour les finalités suivantes :
 - Partager des données avec les membres de votre foyer
 
 ##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. f RGPD sur la base de notre intérêt légitime à fournir les fonctionnalités de notre application.
+Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. b RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
 
 ##### Destinataire :
 
@@ -130,7 +130,7 @@ Ces données sont traitées uniquement pour :
 - vous informer en amont de la suppression prévue de votre compte après une longue période d'inactivité et vous laisser la possibilité d'y répondre. Les données traitées à cette fin sont votre adresse e-mail, votre nom d'utilisateur et la date prévue de suppression du compte.
 
 ##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. f RGPD sur la base de notre intérêt légitime à vous avertir avant de supprimer votre compte.
+Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. b RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
 
 ##### Destinataire :
 Les données sont reçues par [Brevo](https://www.brevo.com/fr/) (anciennement Sendinblue), un prestataire de services e-mail qui agit en tant que sous-traitant pour l'envoi de ces e-mails d'information. Consultez la [Politique de Confidentialité de Brevo](https://www.brevo.com/fr/legal/privacypolicy/) pour plus d'informations et d'options d'opposition.
@@ -157,7 +157,7 @@ Elles sont traitées notamment pour les finalités suivantes :
 - Nous n'utilisons pas vos données pour tirer des conclusions sur vous personnellement. Les informations de ce type peuvent être évaluées statistiquement par nous afin d'optimiser ce site web et la technologie qui le sous-tend.
 
 ##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. f RGPD sur la base de notre intérêt légitime à améliorer la stabilité et la fonctionnalité de ce site web.
+Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. b RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
 
 ##### Destinataire :
 Les données sont reçues par [Vercel](https://vercel.com/blog/what-is-vercel) qui travaille en tant que sous-traitant pour l'exploitation et la maintenance de ce site web. Visitez [les Pratiques Mondiales de Confidentialité de Vercel](https://vercel.com/legal/privacy-policy) pour plus d'informations et d'options d'opposition.
@@ -176,7 +176,7 @@ Nous utilisons PostHog sur notre site web. PostHog est un outil d’analyse open
 Lorsque vous visitez notre site, PostHog collecte des informations telles que les pages consultées, le temps passé sur ces pages, le site d’origine, le type d’appareil, le navigateur et le système d’exploitation utilisés, ainsi que diverses données d’interaction. Ces données sont stockées sur des serveurs de PostHog Inc. aux États-Unis.
 
 ##### Base juridique du traitement des données
-La base juridique du traitement des données des utilisateurs est l’art. 6, par. 1, point f), du RGPD (intérêt légitime). Notre intérêt légitime réside dans l’analyse, l’optimisation et l’exploitation économique de notre site web.
+La base juridique du traitement des données des utilisateurs est l'art. 6, par. 1, point b), du RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
 
 ##### Finalité du traitement des données
 PostHog est utilisé pour analyser l’utilisation de notre site web et améliorer en continu certaines fonctionnalités et offres. L’évaluation statistique du comportement des utilisateurs nous permet d’améliorer notre offre et de la rendre plus intéressante pour vous.

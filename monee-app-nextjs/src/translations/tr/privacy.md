@@ -1,5 +1,5 @@
 **Son güncelleme**
-11 Aralık 2025
+1 Şubat 2026
 
 # Gizlilik Politikası
 
@@ -50,7 +50,7 @@ Uygulamaya kayıt olurken e-posta adresi iletebilirsin. Gerçek adresini gizleme
 
 **Hukuki dayanak:**
 
-İşleme, uygulamanın işlevini sağlayabilmek için meşru çıkarımız kapsamında GDPR Madde 6 (1) f uyarınca yapılır.
+İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
 
 **Alıcı:**
 
@@ -78,7 +78,7 @@ amaçlarıyla işlenir.
 
 **Hukuki dayanak:**
 
-İşleme, uygulamanın işlevini sağlayabilmek için meşru çıkarımız kapsamında GDPR Madde 6 (1) f uyarınca yapılır.
+İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
 
 **Alıcı:**
 
@@ -126,7 +126,7 @@ Uygulamayı Google veya Apple ile kullanarak giriş yapabilirsiniz. Bağlı e‑
 
 **Hukuki dayanak:**
 
-İşleme, hesabınızı silmeden önce sizi bilgilendirme yönündeki meşru menfaatimiz kapsamında GDPR Madde 6 (1) f uyarınca yapılır.
+İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
 
 **Alıcı:**
 
@@ -148,7 +148,7 @@ Web sitesinde hata oluştuğunda, üçüncü taraf hizmetleri aracılığıyla l
 
 **Hukuki dayanak:**
 
-İşleme, web sitesini işletme ve optimize etme meşru çıkarımız kapsamında GDPR Madde 6 (1) f uyarınca yapılır.
+İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
 
 **Saklama süresi:**
 
@@ -162,7 +162,7 @@ Web sitemizde PostHog kullanıyoruz. PostHog, hangi sayfaları ziyaret ettiğin,
 
 **Hukuki dayanak:**
 
-Web sitemizi analiz etmek ve optimize etmek meşru çıkarımız kapsamında GDPR Madde 6 (1) f.
+Sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b.
 
 **Amaç:**
 

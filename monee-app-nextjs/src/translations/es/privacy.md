@@ -1,5 +1,5 @@
 **Última actualización**
-11 de diciembre de 2025
+1 de febrero de 2026
 
 # Política de Privacidad
 
@@ -78,7 +78,7 @@ Se procesan en particular para el siguiente propósito:
 - Compartir datos con miembros de tu hogar
 
 ##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. f GDPR basado en nuestro interés legítimo en proporcionar la funcionalidad de nuestra aplicación.
+El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. b GDPR ya que es necesario para la ejecución de un contrato contigo.
 
 ##### Receptor:
 
@@ -129,7 +129,7 @@ Estos datos se procesan únicamente para:
 - Informarte con suficiente antelación sobre la eliminación prevista de tu cuenta tras un período prolongado de inactividad y darte la posibilidad de responder. Para ello se procesan tu dirección de correo electrónico, tu nombre de usuario y la fecha prevista de eliminación de la cuenta.
 
 ##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. f GDPR basado en nuestro interés legítimo de notificarte antes de eliminar tu cuenta.
+El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. b GDPR ya que es necesario para la ejecución de un contrato contigo.
 
 ##### Receptor:
 Los datos son recibidos por [Brevo](https://www.brevo.com/es/) (antes Sendinblue), un proveedor de servicios de correo electrónico que actúa como encargado del tratamiento para enviar estos correos de aviso. Consulta la [Política de Privacidad de Brevo](https://www.brevo.com/es/legal/privacypolicy/) para más información y opciones de oposición.
@@ -156,7 +156,7 @@ para otros propósitos administrativos.
 - No utilizamos tus datos para sacar conclusiones sobre ti personalmente. La información de este tipo puede ser evaluada estadísticamente por nosotros para optimizar este sitio web y la tecnología detrás de él.
 
 ##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. f GDPR basado en nuestro interés legítimo en mejorar la estabilidad y funcionalidad de este sitio web.
+El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. b GDPR ya que es necesario para la ejecución de un contrato contigo.
 
 ##### Receptor:
 Los datos son recibidos por [Vercel](https://vercel.com/blog/what-is-vercel) quien trabaja como procesador para la operación y mantenimiento de este sitio web. Visita [las Prácticas de Privacidad Globales de Vercel](https://vercel.com/legal/privacy-policy) para más información y opciones de objeción.
@@ -175,7 +175,7 @@ Utilizamos PostHog en nuestro sitio web. PostHog es una herramienta de analític
 Cuando visita nuestro sitio, PostHog recopila información como las páginas que visita, el tiempo que pasa en ellas, el sitio web de procedencia, el tipo de dispositivo, el navegador y el sistema operativo que utiliza, así como diversos datos de interacción. Estos datos se almacenan en servidores de PostHog Inc. en los Estados Unidos.
 
 ##### Base jurídica para el tratamiento de datos
-La base jurídica para el tratamiento de los datos de los usuarios es el art. 6, apdo. 1, letra f), del RGPD (interés legítimo). Nuestro interés legítimo reside en el análisis, la optimización y el funcionamiento económico de nuestro sitio web.
+La base jurídica para el tratamiento de los datos de los usuarios es el art. 6, apdo. 1, letra b), del RGPD ya que es necesario para la ejecución de un contrato contigo.
 
 ##### Finalidad del tratamiento de los datos
 PostHog se utiliza con el fin de analizar el uso de nuestro sitio web y mejorar continuamente funciones y ofertas concretas. La evaluación estadística del comportamiento de los usuarios nos permite mejorar nuestra oferta y hacerla más interesante para usted.
