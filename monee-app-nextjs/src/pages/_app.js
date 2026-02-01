@@ -26,6 +26,7 @@ export default function App({ Component, pageProps }) {
 
     posthog.init(key, {
       api_host: host,
+      cookieless_mode: 'always',
       // Enable debug mode in development
       loaded: (posthog) => {
         if (process.env.NODE_ENV === 'development') posthog.debug()

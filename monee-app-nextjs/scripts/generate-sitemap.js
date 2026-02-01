@@ -98,7 +98,7 @@ function generateSitemap() {
   const staticPages = [
     { path: '', priority: '1.0', changefreq: 'monthly', lastmod: '2025-01-02' }, // Homepage
     { path: 'blog', priority: '0.8', changefreq: 'daily', lastmod: newestBlogDate }, // Blog uses newest post date
-    { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2025-12-11' },
+    { path: 'privacy', priority: '0.1', changefreq: 'yearly', lastmod: '2026-02-01' },
     { path: 'imprint', priority: '0.1', changefreq: 'yearly', lastmod: '2025-10-22' }
   ];
 
