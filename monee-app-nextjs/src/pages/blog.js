@@ -7,6 +7,39 @@ import { getAllBlogPosts } from '@/lib/blog';
 import { getTranslations } from '@/lib/i18n';
 import siteConfig from '@/lib/siteConfig';
 
+const FEATURED_POST_COUNT = 8;
+
+function omitUndefined(object) {
+    return Object.fromEntries(
+        Object.entries(object).filter(([, value]) => value !== undefined)
+    );
+}
+
+function pickBlogListPost(post, index) {
+    if (index >= FEATURED_POST_COUNT) {
+        return {
+            slug: post.slug,
+            meta: omitUndefined({
+                title: post.meta.title,
+                date: post.meta.date,
+            }),
+        };
+    }
+
+    return {
+        slug: post.slug,
+        meta: omitUndefined({
+            title: post.meta.title,
+            excerpt: post.meta.excerpt || '',
+            date: post.meta.date,
+            updatedAt: post.meta.updatedAt,
+            author: post.meta.author,
+            authorImage: post.meta.authorImage,
+            keywords: post.meta.keywords,
+        }),
+    };
+}
+
 export default function BlogPage({ posts, allTranslations }) {
     const router = useRouter();
     const { locale } = router;
@@ -18,8 +51,8 @@ export default function BlogPage({ posts, allTranslations }) {
     const noPosts = blogTranslations?.no_posts;
     const olderPostsHeading = blogTranslations?.older_posts_heading || 'Older Posts';
     const postsArray = Array.isArray(posts) ? posts : [];
-    const latestPosts = postsArray.slice(0, 8);
-    const olderPosts = postsArray.slice(8);
+    const latestPosts = postsArray.slice(0, FEATURED_POST_COUNT);
+    const olderPosts = postsArray.slice(FEATURED_POST_COUNT);
     
     // Get translated keywords and app name
     const translatedKeywords = blogTranslations?.keywords;
@@ -269,7 +302,7 @@ export default function BlogPage({ posts, allTranslations }) {
                                             {/* Title with more spacing */}
                                             <div className="blog-card-title-section flex-shrink-0">
                                                 <h2 className="blog-card-title">
-                                                    <Link href={`/blog/${post.slug}`}>
+                                                    <Link href={`/blog/${post.slug}`} prefetch={false}>
                                                         {post.meta.title}
                                                     </Link>
                                                 </h2>
@@ -288,6 +321,7 @@ export default function BlogPage({ posts, allTranslations }) {
                                             <div className="blog-card-footer flex-shrink-0 mt-auto pt-4">
                                                 <Link
                                                     href={`/blog/${post.slug}`}
+                                                    prefetch={false}
                                                     className="blog-read-more bg-teal-500 hover:bg-teal-600 text-white no-underline inline-flex items-center justify-center px-8 py-4 rounded-full font-bold text-lg min-w-[160px] gap-3 transition-all duration-300 ease-out shadow-lg shadow-teal-500/30 hover:shadow-xl hover:shadow-teal-500/40 uppercase tracking-wide border-2 border-transparent hover:-translate-y-0.5 hover:scale-105"
                                                     aria-label={`Read more about ${post.meta.title}`}
                                                     style={{
@@ -313,7 +347,7 @@ export default function BlogPage({ posts, allTranslations }) {
                                         <ul className="older-posts-list">
                                             {olderPosts.map((post) => (
                                                 <li key={post.slug} className="older-posts-item">
-                                                    <Link href={'/blog/' + post.slug} className="older-posts-link">
+                                                    <Link href={'/blog/' + post.slug} prefetch={false} className="older-posts-link">
                                                         <span className="older-posts-title">{post.meta.title}</span>
                                                         <time dateTime={post.meta.date} className="older-posts-date">
                                                             {formatDate(post.meta.date)}
@@ -345,22 +379,22 @@ export default function BlogPage({ posts, allTranslations }) {
 
 export async function getStaticProps({ locale }) {
     // Get all blog posts for the current locale
-    const posts = getAllBlogPosts(locale || 'en', { includeContent: false });
+    const posts = getAllBlogPosts(locale || 'en', { includeContent: false }).map(pickBlogListPost);
 
     // Get translations
-    const allTranslations = await getTranslations(locale || 'en');
-
-    // Structure global translations
-    const globalTranslations = {
-        ...allTranslations,
-        global: allTranslations?.global || {},
+    const translations = await getTranslations(locale || 'en');
+    const allTranslations = {
+        blog: translations?.blog || {},
+        global: {
+            app_name: translations?.global?.app_name || siteConfig.app_name,
+        },
     };
 
     return {
         props: {
             posts: posts || [],
             allTranslations,
-            globalTranslations,
+            globalTranslations: allTranslations,
         },
     };
 }

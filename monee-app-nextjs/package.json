@@ -6,15 +6,14 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "next lint",
+        "lint": "eslint .",
         "sitemap": "node scripts/generate-sitemap.js",
         "gen": "python3 scripts/blog-automation/generate_blog.py && npm run build && npm run sitemap && vercel --prod"
     },
     "dependencies": {
         "gray-matter": "^4.0.3",
         "js-yaml": "^4.1.0",
-        "next": "16.1.6",
-        "posthog-js": "1.335.2",
+        "next": "16.2.10",
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "remark": "^15.0.1",
@@ -23,10 +22,9 @@
         "sass": "^1.89.0"
     },
     "devDependencies": {
-        "@eslint/eslintrc": "^3",
         "@tailwindcss/postcss": "^4",
         "eslint": "^9",
-        "eslint-config-next": "15.3.2",
+        "eslint-config-next": "16.2.10",
         "tailwindcss": "^4"
     }
 }

@@ -1,12 +1,35 @@
 import path from 'path';
 import yaml from 'js-yaml';
-import matter from 'gray-matter';
-import siteConfig from './siteConfig'; // Import siteConfig (default export)
 
 // Only import fs on server side
 const fs = typeof window === 'undefined' ? require('fs') : null;
 
-const translationsDirectory = path.join(process.cwd(), 'src', 'translations');
+function readTranslationFile(locale) {
+  switch (locale) {
+    case 'en':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'en.yml'), 'utf8');
+    case 'de':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'de.yml'), 'utf8');
+    case 'fr':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'fr.yml'), 'utf8');
+    case 'es':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'es.yml'), 'utf8');
+    case 'pt':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'pt.yml'), 'utf8');
+    case 'it':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'it.yml'), 'utf8');
+    case 'ru':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'ru.yml'), 'utf8');
+    case 'hi':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'hi.yml'), 'utf8');
+    case 'el':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'el.yml'), 'utf8');
+    case 'tr':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'tr.yml'), 'utf8');
+    default:
+      return null;
+  }
+}
 
 /**
  * Loads general translation strings from YAML files.
@@ -27,8 +50,10 @@ export async function getTranslations(locale, section, key) {
   }
 
   try {
-    const filePath = path.join(translationsDirectory, `${locale}.yml`);
-    const fileContents = fs.readFileSync(filePath, 'utf8');
+    const fileContents = readTranslationFile(locale);
+    if (!fileContents) {
+      throw new Error(`Unsupported locale: ${locale}`);
+    }
     const data = yaml.load(fileContents);
 
     if (!section) return data; // Return all translations for the locale
@@ -42,47 +67,4 @@ export async function getTranslations(locale, section, key) {
     console.error(`Error loading translations for locale ${locale}:`, error);
     return key ? `Error loading: ${section}.${key}` : `Error loading section: ${section}`;
   }
-}
-
-/**
- * Loads translated Markdown content.
- * e.g., getMarkdownContent('en', 'imprint')
- */
-export async function getMarkdownContent(locale, pageName) {
-  // Ensure this only runs on server side
-  if (typeof window !== 'undefined') {
-    console.error('getMarkdownContent should only be called on the server side');
-    return `Client-side error loading content for ${pageName}.`;
-  }
-
-  if (!fs) {
-    console.error('File system not available');
-    return `FS error loading content for ${pageName}.`;
-  }
-
-  try {
-    const filePath = path.join(translationsDirectory, locale, `${pageName}.md`);
-    if (!fs.existsSync(filePath)) {
-      // Fallback to default locale if the page doesn't exist for the current locale
-      // This might be an oversimplification depending on desired behavior
-      const fallbackFilePath = path.join(translationsDirectory, siteConfig.defaultLanguage || siteConfig.default_lang, `${pageName}.md`);
-      if(fs.existsSync(fallbackFilePath)) {
-        console.warn(`Markdown for '${pageName}' not found for locale '${locale}'. Falling back to default locale.`);
-        return fs.readFileSync(fallbackFilePath, 'utf8');
-      }
-      throw new Error(`Markdown file not found for page: ${pageName} in locale: ${locale} or default locale.`);
-    }
-    return fs.readFileSync(filePath, 'utf8');
-  } catch (error) {
-    console.error(`Error loading markdown content for locale ${locale}, page ${pageName}:`, error);
-    return `Error loading content for ${pageName}.`;
-  }
-}
-
-// Helper to parse markdown (frontmatter and content)
-export function parseMarkdown(markdownContent) {
-  const { data, content } = matter(markdownContent);
-  // You might want to convert content to HTML here using remark or markdown-to-jsx
-  // For now, just returning raw content and frontmatter
-  return { frontmatter: data, content };
 }

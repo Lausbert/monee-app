@@ -1,9 +1,9 @@
 import Image from 'next/image';
 import { useRouter } from 'next/router';
-import posthog from 'posthog-js';
+// --- POSTHOG DISABLED: uncomment to re-enable ---
+// import posthog from 'posthog-js';
 import useTranslations from '../hooks/useTranslations';
 import siteConfig from '../lib/siteConfig';
-import { getAppStoreLink } from '../lib/appstore';
 
 export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreData, translations }) {
   const router = useRouter();
@@ -15,9 +15,11 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
   const appStoreAlt = t('global.app_store_badge_alt') || 'Download on the App Store';
   
   // Use App Store data if available, otherwise fall back to props or siteConfig
-  const finalAppStoreLink = getAppStoreLink(appStoreData) || appstoreLink;
+  const finalAppStoreLink = appStoreData?.trackViewUrl || appstoreLink;
 
   const trackStoreClick = (platform) => {
+    // --- POSTHOG DISABLED ---
+    /*
     try {
       if (!posthog || typeof posthog.capture !== 'function') return;
       const isBlog = router?.pathname === '/blog/[slug]';
@@ -28,6 +30,8 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
     } catch (e) {
       // no-op
     }
+    */
+    // --- END POSTHOG DISABLED ---
   };
 
   return (
@@ -47,6 +51,7 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
               alt={playStoreAlt} 
               width={240} 
               height={75} 
+              unoptimized
             />
           </div>
         </a>
@@ -65,6 +70,7 @@ export default function AppStoreButton({ playstoreLink, appstoreLink, appStoreDa
               alt={appStoreAlt} 
               width={240} 
               height={75}
+              unoptimized
             />
           </div>
         </a>

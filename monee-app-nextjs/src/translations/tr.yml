@@ -30,11 +30,19 @@ global:
     badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee şimdi Product Hunt'ta yayında"
+  eu_store_notice:
+    title: "AB kullanıcıları için önemli bilgi"
+    greeting: "Herkese merhaba,"
+    message_1: "Apple'daki bilgilerimi güncelledim."
+    message_2: "Apple bu bilgileri incelerken Monee, AB'deki App Store'lardan geçici olarak kaldırıldı."
+    message_3: "Monee'nin önümüzdeki birkaç gün içinde yeniden erişilebilir olması bekleniyor. Sıralama kaybını hafifletmek için sonrasında olumlu puan vererek destek olan herkese teşekkür ederim."
+    signature: "Sevgiler, Stephan"
+    image_alt: "Stephan Lerner"
   app_ratings:
     stars: "⭐⭐⭐⭐⭐"
     score: "Küresel Puan: 4.9 / 5.0"
-    count: "10.000+ değerlendirme ve incelemeye dayanıyor"
-    downloads: "Dünya çapında 200.000+ indirme"
+    count: "15.000+ değerlendirme ve incelemeye dayanıyor"
+    downloads: "Dünya çapında 350.000+ indirme"
   reviews:
     - title: "Harika uygulama!!"
       body: "Bir ev bütçesi defterinin ne kadar faydalı olduğu bir yana, geliştiricinin Monee ile büyük bir başarı elde ettiğini düşünüyorum! Arayüz çok net, sezgisel ve kullanımı kolay. Tüm temel özellikler mevcut ve elbette gelir-gider analizi de var. Başka bir uygulamaya ihtiyacım kalmadı—üstelik tamamen ücretsiz ve reklamsız. Geliştiriciye saygı ve çok teşekkürler!"

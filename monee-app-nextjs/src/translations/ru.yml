@@ -30,6 +30,14 @@ global:
     badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee теперь в эфире на Product Hunt"
+  eu_store_notice:
+    title: "Важная информация для пользователей из ЕС"
+    greeting: "Привет всем,"
+    message_1: "Я обновил свои данные в Apple."
+    message_2: "Пока Apple проверяет изменения, Monee временно убрали из App Stores в ЕС."
+    message_3: "Monee должна снова появиться в ближайшие дни. Спасибо всем, кто после этого поддержит Monee положительной оценкой, чтобы смягчить потерю в рейтинге."
+    signature: "С уважением, Stephan"
+    image_alt: "Штефан Лернер"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Глобальная оценка: 4.9 / 5.0"

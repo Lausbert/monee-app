@@ -1,223 +1,219 @@
-**Última actualización**
-1 de febrero de 2026
+**Última actualización**\
+16\. de febrero de 2026
 
-# Política de Privacidad
+# Aviso de Privacidad conforme al Art. 13 RGPD
 
-Monee desarrolló la aplicación Monee como una aplicación Freemium. Este SERVICIO es proporcionado por Monee sin costo alguno y está destinado a ser usado tal como está.
+## Información General sobre el Tratamiento de Datos
 
-Esta página se utiliza para informar a los visitantes sobre nuestras políticas con respecto a la recopilación, uso y divulgación de Información Personal si alguien decide utilizar nuestro Servicio.
+### Nombre y Dirección del Responsable del Tratamiento
+El responsable del tratamiento en el sentido del Reglamento General de Protección de Datos (RGPD) y otras normativas de protección de datos es:\
+Stephan Lerner\
+Oldesloer Weg 9\
+21614 Buxtehude
 
-Si eliges usar nuestro Servicio, entonces aceptas la recopilación y uso de información en relación con esta política. La Información Personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No usaremos ni compartiremos tu información con nadie excepto como se describe en esta Política de Privacidad.
+Correo electrónico: info@monee-app.com
 
-El responsable en términos de las leyes de protección de datos, en particular el Reglamento General de Protección de Datos de la UE (GDPR), es:
+### Base Jurídica para el Tratamiento de Datos Personales
 
-Stephan Lerner
+De conformidad con el Art. 13 del RGPD, le informamos sobre las bases jurídicas de nuestras actividades de tratamiento de datos. Salvo que la base jurídica se mencione específicamente en este aviso de privacidad, se aplica lo siguiente:
+La base jurídica para la obtención del consentimiento es el Art. 6(1)(a) en relación con el Art. 7 del RGPD. La base jurídica para el tratamiento destinado al cumplimiento de nuestros servicios y la ejecución de medidas contractuales, así como para responder a consultas, es el Art. 6(1)(b) del RGPD. La base jurídica para el tratamiento destinado al cumplimiento de nuestras obligaciones legales es el Art. 6(1)(c) del RGPD. Si el tratamiento de sus datos es necesario para proteger un interés legítimo de nuestra empresa o de un tercero, y los intereses, derechos fundamentales y libertades del interesado no prevalecen sobre dicho interés, el Art. 6(1)(f) del RGPD sirve como base jurídica para el tratamiento. En caso de que los intereses vitales del interesado u otra persona física requieran el tratamiento de datos personales, el Art. 6(1)(d) del RGPD sirve como base jurídica.
 
-Si tienes alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no dudes en contactarnos en <{{ site.email_address }}>.
+### Eliminación de Datos y Duración del Almacenamiento
 
-## Tus derechos
+Nos adherimos a los principios de minimización de datos conforme al Art. 5(1)(c) del RGPD y limitación del almacenamiento conforme al Art. 5(1)(e) del RGPD. Almacenamos sus datos personales solo durante el tiempo necesario para lograr los fines aquí indicados o según lo exijan los períodos de conservación establecidos por la ley. Una vez que el respectivo propósito deje de aplicarse o tras la expiración de estos períodos de conservación, los datos correspondientes se eliminarán lo antes posible.
 
-Puedes ejercer los siguientes derechos en cualquier momento utilizando los datos de contacto proporcionados anteriormente:
+### Aviso sobre la Transferencia de Datos a Terceros Países
+Nuestro sitio web también integra herramientas de empresas con sede en terceros países. Cuando estas herramientas están activas, sus datos personales pueden ser transmitidos a los servidores de las respectivas empresas. El nivel de protección de datos en terceros países generalmente no corresponde al derecho de protección de datos de la UE. Esto significa que existe el riesgo de que sus datos puedan ser divulgados a las autoridades de esos países. No tenemos influencia sobre estas actividades de tratamiento.
 
-- Información sobre tus datos almacenados por nosotros y su procesamiento (Art. 15 GDPR),
-- Corrección de datos personales incorrectos (Art. 16 GDPR),
-- Eliminación de tus datos almacenados por nosotros (Art. 17 GDPR),
-- Restricción del procesamiento de datos si no podemos eliminar tus datos debido a obligaciones legales (Art. 18 GDPR),
-- Objeción al procesamiento de tus datos por nosotros (Art. 21 GDPR) y
-- Portabilidad de datos, siempre que hayas consentido el procesamiento de datos o hayas concluido un contrato con nosotros (Art. 20 GDPR).
+### Enlaces Externos
+Este sitio web puede contener enlaces a sitios web de terceros o a otros sitios web bajo nuestra responsabilidad. Si sigue un enlace a un sitio web fuera de nuestra responsabilidad, tenga en cuenta que estos sitios web tienen sus propias políticas de privacidad. No aceptamos ninguna responsabilidad por estos sitios web externos y sus avisos de privacidad. Por lo tanto, verifique si está de acuerdo con las políticas de privacidad de esos sitios web antes de utilizarlos.
+Puede reconocer los enlaces externos por el hecho de que se muestran en un color ligeramente diferente al resto del texto o están subrayados. Su cursor indicará los enlaces externos cuando lo mueva sobre dicho enlace. Solo cuando haga clic en un enlace externo se transmitirán sus datos personales al destino del enlace. El operador del otro sitio web recibirá, en particular, su dirección IP, el momento en que hizo clic en el enlace, la página en la que hizo clic en el enlace y otra información que puede encontrar en los avisos de privacidad del respectivo proveedor.
+Tenga en cuenta también que algunos enlaces pueden conducir a la transferencia de datos fuera del Espacio Económico Europeo. Esto podría permitir que las autoridades extranjeras accedan a sus datos. Es posible que no tenga recursos legales contra dicho acceso a los datos. Si no desea que sus datos personales se transmitan al destino del enlace o se expongan al acceso de autoridades extranjeras, por favor no haga clic en ningún enlace.
 
-Si nos has dado tu consentimiento, puedes revocarlo en cualquier momento.
+### Derechos del Interesado
 
-Puedes contactar a una autoridad supervisora en cualquier momento con una queja, por ejemplo, la autoridad supervisora responsable del estado federal de tu lugar de residencia o a la autoridad responsable de nosotros como el organismo responsable.
+Como interesado en el sentido del RGPD, tiene derecho a ejercer diversos derechos. Los derechos del interesado que se derivan del RGPD son el derecho de acceso (Artículo 15), el derecho de rectificación (Artículo 16), el derecho de supresión (Artículo 17), el derecho a la limitación del tratamiento (Artículo 18), el derecho de oposición (Artículo 21), el derecho a presentar una reclamación ante una autoridad de control y el derecho a la portabilidad de datos (Artículo 20).
 
-Una lista de las autoridades supervisoras (para el área no pública) con dirección se puede encontrar [aquí](https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html).
+### Derecho de Revocación:
+Algunos tratamientos de datos solo pueden realizarse con su consentimiento expreso. Tiene derecho a revocar su consentimiento en cualquier momento. Sin embargo, la legalidad del tratamiento de datos realizado hasta la revocación no se ve afectada.
 
-## Datos de Contacto
+### Derecho de Oposición:
 
-Si nos contactas por correo, tus datos se guardarán para que puedan ser utilizados para procesar y responder a tu solicitud.
+Si el tratamiento se basa en el Art. 6(1)(e) o (f) del RGPD, usted como interesado puede, por motivos relacionados con su situación particular, oponerse en cualquier momento al tratamiento de sus datos personales. Este derecho también se aplica a la elaboración de perfiles basada en estas disposiciones en el sentido del Art. 4(4) del RGPD. A menos que podamos demostrar motivos legítimos imperiosos para el tratamiento que prevalezcan sobre sus intereses, derechos y libertades, o el tratamiento sirva para el establecimiento, ejercicio o defensa de reclamaciones legales, cesaremos el tratamiento de sus datos tras una oposición.
+Si el tratamiento de datos personales se realiza con fines de marketing directo, también tiene derecho a oponerse en cualquier momento. Lo mismo se aplica a la elaboración de perfiles relacionada con el marketing directo. En este caso también cesaremos el tratamiento de datos personales una vez que presente una oposición.
 
-## Recopilación y Uso de Información
 
-La aplicación y este sitio web utilizan servicios de terceros que pueden recopilar información utilizada para identificarte.
+### Derecho a Presentar una Reclamación ante una Autoridad de Control:
 
-### App
+Si considera que el tratamiento de sus datos personales viola el RGPD, tiene derecho, sin perjuicio de cualquier otro recurso administrativo o judicial, a presentar una reclamación ante una autoridad de control, en particular en el Estado miembro de su residencia habitual, su lugar de trabajo o el lugar de la presunta infracción.
 
-#### Autenticación Firebase
+### Derecho a la Portabilidad de Datos:
+Si sus datos se procesan automáticamente sobre la base del consentimiento o la ejecución de un contrato, tiene derecho a recibir estos datos en un formato estructurado, de uso común y lectura mecánica. También tiene derecho a solicitar la transferencia y provisión de los datos a otro responsable del tratamiento, en la medida en que sea técnicamente factible.
 
-##### Tipo y propósito del procesamiento:
+### Derecho de Acceso, Rectificación y Supresión:
+Tiene derecho a obtener información sobre sus datos personales tratados en relación con el propósito del tratamiento, las categorías, los destinatarios y la duración del almacenamiento. Si tiene preguntas sobre este tema o cualquier otra pregunta relacionada con datos personales, no dude en ponerse en contacto con nosotros utilizando los datos de contacto proporcionados en el aviso legal.
 
-Al registrarse y usar la aplicación, es posible transmitir una dirección de correo electrónico. Recomendamos usar la funcionalidad "Ocultar mi correo electrónico" de Apple para ocultar la dirección de correo electrónico real.
+### Derecho a la Limitación del Tratamiento:
+Puede solicitar la limitación del tratamiento de sus datos personales en cualquier momento. Para ello, debe cumplir una de las siguientes condiciones:
 
-Se procesan en particular para el siguiente propósito:
+- Impugna la exactitud de los datos personales. Durante el período de verificación de la exactitud, tiene derecho a solicitar la limitación del tratamiento.
+- Si el tratamiento es ilícito, puede solicitar la limitación del uso de los datos en lugar de la supresión.
+- Si ya no necesitamos sus datos personales para los fines del tratamiento, pero usted los necesita para el establecimiento, ejercicio o defensa de reclamaciones legales, puede solicitar la limitación del tratamiento en lugar de la supresión.
+- Si se ha opuesto al tratamiento conforme al Art. 21(1) del RGPD, se realizará una ponderación entre sus intereses y los nuestros. Hasta que se complete esta ponderación, tiene derecho a solicitar la limitación del tratamiento.
 
-- Identificar únicamente a un usuario y restaurar datos a un dispositivo en caso de cierre de sesión, cambio de dispositivo o una nueva instalación
+La limitación del tratamiento significa que los datos personales, además de su almacenamiento, solo pueden ser tratados con su consentimiento o para el establecimiento, ejercicio o defensa de reclamaciones legales, o para la protección de los derechos de otra persona física o jurídica, o por razones de interés público importante de la Unión o de un Estado miembro.
+## Tratamiento de Datos Personales en el Sitio Web
 
-##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. f GDPR basado en nuestro interés legítimo en proporcionar la funcionalidad de nuestra aplicación.
+### Alojamiento del Sitio Web (Web Host)
+Nuestro sitio web está alojado por:
+Vercel Inc.
+440 N Barranca Ave #4133, Covina, CA 91723
+USA
 
-##### Receptor:
+Cuando visita nuestro sitio web, recopilamos y almacenamos automáticamente información en los llamados archivos de registro del servidor. Su navegador transmite automáticamente esta información a nuestro servidor o al servidor de nuestro proveedor de alojamiento.
+Esto incluye:
 
-Los datos son recibidos por [Firebase, una empresa de Google](https://firebase.google.com), quien trabaja como procesador para la operación y mantenimiento de nuestra aplicación. Visita [la Política de Privacidad de Google](https://policies.google.com/privacy) o [Firebase](https://firebase.google.com/support/privacy) para más información y opciones de objeción.
+- Dirección IP del dispositivo del visitante
+- Dispositivo utilizado
+- Nombre del host del equipo que accede
+- Sistema operativo del visitante
+- Tipo y versión del navegador
+- Nombre del archivo al que se accede
+- Hora de la solicitud del servidor
+- Cantidad de datos
+- Información sobre si la recuperación de datos fue exitosa
 
-##### Duración del almacenamiento:
-Firebase Authentication retiene la información de autenticación hasta que elimines tu cuenta, después de lo cual los datos se eliminan dentro de 180 días.
+Estos datos no se fusionan con otras fuentes de datos.
+En lugar de operar este sitio web en nuestro propio servidor, podemos hacerlo operar en el servidor de un proveedor de servicios externo (empresa de alojamiento), al que hemos nombrado anteriormente. Los datos personales recopilados por este sitio web se almacenan entonces en los servidores de la empresa de alojamiento. Además de los datos mencionados anteriormente, el host web almacena, por ejemplo, solicitudes de contacto, datos de contacto, nombres, datos de acceso al sitio web, metadatos y datos de comunicación, datos de contratos y otros datos generados a través de un sitio web.
+La base jurídica para el tratamiento de estos datos es el Art. 6(1)(f) del RGPD. Nuestro interés legítimo es la presentación técnicamente correcta y la optimización de este sitio web. Si se accede al sitio web para entrar en negociaciones contractuales o para celebrar un contrato, la base jurídica adicional es el Art. 6(1)(b) del RGPD. En caso de que hayamos contratado una empresa de alojamiento, existe un acuerdo de tratamiento de datos con este proveedor de servicios.
 
-##### Provisión requerida o necesaria:
-La provisión de tu dirección de correo electrónico es voluntaria, únicamente sobre la base de tu consentimiento. Desafortunadamente, no podemos restaurar tu cuenta en caso de cierre de sesión, cambio de dispositivo o una nueva instalación sin una dirección de correo electrónico.
+### Uso de Servicios Externos
+En nuestro sitio web se utilizan servicios externos. Los servicios externos son servicios de terceros proveedores que se utilizan en nuestro sitio web. Esto puede ocurrir por diversas razones, por ejemplo, para incrustar vídeos o para la seguridad del sitio web. Al utilizar estos servicios, los datos personales también se transmiten a los respectivos proveedores de estos servicios externos. Si no tenemos un interés legítimo en el uso de estos servicios, obtendremos su consentimiento revocable como visitante de nuestro sitio web antes del uso (Art. 6(1)(a) del RGPD).
 
-#### Base de Datos en Tiempo Real Firebase
+### Analítica
+Para analizar el comportamiento de los usuarios, tratamos datos personales de los visitantes del sitio web. Al evaluar los datos obtenidos, podemos compilar información sobre el uso de los componentes individuales de nuestro sitio web. Esto nos permite mejorar la facilidad de uso de nuestro sitio web. Las herramientas de análisis utilizadas podrían, por ejemplo, crear perfiles de usuario para la entrega de mensajes publicitarios dirigidos o basados en intereses, reconocer a los visitantes de nuestro sitio web en su próxima visita, medir su comportamiento de clic/desplazamiento, descargas, crear mapas de calor, rastrear visualizaciones de páginas, medir la duración de la visita o las tasas de rebote, y rastrear el origen de los visitantes del sitio web (ciudad, país, de qué página vino el visitante). Con la ayuda de las herramientas de análisis, nuestras actividades de investigación de mercado y marketing pueden mejorarse.
+El tratamiento solo se realiza si usted consiente este tratamiento de datos (a través de nuestro banner de consentimiento en el sitio web). La base jurídica para este tratamiento es el consentimiento (Art. 6(1)(a) del RGPD). Sin su consentimiento, el tratamiento de datos descrito anteriormente no tendrá lugar. Si revoca su consentimiento (por ejemplo, a través del banner de consentimiento u otras opciones proporcionadas en este sitio web), cesaremos este tratamiento de datos. La legalidad del tratamiento realizado hasta la revocación no se ve afectada.
 
-##### Tipo y propósito del procesamiento:
+### Plataforma de Reseñas
+Utilizamos plataformas de reseñas para mostrar las reseñas recopiladas en nuestro sitio web y así generar confianza entre los usuarios. Las reseñas recopiladas se publican en nuestro sitio web. Cuando visita el sitio web, se establece una conexión con el respectivo proveedor y se transmiten datos del visitante del sitio web. Los datos personales tratados en este contexto incluyen, por ejemplo, la dirección IP.
+La base jurídica para este tratamiento es nuestro interés legítimo en mostrar reseñas de productos y testimonios de clientes (Art. 6(1)(f) del RGPD).
 
-Al usar la aplicación, es necesario proporcionar un nombre. Recomendamos dar un apodo que pueda ser claramente asignado por todos en el hogar. También es posible transmitir datos sobre tus gastos e ingresos personales.
+### Product Hunt
+Utilizamos el servicio Product Hunt en nuestro sitio web. El proveedor del servicio es Product Hunt, Inc., 90 Gold St, FLR 3, San Francisco, CA 94133, USA.
+El uso de este servicio puede resultar en la transferencia de datos a un tercer país (EE. UU.).
+Puede encontrar más información en la política de privacidad del proveedor en la siguiente URL: https://www.producthunt.com/legal#privacy.
 
-Se procesan en particular para el siguiente propósito:
+### Red de Distribución de Contenidos (CDN)
+Utilizamos una Red de Distribución de Contenidos (CDN) para optimizar el rendimiento y la disponibilidad de nuestro sitio web. Para este propósito, el proveedor de servicios que proporciona esta red procesa su dirección IP y la información sobre cuándo visitó nuestro sitio web. Toda la información adicional sobre el tratamiento de datos por parte de este proveedor de servicios se puede encontrar en su aviso de privacidad.
+Basamos este tratamiento en un interés legítimo (Art. 6(1)(f) del RGPD).
+Nuestro interés legítimo en el uso de una Red de Distribución de Contenidos es poder presentar nuestro sitio web lo más rápida, segura y fiablemente posible.
 
-- Asignación de ingresos y gastos a una persona en el hogar
-- Presentarte una visión general e información sobre tus finanzas personales
-- Compartir datos con miembros de tu hogar
+### CloudFlare
+Utilizamos el servicio CloudFlare en nuestro sitio web. El proveedor del servicio es Cloudflare Germany GmbH, Rosental 7, 80331 München, Alemania.
+El uso de este servicio puede resultar en la transferencia de datos a un tercer país (EE. UU.). El proveedor está certificado bajo el EU-U.S. Data Privacy Framework y, por lo tanto, ofrece un nivel adecuado de protección de datos.
+Puede encontrar más información en la política de privacidad del proveedor en la siguiente URL: https://www.cloudflare.com/privacypolicy/.
 
-##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. b GDPR ya que es necesario para la ejecución de un contrato contigo.
+### Herramientas de Newsletter
+Como parte de nuestro marketing, le ofrecemos la opción de suscribirse a nuestro boletín a través de nuestro sitio web. Para solicitar el boletín, pasa por un proceso de registro durante el cual verificamos que usted es el propietario de la dirección de correo electrónico especificada y que acepta recibir nuestro boletín. Los datos permanecen con nosotros o con el servicio de boletines que hemos encargado durante la duración de su suscripción voluntaria hasta que se dé de baja del boletín. Si se da de baja del boletín, será eliminado de la lista de distribución. Esta lista no se fusiona con otros datos. La baja del boletín no conduce, sin embargo, a la eliminación de datos almacenados para otros fines (por ejemplo, cuentas de clientes).
+El tratamiento solo se realiza si usted consiente este tratamiento de datos (a través de nuestro banner de consentimiento en el sitio web). La base jurídica para este tratamiento es el consentimiento (Art. 6(1)(a) del RGPD). Sin su consentimiento, el tratamiento de datos descrito anteriormente no tendrá lugar. Si revoca su consentimiento (por ejemplo, a través del banner de consentimiento u otras opciones proporcionadas en este sitio web), cesaremos este tratamiento de datos. La legalidad del tratamiento realizado hasta la revocación no se ve afectada.
 
-##### Receptor:
+### Mailerlite
+Utilizamos el servicio Mailerlite en nuestro sitio web. El proveedor del servicio es MailerLite Limited, Ground Floor, 71 Lower Baggot Street, Dublin 2, D02 P593, Irlanda.
+El uso de este servicio puede resultar en la transferencia de datos a un tercer país (EE. UU.). El proveedor está certificado bajo el EU-U.S. Data Privacy Framework y, por lo tanto, ofrece un nivel adecuado de protección de datos.
+Puede encontrar más información en la política de privacidad del proveedor en la siguiente URL: https://www.mailerlite.com/legal/privacy-policy.
 
-Los datos son recibidos por [Firebase, una empresa de Google](https://firebase.google.com), quien trabaja como procesador para la operación y mantenimiento de nuestra aplicación. Visita [la Política de Privacidad de Google](https://policies.google.com/privacy) o [Firebase](https://firebase.google.com/support/privacy) para más información y opciones de objeción.
+### Contacto por Correo Electrónico
+Hemos proporcionado una dirección de correo electrónico en nuestro sitio web de acuerdo con los requisitos legales. Los datos transmitidos a través de este canal son almacenados automáticamente por nosotros para procesar las consultas correspondientes o para contactar a la persona que realiza la consulta. Estos datos no se compartirán con terceros sin su consentimiento.
+Si se pone en contacto con nosotros a través de nuestra dirección de correo electrónico con fines precontractuales o contractuales, el tratamiento de datos personales se basa en la base jurídica del Art. 6(1)(b) del RGPD. Para todos los demás contactos por su parte, el tratamiento de datos personales por nuestra parte se basa en nuestro interés legítimo conforme al Art. 6(1)(f) del RGPD.
 
-##### Duración del almacenamiento:
-Los datos se eliminarán tan pronto como ya no sean necesarios para el propósito de la recopilación. Esto es generalmente el caso cuando eliminas tu cuenta.
+## Tratamiento de Datos Personales en la App (iOS/Android)
 
-##### Provisión requerida o necesaria:
-La provisión de tu nombre y datos financieros es voluntaria, únicamente sobre la base de tu consentimiento. Desafortunadamente, no podemos proporcionar ninguna funcionalidad útil sin estos datos.
+### Provisión de la App
+Al utilizar la app, tratamos información técnica que es necesaria para proporcionar la app y mantenerla funcional. Esto puede incluir: información del dispositivo, versión de la app, hora de uso, dirección IP si corresponde, e identificadores técnicamente necesarios.
+La base jurídica es el Art. 6(1)(b) del RGPD (contrato/relación de uso), en la medida en que el tratamiento sea necesario para el uso de la app; en caso contrario, el Art. 6(1)(f) del RGPD (interés legítimo en seguridad, estabilidad y corrección de errores).
 
-#### Firebase Crashlytics
+### Firebase Authentication
+Al registrarse y utilizar la app, es posible iniciar sesión como invitado o a través de "Iniciar sesión con Apple" (iOS) o "Iniciar sesión con Google" (Android). Dependiendo del método de inicio de sesión elegido, se procesa un identificador técnico de usuario (por ejemplo, Firebase UID) y, si corresponde, una dirección de correo electrónico (para Apple, esto también puede ser una dirección de reenvío proporcionada por Apple, como "Ocultar mi correo electrónico").
 
-##### Tipo y propósito del procesamiento:
+Los datos se procesan en particular para los siguientes fines:
 
-En el caso de un fallo de la aplicación, se recopilarán datos. Esto puede incluir:
+- Identificación única de una cuenta de usuario,
+- Inicio de sesión y gestión de la cuenta,
+- Restauración del acceso (por ejemplo, después del cierre de sesión, cambio de dispositivo o reinstalación).
 
-- UUIDs de Instalación de Crashlytics
-- Rastros de fallos
-- Datos formateados de volcado mínimo Breakpad
+El tratamiento se realiza de conformidad con el Art. 6(1)(b) del RGPD, ya que es necesario para el cumplimiento de la relación de uso.
 
-Se procesan en particular para el siguiente propósito:
+Los datos son procesados por Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irlanda), que actúa como encargado del tratamiento para la operación y mantenimiento de la autenticación. El uso de este servicio puede resultar en la transferencia de datos a un tercer país (EE. UU.). El proveedor está certificado bajo el EU-U.S. Data Privacy Framework y, por lo tanto, ofrece un nivel adecuado de protección de datos.
 
-- Depurar fallos de la aplicación
-- Accesibilidad confiable y garantía de todas las funcionalidades de la aplicación
+Los datos de autenticación generalmente se almacenan hasta la eliminación de la cuenta y luego se eliminan con un retardo temporal como parte de rutinas técnicas.
 
-##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. f GDPR basado en nuestro interés legítimo en mejorar la funcionalidad de nuestra aplicación.
+La provisión es necesaria para el uso de las funciones de la app. Sin autenticación, la app no puede utilizarse o solo puede utilizarse de forma limitada.
 
-##### Receptor:
+### Firebase Realtime Database
+Al utilizar la app, el contenido que introduce se almacena en Firebase Realtime Database. Esto incluye en particular:
 
-Los datos son recibidos por [Firebase, una empresa de Google](https://firebase.google.com), quien trabaja como procesador para la operación y mantenimiento de nuestra aplicación. Visita [la Política de Privacidad de Google](https://policies.google.com/privacy) o [Firebase](https://firebase.google.com/support/privacy) para más información y opciones de objeción.
+- Importes, estado "liquidado/no liquidado", fecha, categorías, intervalos para transacciones recurrentes,
+- Descripciones (campo de texto libre),
+- Persona (generalmente un apodo; también se puede introducir un nombre real),
+- Nombres de cuentas, moneda de la cuenta, zona horaria.
 
-##### Duración del almacenamiento:
-Los datos se eliminan dentro de 90 días.
+Los datos se procesan en particular para los siguientes fines:
 
-##### Provisión requerida o necesaria:
-La provisión de los datos antes mencionados no es legalmente ni contractualmente requerida. Sin los datos, sin embargo, el servicio y la funcionalidad de nuestra aplicación no está garantizada.
+- Asignación de ingresos y gastos a personas/perfiles,
+- Visualización de resúmenes y evaluaciones,
+- Sincronización y uso de datos en la respectiva cuenta/hogar (si se utilizan estas funciones).
 
-#### Brevo
+El tratamiento se realiza de conformidad con el Art. 6(1)(b) del RGPD, ya que es necesario para el cumplimiento de la relación de uso.
 
-##### Tipo y propósito del procesamiento:
+Los datos son procesados por Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irlanda), que actúa como encargado del tratamiento para la operación y mantenimiento de la base de datos. El uso de este servicio puede resultar en la transferencia de datos a un tercer país (EE. UU.). El proveedor está certificado bajo el EU-U.S. Data Privacy Framework y, por lo tanto, ofrece un nivel adecuado de protección de datos.
 
-Al usar la app, puedes iniciar sesión con Google o Apple. Usamos la dirección de correo asociada para enviarte un correo de aviso si tu cuenta está programada para eliminación.
+La ubicación de almacenamiento seleccionada es europe-west1.
 
-Estos datos se procesan únicamente para:
+Los datos se eliminarán tan pronto como ya no sean necesarios para lograr el propósito para el que fueron recopilados. Esto es particularmente el caso:
 
-- Informarte con suficiente antelación sobre la eliminación prevista de tu cuenta tras un período prolongado de inactividad y darte la posibilidad de responder. Para ello se procesan tu dirección de correo electrónico, tu nombre de usuario y la fecha prevista de eliminación de la cuenta.
+- cuando elimine su cuenta, o
+- cuando un perfil haya estado inactivo durante 12 meses (eliminación por inactividad).
 
-##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. b GDPR ya que es necesario para la ejecución de un contrato contigo.
+Sin el almacenamiento de este contenido, no podemos proporcionar las funciones esenciales de la app (registro, resumen, evaluación).
 
-##### Receptor:
-Los datos son recibidos por [Brevo](https://www.brevo.com/es/) (antes Sendinblue), un proveedor de servicios de correo electrónico que actúa como encargado del tratamiento para enviar estos correos de aviso. Consulta la [Política de Privacidad de Brevo](https://www.brevo.com/es/legal/privacypolicy/) para más información y opciones de oposición.
+### Firebase Crashlytics
+En caso de un fallo de la app, se procesan datos de diagnóstico. Esto puede incluir:
 
-##### Duración del almacenamiento:
-Los registros de envío de correos se eliminan después de un mes.
+- Identificadores de instalación de Crashlytics,
+- Registros de fallos y errores (por ejemplo, crash traces / datos de minidump),
+- Información técnica del dispositivo y la app,
+- Firebase UID (si está vinculado técnicamente).
 
-##### Provisión requerida o necesaria:
-Proporcionar estos datos personales no es un requisito legal ni contractual. Sin una dirección de correo electrónico no podemos enviarte un aviso previo sobre la eliminación planificada de tu cuenta.
+Los datos se procesan en particular para los siguientes fines:
 
-### Web
+- Depuración de fallos de la app,
+- Mejora de la estabilidad y funcionalidad de la app.
 
-#### Vercel
+El tratamiento se realiza de conformidad con el Art. 6(1)(f) del RGPD, basado en nuestro interés legítimo en una app segura y estable.
 
-##### Tipo y propósito del procesamiento:
-Si accedes a este sitio web, es decir, si no te registras o proporcionas información de otra manera, se recopila automáticamente información de naturaleza general. Esta información (archivos de registro del servidor) incluye, por ejemplo, el tipo de navegador web, el sistema operativo utilizado, el nombre de dominio de tu proveedor de servicios de Internet, tu dirección IP y similares.
+Los datos son procesados por Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irlanda), que actúa como encargado del tratamiento para la operación y mantenimiento. El uso de este servicio puede resultar en la transferencia de datos a un tercer país (EE. UU.). El proveedor está certificado bajo el EU-U.S. Data Privacy Framework y, por lo tanto, ofrece un nivel adecuado de protección de datos.
 
-Se procesan en particular para los siguientes propósitos:
+Los datos de Crashlytics se almacenan durante un período limitado y luego se eliminan (regularmente dentro de 90 días, dependiendo de la configuración).
 
-- Asegurar una conexión sin problemas al sitio web,
-- Asegurar el uso fluido de este sitio web,
-- Evaluación de la seguridad y estabilidad del sistema así como
-para otros propósitos administrativos.
-- No utilizamos tus datos para sacar conclusiones sobre ti personalmente. La información de este tipo puede ser evaluada estadísticamente por nosotros para optimizar este sitio web y la tecnología detrás de él.
+Sin estos datos, el análisis de errores y la mejora de la estabilidad son limitados.
 
-##### Base legal:
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. b GDPR ya que es necesario para la ejecución de un contrato contigo.
+### Brevo (Notificación por Correo Electrónico antes de la Eliminación de la Cuenta)
+Si una dirección de correo electrónico está asociada a su cuenta (por ejemplo, a través del inicio de sesión con Apple/Google), la utilizamos para enviarle una notificación por correo electrónico en caso de una próxima eliminación de cuenta debido a inactividad prolongada.
 
-##### Receptor:
-Los datos son recibidos por [Vercel](https://vercel.com/blog/what-is-vercel) quien trabaja como procesador para la operación y mantenimiento de este sitio web. Visita [las Prácticas de Privacidad Globales de Vercel](https://vercel.com/legal/privacy-policy) para más información y opciones de objeción.
+Para este propósito, procesamos:
 
-##### Duración del almacenamiento:
-Los datos se eliminarán tan pronto como ya no sean necesarios para el propósito de la recopilación. Esto es generalmente el caso para los datos utilizados para proporcionar el sitio web cuando la sesión respectiva ha terminado.
+- Dirección de correo electrónico,
+- Apodo/nombre de usuario,
+- Fecha de eliminación prevista,
+- Zona horaria (por ejemplo, Europe/Berlin) para la localización del correo electrónico.
 
-##### Provisión requerida o necesaria:
-La provisión de los datos personales antes mencionados no es legalmente ni contractualmente requerida. Sin la dirección IP, sin embargo, el servicio y la funcionalidad de este sitio web no está garantizada. Además, servicios individuales y servicios pueden no estar disponibles o restringidos. Por esta razón, una objeción está excluida.
+El tratamiento se realiza de conformidad con el Art. 6(1)(b) del RGPD, ya que es necesario para el cumplimiento de la relación de uso (gestión de cuenta/comunicación).
 
-#### PostHog Analytics
+Los datos son procesados por Brevo (Sendinblue SAS, 17 rue de Salneuve, 75017 París, Francia) como encargado del tratamiento, que realiza el envío de correos electrónicos de notificación en nuestro nombre.
 
-##### Ámbito del tratamiento de datos
-Utilizamos PostHog en nuestro sitio web. PostHog es una herramienta de analítica de código abierto de PostHog Inc. que nos permite recopilar y analizar datos sobre el uso de nuestro sitio por parte de los visitantes. Estos datos se utilizan para mejorar nuestro sitio web y garantizar una mejor experiencia de usuario.
+### RevenueCat (Proveedor de Servicios de Pago)
+Integramos el servicio de pago RevenueCat en nuestra app. El proveedor de este servicio es RevenueCat.com, 631-633 Taraval St #101, San Francisco, Estados Unidos.
 
-Cuando visita nuestro sitio, PostHog recopila información como las páginas que visita, el tiempo que pasa en ellas, el sitio web de procedencia, el tipo de dispositivo, el navegador y el sistema operativo que utiliza, así como diversos datos de interacción. Estos datos se almacenan en servidores de PostHog Inc. en los Estados Unidos.
+Cuando realiza una compra con nosotros, sus datos de pago (por ejemplo, nombre, importe del pago, datos de la cuenta, número de tarjeta de crédito) se transmiten a RevenueCat y son procesados por ellos con el fin de procesar el pago. Los respectivos términos y condiciones y políticas de privacidad de RevenueCat se aplican a este tratamiento. Los detalles se pueden encontrar en la política de privacidad de RevenueCat en el siguiente enlace: https://www.revenuecat.com/privacy/.
 
-##### Base jurídica para el tratamiento de datos
-La base jurídica para el tratamiento de los datos de los usuarios es el art. 6, apdo. 1, letra b), del RGPD ya que es necesario para la ejecución de un contrato contigo.
-
-##### Finalidad del tratamiento de los datos
-PostHog se utiliza con el fin de analizar el uso de nuestro sitio web y mejorar continuamente funciones y ofertas concretas. La evaluación estadística del comportamiento de los usuarios nos permite mejorar nuestra oferta y hacerla más interesante para usted.
-
-##### Duración del almacenamiento
-Los datos se suprimirán en cuanto dejen de ser necesarios para los fines de su recogida. En nuestro caso, a los 14 meses.
-
-##### Oposición y opciones de eliminación
-Puede impedir la recopilación y el uso de sus datos por parte de PostHog configurando una cookie de exclusión (opt-out) que evite el almacenamiento de sus datos en futuras visitas a este sitio.
-
-Puede impedir la recopilación de los datos generados por la cookie y relacionados con su uso del sitio (incluida su dirección IP) y el tratamiento de dichos datos por PostHog siguiendo las instrucciones del siguiente sitio web: [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
-
-Tenga en cuenta que, si se eliminan las cookies en la configuración del navegador, la cookie de exclusión también puede eliminarse y puede que deba activarla de nuevo.
-
-#### MailerLite
-
-##### Tipo y propósito del procesamiento:
-
-Si te suscribes a nuestro boletín o actualizaciones por correo electrónico a través de nuestro sitio web, recopilaremos tu dirección de correo electrónico (y cualquier información que proporciones para este propósito) a través de un formulario de registro operado por MailerLite. Estos datos se utilizan exclusivamente para gestionar tu suscripción y enviarte el boletín o actualizaciones que has solicitado. Se procesan en particular para el siguiente propósito:
-
-Enviarte correos electrónicos periódicos del boletín sobre actualizaciones del producto, ofertas o noticias relevantes a las que te has suscrito para recibir, y gestionar tus preferencias de suscripción (como honrar las solicitudes de cancelación de suscripción).
-
-##### Base legal:
-
-El procesamiento se lleva a cabo de acuerdo con el Art. 6 Para. 1 lit. a GDPR, basado en tu consentimiento para recibir nuestro boletín. (En otras palabras, solo recopilaremos y usaremos tu correo electrónico para este propósito si te has suscrito activamente. Puedes retirar tu consentimiento en cualquier momento cancelando la suscripción al boletín.)
-
-##### Receptor:
-
-Los datos son recibidos por MailerLite, un proveedor de servicios de marketing por correo electrónico, quien actúa como procesador en nuestro nombre para gestionar las suscripciones al boletín y distribuir correos electrónicos. MailerLite almacena tu dirección de correo electrónico en sus servidores seguros. Estos servidores pueden estar ubicados fuera del Área Económica Europea (por ejemplo, en los Estados Unidos), pero MailerLite asegura que cualquier transferencia de datos personales fuera del EEE esté protegida por salvaguardas apropiadas en cumplimiento con las leyes de protección de datos de la UE, por ejemplo, a través del uso de Cláusulas Contractuales Estándar (SCCs) de la UE. Visita [la Política de Privacidad de MailerLite](https://www.mailerlite.com/legal/privacy-policy) para más información sobre cómo MailerLite procesa y protege los datos personales.
-
-##### Duración del almacenamiento:
-
-Retendremos tu dirección de correo electrónico solo mientras permanezcas suscrito a nuestro boletín. Puedes cancelar la suscripción en cualquier momento utilizando el enlace de cancelación de suscripción proporcionado en cada correo electrónico o contactándonos directamente. Si cancelas la suscripción o solicitas la eliminación de tus datos, tu dirección de correo electrónico será eliminada prontamente de nuestra lista de correo y eliminada del sistema de MailerLite. Del mismo modo, si discontinuamos nuestro servicio de boletín, eliminaremos todos los datos de suscripción de correo electrónico asociados.
-
-##### Provisión requerida o necesaria:
-
-La provisión de tu dirección de correo electrónico para el servicio de boletín es completamente voluntaria y no es legalmente ni contractualmente requerida. Elegir no suscribirse (o posteriormente cancelar la suscripción) simplemente significa que no recibirás nuestros correos electrónicos del boletín, pero no afectará tu capacidad de usar cualquier otra característica de nuestro Servicio. Tu decisión de proporcionar o retener un correo electrónico para este propósito no impacta tu uso de la aplicación o sitio web de Monee de ninguna otra manera. Esta adición se alinea con nuestro compromiso con la transparencia y el cumplimiento del GDPR, asegurando que estés informado sobre cómo manejamos tu dirección de correo electrónico para propósitos del boletín.
-
-## Seguridad
-
-Valoramos tu confianza al proporcionarnos tu Información Personal, por lo tanto, nos esforzamos por usar medios comercialmente aceptables para protegerla. Pero recuerda que ningún método de transmisión por internet, o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta.
-
-## Enlaces a Otros Sitios
-
-Esta política es efectiva a partir del 14 de mayo de 2022.
+El uso se basa en el Art. 6(1)(b) del RGPD (ejecución del contrato) y en el interés de un proceso de pago fluido, cómodo y seguro (Art. 6(1)(f) del RGPD). La transferencia de datos a EE. UU. se basa en las Cláusulas Contractuales Tipo de la Comisión Europea. Los detalles se pueden encontrar aquí: https://www.revenuecat.com/dpa/.

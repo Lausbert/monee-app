@@ -30,11 +30,19 @@ global:
     badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee ist jetzt live auf Product Hunt"
+  eu_store_notice:
+    title: "Wichtige Info zur Verfügbarkeit in der EU"
+    greeting: "Hallo zusammen,"
+    message_1: "Ich habe meine Angaben bei Apple aktualisiert."
+    message_2: "Während Apple diese prüft, hat Apple Monee vorübergehend aus den App Stores in der EU entfernt."
+    message_3: "Monee sollte in den nächsten Tagen wieder verfügbar sein. Danke an alle, die Monee danach mit einer positiven Bewertung unterstützen, um Verluste im Ranking auszugleichen."
+    signature: "Liebe Grüße, Stephan"
+    image_alt: "Stephan Lerner"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Globale Bewertung: 4.9 / 5.0"
-    count: "Basierend auf über 10.000 Bewertungen"
-    downloads: "Über 200.000 Downloads weltweit"
+    count: "Basierend auf über 15.000 Bewertungen"
+    downloads: "Über 350.000 Downloads weltweit"
   reviews:
     - title: Tolle App !!
       body: "Mal davon abgesehen, dass ein Haushaltsbuch eine super nützliche und wichtige Sache ist, ist dem Entwickler mit Monee meiner Meinung nach der ganz große Wurf gelungen! Übersichtlich gestaltet, intuitiv und einfach zu bedienen, alle notwendigen Funktionen vorhanden und natürlich fehlt auch eine Auswertung der Einnahmen und Ausgaben nicht. Ich brauch keine andere App mehr… und das Ganze völlig kostenlos und ohne Werbung. Respekt und vielen Dank an den Entwickler!!!"

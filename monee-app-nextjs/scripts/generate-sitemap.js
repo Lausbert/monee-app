@@ -249,8 +249,8 @@ function getBlogPosts(language) {
         }
       }
       
-      // Determine lastmod: prefer modified, then date, from shared meta first, then frontmatter
-      const rawLastmod = sharedMeta.modified || sharedMeta.date || data.modified || data.date;
+      // Prefer a refresh date (shared or locale-specific) over the original publication date.
+      const rawLastmod = sharedMeta.modified || data.modified || sharedMeta.date || data.date;
       const lastmod = rawLastmod ? new Date(rawLastmod).toISOString().split('T')[0] : new Date().toISOString().split('T')[0];
 
       return {

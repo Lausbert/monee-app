@@ -1,0 +1,4 @@
+# Ignore everything in the directory
+*
+# But keep the tool itself from failing on its own config if needed
+!/.gemini/

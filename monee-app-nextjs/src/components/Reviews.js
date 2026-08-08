@@ -30,6 +30,7 @@ const Reviews = ({ translations: translationsProp, reviews: reviewsProp } = {}) 
     return Math.ceil(reviews.length / visibleCards);
   }, [reviews, visibleCards]);
 
+  const activeSlide = Math.min(currentSlide, Math.max(totalSlides - 1, 0));
   const isMobile = visibleCards === 1;
 
   useEffect(() => {
@@ -56,10 +57,6 @@ const Reviews = ({ translations: translationsProp, reviews: reviewsProp } = {}) 
     window.addEventListener('resize', updateSizing);
     return () => window.removeEventListener('resize', updateSizing);
   }, []);
-
-  useEffect(() => {
-    setCurrentSlide((prev) => Math.min(prev, totalSlides > 0 ? totalSlides - 1 : 0));
-  }, [totalSlides]);
 
   const goToSlide = (index) => {
     if (totalSlides <= 0) return;
@@ -102,7 +99,7 @@ const Reviews = ({ translations: translationsProp, reviews: reviewsProp } = {}) 
   const carouselStyle = isMobile
     ? undefined
     : {
-        transform: `translateX(-${currentSlide * visibleCards * (cardWidth + gapSize)}px)`,
+        transform: `translateX(-${activeSlide * visibleCards * (cardWidth + gapSize)}px)`,
         display: 'flex',
         gap: `${gapSize}px`,
         transition: 'transform 0.5s ease-in-out',
@@ -133,9 +130,9 @@ const Reviews = ({ translations: translationsProp, reviews: reviewsProp } = {}) 
           <button 
             className="reviewsNavPrev" 
             aria-label={t('reviews.previous') || "Previous"} 
-            onClick={() => goToSlide(currentSlide - 1)} 
-            disabled={currentSlide === 0}
-            style={{ opacity: currentSlide === 0 ? '0.5' : '1' }}
+            onClick={() => goToSlide(activeSlide - 1)}
+            disabled={activeSlide === 0}
+            style={{ opacity: activeSlide === 0 ? '0.5' : '1' }}
           >
             &lsaquo;
           </button>
@@ -143,7 +140,7 @@ const Reviews = ({ translations: translationsProp, reviews: reviewsProp } = {}) 
             {Array.from({ length: totalSlides }).map((_, i) => (
               <div 
                 key={i} 
-                className={`reviewsNavDot ${i === currentSlide ? 'active' : ''}`} 
+                className={`reviewsNavDot ${i === activeSlide ? 'active' : ''}`}
                 onClick={() => goToSlide(i)}
               />
             ))}
@@ -151,9 +148,9 @@ const Reviews = ({ translations: translationsProp, reviews: reviewsProp } = {}) 
           <button 
             className="reviewsNavNext" 
             aria-label={t('reviews.next') || "Next"} 
-            onClick={() => goToSlide(currentSlide + 1)} 
-            disabled={currentSlide === totalSlides - 1}
-            style={{ opacity: currentSlide === totalSlides - 1 ? '0.5' : '1' }}
+            onClick={() => goToSlide(activeSlide + 1)}
+            disabled={activeSlide === totalSlides - 1}
+            style={{ opacity: activeSlide === totalSlides - 1 ? '0.5' : '1' }}
           >
             &rsaquo;
           </button>

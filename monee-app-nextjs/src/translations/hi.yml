@@ -30,6 +30,14 @@ global:
     badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee अब Product Hunt पर लाइव है"
+  eu_store_notice:
+    title: "EU उपयोगकर्ताओं के लिए महत्वपूर्ण सूचना"
+    greeting: "नमस्ते सभी को,"
+    message_1: "मैंने Apple में अपनी जानकारी अपडेट की है।"
+    message_2: "जब तक Apple इसकी जांच कर रहा है, Monee को EU में App Stores से अस्थायी रूप से हटा दिया गया है।"
+    message_3: "संभावना है कि Monee अगले कुछ दिनों में फिर उपलब्ध हो जाएगी। रैंकिंग के नुकसान को कम करने के लिए बाद में सकारात्मक रेटिंग देकर Monee का समर्थन करने वालों का धन्यवाद।"
+    signature: "सादर, Stephan"
+    image_alt: "Stephan Lerner"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "वैश्विक रेटिंग: 4.9 / 5.0"

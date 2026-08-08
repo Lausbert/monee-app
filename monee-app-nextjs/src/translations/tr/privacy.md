@@ -1,217 +1,219 @@
-**Son güncelleme**
-1 Şubat 2026
+**Son güncelleme**\
+16\. Şubat 2026
 
-# Gizlilik Politikası
+# GDPR Madde 13 Uyarınca Gizlilik Bildirimi
 
-Monee, Monee uygulamasını Freemium bir uygulama olarak geliştirdi. Bu HİZMET Monee tarafından ücretsiz olarak sunulur ve olduğu gibi kullanıma yöneliktir.
+## Veri İşleme Hakkında Genel Bilgiler
 
-Bu sayfa, Hizmetimizi kullanmaya karar veren ziyaretçileri, kişisel verilerin toplanması, kullanımı ve paylaşımıyla ilgili politikalarımız hakkında bilgilendirmek amacıyla hazırlanmıştır.
+### Veri Sorumlusunun Adı ve Adresi
+Genel Veri Koruma Tüzüğü (GDPR) ve diğer veri koruma düzenlemeleri kapsamında veri sorumlusu:\
+Stephan Lerner\
+Oldesloer Weg 9\
+21614 Buxtehude
 
-Hizmetimizi kullanmayı seçersen, bu politika doğrultusunda bilgilerin toplanmasını ve kullanılmasını kabul etmiş olursun. Topladığımız kişisel veriler, Hizmeti sunmak ve iyileştirmek için kullanılır. Bu Gizlilik Politikası'nda aksi belirtilmedikçe bilgilerini kimseyle paylaşmayız veya kullanmayız.
+E-posta: info@monee-app.com
 
-Veri koruma kanunları, özellikle de AB Genel Veri Koruma Tüzüğü (GDPR) kapsamında sorumlu kişi:
+### Kişisel Verilerin İşlenmesinin Hukuki Dayanağı
 
-Stephan Lerner
+GDPR Madde 13 uyarınca, veri işleme faaliyetlerimizin hukuki dayanaklarını sizlere bildiriyoruz. Hukuki dayanak bu gizlilik bildiriminde özellikle belirtilmedikçe, aşağıdakiler geçerlidir:
+Rıza almak için hukuki dayanak, GDPR Madde 6(1)(a) ile Madde 7'nin birlikte uygulanmasıdır. Hizmetlerimizi yerine getirmek ve sözleşmeye dayalı önlemleri uygulamak ile talepleri yanıtlamak amacıyla işlemenin hukuki dayanağı GDPR Madde 6(1)(b)'dir. Yasal yükümlülüklerimizi yerine getirmek amacıyla işlemenin hukuki dayanağı GDPR Madde 6(1)(c)'dir. Verilerinizin işlenmesinin şirketimizin veya bir üçüncü tarafın meşru menfaatini korumak için gerekli olması ve ilgili kişinin çıkarlarının, temel haklarının ve özgürlüklerinin söz konusu menfaate üstün gelmemesi halinde, GDPR Madde 6(1)(f) işleme için hukuki dayanak teşkil eder. İlgili kişinin veya başka bir gerçek kişinin hayati çıkarlarının kişisel verilerin işlenmesini gerektirmesi halinde, GDPR Madde 6(1)(d) hukuki dayanak teşkil eder.
 
-Gizlilik Politikamızla ilgili soruların veya önerilerin varsa lütfen <{{ site.email_address }}> adresinden bizimle iletişime geç.
+### Verilerin Silinmesi ve Saklama Süresi
 
-## Hakların
+GDPR Madde 5(1)(c) uyarınca veri minimizasyonu ve GDPR Madde 5(1)(e) uyarınca saklama sınırlaması ilkelerine uyuyoruz. Kişisel verilerinizi yalnızca burada belirtilen amaçlara ulaşmak için gerekli olduğu sürece veya yasanın öngördüğü saklama süreleri kadar saklıyoruz. İlgili amacın ortadan kalkmasından veya bu saklama sürelerinin dolmasından sonra, ilgili veriler en kısa sürede silinecektir.
 
-Aşağıdaki haklarını yukarıdaki iletişim bilgilerini kullanarak istediğin zaman kullanabilirsin:
+### Üçüncü Ülkelere Veri Aktarımı Hakkında Bilgi
+Web sitemiz ayrıca üçüncü ülkelerde bulunan şirketlerin araçlarını entegre etmektedir. Bu araçlar aktif olduğunda, kişisel verileriniz ilgili şirketlerin sunucularına iletilebilir. Üçüncü ülkelerdeki veri koruma düzeyi genellikle AB veri koruma hukukuna uygun değildir. Bu, verilerinizin bu ülkelerin makamlarına ifşa edilme riski olduğu anlamına gelir. Bu işleme faaliyetleri üzerinde herhangi bir etkimiz yoktur.
 
-- Sakladığımız verilerin ve işlenme biçimlerinin bilgisi (GDPR Madde 15),
-- Yanlış kişisel verilerin düzeltilmesi (GDPR Madde 16),
-- Bizde tutulan verilerin silinmesi (GDPR Madde 17),
-- Veriyi hukuki nedenle silemediğimiz durumlarda işlemenin kısıtlanması (GDPR Madde 18),
-- Verilerinin işlenmesine itiraz (GDPR Madde 21) ve
-- Verilerini başka bir hizmet sağlayıcıya aktarma hakkı (GDPR Madde 20).
+### Dış Bağlantılar
+Bu web sitesi, üçüncü taraf web sitelerine veya sorumluluğumuz altındaki diğer web sitelerine bağlantılar içerebilir. Sorumluluğumuz dışındaki bir web sitesine bir bağlantıyı takip ederseniz, lütfen bu web sitelerinin kendi gizlilik politikalarına sahip olduğunu unutmayın. Bu harici web siteleri ve gizlilik bildirimleri için herhangi bir sorumluluk kabul etmiyoruz. Bu nedenle, bu web sitelerini kullanmadan önce gizlilik politikalarını kabul edip etmediğinizi kontrol edin.
+Harici bağlantıları, metnin geri kalanından biraz farklı bir renkte görüntülenmeleri veya altı çizili olmalarıyla tanıyabilirsiniz. İmlecinizi böyle bir bağlantının üzerine getirdiğinizde harici bağlantıları gösterecektir. Yalnızca bir harici bağlantıya tıkladığınızda kişisel verileriniz bağlantı hedefine aktarılacaktır. Diğer web sitesinin işletmecisi, özellikle IP adresinizi, bağlantıya tıkladığınız zamanı, bağlantıya tıkladığınız sayfayı ve ilgili sağlayıcının gizlilik bildirimlerinde bulabileceğiniz diğer bilgileri alacaktır.
+Lütfen bazı bağlantıların Avrupa Ekonomik Alanı dışına veri aktarımına yol açabileceğini de unutmayın. Bu, yabancı makamların verilerinize erişmesine olanak sağlayabilir. Bu tür veri erişimine karşı yasal yollarınız olmayabilir. Kişisel verilerinizin bağlantı hedefine aktarılmasını veya yabancı makamların erişimine maruz kalmasını istemiyorsanız, lütfen hiçbir bağlantıya tıklamayın.
 
-Bize verdiğin bir rızayı istediğin zaman geri çekebilirsin.
+### İlgili Kişinin Hakları
 
-Şikâyetlerini istediğin zaman bir denetim makamına iletebilirsin; örneğin ikamet ettiğin federal eyaletteki yetkili kuruma veya bizim sorumluluğumuzdaki kuruma başvurabilirsin.
+GDPR kapsamında ilgili kişi olarak çeşitli hakları kullanma hakkına sahipsiniz. GDPR'den kaynaklanan ilgili kişi hakları şunlardır: erişim hakkı (Madde 15), düzeltme hakkı (Madde 16), silme hakkı (Madde 17), işlemenin kısıtlanması hakkı (Madde 18), itiraz hakkı (Madde 21), bir denetim makamına şikayette bulunma hakkı ve veri taşınabilirliği hakkı (Madde 20).
 
-Yetkili kurumların adres listesine [buradan](https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html) ulaşabilirsin.
+### Geri Çekme Hakkı:
+Bazı veri işleme faaliyetleri yalnızca açık rızanızla gerçekleştirilebilir. Rızanızı istediğiniz zaman geri çekme hakkınız vardır. Ancak, geri çekmeye kadar gerçekleştirilen veri işlemenin hukuka uygunluğu bundan etkilenmez.
 
-## İletişim verileri
+### İtiraz Hakkı:
 
-Bize e-posta ile ulaşırsan, talebini işlemek ve yanıtlayabilmek için verdiğin bilgileri saklarız.
+İşleme GDPR Madde 6(1)(e) veya (f)'ye dayanıyorsa, ilgili kişi olarak, özel durumunuzla ilgili nedenlerle, kişisel verilerinizin işlenmesine istediğiniz zaman itiraz edebilirsiniz. Bu hak, GDPR Madde 4(4) kapsamında bu hükümlere dayanan profil oluşturma için de geçerlidir. Çıkarlarınıza, haklarınıza ve özgürlüklerinize üstün gelen zorlayıcı meşru gerekçeler gösteremediğimiz veya işleme yasal taleplerin tesisi, kullanılması veya savunulmasına hizmet etmediği sürece, bir itirazın ardından verilerinizi işlemeyi durduracağız.
+Kişisel verilerin işlenmesi doğrudan pazarlama amacıyla gerçekleştiriliyorsa, istediğiniz zaman itiraz etme hakkınız da vardır. Aynı durum doğrudan pazarlamayla bağlantılı profil oluşturma için de geçerlidir. Bu durumda da, itirazınızı sunduğunuz anda kişisel verileri işlemeyi durduracağız.
 
-## Bilgi toplama ve kullanım
 
-Uygulama ve web sitemiz, seni tanımlayabilecek bilgileri toplayabilecek üçüncü taraf hizmetleri kullanır.
+### Bir Denetim Makamına Şikayette Bulunma Hakkı:
 
-### Uygulama
+Kişisel verilerinizin işlenmesinin GDPR'yi ihlal ettiğini düşünüyorsanız, başka herhangi bir idari veya yargısal çözüm yoluna başvurma hakkınız saklı kalmak kaydıyla, özellikle mutat ikametgahınızın, işyerinizin veya iddia edilen ihlalin gerçekleştiği yerin bulunduğu Üye Devletteki bir denetim makamına şikayette bulunma hakkınız vardır.
 
-#### Firebase Authentication
+### Veri Taşınabilirliği Hakkı:
+Verileriniz rıza veya bir sözleşmenin ifası temelinde otomatik olarak işleniyorsa, bu verileri yapılandırılmış, yaygın olarak kullanılan ve makine tarafından okunabilir bir biçimde alma hakkınız vardır. Ayrıca, teknik olarak mümkün olduğu ölçüde, verilerin başka bir veri sorumlusuna aktarılmasını ve sağlanmasını talep etme hakkınız vardır.
 
-**İşlenen veriler ve amaç:**
+### Erişim, Düzeltme ve Silme Hakkı:
+İşlenen kişisel verileriniz hakkında, veri işlemenin amacı, kategorileri, alıcıları ve saklama süresi ile ilgili bilgi edinme hakkınız vardır. Bu konuyla ilgili veya kişisel verilerle ilgili başka sorularınız varsa, künye bölümünde verilen iletişim bilgilerini kullanarak bize ulaşabilirsiniz.
 
-Uygulamaya kayıt olurken e-posta adresi iletebilirsin. Gerçek adresini gizlemek istersen Apple'ın "E-postamı gizle" özelliğini kullanmanı öneririz. Bu veriler, kullanıcıyı tekil olarak tanımak ve çıkış, cihaz değişimi veya yeniden kurulum durumlarında verilerini geri yüklemek için kullanılır.
+### İşlemenin Kısıtlanması Hakkı:
+Kişisel verilerinizin işlenmesinin kısıtlanmasını istediğiniz zaman talep edebilirsiniz. Bunu yapmak için aşağıdaki koşullardan birini karşılamanız gerekir:
 
-**Hukuki dayanak:**
+- Kişisel verilerin doğruluğuna itiraz ediyorsunuz. Doğruluğun doğrulanması süresince, işlemenin kısıtlanmasını talep etme hakkınız vardır.
+- İşleme hukuka aykırı ise, silme yerine verilerin kullanımının kısıtlanmasını talep edebilirsiniz.
+- İşleme amaçları için kişisel verilerinize artık ihtiyacımız yoksa, ancak yasal taleplerin tesisi, kullanılması veya savunulması için verilere ihtiyacınız varsa, silme yerine işlemenin kısıtlanmasını talep edebilirsiniz.
+- GDPR Madde 21(1) uyarınca işlemeye itiraz ettiyseniz, sizin ve bizim çıkarlarımız arasında bir dengeleme yapılacaktır. Bu dengeleme tamamlanana kadar, işlemenin kısıtlanmasını talep etme hakkınız vardır.
 
-İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
+İşlemenin kısıtlanması, kişisel verilerin saklama dışında yalnızca sizin rızanızla veya yasal taleplerin tesisi, kullanılması veya savunulması için, veya başka bir gerçek veya tüzel kişinin haklarının korunması için, veya Birliğin veya bir Üye Devletin önemli kamu yararı nedenleriyle işlenebileceği anlamına gelir.
+## Web Sitesinde Kişisel Verilerin İşlenmesi
 
-**Alıcı:**
+### Web Sitesi Barındırma (Web Host)
+Web sitemiz şu şirket tarafından barındırılmaktadır:
+Vercel Inc.
+440 N Barranca Ave #4133, Covina, CA 91723
+USA
 
-Veriler, uygulamanın işletimi ve bakımı için veri işleyen olarak çalışan [Firebase (Google)](https://firebase.google.com) tarafından alınır. Google'ın [Gizlilik Politikası](https://policies.google.com/privacy) ve [Firebase gizlilik sayfasını](https://firebase.google.com/support/privacy) inceleyebilirsin.
+Web sitemizi ziyaret ettiğinizde, sunucu günlük dosyaları adı verilen dosyalarda otomatik olarak bilgi toplar ve saklarız. Tarayıcınız bu bilgileri otomatik olarak sunucumuza veya barındırma sağlayıcımızın sunucusuna iletir.
+Bunlar şunları içerir:
 
-**Saklama süresi:**
+- Ziyaretçinin cihazının IP adresi
+- Kullanılan cihaz
+- Erişen bilgisayarın ana bilgisayar adı
+- Ziyaretçinin işletim sistemi
+- Tarayıcı türü ve sürümü
+- Erişilen dosyanın adı
+- Sunucu isteğinin zamanı
+- Veri miktarı
+- Veri alımının başarılı olup olmadığına dair bilgi
 
-Kimlik doğrulama bilgileri, hesabını silene kadar saklanır; ardından 180 gün içinde kaldırılır.
+Bu veriler diğer veri kaynaklarıyla birleştirilmez.
+Bu web sitesini kendi sunucumuzda çalıştırmak yerine, yukarıda adını verdiğimiz harici bir hizmet sağlayıcının (barındırma şirketi) sunucusunda çalıştırabiliriz. Bu web sitesi tarafından toplanan kişisel veriler, barındırma şirketinin sunucularında saklanır. Yukarıda belirtilen verilere ek olarak, web barındırıcı örneğin iletişim talepleri, iletişim verileri, isimler, web sitesi erişim verileri, meta ve iletişim verileri, sözleşme verileri ve bir web sitesi aracılığıyla üretilen diğer verileri saklar.
+Bu verilerin işlenmesinin hukuki dayanağı GDPR Madde 6(1)(f)'dir. Meşru menfaatimiz, bu web sitesinin teknik olarak hatasız sunumu ve optimizasyonudur. Web sitesine sözleşme müzakerelerine girmek veya bir sözleşme akdetmek amacıyla erişilmesi halinde, ek hukuki dayanak GDPR Madde 6(1)(b)'dir. Bir barındırma şirketi görevlendirmemiz halinde, bu hizmet sağlayıcı ile bir veri işleme sözleşmesi mevcuttur.
 
-**Zorunlu sağlama:**
+### Harici Hizmetlerin Kullanımı
+Web sitemizde harici hizmetler kullanılmaktadır. Harici hizmetler, web sitemizde kullanılan üçüncü taraf sağlayıcı hizmetleridir. Bu, çeşitli nedenlerle olabilir, örneğin videoların yerleştirilmesi veya web sitesi güvenliği için. Bu hizmetlerin kullanılmasında kişisel veriler de bu harici hizmetlerin ilgili sağlayıcılarına aktarılmaktadır. Bu hizmetlerin kullanımında meşru bir menfaatimiz yoksa, kullanım öncesinde web sitemizin ziyaretçisi olarak geri çekilebilir rızanızı alacağız (GDPR Madde 6(1)(a)).
 
-E-posta adresi sağlamak isteğe bağlıdır. Ancak e-posta olmadan çıkış, cihaz değişimi veya yeniden kurulum sonrasında hesabını geri yükleyemeyiz.
+### Analitik
+Kullanıcı davranışını analiz etmek için web sitesi ziyaretçilerinin kişisel verilerini işliyoruz. Elde edilen verileri değerlendirerek, web sitemizin bireysel bileşenlerinin kullanımı hakkında bilgi derleyebiliyoruz. Bu, web sitemizin kullanıcı dostu olmasını geliştirmemize olanak tanır. Kullanılan analiz araçları, örneğin hedefli veya ilgi alanına dayalı reklam mesajlarının iletilmesi için kullanıcı profilleri oluşturabilir, web sitesi ziyaretçilerimizi bir sonraki ziyaretlerinde tanıyabilir, tıklama/kaydırma davranışlarını, indirmelerini ölçebilir, ısı haritaları oluşturabilir, sayfa görüntülemelerini takip edebilir, ziyaret süresini veya hemen çıkma oranlarını ölçebilir ve web sitesi ziyaretçilerinin kökenini (şehir, ülke, ziyaretçinin hangi sayfadan geldiği) izleyebilir. Analiz araçlarının yardımıyla pazar araştırma ve pazarlama faaliyetlerimiz geliştirilebilir.
+İşleme yalnızca bu veri işlemeye onay vermeniz halinde gerçekleşir (web sitemizdeki onay banner'ı aracılığıyla). Bu işlemenin hukuki dayanağı rızadır (GDPR Madde 6(1)(a)). Rızanız olmadan, yukarıda açıklanan veri işleme gerçekleşmeyecektir. Rızanızı geri çekerseniz (örneğin, onay banner'ı veya bu web sitesinde sağlanan diğer seçenekler aracılığıyla), bu veri işlemeyi durduracağız. Geri çekmeye kadar gerçekleştirilen işlemenin hukuka uygunluğu bundan etkilenmez.
 
-#### Firebase Realtime Database
+### Değerlendirme Platformu
+Toplanan değerlendirmeleri web sitemizde görüntülemek ve böylece kullanıcılar arasında güven oluşturmak için değerlendirme platformları kullanıyoruz. Toplanan değerlendirmeler web sitemizde yayınlanmaktadır. Web sitesini ziyaret ettiğinizde, ilgili sağlayıcı ile bir bağlantı kurulur ve web sitesi ziyaretçisinin verileri aktarılır. Bu bağlamda işlenen kişisel veriler, örneğin IP adresini içerir.
+Bu işlemenin hukuki dayanağı, ürün değerlendirmelerinin ve müşteri referanslarının gösterilmesindeki meşru menfaatimizdir (GDPR Madde 6(1)(f)).
 
-**İşlenen veriler ve amaç:**
+### Product Hunt
+Web sitemizde Product Hunt hizmetini kullanıyoruz. Hizmet sağlayıcı Product Hunt, Inc., 90 Gold St, FLR 3, San Francisco, CA 94133, USA'dır.
+Bu hizmetin kullanımı üçüncü bir ülkeye (ABD) veri aktarımına neden olabilir.
+Daha fazla bilgi sağlayıcının gizlilik politikasında şu URL'de bulunabilir: https://www.producthunt.com/legal#privacy.
 
-Uygulamada isim belirtmen gerekir. Hane halkındaki herkesin kolayca tanıyabileceği bir takma ad kullanmanı öneririz. Ayrıca kişisel gelir ve gider verilerini girebilirsin. Bu bilgiler,
+### İçerik Dağıtım Ağı (CDN)
+Web sitemizin performansını ve kullanılabilirliğini optimize etmek için bir İçerik Dağıtım Ağı (CDN) kullanıyoruz. Bu amaçla, bu ağı sağlayan hizmet sağlayıcı IP adresinizi ve web sitemizi ne zaman ziyaret ettiğinize dair bilgileri işler. Bu hizmet sağlayıcı tarafından yapılan veri işleme hakkındaki tüm ek bilgiler gizlilik bildirimlerinde bulunabilir.
+Bu işlemeyi meşru menfaate dayandırıyoruz (GDPR Madde 6(1)(f)).
+İçerik Dağıtım Ağı kullanımındaki meşru menfaatimiz, web sitemizi mümkün olduğunca hızlı, güvenli ve güvenilir bir şekilde sunabilmektir.
 
-- Gelir ve giderleri hanedeki kişilere atamak,
-- Finanslarına dair genel bakış ve içgörü sunmak,
-- Hane üyeleriyle verileri paylaşmak
+### CloudFlare
+Web sitemizde CloudFlare hizmetini kullanıyoruz. Hizmet sağlayıcı Cloudflare Germany GmbH, Rosental 7, 80331 München, Almanya'dır.
+Bu hizmetin kullanımı üçüncü bir ülkeye (ABD) veri aktarımına neden olabilir. Sağlayıcı, EU-U.S. Data Privacy Framework kapsamında sertifikalıdır ve bu nedenle yeterli düzeyde veri koruması sunar.
+Daha fazla bilgi sağlayıcının gizlilik politikasında şu URL'de bulunabilir: https://www.cloudflare.com/privacypolicy/.
 
-amaçlarıyla işlenir.
+### Bülten Araçları
+Pazarlama faaliyetlerimiz kapsamında, web sitemiz aracılığıyla bültenimize abone olma olanağı sunuyoruz. Bülteni sipariş etmek için, belirtilen e-posta adresinin sahibi olduğunuzu ve bültenimizi almayı kabul ettiğinizi doğruladığımız bir kayıt sürecinden geçersiniz. Veriler, gönüllü aboneliğiniz süresince bültenden çıkana kadar bizde veya görevlendirdiğimiz bülten hizmetinde kalır. Bültenden çıkarsanız, dağıtım listesinden çıkarılırsınız. Bu liste diğer verilerle birleştirilmez. Bültenden çıkmak, ancak, diğer amaçlarla saklanan verilerin (örneğin müşteri hesapları) silinmesine yol açmaz.
+İşleme yalnızca bu veri işlemeye onay vermeniz halinde gerçekleşir (web sitemizdeki onay banner'ı aracılığıyla). Bu işlemenin hukuki dayanağı rızadır (GDPR Madde 6(1)(a)). Rızanız olmadan, yukarıda açıklanan veri işleme gerçekleşmeyecektir. Rızanızı geri çekerseniz (örneğin, onay banner'ı veya bu web sitesinde sağlanan diğer seçenekler aracılığıyla), bu veri işlemeyi durduracağız. Geri çekmeye kadar gerçekleştirilen işlemenin hukuka uygunluğu bundan etkilenmez.
 
-**Hukuki dayanak:**
+### Mailerlite
+Web sitemizde Mailerlite hizmetini kullanıyoruz. Hizmet sağlayıcı MailerLite Limited, Ground Floor, 71 Lower Baggot Street, Dublin 2, D02 P593, İrlanda'dır.
+Bu hizmetin kullanımı üçüncü bir ülkeye (ABD) veri aktarımına neden olabilir. Sağlayıcı, EU-U.S. Data Privacy Framework kapsamında sertifikalıdır ve bu nedenle yeterli düzeyde veri koruması sunar.
+Daha fazla bilgi sağlayıcının gizlilik politikasında şu URL'de bulunabilir: https://www.mailerlite.com/legal/privacy-policy.
 
-İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
+### E-posta İletişimi
+Yasal gerekliliklere uygun olarak web sitemize bir e-posta adresi ekledik. Bu kanal aracılığıyla iletilen veriler, ilgili talepleri işlemek veya talepte bulunan kişiyle iletişime geçmek amacıyla tarafımızca otomatik olarak saklanır. Bu veriler, rızanız olmadan üçüncü taraflarla paylaşılmayacaktır.
+Sözleşme öncesi veya sözleşmeye dayalı amaçlarla e-posta adresimiz aracılığıyla bizimle iletişime geçmeniz halinde, kişisel verilerin işlenmesi GDPR Madde 6(1)(b) hukuki dayanağına dayanmaktadır. Tarafınızdan yapılan diğer tüm iletişimlerde, kişisel verilerin tarafımızca işlenmesi GDPR Madde 6(1)(f) uyarınca meşru menfaatimize dayanmaktadır.
 
-**Alıcı:**
+## Uygulamada Kişisel Verilerin İşlenmesi (iOS/Android)
 
-Veriler, veri işleyen olarak çalışan [Firebase (Google)](https://firebase.google.com) tarafından alınır.
+### Uygulamanın Sağlanması
+Uygulamayı kullanırken, uygulamayı sağlamak ve işlevsel tutmak için gerekli olan teknik bilgileri işliyoruz. Bu şunları içerebilir: cihaz bilgileri, uygulama sürümü, kullanım zamanı, varsa IP adresi ve teknik olarak gerekli tanımlayıcılar.
+Hukuki dayanak, işlemenin uygulamanın kullanımı için gerekli olduğu ölçüde GDPR Madde 6(1)(b) (sözleşme/kullanım ilişkisi); aksi halde GDPR Madde 6(1)(f) (güvenlik, kararlılık ve hata düzeltmede meşru menfaat) dir.
 
-**Saklama süresi:**
+### Firebase Authentication
+Uygulamaya kaydolurken ve kullanırken, misafir olarak veya "Apple ile Giriş Yap" (iOS) ya da "Google ile Giriş Yap" (Android) aracılığıyla oturum açmak mümkündür. Seçilen giriş yöntemine bağlı olarak, teknik bir kullanıcı tanımlayıcısı (örneğin, Firebase UID) ve uygulanabilir olduğunda bir e-posta adresi işlenir (Apple için, bu Apple tarafından sağlanan bir yönlendirme adresi de olabilir, örneğin "E-postamı Gizle").
 
-Veriler, toplandığı amaç için gerekli olduğu sürece saklanır; hesabını sildiğinde silinir.
+Veriler özellikle aşağıdaki amaçlarla işlenir:
 
-**Zorunlu sağlama:**
+- Bir kullanıcı hesabının benzersiz tanımlanması,
+- Oturum açma ve hesap yönetimi,
+- Erişimin geri kazanılması (örneğin, oturumu kapatma, cihaz değiştirme veya yeniden kurulumdan sonra).
 
-İsim ve finansal verileri sağlamak isteğe bağlıdır, ancak bu veriler olmadan uygulamanın temel işlevlerini sunamayız.
+İşleme, kullanım ilişkisinin ifası için gerekli olduğundan GDPR Madde 6(1)(b) uyarınca gerçekleştirilir.
 
-#### Firebase Crashlytics
+Veriler, kimlik doğrulamanın işletimi ve bakımı için veri işleyen olarak hareket eden Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, İrlanda) tarafından işlenir. Bu hizmetin kullanımı üçüncü bir ülkeye (ABD) veri aktarımına neden olabilir. Sağlayıcı, EU-U.S. Data Privacy Framework kapsamında sertifikalıdır ve bu nedenle yeterli düzeyde veri koruması sunar.
 
-**İşlenen veriler ve amaç:**
+Kimlik doğrulama verileri genellikle hesap silinene kadar saklanır ve ardından teknik rutinlerin bir parçası olarak gecikmeli olarak silinir.
 
-Uygulama çökmesi durumunda Crashlytics kurulum kimliği, çökme izleri ve minidump verileri gibi bilgiler toplanır. Bu veriler, hataları ayıklamak ve uygulamanın güvenilirliğini sağlamak için kullanılır.
+Sağlama, uygulamanın özelliklerinin kullanımı için gereklidir. Kimlik doğrulama olmadan, uygulama kullanılamaz veya yalnızca sınırlı ölçüde kullanılabilir.
 
-**Hukuki dayanak:**
+### Firebase Realtime Database
+Uygulamayı kullanırken, girdiğiniz içerik Firebase Realtime Database'de saklanır. Bu özellikle şunları içerir:
 
-İşleme, uygulamayı sürekli geliştirme meşru çıkarımız kapsamında GDPR Madde 6 (1) f uyarınca yapılır.
+- Tutarlar, "kapatılmış/kapatılmamış" durumu, tarih, kategoriler, yinelenen işlemler için aralıklar,
+- Açıklamalar (serbest metin alanı),
+- Kişi (genellikle bir takma ad; gerçek bir isim de girilebilir),
+- Hesap adları, hesap para birimi, saat dilimi.
 
-**Alıcı:**
+Veriler özellikle aşağıdaki amaçlarla işlenir:
 
-[Firebase (Google)](https://firebase.google.com).
+- Gelir ve giderlerin kişilere/profillere atanması,
+- Genel bakışların ve değerlendirmelerin gösterilmesi,
+- İlgili hesap/hanede verilerin senkronizasyonu ve kullanımı (bu özellikler kullanılıyorsa).
 
-**Saklama süresi:**
+İşleme, kullanım ilişkisinin ifası için gerekli olduğundan GDPR Madde 6(1)(b) uyarınca gerçekleştirilir.
 
-Çökme verileri 90 gün içinde silinir.
+Veriler, veritabanının işletimi ve bakımı için veri işleyen olarak hareket eden Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, İrlanda) tarafından işlenir. Bu hizmetin kullanımı üçüncü bir ülkeye (ABD) veri aktarımına neden olabilir. Sağlayıcı, EU-U.S. Data Privacy Framework kapsamında sertifikalıdır ve bu nedenle yeterli düzeyde veri koruması sunar.
 
-**Zorunlu sağlama:**
+Seçilen depolama konumu europe-west1'dir.
 
-Bu verileri sağlamak yasal veya sözleşmesel olarak zorunlu değildir; ancak sağlanmaması uygulamanın kararlılığını olumsuz etkileyebilir.
+Veriler, toplandığı amacın gerçekleştirilmesi için artık gerekli olmadığında en kısa sürede silinecektir. Bu özellikle şu durumlarda geçerlidir:
 
-#### Brevo
+- hesabınızı sildiğinizde, veya
+- bir profilin 12 aydır etkin olmaması halinde (etkinsizlik nedeniyle silme).
 
-**İşlemenin türü ve amacı:**
+Bu içeriğin saklanması olmadan, uygulamanın temel özelliklerini (kayıt, genel bakış, değerlendirme) sağlayamayız.
 
-Uygulamayı Google veya Apple ile kullanarak giriş yapabilirsiniz. Bağlı e‑posta adresini, hesabınızın silinmesi planlandığında size bildirim e-postası göndermek için kullanırız.
+### Firebase Crashlytics
+Uygulama çökmesi durumunda tanılama verileri işlenir. Bunlar şunları içerebilir:
 
-**İşlenen veriler şunlar içindir:**
+- Crashlytics kurulum tanımlayıcıları,
+- Çökme ve hata günlükleri (örneğin, crash traces / minidump verileri),
+- Teknik cihaz ve uygulama bilgileri,
+- Firebase UID (teknik olarak bağlıysa).
 
-- Uzun süreli hareketsizlik sonrası planlanan hesap silinmesi hakkında sizi önceden bilgilendirmek ve yanıt verme imkânı vermek. Bu amaçla e-posta adresiniz, kullanıcı adınız ve planlanan silme tarihi işlenir.
+Veriler özellikle aşağıdaki amaçlarla işlenir:
 
-**Hukuki dayanak:**
+- Uygulama çökmelerinin hata ayıklaması,
+- Uygulamanın kararlılığının ve işlevselliğinin iyileştirilmesi.
 
-İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
+İşleme, güvenli ve kararlı bir uygulamadaki meşru menfaatimize dayanarak GDPR Madde 6(1)(f) uyarınca gerçekleştirilir.
 
-**Alıcı:**
+Veriler, işletim ve bakım için veri işleyen olarak hareket eden Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, İrlanda) tarafından işlenir. Bu hizmetin kullanımı üçüncü bir ülkeye (ABD) veri aktarımına neden olabilir. Sağlayıcı, EU-U.S. Data Privacy Framework kapsamında sertifikalıdır ve bu nedenle yeterli düzeyde veri koruması sunar.
 
-Veriler, bu bilgilendirme e-postalarını gönderen veri işleyen olarak [Brevo](https://www.brevo.com/) (eski adıyla Sendinblue) tarafından alınır. Daha fazla bilgi ve itiraz seçenekleri için [Brevo Gizlilik Politikası](https://www.brevo.com/legal/privacypolicy/).
+Crashlytics verileri sınırlı bir süre boyunca saklanır ve ardından silinir (yapılandırmaya bağlı olarak düzenli olarak 90 gün içinde).
 
-**Saklama süresi:**
+Bu veriler olmadan, hata analizi ve kararlılık iyileştirmesi sınırlıdır.
 
-E-posta gönderim kayıtları bir ay sonra silinir.
+### Brevo (Hesap Silinmesinden Önce E-posta Bildirimi)
+Hesabınızla bir e-posta adresi ilişkilendirilmişse (örneğin, Apple/Google ile oturum açma yoluyla), uzun süreli etkinlik dışılık nedeniyle yaklaşan hesap silme durumunda size e-posta ile bir bildirim göndermek için kullanırız.
 
-**Zorunlu sağlama:**
+Bu amaçla şunları işliyoruz:
 
-Bu kişisel verileri sağlamak yasal veya sözleşmesel olarak zorunlu değildir. E-posta adresi olmadan, planlanan hesap silinmesi hakkında önceden bildirim gönderemeyiz.
+- E-posta adresi,
+- Takma ad/kullanıcı adı,
+- Planlanan silme tarihi,
+- Saat dilimi (örneğin, Europe/Berlin) e-postanın yerelleştirilmesi için.
 
-### Web sitesi
+İşleme, kullanım ilişkisinin ifası (hesap yönetimi/iletişim) için gerekli olduğundan GDPR Madde 6(1)(b) uyarınca gerçekleştirilir.
 
-#### Günlük verileri (Log Data)
+Veriler, adımıza bildirim e-postalarının gönderimini gerçekleştiren veri işleyen olarak Brevo (Sendinblue SAS, 17 rue de Salneuve, 75017 Paris, Fransa) tarafından işlenir.
 
-Web sitesinde hata oluştuğunda, üçüncü taraf hizmetleri aracılığıyla log dosyaları toplanabilir. IP adresi, cihaz adı, işletim sistemi sürümü, uygulama ayarları ve erişim zamanları gibi veriler yalnızca hata ayıklama ve hizmeti iyileştirme amacıyla kullanılır.
+### RevenueCat (Ödeme Hizmet Sağlayıcısı)
+Uygulamamızda RevenueCat ödeme hizmetini entegre ediyoruz. Bu hizmetin sağlayıcısı RevenueCat.com, 631-633 Taraval St #101, San Francisco, United States'dir.
 
-**Hukuki dayanak:**
+Bizden bir satın alma yaptığınızda, ödeme verileriniz (örneğin, ad, ödeme tutarı, hesap bilgileri, kredi kartı numarası) RevenueCat'e iletilir ve ödeme işleme amacıyla onlar tarafından işlenir. Bu işleme için RevenueCat'in ilgili şartları ve gizlilik politikaları geçerlidir. Ayrıntılar, RevenueCat'in gizlilik politikasında şu bağlantıda bulunabilir: https://www.revenuecat.com/privacy/.
 
-İşleme, sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b uyarınca yapılır.
-
-**Saklama süresi:**
-
-Veriler genellikle ilgili oturum sona erdiğinde silinir.
-
-#### PostHog Analytics
-
-**İşlenen veriler:**
-
-Web sitemizde PostHog kullanıyoruz. PostHog, hangi sayfaları ziyaret ettiğin, sayfalarda ne kadar kaldığın, hangi cihazı, tarayıcıyı ve işletim sistemini kullandığın ve etkileşimlerine ilişkin çeşitli verileri toplayabilir. Veriler PostHog Inc.'in ABD'deki sunucularında saklanır.
-
-**Hukuki dayanak:**
-
-Sizinle yapılan sözleşmenin ifası için gerekli olduğundan GDPR Madde 6 (1) b.
-
-**Amaç:**
-
-Kullanım davranışını değerlendirerek siteyi sürekli iyileştirmek ve kullanıcı deneyimini geliştirmek.
-
-**Saklama süresi:**
-
-Veriler 14 ay boyunca saklanır.
-
-**İtiraz hakkı:**
-
-Veri toplama ve kullanımıyla ilgili talimatları [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out) adresinde bulabilir ve gelecekteki ziyaretler için izlemeyi devre dışı bırakabilirsin. Tarayıcı çerezlerini silersen opt-out çerezini yeniden etkinleştirmen gerekebilir.
-
-#### MailerLite
-
-**İşlenen veriler ve amaç:**
-
-Web sitemiz üzerinden bültenimize veya güncelleme e-postalarına abone olursan, e-posta adresin (ve bu amaçla verdiğin diğer bilgiler) MailerLite tarafından işletilen form aracılığıyla toplanır. Bu veriler yalnızca aboneliğini yönetmek ve talep ettiğin e-postaları göndermek için kullanılır.
-
-**Hukuki dayanak:**
-
-Abonelik için verdiğin açık rıza temelinde GDPR Madde 6 (1) a.
-
-**Alıcı:**
-
-MailerLite, bizim adımıza çalışan bir hizmet sağlayıcıdır. Verilerini güvenli sunucularda saklar ve AB dışına aktarım olması durumunda uygun koruma önlemleri uygular. Ayrıntılar için [MailerLite Gizlilik Politikası'nı](https://www.mailerlite.com/legal/privacy-policy) inceleyebilirsin.
-
-**Saklama süresi:**
-
-E-posta adresin sadece abone kaldığın sürece saklanır. Her e-postada bulunan abonelikten çık bağlantısı üzerinden veya bize doğrudan ulaşarak aboneliğini istediğin zaman sonlandırabilirsin; aboneliği iptal ettiğinde adresin listeden kaldırılır.
-
-**Zorunlu sağlama:**
-
-Bülten için e-posta adresi vermek tamamen isteğe bağlıdır ve uygulamayı kullanabilme yeteneğini etkilemez.
-
-## Güvenlik
-
-Kişisel verilerini korumak için ticari olarak kabul gören yöntemler kullanıyoruz. Ancak internet üzerinden hiçbir iletim veya elektronik depolama yöntemi yüzde yüz güvenli değildir; bu nedenle mutlak güvenlik garanti edemeyiz.
-
-## Diğer sitelere bağlantılar
-
-Hizmetimiz üçüncü taraf sitelere bağlantılar içerebilir. Bir bağlantıya tıkladığında o siteye yönlendirilirsin. Bu siteler bizim tarafımızdan yönetilmediği için, ziyaret etmeden önce ilgili sitenin Gizlilik Politikası'nı okumanı öneririz. Üçüncü taraf sitelerin içerik, gizlilik politikası veya uygulamalarından sorumlu değiliz.
-
-## Çocukların gizliliği
-
-Hizmetimiz 13 yaş altındaki kişilere yönelik değildir. 13 yaşından küçük bir çocuktan bilerek kişisel bilgi toplamıyoruz. Bir çocuğun bize kişisel veri verdiğini fark edersek verileri derhal sileriz. Ebeveyn ya da vasisen ve çocuğunun bize veri verdiğini biliyorsan bizimle iletişime geç.
-
-## Bu Gizlilik Politikası'nda değişiklikler
-
-Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu sayfayı düzenli olarak kontrol etmeni öneririz. Değişiklikleri bu sayfada yayımlayarak bildiririz.
-
-Bu politika 14 Mayıs 2022 tarihinden itibaren geçerlidir.
+Kullanım, GDPR Madde 6(1)(b) (sözleşme işleme) ve sorunsuz, rahat ve güvenli bir ödeme sürecinin çıkarına (GDPR Madde 6(1)(f)) dayanmaktadır. ABD'ye veri aktarımı, AB Komisyonu'nun Standart Sözleşme Maddelerine dayanmaktadır. Ayrıntılar burada bulunabilir: https://www.revenuecat.com/dpa/.

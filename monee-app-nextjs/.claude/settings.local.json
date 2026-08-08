@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:media.gettyimages.com)",
+      "Bash(npm run lint:*)",
+      "Bash(node --check:*)",
+      "Bash(npx -y eslint:*)"
+    ]
+  }
+}

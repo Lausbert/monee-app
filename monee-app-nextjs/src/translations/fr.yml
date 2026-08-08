@@ -30,11 +30,19 @@ global:
     badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee est maintenant en ligne sur Product Hunt"
+  eu_store_notice:
+    title: "Information importante pour l'UE"
+    greeting: "Bonjour à toutes et à tous,"
+    message_1: "J'ai mis à jour mes informations chez Apple."
+    message_2: "Pendant la vérification, Apple a retiré temporairement Monee des App Stores dans l'UE."
+    message_3: "Monee devrait être de nouveau disponible dans les prochains jours. Merci à toutes les personnes qui soutiendront ensuite Monee avec une note positive afin d'atténuer la perte de classement."
+    signature: "Bien à vous, Stephan"
+    image_alt: "Stephan Lerner"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Note Globale : 4.9 / 5.0"
-    count: "Basé sur plus de 10.000 avis"
-    downloads: "Plus de 200.000 téléchargements dans le monde"
+    count: "Basé sur plus de 15.000 avis"
+    downloads: "Plus de 350.000 téléchargements dans le monde"
   reviews:
     - title: "Excellente application !!"
       body: "En plus du fait qu'un livre de comptes est un outil super utile et important, je pense que le développeur a vraiment réussi un coup de maître avec Monee ! C'est clair, intuitif et facile à utiliser, toutes les fonctions essentielles sont incluses et il y a bien sûr une analyse des revenus et dépenses. Je n'ai plus besoin d'aucune autre application... et tout cela est complètement gratuit et sans publicité. Respect et un grand merci au développeur !!!"

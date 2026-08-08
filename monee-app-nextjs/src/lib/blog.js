@@ -1,12 +1,70 @@
 import fs from 'fs';
 import path from 'path';
-import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 import remarkGfm from 'remark-gfm';
+import { parseFrontmatter } from './frontmatter';
 
-const postsDirectory = path.join(process.cwd(), 'src/translations');
 const postsMetaDirectory = path.join(process.cwd(), 'src/blog-meta');
+
+export const BLOG_LOCALES = Object.freeze(['en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'hi']);
+
+function isMarkdownPostFile(file) {
+  return /^[^/\\]+\.md$/.test(file);
+}
+
+function getPostFiles(locale) {
+  try {
+    switch (locale) {
+      case 'en':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'en', '_posts')).filter(isMarkdownPostFile);
+      case 'de':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'de', '_posts')).filter(isMarkdownPostFile);
+      case 'fr':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'fr', '_posts')).filter(isMarkdownPostFile);
+      case 'es':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'es', '_posts')).filter(isMarkdownPostFile);
+      case 'pt':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'pt', '_posts')).filter(isMarkdownPostFile);
+      case 'it':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'it', '_posts')).filter(isMarkdownPostFile);
+      case 'ru':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'ru', '_posts')).filter(isMarkdownPostFile);
+      case 'hi':
+        return fs.readdirSync(path.join(process.cwd(), 'src', 'translations', 'hi', '_posts')).filter(isMarkdownPostFile);
+      default:
+        return [];
+    }
+  } catch (error) {
+    if (error?.code === 'ENOENT') return [];
+    throw error;
+  }
+}
+
+function readPostFile(locale, file) {
+  if (!isMarkdownPostFile(file)) return null;
+
+  switch (locale) {
+    case 'en':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'en', '_posts', file), 'utf8');
+    case 'de':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'de', '_posts', file), 'utf8');
+    case 'fr':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'fr', '_posts', file), 'utf8');
+    case 'es':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'es', '_posts', file), 'utf8');
+    case 'pt':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'pt', '_posts', file), 'utf8');
+    case 'it':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'it', '_posts', file), 'utf8');
+    case 'ru':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'ru', '_posts', file), 'utf8');
+    case 'hi':
+      return fs.readFileSync(path.join(process.cwd(), 'src', 'translations', 'hi', '_posts', file), 'utf8');
+    default:
+      return null;
+  }
+}
 
 // Helper function to convert title to URL-friendly slug
 function titleToSlug(title) {
@@ -43,10 +101,9 @@ function titleToSlug(title) {
 // Helper: get English slug for a given postId (e.g., "post16")
 function getEnglishSlugForPostId(postId) {
   try {
-    const englishPath = path.join(postsDirectory, 'en', '_posts', `${postId}.md`);
-    if (!fs.existsSync(englishPath)) return null;
-    const englishContents = fs.readFileSync(englishPath, 'utf8');
-    const { data } = matter(englishContents);
+    const englishContents = readPostFile('en', `${postId}.md`);
+    if (!englishContents) return null;
+    const { data } = parseFrontmatter(englishContents);
     const primary = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
     return primary && primary.length > 0 ? primary : postId;
   } catch (_) {
@@ -55,19 +112,13 @@ function getEnglishSlugForPostId(postId) {
 }
 
 export function getBlogPostBySlug(slug, locale) {
-  const fullPath = path.join(postsDirectory, locale, '_posts');
-  
-  if (!fs.existsSync(fullPath)) {
-    return null;
-  }
-  
-  const files = fs.readdirSync(fullPath).filter(file => file.endsWith('.md'));
+  const files = getPostFiles(locale);
   
   // Find the post with matching slug (frontmatter slug preferred)
   for (const file of files) {
-    const filePath = path.join(fullPath, file);
-    const fileContents = fs.readFileSync(filePath, 'utf8');
-    const { data, content } = matter(fileContents);
+    const fileContents = readPostFile(locale, file);
+    if (!fileContents) continue;
+    const { data, content } = parseFrontmatter(fileContents);
 
     const postId = path.parse(file).name; // e.g., 'post1'
     const primarySlug = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
@@ -115,19 +166,13 @@ export function getBlogPostBySlug(slug, locale) {
 
 export function getAllBlogPosts(locale, options = {}) {
   const { includeContent = true } = options || {};
-  const fullPath = path.join(postsDirectory, locale, '_posts');
-  
-  if (!fs.existsSync(fullPath)) {
-    return [];
-  }
-  
-  const files = fs.readdirSync(fullPath).filter(file => file.endsWith('.md'));
+  const files = getPostFiles(locale);
   
   const posts = files
     .map((file) => {
-      const filePath = path.join(fullPath, file);
-      const fileContents = fs.readFileSync(filePath, 'utf8');
-      const { data, content } = matter(fileContents);
+      const fileContents = readPostFile(locale, file);
+      if (!fileContents) return null;
+      const { data, content } = parseFrontmatter(fileContents);
       // Merge with shared metadata (by postId derived from filename)
       const postId = path.parse(file).name; // e.g., 'post1'
       let sharedMeta = {};

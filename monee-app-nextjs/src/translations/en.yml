@@ -30,11 +30,19 @@ global:
     badge_subtitle: "TheAppNote Award"
   product_hunt:
     title: "🚀 Monee is now live on Product Hunt"
+  eu_store_notice:
+    title: "Important Notice for EU Users"
+    greeting: "Hello everyone,"
+    message_1: "I have updated my information with Apple."
+    message_2: "While Apple reviews these details, Monee has been temporarily removed from the App Stores in the EU."
+    message_3: "Monee should be available again in the next few days. Thank you to everyone who supports Monee with a positive rating afterwards to mitigate ranking loss."
+    signature: "Best regards, Stephan"
+    image_alt: "Stephan Lerner"
   app_ratings:
     stars: "⭐️⭐️⭐️⭐️⭐️"
     score: "Global Rating: 4.9 / 5.0"
-    count: "Based on 10.000+ Ratings & Reviews"
-    downloads: "200.000+ Downloads worldwide"
+    count: "Based on 15.000+ Ratings & Reviews"
+    downloads: "350.000+ Downloads worldwide"
   reviews:
     - title: "Great app!!"
       body: "Apart from the fact that a household ledger is a super-useful and important thing, I think the developer has scored a real coup with Monee! It’s clearly laid out, intuitive and easy to use, all the essential functions are included and of course there’s an analysis of income and expenses. I don’t need any other app anymore… and the whole thing is completely free and ad-free. Respect and many thanks to the developer!!!"

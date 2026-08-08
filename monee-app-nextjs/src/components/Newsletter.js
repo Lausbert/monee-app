@@ -1,11 +1,10 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import useTranslations from '@/hooks/useTranslations';
 import Script from 'next/script';
 import siteConfig from '@/lib/siteConfig';
 
 const Newsletter = ({ translations }) => {
   const { t } = useTranslations(translations);
-  const [isMounted, setIsMounted] = useState(false);
   const [email, setEmail] = useState('');
   const [isEmailValid, setIsEmailValid] = useState(true);
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -13,10 +12,6 @@ const Newsletter = ({ translations }) => {
 
   const mailerliteFormId = siteConfig.mailerlite_form_id;
   const mailerliteUniversal = siteConfig.mailerlite_universal;
-
-  useEffect(() => {
-    setIsMounted(true);
-  }, []);
 
   const validateEmail = (email) => {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -80,12 +75,7 @@ const Newsletter = ({ translations }) => {
     (window, document, 'script', 'https://assets.mailerlite.com/js/universal.js', 'ml');
     ml('account', '${mailerliteUniversal}');
   `;
-  // Check for both mounted state and configuration
-  if (!isMounted) {
-    // Return a placeholder with the same dimensions during server-side rendering
-    return <div className="newsletter" aria-hidden="true" />;
-  }
-    if (!mailerliteFormId || !mailerliteUniversal) {
+  if (!mailerliteFormId || !mailerliteUniversal) {
     return <p>Newsletter configuration is missing.</p>;
   }
   return (

@@ -1,237 +1,219 @@
-**Last updated**
-February 1 2026
+**Last Updated**\
+16\. February 2026
 
-# Privacy Policy
+# Privacy Notice pursuant to Art. 13 GDPR
 
-Monee built the Monee app as a Freemium app. This SERVICE is provided by Monee at no cost and is intended for use as is.
+## General Information on Data Processing
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+### Name and Address of the Controller
+The controller within the meaning of the General Data Protection Regulation (GDPR) and other data protection regulations is:\
+Stephan Lerner\
+Oldesloer Weg 9\
+21614 Buxtehude
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Email: info@monee-app.com
 
-Responsible in terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR), is:
+### Legal Basis for the Processing of Personal Data
 
-Stephan Lerner
+In accordance with Art. 13 GDPR, we inform you of the legal bases of our data processing activities. Unless the legal basis is specifically mentioned in this privacy notice, the following applies:
+The legal basis for obtaining consent is Art. 6(1)(a) in conjunction with Art. 7 GDPR. The legal basis for processing to fulfill our services and carry out contractual measures, as well as to respond to inquiries, is Art. 6(1)(b) GDPR. The legal basis for processing to fulfill our legal obligations is Art. 6(1)(c) GDPR. If the processing of your data is necessary to protect a legitimate interest of our company or a third party, and the interests, fundamental rights, and freedoms of the data subject do not override the former interest, Art. 6(1)(f) GDPR serves as the legal basis for processing. In the event that vital interests of the data subject or another natural person require the processing of personal data, Art. 6(1)(d) GDPR serves as the legal basis.
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <{{ site.email_address }}>.
+### Data Deletion and Storage Duration
 
-## Your rights
+We adhere to the principles of data minimization pursuant to Art. 5(1)(c) GDPR and storage limitation pursuant to Art. 5(1)(e) GDPR. We store your personal data only for as long as is necessary to achieve the purposes stated here or as required by the retention periods stipulated by law. Once the respective purpose no longer applies or upon expiry of these retention periods, the corresponding data will be deleted as soon as possible.
 
-You can exercise the following rights at any time using the contact details provided above:
+### Notice on Data Transfer to Third Countries
+Our website also integrates tools from companies based in third countries. When these tools are active, your personal data may be transmitted to the servers of the respective companies. The level of data protection in third countries generally does not correspond to EU data protection law. This means there is a risk that your data may be disclosed to authorities of those countries. We have no influence over these processing activities.
 
-- Information about your data stored by us and their processing (Art. 15 GDPR),
-- Correction of incorrect personal data (Art. 16 GDPR),
-- Deletion of your data stored by us (Art. 17 GDPR),
-- Restriction of data processing if we may not delete your data due to legal obligations (Art. 18 GDPR),
-- Objection to the processing of your data by us (Art. 21 GDPR) and
-- Data portability, provided you have consented to data processing or have concluded a contract with us (Art. 20 GDPR).
-If you have given us your consent, you can revoke it at any time.
+### External Links
+This website may contain links to third-party websites or to other websites under our responsibility. If you follow a link to a website outside our responsibility, please note that these websites have their own privacy policies. We accept no responsibility or liability for these external websites and their privacy notices. Therefore, please check whether you agree with the privacy policies of those websites before using them.
+You can recognize external links by the fact that they are displayed in a slightly different color from the rest of the text or are underlined. Your cursor will indicate external links when you move it over such a link. Only when you click on an external link will your personal data be transmitted to the link target. The operator of the other website will receive, in particular, your IP address, the time at which you clicked the link, the page on which you clicked the link, and other information that you can find in the privacy notices of the respective provider.
+Please also note that some links may lead to data transfer outside the European Economic Area. This could allow foreign authorities to access your data. You may not have legal recourse against such data access. If you do not want your personal data to be transmitted to the link target or to be exposed to access by foreign authorities, please do not click on any links.
 
-You can contact a supervisory authority at any time with a complaint, e.g. the responsible supervisory authority of the federal state of your place of residence or to the authority responsible for us as the responsible body.
+### Rights of the Data Subject
 
-A list of the supervisory authorities (for the non-public area) with address can be found [here](https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html).
+As a data subject within the meaning of the GDPR, you have the right to exercise various rights. The data subject rights arising from the GDPR are the right of access (Article 15), the right to rectification (Article 16), the right to erasure (Article 17), the right to restriction of processing (Article 18), the right to object (Article 21), the right to lodge a complaint with a supervisory authority, and the right to data portability (Article 20).
 
+### Right of Withdrawal:
+Some data processing activities can only be carried out with your express consent. You have the right to withdraw your consent at any time. However, the lawfulness of the data processing carried out until the withdrawal remains unaffected.
 
-## Contact Data
+### Right to Object:
 
-If you contact us through mail, your details will be saved so that they can be used to process and answer your request.
+If the processing is based on Art. 6(1)(e) or (f) GDPR, you as a data subject may, for reasons arising from your particular situation, object at any time to the processing of your personal data. This right also applies to profiling based on these provisions within the meaning of Art. 4(4) GDPR. Unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms, or the processing serves the establishment, exercise, or defense of legal claims, we will cease processing your data following an objection.
+If the processing of personal data is carried out for the purpose of direct marketing, you also have the right to object at any time. The same applies to profiling that is related to direct marketing. In this case as well, we will cease processing personal data once you lodge an objection.
 
 
-## Information Collection and Use
+### Right to Lodge a Complaint with a Supervisory Authority:
 
-The app and this website do use third-party services that may collect information used to identify you.
+If you believe that the processing of your personal data violates the GDPR, you have the right, without prejudice to any other administrative or judicial remedy, to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, your place of work, or the place of the alleged infringement.
 
-### App
+### Right to Data Portability:
+If your data is processed automatically on the basis of consent or the performance of a contract, you have the right to receive this data in a structured, commonly used, and machine-readable format. You also have the right to request the transfer and provision of the data to another controller, insofar as this is technically feasible.
 
-#### Firebase Authentication
+### Right to Access, Rectification, and Erasure:
+You have the right to obtain information about your processed personal data regarding the purpose of the data processing, the categories, the recipients, and the duration of storage. If you have questions about this topic or any other questions regarding personal data, you are of course welcome to contact us using the contact details provided in the imprint.
 
-##### Type and purpose of processing:
+### Right to Restriction of Processing:
+You may assert the restriction of the processing of your personal data at any time. To do so, you must meet one of the following conditions:
 
-When registering and using the app, it is possible to transmit an email address. We recommend using Apple's "Hide my email" functionality to hide the actual email address.
+- You contest the accuracy of the personal data. For the duration of the verification of accuracy, you have the right to request restriction of processing.
+- If processing is unlawful, you may request restriction of the use of the data instead of erasure.
+- If we no longer need your personal data for the purposes of processing, but you need the data for the establishment, exercise, or defense of legal claims, you may request restriction of processing instead of erasure.
+- If you have objected to processing pursuant to Art. 21(1) GDPR, a balancing of your and our interests will be carried out. Until this balancing has been completed, you have the right to request restriction of processing.
 
-They are processed in particular for the following purpose:
+Restriction of processing means that the personal data may, apart from storage, only be processed with your consent or for the establishment, exercise, or defense of legal claims, or for the protection of the rights of another natural or legal person, or for reasons of important public interest of the Union or a Member State.
+## Processing of Personal Data on the Website
 
-- Uniquely identifying a user and restoring data to a device in the event of a logout, device change or a new installation
+### Website Hosting (Web Host)
+Our website is hosted by:
+Vercel Inc.
+440 N Barranca Ave #4133, Covina, CA 91723
+USA
 
-##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in providing the functionality of our app.
+When you visit our website, we automatically collect and store information in so-called server log files. Your browser automatically transmits this information to our server or to the server of our hosting provider.
+This includes:
 
-##### Receiver:
+- IP address of the visitor's device
+- Device used
+- Hostname of the accessing computer
+- Visitor's operating system
+- Browser type and version
+- Name of the file accessed
+- Time of the server request
+- Amount of data
+- Information on whether the data retrieval was successful
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
+This data is not merged with other data sources.
+Instead of operating this website on our own server, we may have it operated on the server of an external service provider (hosting company), which we have named above. The personal data collected by this website is then stored on the servers of the hosting company. In addition to the data mentioned above, the web host stores, for example, contact requests, contact data, names, website access data, meta and communication data, contract data, and other data generated via a website.
+The legal basis for processing this data is Art. 6(1)(f) GDPR. Our legitimate interest is the technically error-free presentation and optimization of this website. If the website is accessed to enter into contract negotiations or to conclude a contract, the additional legal basis is Art. 6(1)(b) GDPR. In the event that we have engaged a hosting company, a data processing agreement exists with this service provider.
 
-##### Storage duration:
-Firebase Authentication retains authentication information until you delete your account, after which data is removed within 180 days.
+### Use of External Services
+External services are used on our website. External services are services from third-party providers that are used on our website. This may occur for various reasons, for example for embedding videos or for website security. When using these services, personal data is also transmitted to the respective providers of these external services. If we do not have a legitimate interest in using these services, we will obtain your revocable consent as a visitor to our website before use (Art. 6(1)(a) GDPR).
 
-##### Provision required or required:
-The provision of your email adress is voluntary, solely on the basis of your consent. Unfortunately, we can not restore your account in the event of a logout, device change or a new installation without an email address.
+### Analytics
+To analyze user behavior, we process personal data of website visitors. By evaluating the data obtained, we are able to compile information about the use of the individual components of our website. This enables us to improve the user-friendliness of our website. The analytics tools used could, for example, create user profiles for the delivery of targeted or interest-based advertising messages, recognize our website visitors upon their next visit, measure their click/scroll behavior, downloads, create heatmaps, track page views, measure visit duration or bounce rates, and trace the origin of website visitors (city, country, which page the visitor came from). With the help of analytics tools, our market research and marketing activities can be improved.
+Processing only occurs if you consent to this data processing (via our consent banner on the website). The legal basis for this processing is consent (Art. 6(1)(a) GDPR). Without your consent, the data processing described above will not take place. If you withdraw your consent (e.g., via the consent banner or other options provided on this website), we will cease this data processing. The lawfulness of the processing carried out until the withdrawal remains unaffected.
 
-#### Firebase Realtime Database
+### Review Platform
+We use review platforms to display collected reviews on our website and thereby build trust among users. The collected reviews are published on our website. When you visit the website, a connection is established with the respective provider and data of the website visitor is transmitted. Personal data processed in this context includes, for example, the IP address.
+The legal basis for this processing is our legitimate interest in displaying product reviews and customer testimonials (Art. 6(1)(f) GDPR).
 
-##### Type and purpose of processing:
+### Product Hunt
+We use the Product Hunt service on our website. The provider of the service is Product Hunt, Inc., 90 Gold St, FLR 3, San Francisco, CA 94133, USA.
+The use of this service may result in data transfer to a third country (USA).
+Further information can be found in the provider's privacy policy at the following URL: https://www.producthunt.com/legal#privacy.
 
-When using the app, it is necessary to provide a name. We recommend giving a nickname that can be clearly assigned by everyone in the household. It is also possible to transmit data on your personal expenditures and revenues.
+### Content Delivery Network (CDN)
+We use a Content Delivery Network (CDN) to optimize the performance and availability of our website. For this purpose, the service provider that provides this network processes your IP address and the information about when you visited our website. All further information on data processing by this service provider can be found in their privacy notice.
+We base this processing on a legitimate interest (Art. 6(1)(f) GDPR).
+Our legitimate interest in using a Content Delivery Network is to be able to present our website as quickly, securely, and reliably as possible.
 
-They are processed in particular for the following purpose:
+### CloudFlare
+We use the CloudFlare service on our website. The provider of the service is Cloudflare Germany GmbH, Rosental 7, 80331 München, Germany.
+The use of this service may result in data transfer to a third country (USA). The provider is certified under the EU-U.S. Data Privacy Framework and therefore offers an adequate level of data protection.
+Further information can be found in the provider's privacy policy at the following URL: https://www.cloudflare.com/privacypolicy/.
 
-- Allocation of income and expenditure to a person in the household
-- Presenting you an overview and insights in your personal finances
-- Sharing data with members of your household
+### Newsletter Tools
+As part of our marketing, we offer you the option to subscribe to our newsletter via our website. To order the newsletter, you go through a registration process during which we verify that you are the owner of the specified email address and that you agree to receive our newsletter. The data remains with us or with the newsletter service we have commissioned for the duration of your voluntary subscription until you unsubscribe from the newsletter. If you unsubscribe from the newsletter, you will be removed from the distribution list. This list is not merged with other data. Unsubscribing from the newsletter does not, however, lead to the deletion of data stored for other purposes (e.g., customer accounts).
+Processing only occurs if you consent to this data processing (via our consent banner on the website). The legal basis for this processing is consent (Art. 6(1)(a) GDPR). Without your consent, the data processing described above will not take place. If you withdraw your consent (e.g., via the consent banner or other options provided on this website), we will cease this data processing. The lawfulness of the processing carried out until the withdrawal remains unaffected.
 
-##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
+### Mailerlite
+We use the Mailerlite service on our website. The provider of the service is MailerLite Limited, Ground Floor, 71 Lower Baggot Street, Dublin 2, D02 P593, Ireland.
+The use of this service may result in data transfer to a third country (USA). The provider is certified under the EU-U.S. Data Privacy Framework and therefore offers an adequate level of data protection.
+Further information can be found in the provider's privacy policy at the following URL: https://www.mailerlite.com/legal/privacy-policy.
 
-##### Receiver:
+### Email Contact
+We have provided an email address on our website in accordance with legal requirements. The data transmitted via this channel is automatically stored by us in order to process the corresponding inquiries or to contact the inquiring person. This data will not be shared with third parties without your consent.
+If you contact us via our email address for pre-contractual or contractual purposes, the processing of personal data is based on the legal basis of Art. 6(1)(b) GDPR. For all other contacts by you, the processing of personal data by us is based on our legitimate interest pursuant to Art. 6(1)(f) GDPR.
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
+## Processing of Personal Data in the App (iOS/Android)
 
-##### Storage duration:
-The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case you delete your account.
+### Provision of the App
+When using the app, we process technical information that is necessary to provide the app and keep it functional. This may include: device information, app version, time of use, IP address if applicable, and technically necessary identifiers.
+The legal basis is Art. 6(1)(b) GDPR (contract/usage relationship), insofar as the processing is necessary for the use of the app; otherwise Art. 6(1)(f) GDPR (legitimate interest in security, stability, and error correction).
 
-##### Provision required or required:
-The provision of your name and financial data is voluntary, solely on the basis of your consent. Unfortunately, we can not provide any useful functionality without this data.
+### Firebase Authentication
+When registering and using the app, it is possible to sign in as a guest or via "Sign in with Apple" (iOS) or "Sign in with Google" (Android). Depending on the login method chosen, a technical user identifier (e.g., Firebase UID) and, if applicable, an email address are processed (for Apple, this may also be a forwarding address provided by Apple, such as "Hide my email").
 
-#### Firebase Crashlytics
+The data is processed in particular for the following purposes:
 
-##### Type and purpose of processing:
+- Unique identification of a user account,
+- Login and account management,
+- Restoration of access (e.g., after logout, device change, or reinstallation).
 
-In the event of an app crash, data will be collected. That may include: 
+The processing is carried out in accordance with Art. 6(1)(b) GDPR, as it is necessary for the performance of the usage relationship.
 
-- Crashlytics Installation UUIDs
-- Crash traces
-- Breakpad minidump formatted data
+The data is processed by Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Ireland), which acts as a data processor for the operation and maintenance of authentication. The use of this service may result in data transfer to a third country (USA). The provider is certified under the EU-U.S. Data Privacy Framework and therefore offers an adequate level of data protection.
 
-They are processed in particular for the following purpose:
+Authentication data is generally stored until the account is deleted and is then deleted with a time delay as part of technical routines.
 
-- Debugging app crashes
-- Reliable accessibility and guarantee of all app functionalities
+The provision is necessary for the use of the app's features. Without authentication, the app cannot be used or can only be used to a limited extent.
 
-##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. f GDPR based on our legitimate interest in improving the functionality of our app.
+### Firebase Realtime Database
+When using the app, the content you enter is stored in the Firebase Realtime Database. This includes in particular:
 
-##### Receiver:
+- Amounts, status "settled/unsettled", date, categories, intervals for recurring transactions,
+- Descriptions (free text field),
+- Person (usually a nickname; a real name may also be entered),
+- Account names, account currency, time zone.
 
-The data is received by [Firebase, a Google company](https://firebase.google.com), who works as a processor for the operation and maintenance of our app. Visit [Google's Privacy Policy](https://policies.google.com/privacy) or [Firebase](https://firebase.google.com/support/privacy) for further information and options for objection.
+The data is processed in particular for the following purposes:
 
-##### Storage duration:
-Data is deleted within 90 days.
+- Assignment of income and expenses to persons/profiles,
+- Display of overviews and evaluations,
+- Synchronization and use of data in the respective account/household (if these features are used).
 
-##### Provision required or required:
-The provision of the aforementioned data is neither legally nor contractually required. Without the data, however, the service and functionality of our app is not guaranteed.
+The processing is carried out in accordance with Art. 6(1)(b) GDPR, as it is necessary for the performance of the usage relationship.
 
-#### Brevo
+The data is processed by Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Ireland), which acts as a data processor for the operation and maintenance of the database. The use of this service may result in data transfer to a third country (USA). The provider is certified under the EU-U.S. Data Privacy Framework and therefore offers an adequate level of data protection.
 
-##### Type and purpose of processing:
+The selected storage location is europe-west1.
 
-When using the app, you can sign in with Google or Apple. We use the email address associated with that account to send you a notification email if your account is scheduled for deletion.
+The data will be deleted as soon as it is no longer necessary for the achievement of the purpose for which it was collected. This is particularly the case:
 
-This data is processed solely for:
+- when you delete your account, or
+- when a profile has been inactive for 12 months (inactivity deletion).
 
-- informing you in advance about the planned deletion of your account after extended inactivity and giving you the chance to respond. For this we process your email address, username and the scheduled deletion date of the account.
+Without the storage of this content, we cannot provide the essential app features (recording, overview, evaluation).
 
-##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
+### Firebase Crashlytics
+In the event of an app crash, diagnostic data is processed. This may include:
 
-##### Receiver:
-The data is received by [Brevo](https://www.brevo.com/) (formerly Sendinblue), an email service provider acting as our processor to send these notice emails. Visit [Brevo's Privacy Policy](https://www.brevo.com/legal/privacypolicy/) for further information and opt-out options.
+- Crashlytics installation identifiers,
+- Crash and error logs (e.g., crash traces / minidump data),
+- Technical device and app information,
+- Firebase UID (if technically linked).
 
-##### Storage duration:
-Email delivery logs are deleted after one month.
+The data is processed in particular for the following purposes:
 
-##### Provision required or required:
-Providing this personal data is not legally or contractually required. Without an email address we cannot send you a prior notification about the planned deletion of your account.
+- Debugging app crashes,
+- Improving the stability and functionality of the app.
 
-### Web
+The processing is carried out in accordance with Art. 6(1)(f) GDPR, based on our legitimate interest in a secure and stable app.
 
-#### Vercel
+The data is processed by Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Ireland), which acts as a data processor for the operation and maintenance. The use of this service may result in data transfer to a third country (USA). The provider is certified under the EU-U.S. Data Privacy Framework and therefore offers an adequate level of data protection.
 
-##### Type and purpose of processing:
-If you access this website, i.e. if you do not register or otherwise provide information, information of a general nature is automatically collected. This information (server log files) includes, for example, the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like.
+Crashlytics data is stored for a limited period and then deleted (regularly within 90 days, depending on the configuration).
 
-They are processed in particular for the following purposes:
+Without this data, error analysis and stability improvement are limited.
 
-- Ensuring a problem-free connection to the website,
-- Ensuring smooth use of this website,
-- Evaluation of system security and stability as well as
-for other administrative purposes.
-- We do not use your data to draw conclusions about you personally. Information of this type may be statistically evaluated by us in order to optimize this website and the technology behind it.
+### Brevo (Email Notification before Account Deletion)
+If an email address is associated with your account (e.g., through sign-in with Apple/Google), we use it to send you a notification by email in the event of an upcoming account deletion due to prolonged inactivity.
 
-##### Legal basis:
-Processing takes place in accordance with Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
+For this purpose, we process:
 
-##### Receiver:
-The data is received by [Vercel](https://vercel.com/blog/what-is-vercel) who works as a processor for the operation and maintenance of this website. Visit [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) for further information and options for objection.
+- Email address,
+- Nickname/username,
+- Planned deletion date,
+- Time zone (e.g., Europe/Berlin) for localizing the email.
 
-##### Storage duration:
-The data will be deleted as soon as it is no longer required for the purpose of the collection. This is generally the case for the data used to provide the website when the respective session has ended.
+The processing is carried out in accordance with Art. 6(1)(b) GDPR, as it is necessary for the performance of the usage relationship (account management/communication).
 
-##### Provision required or required:
+The data is processed by Brevo (Sendinblue SAS, 17 rue de Salneuve, 75017 Paris, France) as a data processor, which carries out the sending of notification emails on our behalf.
 
-#### PostHog Analytics
+### RevenueCat (Payment Service Provider)
+We integrate the payment service RevenueCat in our app. The provider of this service is RevenueCat.com, 631-633 Taraval St #101, San Francisco, United States.
 
-##### Scope of Processing Data
+When you make a purchase from us, your payment data (e.g., name, payment amount, account details, credit card number) is transmitted to RevenueCat and processed by them for the purpose of payment processing. The respective terms and conditions and privacy policies of RevenueCat apply to this processing. Details can be found in RevenueCat's privacy policy at the following link: https://www.revenuecat.com/privacy/.
 
-We use PostHog on our website. PostHog is an open-source analytics tool from PostHog Inc. that allows us to collect and analyze data about the use of our website by visitors. This data is used to improve our website and ensure a better user experience.
-
-When you visit our website, PostHog collects information such as the pages you visit, the time spent on these pages, which website you came from, what type of device, browser, and operating system you use, as well as various interaction data. This data is stored on servers of PostHog Inc. in the United States.
-
-##### Legal Basis for Processing Data
-
-The legal basis for processing users' data is Art. 6 Para. 1 lit. b GDPR as it is necessary for the performance of a contract with you.
-
-##### Purpose of Data Processing
-
-PostHog is used for the purpose of analyzing the use of our website and for continuously improving individual functions and offers. The statistical evaluation of user behavior enables us to improve our offer and make it more interesting for you as a user.
-
-##### Duration of Storage
-
-The data will be deleted as soon as they are no longer needed for our recording purposes. In our case, this is after 14 months.
-
-##### Objection and Removal Options
-
-You can prevent the collection and use of your data by PostHog by setting an opt-out cookie that prevents the storage of your data during future visits to this website.
-
-You can prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) and the processing of this data by PostHog by following the instructions on the following website: [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
-
-Please note that if cookies are deleted in the browser settings, the opt-out cookie may also be deleted and you may need to activate it again.
-
-#### MailerLite
-
-##### Type and purpose of processing:
-
-If you subscribe to our newsletter or email updates via our website, we will collect your email address (and any information you provide for this purpose) through a sign-up form operated by MailerLite. This data is used exclusively to manage your subscription and send you the newsletter or updates you have requested. They are processed in particular for the following purpose:
-Sending you periodic newsletter emails about product updates, offers, or relevant news that you signed up to receive, and managing your subscription preferences (such as honoring unsubscribe requests).
-
-##### Legal basis:
-
-Processing takes place in accordance with Art. 6 Para. 1 lit. a GDPR, based on your consent to receive our newsletter. (In other words, we will only collect and use your email for this purpose if you have actively subscribed. You may withdraw your consent at any time by unsubscribing from the newsletter.)
-
-##### Receiver:
-
-The data is received by MailerLite, an email marketing service provider, who acts as a processor on our behalf for managing newsletter subscriptions and distributing emails​.vMailerLite stores your email address on its secure servers. These servers may be located outside the European Economic Area (for example, in the United States), but MailerLite ensures that any transfer of personal data outside the EEA is protected by appropriate safeguards in compliance with EU data protection laws – for instance, through the use of EU Standard Contractual Clauses (SCCs)​. Visit [MailerLite’s Privacy Policy​](https://www.mailerlite.com/legal/privacy-policy) or further information on how MailerLite processes and protects personal data.
-
-##### Storage duration:
-
-We will retain your email address only as long as you remain subscribed to our newsletter. You can unsubscribe at any time by using the unsubscribe link provided in each email or by contacting us directly. If you unsubscribe or request deletion of your data, your email address will be promptly removed from our mailing list and deleted from MailerLite’s system​. Likewise, if we discontinue our newsletter service, we will delete all associated email subscription data.
-
-##### Provision required or required:
-
-The provision of your email address for the newsletter service is entirely voluntary and neither legally nor contractually required. Choosing not to subscribe (or later unsubscribing) simply means you will not receive our newsletter emails, but it will not affect your ability to use any other features of our Service. Your decision to provide or withhold an email for this purpose does not impact your use of the Monee app or website in any other way. This addition aligns with our commitment to transparency and GDPR compliance, ensuring you are informed about how we handle your email address for newsletter purposes.
-
-## Security
-
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
-## Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-## Children’s Privacy
-
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
-
-## Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of May 14 2022.
+The use is based on Art. 6(1)(b) GDPR (contract processing) and in the interest of a smooth, convenient, and secure payment process (Art. 6(1)(f) GDPR). The data transfer to the USA is based on the Standard Contractual Clauses of the EU Commission. Details can be found here: https://www.revenuecat.com/dpa/.

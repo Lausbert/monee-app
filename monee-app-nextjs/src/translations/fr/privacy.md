@@ -1,233 +1,219 @@
-**Dernière mise à jour**
-1 février 2026
+**Dernière mise à jour**\
+16\. février 2026
 
-# Politique de Confidentialité
+# Avis de Confidentialité conformément à l'Art. 13 RGPD
 
-Monee a développé l'application Monee en tant qu'application Freemium. Ce SERVICE est fourni gratuitement par Monee et est destiné à être utilisé tel quel.
+## Informations Générales sur le Traitement des Données
 
-Cette page est utilisée pour informer les visiteurs de nos politiques concernant la collecte, l'utilisation et la divulgation des Informations Personnelles si quelqu'un décide d'utiliser notre Service.
+### Nom et Adresse du Responsable du Traitement
+Le responsable du traitement au sens du Règlement Général sur la Protection des Données (RGPD) et d'autres réglementations en matière de protection des données est :\
+Stephan Lerner\
+Oldesloer Weg 9\
+21614 Buxtehude
 
-Si vous choisissez d'utiliser notre Service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les Informations Personnelles que nous collectons sont utilisées pour fournir et améliorer le Service. Nous n'utiliserons ni ne partagerons vos informations avec quiconque, sauf comme décrit dans cette Politique de Confidentialité.
+E-mail : info@monee-app.com
 
-Responsable au sens des lois sur la protection des données, notamment le Règlement Général sur la Protection des Données (RGPD) de l'UE :
+### Base Juridique du Traitement des Données Personnelles
 
-Stephan Lerner
+Conformément à l'Art. 13 du RGPD, nous vous informons des bases juridiques de nos activités de traitement des données. Sauf mention spécifique de la base juridique dans le présent avis de confidentialité, les règles suivantes s'appliquent :
+La base juridique pour l'obtention du consentement est l'Art. 6(1)(a) en combinaison avec l'Art. 7 du RGPD. La base juridique du traitement pour l'exécution de nos services et la réalisation de mesures contractuelles, ainsi que pour répondre aux demandes, est l'Art. 6(1)(b) du RGPD. La base juridique du traitement pour remplir nos obligations légales est l'Art. 6(1)(c) du RGPD. Si le traitement de vos données est nécessaire pour protéger un intérêt légitime de notre entreprise ou d'un tiers, et que les intérêts, droits fondamentaux et libertés de la personne concernée ne prévalent pas sur ledit intérêt, l'Art. 6(1)(f) du RGPD sert de base juridique au traitement. Dans le cas où les intérêts vitaux de la personne concernée ou d'une autre personne physique nécessitent le traitement de données personnelles, l'Art. 6(1)(d) du RGPD sert de base juridique.
 
-Si vous avez des questions ou des suggestions concernant notre Politique de Confidentialité, n'hésitez pas à nous contacter à <{{ site.email_address }}>.
+### Suppression des Données et Durée de Conservation
 
-## Vos droits
+Nous respectons les principes de minimisation des données conformément à l'Art. 5(1)(c) du RGPD et de limitation de la conservation conformément à l'Art. 5(1)(e) du RGPD. Nous conservons vos données personnelles uniquement pendant la durée nécessaire à la réalisation des finalités indiquées ici ou conformément aux durées de conservation prévues par la loi. Une fois que la finalité respective ne s'applique plus ou à l'expiration de ces durées de conservation, les données correspondantes seront supprimées dans les meilleurs délais.
 
-Vous pouvez exercer les droits suivants à tout moment en utilisant les coordonnées fournies ci-dessus :
+### Avis sur le Transfert de Données vers des Pays Tiers
+Notre site web intègre également des outils d'entreprises basées dans des pays tiers. Lorsque ces outils sont actifs, vos données personnelles peuvent être transmises aux serveurs des entreprises respectives. Le niveau de protection des données dans les pays tiers ne correspond généralement pas au droit de la protection des données de l'UE. Cela signifie qu'il existe un risque que vos données soient divulguées aux autorités de ces pays. Nous n'avons aucune influence sur ces activités de traitement.
 
-- Information sur vos données stockées par nous et leur traitement (Art. 15 RGPD),
-- Correction de données personnelles incorrectes (Art. 16 RGPD),
-- Suppression de vos données stockées par nous (Art. 17 RGPD),
-- Limitation du traitement des données si nous ne pouvons pas supprimer vos données en raison d'obligations légales (Art. 18 RGPD),
-- Opposition au traitement de vos données par nous (Art. 21 RGPD) et
-- Portabilité des données, à condition que vous ayez consenti au traitement des données ou que vous ayez conclu un contrat avec nous (Art. 20 RGPD).
-Si vous nous avez donné votre consentement, vous pouvez le révoquer à tout moment.
+### Liens Externes
+Ce site web peut contenir des liens vers des sites web tiers ou vers d'autres sites web sous notre responsabilité. Si vous suivez un lien vers un site web en dehors de notre responsabilité, veuillez noter que ces sites web ont leurs propres politiques de confidentialité. Nous déclinons toute responsabilité pour ces sites web externes et leurs avis de confidentialité. Veuillez donc vérifier si vous acceptez les politiques de confidentialité de ces sites web avant de les utiliser.
+Vous pouvez reconnaître les liens externes au fait qu'ils sont affichés dans une couleur légèrement différente du reste du texte ou sont soulignés. Votre curseur indiquera les liens externes lorsque vous le déplacerez sur un tel lien. Ce n'est que lorsque vous cliquez sur un lien externe que vos données personnelles seront transmises à la cible du lien. L'exploitant de l'autre site web recevra, en particulier, votre adresse IP, l'heure à laquelle vous avez cliqué sur le lien, la page sur laquelle vous avez cliqué sur le lien, ainsi que d'autres informations que vous pouvez trouver dans les avis de confidentialité du fournisseur respectif.
+Veuillez également noter que certains liens peuvent entraîner un transfert de données en dehors de l'Espace Économique Européen. Cela pourrait permettre aux autorités étrangères d'accéder à vos données. Vous pourriez ne pas disposer de recours juridiques contre un tel accès aux données. Si vous ne souhaitez pas que vos données personnelles soient transmises à la cible du lien ou exposées à l'accès d'autorités étrangères, veuillez ne cliquer sur aucun lien.
 
-Vous pouvez à tout moment adresser une plainte à une autorité de contrôle, par exemple l'autorité de contrôle compétente de l'État fédéral de votre lieu de résidence ou à l'autorité responsable pour nous en tant qu'organisme responsable.
+### Droits de la Personne Concernée
 
-Une liste des autorités de contrôle (pour le secteur non public) avec adresse peut être trouvée [ici](https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html).
+En tant que personne concernée au sens du RGPD, vous avez le droit d'exercer divers droits. Les droits de la personne concernée découlant du RGPD sont le droit d'accès (Article 15), le droit de rectification (Article 16), le droit à l'effacement (Article 17), le droit à la limitation du traitement (Article 18), le droit d'opposition (Article 21), le droit de déposer une réclamation auprès d'une autorité de contrôle et le droit à la portabilité des données (Article 20).
 
+### Droit de Retrait :
+Certains traitements de données ne peuvent être effectués qu'avec votre consentement exprès. Vous avez le droit de retirer votre consentement à tout moment. Toutefois, la licéité du traitement des données effectué jusqu'au retrait n'est pas affectée.
 
-## Données de contact
+### Droit d'Opposition :
 
-Si vous nous contactez par courrier, vos coordonnées seront enregistrées afin qu'elles puissent être utilisées pour traiter et répondre à votre demande.
+Si le traitement est fondé sur l'Art. 6(1)(e) ou (f) du RGPD, vous pouvez, en tant que personne concernée et pour des raisons tenant à votre situation particulière, vous opposer à tout moment au traitement de vos données personnelles. Ce droit s'applique également au profilage fondé sur ces dispositions au sens de l'Art. 4(4) du RGPD. À moins que nous puissions démontrer des motifs légitimes impérieux pour le traitement qui prévalent sur vos intérêts, droits et libertés, ou que le traitement serve à la constatation, l'exercice ou la défense de droits en justice, nous cesserons le traitement de vos données suite à une opposition.
+Si le traitement de données personnelles est effectué à des fins de marketing direct, vous avez également le droit de vous opposer à tout moment. Il en va de même pour le profilage lié au marketing direct. Dans ce cas également, nous cesserons le traitement des données personnelles dès que vous formulerez une opposition.
 
 
-## Collecte et utilisation des informations
+### Droit de Déposer une Réclamation auprès d'une Autorité de Contrôle :
 
-L'application et ce site web utilisent des services tiers qui peuvent collecter des informations permettant de vous identifier.
+Si vous estimez que le traitement de vos données personnelles viole le RGPD, vous avez le droit, sans préjudice de tout autre recours administratif ou juridictionnel, de déposer une réclamation auprès d'une autorité de contrôle, en particulier dans l'État membre de votre résidence habituelle, de votre lieu de travail ou du lieu de l'infraction présumée.
 
-### App
+### Droit à la Portabilité des Données :
+Si vos données font l'objet d'un traitement automatisé sur la base du consentement ou de l'exécution d'un contrat, vous avez le droit de recevoir ces données dans un format structuré, couramment utilisé et lisible par machine. Vous avez également le droit de demander le transfert et la fourniture des données à un autre responsable du traitement, dans la mesure où cela est techniquement réalisable.
 
-#### Firebase Authentication
+### Droit d'Accès, de Rectification et d'Effacement :
+Vous avez le droit d'obtenir des informations sur vos données personnelles traitées concernant la finalité du traitement, les catégories, les destinataires et la durée de conservation. Si vous avez des questions à ce sujet ou toute autre question concernant les données personnelles, n'hésitez pas à nous contacter en utilisant les coordonnées fournies dans les mentions légales.
 
-##### Type et but du traitement :
+### Droit à la Limitation du Traitement :
+Vous pouvez faire valoir la limitation du traitement de vos données personnelles à tout moment. Pour ce faire, vous devez remplir l'une des conditions suivantes :
 
-Lors de l'inscription et de l'utilisation de l'application, il est possible de transmettre une adresse e-mail. Nous recommandons d'utiliser la fonctionnalité "Masquer mon e-mail" d'Apple pour masquer l'adresse e-mail réelle.
+- Vous contestez l'exactitude des données personnelles. Pendant la durée de la vérification de l'exactitude, vous avez le droit de demander la limitation du traitement.
+- Si le traitement est illicite, vous pouvez demander la limitation de l'utilisation des données au lieu de l'effacement.
+- Si nous n'avons plus besoin de vos données personnelles aux fins du traitement, mais que vous avez besoin des données pour la constatation, l'exercice ou la défense de droits en justice, vous pouvez demander la limitation du traitement au lieu de l'effacement.
+- Si vous vous êtes opposé au traitement conformément à l'Art. 21(1) du RGPD, une mise en balance de vos intérêts et des nôtres sera effectuée. Jusqu'à ce que cette mise en balance soit achevée, vous avez le droit de demander la limitation du traitement.
 
-Elles sont traitées notamment pour la finalité suivante :
+La limitation du traitement signifie que les données personnelles, en dehors de la conservation, ne peuvent être traitées qu'avec votre consentement ou pour la constatation, l'exercice ou la défense de droits en justice, ou pour la protection des droits d'une autre personne physique ou morale, ou pour des motifs importants d'intérêt public de l'Union ou d'un État membre.
+## Traitement des Données Personnelles sur le Site Web
 
-- Identifier de manière unique un utilisateur et restaurer les données sur un appareil en cas de déconnexion, de changement d'appareil ou d'une nouvelle installation
+### Hébergement du Site Web (Hébergeur)
+Notre site web est hébergé par :
+Vercel Inc.
+440 N Barranca Ave #4133, Covina, CA 91723
+USA
 
-##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. f RGPD sur la base de notre intérêt légitime à fournir les fonctionnalités de notre application.
+Lorsque vous visitez notre site web, nous collectons et stockons automatiquement des informations dans des fichiers journaux du serveur. Votre navigateur transmet automatiquement ces informations à notre serveur ou au serveur de notre hébergeur.
+Cela comprend :
 
-##### Destinataire :
+- Adresse IP de l'appareil du visiteur
+- Appareil utilisé
+- Nom d'hôte de l'ordinateur accédant au site
+- Système d'exploitation du visiteur
+- Type et version du navigateur
+- Nom du fichier consulté
+- Heure de la requête du serveur
+- Quantité de données
+- Information sur le succès de la récupération des données
 
-Les données sont reçues par [Firebase, une entreprise Google](https://firebase.google.com), qui travaille en tant que sous-traitant pour l'exploitation et la maintenance de notre application. Visitez [la Politique de Confidentialité de Google](https://policies.google.com/privacy) ou [Firebase](https://firebase.google.com/support/privacy) pour plus d'informations et d'options d'opposition.
+Ces données ne sont pas fusionnées avec d'autres sources de données.
+Au lieu d'exploiter ce site web sur notre propre serveur, nous pouvons le faire exploiter sur le serveur d'un prestataire de services externe (société d'hébergement), que nous avons nommé ci-dessus. Les données personnelles collectées par ce site web sont alors stockées sur les serveurs de la société d'hébergement. En plus des données mentionnées ci-dessus, l'hébergeur stocke, par exemple, les demandes de contact, les coordonnées, les noms, les données d'accès au site web, les métadonnées et les données de communication, les données contractuelles et d'autres données générées via un site web.
+La base juridique du traitement de ces données est l'Art. 6(1)(f) du RGPD. Notre intérêt légitime est la présentation techniquement irréprochable et l'optimisation de ce site web. Si le site web est consulté pour entrer en négociations contractuelles ou conclure un contrat, la base juridique supplémentaire est l'Art. 6(1)(b) du RGPD. Dans le cas où nous avons engagé une société d'hébergement, un accord de traitement des données existe avec ce prestataire de services.
 
-##### Durée de stockage :
-Firebase Authentication conserve les informations d'authentification jusqu'à ce que vous supprimiez votre compte, après quoi les données sont supprimées dans un délai de 180 jours.
+### Utilisation de Services Externes
+Des services externes sont utilisés sur notre site web. Les services externes sont des services de fournisseurs tiers utilisés sur notre site web. Cela peut se produire pour diverses raisons, par exemple pour l'intégration de vidéos ou pour la sécurité du site web. Lors de l'utilisation de ces services, des données personnelles sont également transmises aux fournisseurs respectifs de ces services externes. Si nous n'avons pas d'intérêt légitime à utiliser ces services, nous obtiendrons votre consentement révocable en tant que visiteur de notre site web avant utilisation (Art. 6(1)(a) du RGPD).
 
-##### Fourniture requise ou obligatoire :
-La fourniture de votre adresse e-mail est volontaire, uniquement sur la base de votre consentement. Malheureusement, nous ne pouvons pas restaurer votre compte en cas de déconnexion, de changement d'appareil ou d'une nouvelle installation sans adresse e-mail.
+### Analytique
+Pour analyser le comportement des utilisateurs, nous traitons les données personnelles des visiteurs du site web. En évaluant les données obtenues, nous sommes en mesure de compiler des informations sur l'utilisation des différents composants de notre site web. Cela nous permet d'améliorer la convivialité de notre site web. Les outils d'analyse utilisés pourraient, par exemple, créer des profils d'utilisateurs pour la diffusion de messages publicitaires ciblés ou basés sur les centres d'intérêt, reconnaître les visiteurs de notre site web lors de leur prochaine visite, mesurer leur comportement de clic/défilement, les téléchargements, créer des cartes thermiques, suivre les pages vues, mesurer la durée de visite ou les taux de rebond, et retracer l'origine des visiteurs du site web (ville, pays, de quelle page le visiteur est venu). Avec l'aide des outils d'analyse, nos activités de recherche de marché et de marketing peuvent être améliorées.
+Le traitement n'a lieu que si vous consentez à ce traitement de données (via notre bannière de consentement sur le site web). La base juridique de ce traitement est le consentement (Art. 6(1)(a) du RGPD). Sans votre consentement, le traitement des données décrit ci-dessus n'aura pas lieu. Si vous retirez votre consentement (par exemple, via la bannière de consentement ou d'autres options fournies sur ce site web), nous cesserons ce traitement de données. La licéité du traitement effectué jusqu'au retrait n'est pas affectée.
 
-#### Firebase Realtime Database
+### Plateforme d'Avis
+Nous utilisons des plateformes d'avis pour afficher les avis collectés sur notre site web et ainsi instaurer la confiance parmi les utilisateurs. Les avis collectés sont publiés sur notre site web. Lorsque vous visitez le site web, une connexion est établie avec le fournisseur respectif et des données du visiteur du site web sont transmises. Les données personnelles traitées dans ce contexte comprennent, par exemple, l'adresse IP.
+La base juridique de ce traitement est notre intérêt légitime à afficher les avis sur les produits et les témoignages de clients (Art. 6(1)(f) du RGPD).
 
-##### Type et but du traitement :
+### Product Hunt
+Nous utilisons le service Product Hunt sur notre site web. Le fournisseur du service est Product Hunt, Inc., 90 Gold St, FLR 3, San Francisco, CA 94133, USA.
+L'utilisation de ce service peut entraîner un transfert de données vers un pays tiers (USA).
+De plus amples informations sont disponibles dans la politique de confidentialité du fournisseur à l'URL suivante : https://www.producthunt.com/legal#privacy.
 
-Lors de l'utilisation de l'application, il est nécessaire de fournir un nom. Nous recommandons de donner un pseudonyme qui peut être clairement attribué par tous dans le foyer. Il est également possible de transmettre des données sur vos dépenses et revenus personnels.
+### Réseau de Diffusion de Contenu (CDN)
+Nous utilisons un Réseau de Diffusion de Contenu (CDN) pour optimiser les performances et la disponibilité de notre site web. À cette fin, le prestataire de services qui fournit ce réseau traite votre adresse IP et l'information sur le moment où vous avez visité notre site web. Toutes les informations complémentaires sur le traitement des données par ce prestataire de services se trouvent dans son avis de confidentialité.
+Nous fondons ce traitement sur un intérêt légitime (Art. 6(1)(f) du RGPD).
+Notre intérêt légitime dans l'utilisation d'un Réseau de Diffusion de Contenu est de pouvoir présenter notre site web le plus rapidement, sûrement et fiablement possible.
 
-Elles sont traitées notamment pour les finalités suivantes :
+### CloudFlare
+Nous utilisons le service CloudFlare sur notre site web. Le fournisseur du service est Cloudflare Germany GmbH, Rosental 7, 80331 München, Allemagne.
+L'utilisation de ce service peut entraîner un transfert de données vers un pays tiers (USA). Le fournisseur est certifié dans le cadre du EU-U.S. Data Privacy Framework et offre donc un niveau adéquat de protection des données.
+De plus amples informations sont disponibles dans la politique de confidentialité du fournisseur à l'URL suivante : https://www.cloudflare.com/privacypolicy/.
 
-- Attribution des revenus et des dépenses à une personne du foyer
-- Vous présenter un aperçu et des informations sur vos finances personnelles
-- Partager des données avec les membres de votre foyer
+### Outils de Newsletter
+Dans le cadre de notre marketing, nous vous offrons la possibilité de vous abonner à notre newsletter via notre site web. Pour commander la newsletter, vous passez par un processus d'inscription au cours duquel nous vérifions que vous êtes le propriétaire de l'adresse e-mail indiquée et que vous acceptez de recevoir notre newsletter. Les données restent chez nous ou chez le service de newsletter que nous avons mandaté pendant la durée de votre abonnement volontaire jusqu'à votre désabonnement de la newsletter. Si vous vous désabonnez de la newsletter, vous serez retiré de la liste de diffusion. Cette liste n'est pas fusionnée avec d'autres données. Le désabonnement de la newsletter n'entraîne toutefois pas la suppression des données stockées à d'autres fins (par exemple, les comptes clients).
+Le traitement n'a lieu que si vous consentez à ce traitement de données (via notre bannière de consentement sur le site web). La base juridique de ce traitement est le consentement (Art. 6(1)(a) du RGPD). Sans votre consentement, le traitement des données décrit ci-dessus n'aura pas lieu. Si vous retirez votre consentement (par exemple, via la bannière de consentement ou d'autres options fournies sur ce site web), nous cesserons ce traitement de données. La licéité du traitement effectué jusqu'au retrait n'est pas affectée.
 
-##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. b RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
+### Mailerlite
+Nous utilisons le service Mailerlite sur notre site web. Le fournisseur du service est MailerLite Limited, Ground Floor, 71 Lower Baggot Street, Dublin 2, D02 P593, Irlande.
+L'utilisation de ce service peut entraîner un transfert de données vers un pays tiers (USA). Le fournisseur est certifié dans le cadre du EU-U.S. Data Privacy Framework et offre donc un niveau adéquat de protection des données.
+De plus amples informations sont disponibles dans la politique de confidentialité du fournisseur à l'URL suivante : https://www.mailerlite.com/legal/privacy-policy.
 
-##### Destinataire :
+### Contact par E-mail
+Nous avons mis à disposition une adresse e-mail sur notre site web conformément aux exigences légales. Les données transmises par ce canal sont automatiquement stockées par nous afin de traiter les demandes correspondantes ou de contacter la personne qui fait la demande. Ces données ne seront pas partagées avec des tiers sans votre consentement.
+Si vous nous contactez via notre adresse e-mail à des fins précontractuelles ou contractuelles, le traitement des données personnelles est fondé sur la base juridique de l'Art. 6(1)(b) du RGPD. Pour tous les autres contacts de votre part, le traitement des données personnelles par nous est fondé sur notre intérêt légitime conformément à l'Art. 6(1)(f) du RGPD.
 
-Les données sont reçues par [Firebase, une entreprise Google](https://firebase.google.com), qui travaille en tant que sous-traitant pour l'exploitation et la maintenance de notre application. Visitez [la Politique de Confidentialité de Google](https://policies.google.com/privacy) ou [Firebase](https://firebase.google.com/support/privacy) pour plus d'informations et d'options d'opposition.
+## Traitement des Données Personnelles dans l'Application (iOS/Android)
 
-##### Durée de stockage :
-Les données seront supprimées dès qu'elles ne seront plus nécessaires à la finalité de la collecte. C'est généralement le cas lorsque vous supprimez votre compte.
+### Mise à Disposition de l'Application
+Lors de l'utilisation de l'application, nous traitons des informations techniques nécessaires pour fournir l'application et la maintenir fonctionnelle. Cela peut inclure : les informations sur l'appareil, la version de l'application, l'heure d'utilisation, l'adresse IP le cas échéant, et les identifiants techniquement nécessaires.
+La base juridique est l'Art. 6(1)(b) du RGPD (contrat/relation d'utilisation), dans la mesure où le traitement est nécessaire à l'utilisation de l'application ; sinon l'Art. 6(1)(f) du RGPD (intérêt légitime en matière de sécurité, stabilité et correction des erreurs).
 
-##### Fourniture requise ou obligatoire :
-La fourniture de votre nom et de vos données financières est volontaire, uniquement sur la base de votre consentement. Malheureusement, nous ne pouvons pas fournir de fonctionnalité utile sans ces données.
+### Firebase Authentication
+Lors de l'inscription et de l'utilisation de l'application, il est possible de se connecter en tant qu'invité ou via « Se connecter avec Apple » (iOS) ou « Se connecter avec Google » (Android). Selon la méthode de connexion choisie, un identifiant technique de l'utilisateur (par exemple, Firebase UID) et, le cas échéant, une adresse e-mail sont traités (pour Apple, il peut également s'agir d'une adresse de transfert fournie par Apple, telle que « Masquer mon e-mail »).
 
-#### Firebase Crashlytics
+Les données sont traitées notamment aux fins suivantes :
 
-##### Type et but du traitement :
+- Identification unique d'un compte utilisateur,
+- Connexion et gestion du compte,
+- Restauration de l'accès (par exemple, après déconnexion, changement d'appareil ou réinstallation).
 
-En cas de plantage de l'application, des données seront collectées. Cela peut inclure : 
+Le traitement est effectué conformément à l'Art. 6(1)(b) du RGPD, car il est nécessaire à l'exécution de la relation d'utilisation.
 
-- UUIDs d'installation Crashlytics
-- Traces de plantage
-- Données formatées en minidump Breakpad
+Les données sont traitées par Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irlande), qui agit en tant que sous-traitant pour l'exploitation et la maintenance de l'authentification. L'utilisation de ce service peut entraîner un transfert de données vers un pays tiers (USA). Le fournisseur est certifié dans le cadre du EU-U.S. Data Privacy Framework et offre donc un niveau adéquat de protection des données.
 
-Elles sont traitées notamment pour les finalités suivantes :
+Les données d'authentification sont généralement conservées jusqu'à la suppression du compte, puis supprimées avec un délai dans le cadre de routines techniques.
 
-- Débogage des plantages de l'application
-- Accessibilité fiable et garantie de toutes les fonctionnalités de l'application
+La mise à disposition est nécessaire pour l'utilisation des fonctionnalités de l'application. Sans authentification, l'application ne peut pas être utilisée ou ne peut être utilisée que de manière limitée.
 
-##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. f RGPD sur la base de notre intérêt légitime à améliorer les fonctionnalités de notre application.
+### Firebase Realtime Database
+Lors de l'utilisation de l'application, le contenu que vous saisissez est stocké dans la Firebase Realtime Database. Cela comprend notamment :
 
-##### Destinataire :
+- Montants, statut « réglé/non réglé », date, catégories, intervalles pour les transactions récurrentes,
+- Descriptions (champ de texte libre),
+- Personne (généralement un pseudonyme ; un nom réel peut également être saisi),
+- Noms de comptes, devise du compte, fuseau horaire.
 
-Les données sont reçues par [Firebase, une entreprise Google](https://firebase.google.com), qui travaille en tant que sous-traitant pour l'exploitation et la maintenance de notre application. Visitez [la Politique de Confidentialité de Google](https://policies.google.com/privacy) ou [Firebase](https://firebase.google.com/support/privacy) pour plus d'informations et d'options d'opposition.
+Les données sont traitées notamment aux fins suivantes :
 
-##### Durée de stockage :
-Les données sont supprimées dans un délai de 90 jours.
+- Attribution des revenus et dépenses aux personnes/profils,
+- Affichage des aperçus et évaluations,
+- Synchronisation et utilisation des données dans le compte/foyer respectif (si ces fonctionnalités sont utilisées).
 
-##### Fourniture requise ou obligatoire :
-La fourniture des données susmentionnées n'est ni légalement ni contractuellement requise. Sans les données, cependant, le service et la fonctionnalité de notre application ne sont pas garantis.
+Le traitement est effectué conformément à l'Art. 6(1)(b) du RGPD, car il est nécessaire à l'exécution de la relation d'utilisation.
 
-#### Brevo
+Les données sont traitées par Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irlande), qui agit en tant que sous-traitant pour l'exploitation et la maintenance de la base de données. L'utilisation de ce service peut entraîner un transfert de données vers un pays tiers (USA). Le fournisseur est certifié dans le cadre du EU-U.S. Data Privacy Framework et offre donc un niveau adéquat de protection des données.
 
-##### Type et but du traitement :
+L'emplacement de stockage sélectionné est europe-west1.
 
-Lorsque vous utilisez l'app, vous pouvez vous connecter avec Google ou Apple. Nous utilisons l'adresse e-mail associée pour vous envoyer un e-mail d'information si la suppression de votre compte est planifiée.
+Les données seront supprimées dès qu'elles ne seront plus nécessaires à la réalisation de la finalité pour laquelle elles ont été collectées. C'est notamment le cas :
 
-Ces données sont traitées uniquement pour :
+- lorsque vous supprimez votre compte, ou
+- lorsqu'un profil est inactif depuis 12 mois (suppression pour inactivité).
 
-- vous informer en amont de la suppression prévue de votre compte après une longue période d'inactivité et vous laisser la possibilité d'y répondre. Les données traitées à cette fin sont votre adresse e-mail, votre nom d'utilisateur et la date prévue de suppression du compte.
+Sans le stockage de ce contenu, nous ne pouvons pas fournir les fonctionnalités essentielles de l'application (enregistrement, aperçu, évaluation).
 
-##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. b RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
+### Firebase Crashlytics
+En cas de plantage de l'application, des données de diagnostic sont traitées. Cela peut inclure :
 
-##### Destinataire :
-Les données sont reçues par [Brevo](https://www.brevo.com/fr/) (anciennement Sendinblue), un prestataire de services e-mail qui agit en tant que sous-traitant pour l'envoi de ces e-mails d'information. Consultez la [Politique de Confidentialité de Brevo](https://www.brevo.com/fr/legal/privacypolicy/) pour plus d'informations et d'options d'opposition.
+- Identifiants d'installation Crashlytics,
+- Journaux de plantage et d'erreurs (par exemple, crash traces / données minidump),
+- Informations techniques sur l'appareil et l'application,
+- Firebase UID (si techniquement lié).
 
-##### Durée de stockage :
-Les journaux d'envoi des e-mails sont supprimés après un mois.
+Les données sont traitées notamment aux fins suivantes :
 
-##### Fourniture requise ou obligatoire :
-La fourniture de ces données personnelles n'est ni exigée par la loi ni contractuellement. Sans adresse e-mail, nous ne pouvons pas vous envoyer de préavis concernant la suppression planifiée de votre compte.
+- Débogage des plantages de l'application,
+- Amélioration de la stabilité et de la fonctionnalité de l'application.
 
-### Web
+Le traitement est effectué conformément à l'Art. 6(1)(f) du RGPD, sur la base de notre intérêt légitime à disposer d'une application sûre et stable.
 
-#### Vercel
+Les données sont traitées par Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irlande), qui agit en tant que sous-traitant pour l'exploitation et la maintenance. L'utilisation de ce service peut entraîner un transfert de données vers un pays tiers (USA). Le fournisseur est certifié dans le cadre du EU-U.S. Data Privacy Framework et offre donc un niveau adéquat de protection des données.
 
-##### Type et but du traitement :
-Si vous accédez à ce site web, c'est-à-dire si vous ne vous enregistrez pas ou ne fournissez pas d'autres informations, des informations de nature générale sont automatiquement collectées. Ces informations (fichiers journaux du serveur) incluent, par exemple, le type de navigateur web, le système d'exploitation utilisé, le nom de domaine de votre fournisseur de services Internet, votre adresse IP et autres.
+Les données Crashlytics sont conservées pendant une période limitée puis supprimées (régulièrement dans les 90 jours, selon la configuration).
 
-Elles sont traitées notamment pour les finalités suivantes :
+Sans ces données, l'analyse des erreurs et l'amélioration de la stabilité sont limitées.
 
-- Assurer une connexion sans problème au site web,
-- Assurer une utilisation fluide de ce site web,
-- Évaluation de la sécurité et de la stabilité du système ainsi que
-à d'autres fins administratives.
-- Nous n'utilisons pas vos données pour tirer des conclusions sur vous personnellement. Les informations de ce type peuvent être évaluées statistiquement par nous afin d'optimiser ce site web et la technologie qui le sous-tend.
+### Brevo (Notification par E-mail avant la Suppression du Compte)
+Si une adresse e-mail est associée à votre compte (par exemple, via la connexion avec Apple/Google), nous l'utilisons pour vous envoyer une notification par e-mail en cas de suppression prochaine du compte en raison d'une inactivité prolongée.
 
-##### Base juridique :
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. b RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
+À cette fin, nous traitons :
 
-##### Destinataire :
-Les données sont reçues par [Vercel](https://vercel.com/blog/what-is-vercel) qui travaille en tant que sous-traitant pour l'exploitation et la maintenance de ce site web. Visitez [les Pratiques Mondiales de Confidentialité de Vercel](https://vercel.com/legal/privacy-policy) pour plus d'informations et d'options d'opposition.
+- Adresse e-mail,
+- Pseudonyme/nom d'utilisateur,
+- Date de suppression prévue,
+- Fuseau horaire (par exemple, Europe/Berlin) pour la localisation de l'e-mail.
 
-##### Durée de stockage :
-Les données seront supprimées dès qu'elles ne seront plus nécessaires à la finalité de la collecte. C'est généralement le cas pour les données utilisées pour fournir le site web lorsque la session respective est terminée.
+Le traitement est effectué conformément à l'Art. 6(1)(b) du RGPD, car il est nécessaire à l'exécution de la relation d'utilisation (gestion du compte/communication).
 
-##### Fourniture requise ou obligatoire :
-La fourniture des données personnelles susmentionnées n'est ni légalement ni contractuellement requise. Sans l'adresse IP, cependant, le service et la fonctionnalité de ce site web ne sont pas garantis. De plus, certains services et fonctionnalités peuvent ne pas être disponibles ou être limités. Pour cette raison, une opposition est exclue.
+Les données sont traitées par Brevo (Sendinblue SAS, 17 rue de Salneuve, 75017 Paris, France) en tant que sous-traitant, qui effectue l'envoi des e-mails de notification pour notre compte.
 
-#### PostHog Analytics
+### RevenueCat (Prestataire de Services de Paiement)
+Nous intégrons le service de paiement RevenueCat dans notre application. Le fournisseur de ce service est RevenueCat.com, 631-633 Taraval St #101, San Francisco, États-Unis.
 
-##### Champ du traitement des données
-Nous utilisons PostHog sur notre site web. PostHog est un outil d’analyse open source de PostHog Inc. qui nous permet de collecter et d’analyser des données relatives à l’utilisation de notre site par les visiteurs. Ces données servent à améliorer notre site et à garantir une meilleure expérience utilisateur.
+Lorsque vous effectuez un achat chez nous, vos données de paiement (par exemple, nom, montant du paiement, coordonnées bancaires, numéro de carte de crédit) sont transmises à RevenueCat et traitées par eux aux fins du traitement du paiement. Les conditions générales et politiques de confidentialité respectives de RevenueCat s'appliquent à ce traitement. Les détails sont disponibles dans la politique de confidentialité de RevenueCat au lien suivant : https://www.revenuecat.com/privacy/.
 
-Lorsque vous visitez notre site, PostHog collecte des informations telles que les pages consultées, le temps passé sur ces pages, le site d’origine, le type d’appareil, le navigateur et le système d’exploitation utilisés, ainsi que diverses données d’interaction. Ces données sont stockées sur des serveurs de PostHog Inc. aux États-Unis.
-
-##### Base juridique du traitement des données
-La base juridique du traitement des données des utilisateurs est l'art. 6, par. 1, point b), du RGPD car il est nécessaire à l'exécution d'un contrat avec vous.
-
-##### Finalité du traitement des données
-PostHog est utilisé pour analyser l’utilisation de notre site web et améliorer en continu certaines fonctionnalités et offres. L’évaluation statistique du comportement des utilisateurs nous permet d’améliorer notre offre et de la rendre plus intéressante pour vous.
-
-##### Durée de conservation
-Les données sont supprimées dès qu’elles ne sont plus nécessaires aux fins de leur collecte. Dans notre cas, au bout de 14 mois.
-
-##### Droit d’opposition et options de suppression
-Vous pouvez empêcher la collecte et l’utilisation de vos données par PostHog en définissant un cookie d’opt-out qui empêche l’enregistrement de vos données lors de vos visites futures sur ce site.
-
-Vous pouvez empêcher la collecte des données générées par le cookie et liées à votre utilisation du site (y compris votre adresse IP) ainsi que le traitement de ces données par PostHog en suivant les instructions figurant sur le site suivant : [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
-
-Veuillez noter qu’en cas de suppression des cookies dans les réglages du navigateur, le cookie d’opt-out peut également être supprimé et devra éventuellement être réactivé.
-
-#### MailerLite
-
-##### Type et but du traitement :
-
-Si vous vous abonnez à notre newsletter ou à nos mises à jour par e-mail via notre site web, nous collecterons votre adresse e-mail (et toute information que vous fournissez à cette fin) via un formulaire d'inscription géré par MailerLite. Ces données sont utilisées exclusivement pour gérer votre abonnement et vous envoyer la newsletter ou les mises à jour que vous avez demandées. Elles sont traitées notamment pour la finalité suivante :
-Vous envoyer périodiquement des e-mails de newsletter concernant les mises à jour de produits, les offres ou les actualités pertinentes auxquelles vous vous êtes inscrit, et gérer vos préférences d'abonnement (comme honorer les demandes de désabonnement).
-
-##### Base juridique :
-
-Le traitement est effectué conformément à l'Art. 6 Par. 1 lit. a RGPD, sur la base de votre consentement à recevoir notre newsletter. (En d'autres termes, nous ne collecterons et n'utiliserons votre e-mail à cette fin que si vous vous êtes activement abonné. Vous pouvez retirer votre consentement à tout moment en vous désabonnant de la newsletter.)
-
-##### Destinataire :
-
-Les données sont reçues par MailerLite, un fournisseur de services de marketing par e-mail, qui agit en tant que sous-traitant en notre nom pour la gestion des abonnements à la newsletter et la distribution des e-mails. MailerLite stocke votre adresse e-mail sur ses serveurs sécurisés. Ces serveurs peuvent être situés en dehors de l'Espace Économique Européen (par exemple, aux États-Unis), mais MailerLite garantit que tout transfert de données personnelles en dehors de l'EEE est protégé par des garanties appropriées conformément aux lois européennes sur la protection des données – par exemple, par l'utilisation des Clauses Contractuelles Types de l'UE (CCT). Visitez [la Politique de Confidentialité de MailerLite](https://www.mailerlite.com/legal/privacy-policy) pour plus d'informations sur la façon dont MailerLite traite et protège les données personnelles.
-
-##### Durée de stockage :
-
-Nous conserverons votre adresse e-mail uniquement tant que vous resterez abonné à notre newsletter. Vous pouvez vous désabonner à tout moment en utilisant le lien de désabonnement fourni dans chaque e-mail ou en nous contactant directement. Si vous vous désabonnez ou demandez la suppression de vos données, votre adresse e-mail sera rapidement supprimée de notre liste de diffusion et effacée du système de MailerLite. De même, si nous arrêtons notre service de newsletter, nous supprimerons toutes les données d'abonnement par e-mail associées.
-
-##### Fourniture requise ou obligatoire :
-
-La fourniture de votre adresse e-mail pour le service de newsletter est entièrement volontaire et ni légalement ni contractuellement requise. Le fait de ne pas s'abonner (ou de se désabonner ultérieurement) signifie simplement que vous ne recevrez pas nos e-mails de newsletter, mais cela n'affectera pas votre capacité à utiliser d'autres fonctionnalités de notre Service. Votre décision de fournir ou de retenir un e-mail à cette fin n'a aucun impact sur votre utilisation de l'application Monee ou du site web de quelque autre manière que ce soit. Cet ajout s'aligne sur notre engagement envers la transparence et la conformité au RGPD, garantissant que vous êtes informé de la façon dont nous traitons votre adresse e-mail à des fins de newsletter.
-
-## Sécurité
-
-Nous valorisons votre confiance en nous fournissant vos Informations Personnelles, c'est pourquoi nous nous efforçons d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre et fiable à 100%, et nous ne pouvons pas garantir sa sécurité absolue.
-
-## Liens vers d'autres sites
-
-Ce Service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez dirigé vers ce site. Notez que ces sites externes ne sont pas exploités par nous. Par conséquent, nous vous conseillons vivement de consulter la Politique de Confidentialité de ces sites web. Nous n'avons aucun contrôle et n'assumons aucune responsabilité pour le contenu, les politiques de confidentialité ou les pratiques des sites ou services tiers.
-
-## Confidentialité des enfants
-
-Ces Services ne s'adressent à personne de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnellement identifiables d'enfants de moins de 13 ans. Dans le cas où nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures nécessaires.
-
-## Modifications de cette Politique de Confidentialité
-
-Nous pouvons mettre à jour notre Politique de Confidentialité de temps à autre. Ainsi, il vous est conseillé de consulter cette page périodiquement pour tout changement. Nous vous informerons de tout changement en publiant la nouvelle Politique de Confidentialité sur cette page.
-
-Cette politique est effective à partir du 14 mai 2022.
+L'utilisation est fondée sur l'Art. 6(1)(b) du RGPD (exécution du contrat) et dans l'intérêt d'un processus de paiement fluide, pratique et sécurisé (Art. 6(1)(f) du RGPD). Le transfert de données vers les USA est fondé sur les Clauses Contractuelles Types de la Commission européenne. Les détails sont disponibles ici : https://www.revenuecat.com/dpa/.

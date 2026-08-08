@@ -2,10 +2,12 @@ import "@/styles/globals.scss";
 import { TranslationsProvider } from "@/context/TranslationsContext";
 import { useEffect, useRef } from "react";
 import { useRouter } from "next/router";
-import posthog from "posthog-js";
-import { PostHogProvider } from "posthog-js/react";
+// --- POSTHOG DISABLED: To re-enable, run `npm install posthog-js@1.335.2` and uncomment the lines below ---
+// import posthog from "posthog-js";
+// import { PostHogProvider } from "posthog-js/react";
 
-let posthogInitialized = false;
+// let posthogInitialized = false;
+// --- END POSTHOG DISABLED ---
 
 export default function App({ Component, pageProps }) {
   // Extract translations from pageProps
@@ -13,6 +15,8 @@ export default function App({ Component, pageProps }) {
   const router = useRouter();
   const leaveSentRef = useRef(false);
 
+  // --- POSTHOG DISABLED: uncomment to re-enable analytics ---
+  /*
   // Initialize PostHog in the browser only
   useEffect(() => {
     if (typeof window === "undefined") return;
@@ -91,13 +95,15 @@ export default function App({ Component, pageProps }) {
       window.removeEventListener("pagehide", capturePageLeave);
     };
   }, [router.events]);
+  */
+  // --- END POSTHOG DISABLED ---
   
   // Wrap with TranslationsProvider for global access
   return (
-    <PostHogProvider client={posthog}>
-      <TranslationsProvider translations={globalTranslations}>
-        <Component {...restPageProps} />
-      </TranslationsProvider>
-    </PostHogProvider>
+    // --- POSTHOG DISABLED: wrap with <PostHogProvider client={posthog}> to re-enable ---
+    <TranslationsProvider translations={globalTranslations}>
+      <Component {...restPageProps} />
+    </TranslationsProvider>
+    // --- END POSTHOG DISABLED ---
   );
 }

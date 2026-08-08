@@ -1,232 +1,221 @@
-**Letzte Aktualisierung**
-<br>1\. Februar 2026
+**Letzte Aktualisierung**\
+16\. Februar 2026
 
-# Datenschutz
+# Datenschutzhinweise gemäß Art. 13 DSGVO
 
-Monee hat die Monee-App als Freemium-App entwickelt. Dieser SERVICE wird von Monee kostenlos zur Verfügung gestellt und ist zur Verwendung so wie sie ist bestimmt.
+## Allgemeines zur Datenverarbeitung
 
-Diese Seite wird verwendet, um Besucher über unsere Richtlinien zur Erfassung, Verwendung und Offenlegung personenbezogener Daten zu informieren, falls sich jemand für die Nutzung unseres Dienstes entschieden hat.
+### Name und Anschrift des Verantwortlichen
+Verantwortliche Stelle im Sinne der Datenschutz-Grundverordnung (DSGVO) und anderer datenschutzrechtlicher Bestimmungen ist:\
+Stephan Lerner\
+Oldesloer Weg 9\
+21614 Buxtehude
 
-Wenn Sie sich entscheiden, unseren Service zu nutzen, stimmen Sie der Erfassung und Nutzung von Informationen in Bezug auf diese Richtlinie zu. Die von uns erfassten personenbezogenen Daten werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Wir werden Ihre Informationen nicht verwenden oder an Dritte weitergeben, außer wie in dieser Datenschutzrichtlinie beschrieben.
+E-Mail: info@monee-app.com
 
-Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
+### Rechtsgrundlage für die Verarbeitung personenbezogener Daten
 
-Stephan Lerner
+Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Sofern die Rechtsgrundlage im Datenschutzhinweis nicht genau genannt wird, gilt Folgendes:
+Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a i.V.m. Art. 7 DSGVO. Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Maßnahmen sowie zur Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO. Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO. Ist die Verarbeitung Ihrer Daten zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich und überwiegen die Interessen, Grundrechte und Grundfreiheiten des Betroffenen das erstgenannte Interesse nicht, so dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage für die Verarbeitung. Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.
 
-Wenn Sie Fragen oder Anregungen zu unserer Datenschutzrichtlinie haben, zögern Sie nicht, uns unter <{{ site.email_address }}> zu kontaktieren.
+### Datenlöschung und Speicherdauer
 
-## Ihre Rechte
+Wir halten uns an die Grundsätze der Datenminimierung gem. Art. 5 Abs. 1 lit. c DSGVO und Speicherbegrenzung gem. Art. 5 Abs. 1 lit. e DSGVO. Wir speichern Ihre personenbezogenen Daten nur so lange, wie dies zur Erreichung der hier genannten Zwecke erforderlich ist oder wie es die vom Gesetzgeber vorgesehenen Aufbewahrungsfristen vorsehen. Nach Wegfall des jeweiligen Zwecks bzw. nach Ablauf dieser Aufbewahrungsfristen, werden die entsprechenden Daten schnellstmöglich gelöscht.
 
-Unter den oben angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausüben:
+### Hinweis zur Datenweitergabe an Drittstaaten
+Auf unserer Website sind auch Tools von Unternehmen mit Sitz in Drittstaaten eingebunden. Sind diese Tools aktiv, können Ihre personenbezogenen Daten an die Server der jeweiligen Unternehmen übermittelt werden. Das Datenschutzniveau in Drittstaaten entspricht in der Regel nicht dem EU-Datenschutzrecht. Damit besteht das Risiko, dass Ihre Daten an Behörden dieser Staaten weitergegeben werden. Einfluss auf diese Verarbeitungstätigkeiten haben wir nicht.
 
-- Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),
-- Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),
-- Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),
-- Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten nicht löschen dürfen (Art. 18 DSGVO),
-- Widerspruch gegen die Verarbeitung Ihrer Daten durch uns (Art. 21 DSGVO) und
-- Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
-Wenn Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit widerrufen.
+### Externe Links
+Diese Webseite kann Links zu Webseiten Dritter bzw. zu anderen Webseiten in unserer Verantwortung enthalten. Folgen Sie einem Link zu einer der Webseiten außerhalb unserer Verantwortung, beachten Sie bitte, dass diese Webseiten über ihre eigenen Datenschutzinformationen verfügen. Für diese fremden Webseiten und deren Datenschutzhinweise übernehmen wir keine Verantwortung oder Haftung. Überprüfen Sie daher vor Nutzung dieser Webseiten, ob Sie mit den dortigen Datenschutzerklärungen einverstanden sind.
+Externe Links erkennen Sie entweder daran, dass sie farblich etwas abgesetzt vom restlichen Text oder unterstrichen dargestellt werden. Ihr Cursor zeigt Ihnen externe Links an, wenn Sie diesen über einen solchen Link bewegen. Erst wenn Sie auf einen externen Link klicken, werden Ihre personenbezogenen Daten zum Ziel des Links übertragen. Dabei erhält der Betreiber der anderen Webseite insbesondere Ihre IP-Adresse, den Zeitpunkt, zu dem Sie den Link angeklickt haben, die Seite, auf der Sie den Link angeklickt haben, sowie weitere Informationen, die Sie in den Datenschutzhinweisen des jeweiligen Anbieters finden. 
+Bitte beachten Sie auch, dass einzelne Links zu einer Datenübermittlung außerhalb des europäischen Wirtschaftsraums führen können. Hierdurch könnten ausländische Behörden Zugriff auf Ihre Daten erhalten. Möglicherweise stehen Ihnen keine Rechtsbehelfe gegen diese Datenzugriffe zu. Wenn Sie nicht möchten, dass Ihre personenbezogenen Daten zum Linkziel übertragen werden oder gar unerwünscht dem Zugriff ausländischer Behörden ausgesetzt werden, klicken Sie bitte keine Links an. 
 
-Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z.B. die zuständige Aufsichtsbehörde des Bundeslandes Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.
+### Rechte der betroffenen Person
 
-Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie [hier] (https://www.bfdi.bund.de/DE/Service/Anschriften/anschriften_table.html).
+Als Betroffener im Sinne der DSGVO haben Sie die Möglichkeit verschiedene Rechte geltend zu machen. Die sich aus der DSGVO ergebenden Betroffenenrechte sind das Auskunftsrecht (Artikel 15), das Recht auf Berichtigung (Artikel 16), das Recht auf Löschung (Artikel 17), das Recht auf Einschränkung der Verarbeitung (Artikel 18), das Widerspruchsrecht (Artikel 21), das Recht auf Beschwerde bei einer Aufsichtsbehörde und das Recht auf Datenübertragbarkeit (Artikel 20).
 
+### Widerrufsrecht:
+Einige Datenverarbeitungen können nur mit Ihrer ausdrücklichen Einwilligung erfolgen. Sie haben jederzeit die Möglichkeit Ihre erteilte Einwilligung zu widerrufen. Die Rechtmäßigkeit der Datenverarbeitung bis zum Widerruf wird durch diesen allerdings nicht berührt.
 
-## Kontaktdaten
+### Widerspruchsrecht:
 
-Bei Ihrer Kontaktaufnahme per E-Mail werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung und Beantwortung Ihrer Anfrage zurückgegriffen werden kann.
+Beruht die Verarbeitung auf Art. 6 Absatz 1 lit. e oder f DSGVO, können Sie als Betroffener, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten widersprechen. Dieses Recht steht Ihnen auch bei auf diese Bestimmungen gestütztem Profiling iSd Art. 4 Z 4 DSGVO zu. Sofern wir kein Berechtigtes Interesse für die Verarbeitung nachweisen können, welche Ihre Interessen, Rechte und Freiheiten überwiegen oder eine Verarbeitung, der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient, werden wir die Verarbeitung ihrer Daten nach erfolgten Widerspruch unterlassen.
+Dient die Verarbeitung von personenbezogenen Daten der Betreibung von Direktwerbung, so haben Sie auch das Recht, jederzeit Widerspruch zu erheben. Dasselbe gilt für Profiling, welches mit Direktwerbung in Verbindung steht. Auch hier werden wir personenbezogene Daten nicht mehr verarbeiten, sobald Sie Widerspruch erheben.
 
 
-## Erfassung und Verwendung von Informationen
+### Recht auf Beschwerde bei einer Aufsichtsbehörde:
 
-Die App und diese Website verwenden Dienste von Drittanbietern, die Informationen sammeln können, die zu Ihrer Identifizierung verwendet werden.
+Wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt, steht Ihnen unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedsstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu.
 
-### App
+### Recht auf Datenübertragbarkeit:
+Werden Ihre Daten aufgrund einer Einwilligung oder Erfüllung eines Vertrages automatisiert verarbeitet, haben Sie das Recht, diese Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem haben Sie das Recht, die Übertragung und Bereitstellung der Daten an einen anderen Verantwortlichen zu fordern, soweit dies technisch umsetzbar ist.
 
-#### Firebase Authentication
+### Recht auf Auskunft, Berichtigung und Löschung:
+Sie haben das Recht, Auskunft über Ihre verarbeiteten personenbezogenen Daten bezüglich des Zwecks der Datenverarbeitung, der Kategorien, der Empfänger sowie der Dauer der Speicherung zu erhalten. Bei Fragen zu diesem Thema oder auch zu anderen Themen bezüglich personenbezogener Daten können Sie sich selbstverständlich über die im Impressum angegebenen Kontaktmöglichkeiten an uns wenden.
 
-##### Art und Zweck der Verarbeitung:
+### Recht auf Einschränkung der Verarbeitung:
+Sie können jederzeit die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten geltend machen. Dazu müssen Sie eine der folgenden Voraussetzungen erfüllen:
 
-Bei der Registrierung und Nutzung der App ist die Übermittlung einer E-Mail-Adresse möglich. Wir empfehlen die Verwendung der „Hide my email“-Funktion von Apple, um die tatsächliche E-Mail-Adresse zu verbergen.
+- Sie bestreiten die Richtigkeit der personenbezogenen Daten. Für die Dauer der Überprüfung der Richtigkeit haben Sie das Recht, eine Einschränkung der Verarbeitung zu verlangen.
+- Erfolgt eine Verarbeitung unrechtmäßig, so können Sie alternativ zur Löschung die Einschränkung der Nutzung der Daten beantragen.
+- Sollten wir Ihre personenbezogenen Daten für die Zwecke der Verarbeitung nicht mehr benötigen, Sie aber die Daten für die Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen, können Sie alternativ zur Löschung, die Einschränkung der Verarbeitung beantragen.
+- Legen Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO ein, wird eine Abwägung zwischen Ihren und unseren Interessen durchgeführt. Bis diese Abwägung erfolgt ist, haben Sie das Recht, die Einschränkung der Verarbeitung zu beantragen.
 
-Sie wird insbesondere zu folgenden Zwecken verarbeitet:
+Eine Einschränkung der Verarbeitung hat zur Folge, dass die personenbezogenen Daten, abgesehen von der Speicherung, nur mit Ihrer Einwilligung oder zur Geltendmachung, zur Ausübung bzw. Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Union oder eines Mitgliedstaates verarbeitet werden dürfen.
+## Verarbeitung personenbezogener Daten auf der Website
 
-- Eindeutige Identifizierung eines Benutzers und Wiederherstellung von Daten auf einem Gerät im Falle einer Abmeldung, eines Gerätewechsels oder einer Neuinstallation
+### Bereitstellung der Webseite (Webhoster)
+Unsere Webseite wird gehostet bei:
+Vercel Inc.
+440 N Barranca Ave #4133, Covina, CA 91723
+USA
 
-##### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
+Wenn Sie unsere Webseite aufrufen, erheben und speichern wir automatisch Informationen in sogenannten Server-Logfiles. Diese Informationen übermittelt Ihr Browser automatisch an unseren Server bzw. an den Server unseres Hostingunternehmens.
+Dies sind:
 
-##### Empfänger:
+- IP-Adresse des Endgerätes des Webseitenbesuchers
+- Verwendetes Gerät
+- Hostname des zugreifenden Rechners
+- Betriebssystem des Besuchers
+- Browsertyp und Version
+- Name der abgerufenen Datei
+- Zeitpunkt der Serveranfrage
+- Menge der Daten
+- Information, ob der Abruf der Daten erfolgreich war
 
-Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com), empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
+Diese Daten werden nicht mit anderen Datenquellen zusammengeführt.
+Statt diese Webseite auf einem eigenen Server zu betreiben, können wir sie auch auf dem Server eines externen Dienstleisters (Hostingunternehmen) betreiben lassen, den wir in diesem Fall weiter oben genannt haben. Die von dieser Webseite erfassten personenbezogenen Daten werden dann auf den Servern des Hostingunternehmens gespeichert. Ergänzend zu den oben genannten Daten speichert der Webhoster für uns z.B. auch Kontaktanfragen, Kontaktdaten, Namen, Webseitezugriffsdaten, Meta- und Kommunikationsdaten, Vertragsdaten und sonstige Daten, die über eine Website generiert werden.
+Rechtsgrundlage für die Verarbeitung dieser Daten ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse ist die technisch fehlerfreie Darstellung und Optimierung dieser Webseite. Sofern die Webseite aufgerufen wird, um mit uns in Vertragsverhandlungen zu gehen oder einen Vertrag abzuschließen, dient als weitere Rechtsgrundlage (Art. 6 Abs. 1 lit. b DSGVO).  Für den Fall, dass wir ein Hostingunternehmen beauftragt haben, besteht ein Vertrag über Auftragsverarbeitung mit diesem Dienstleister.
 
-##### Speicherdauer:
-Firebase Authentication speichert Authentifizierungsinformationen, bis Sie Ihr Konto löschen, danach werden die Daten innerhalb von 180 Tagen entfernt.
+### Einsatz von externen Diensten
+Auf unserer Webseite sind externe Dienste im Einsatz. Externe Dienste sind Dienste von Drittanbietern, die auf unserer Webseite eingesetzt werden. Dies kann aus unterschiedlichen Gründen erfolgen, beispielsweise für das Einbetten von Videos oder zur Sicherheit der Webseite. Bei der Benutzung dieser Dienste werden personenbezogene Daten auch an die jeweiligen Anbieter dieser externen Dienste weitergegeben. Wenn wir kein berechtigtes Interesse am Einsatz dieser Dienste haben, holen wir vor der Verwendung Ihre jederzeit widerrufbare Einwilligung als Besucher unserer Webseite ein (Art. 6 Abs. 1 lit. a DSGVO).
 
-##### Bereitstellung erforderlich oder vorgeschrieben:
-Die Bereitstellung Ihrer E-Mail-Adresse erfolgt freiwillig, ausschließlich auf Grundlage Ihrer Einwilligung. Leider können wir Ihren Account bei einem Logout, Gerätewechsel oder einer Neuinstallation ohne E-Mail-Adresse nicht wiederherstellen.
+### Analytics
+Zur Analyse des Nutzerverhaltens verarbeiten wir personenbezogene Daten der Webseitenbesucher. Wir sind durch die Auswertung der gewonnenen Daten in der Lage, Informationen über die Nutzung der einzelnen Komponenten unserer Webseite zusammenzustellen. Hierdurch können wir die Nutzerfreundlichkeit unserer Webseite erhöhen. Mittels der eingesetzten Analyse-Tools könnten z.B. Nutzerprofile für die Ausspielung zielgerichteter oder interessenbezogener Werbebotschaften erstellt, unsere Webseitenbesucher beim nächsten Besuch unserer Webseite erkannt, ihr Klick-/Scrollverhalten, ihre Downloads gemessen, Heatmaps erstellt, Seitenaufrufe erkannt, die Besuchsdauer oder die Absprungraten gemessen, sowie die Herkunft der Webseitenbesucher (Stadt, Land, von welcher Seite kommt der Besucher) zurückverfolgt werden. Mit Hilfe der Analyse-Tools lassen sich unsere Marktforschungs- und Marketingaktivitäten verbessern.
+Zu einer Verarbeitung kommt es nur, wenn Sie in diese Datenverarbeitung (über unser Einwilligungsbanner auf der Webseite) einwilligen. Die Rechtsgrundlage für diese Verarbeitung ist die Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Ohne Ihre Einwilligung erfolgt die Datenverarbeitung in der oben beschriebenen Weise nicht. Wenn Sie Ihre Einwilligung (z.B. über das Einwilligungsbanner oder andere auf dieser Website vorgesehene Möglichkeiten) widerrufen, beenden wir diese Datenverarbeitung. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt davon unberührt.
 
-#### Firebase Realtime Database
+### Bewertungsplattform
+Wir verwenden Bewertungsplattformen, um gesammelte Bewertungen auf unserer Webseite anzuzeigen und dadurch Vertrauen bei den Nutzern aufzubauen. Die gesammelten Bewertungen werden auf unserer Webseite veröffentlicht. Beim Aufrufen der Webseite wird eine Verbindung zum jeweiligen Anbieter hergestellt und Daten des Webseitenbesuchers übertragen. Personenbezogene Daten die dabei verarbeitet werden sind beispielsweise die IP-Adresse.
+Die Rechtsgrundlage für diese Verarbeitung ist unser berechtigtes Interesse an einer Anzeige von Produktbewertungen sowie Kundenrezensionen (Art. 6 Abs. 1 lit. f DSGVO).
 
-##### Art und Zweck der Verarbeitung:
+### Product Hunt
+Wir nutzen auf unserer Webseite den Dienst Product Hunt. Anbieter des Dienstes ist die Product Hunt, Inc., 90 Gold St, FLR 3, San Francisco, CA 94133, USA.
+Durch die Nutzung des Dienstes kann es zu einer Datenübertragung in ein Drittland kommen (USA).
+Weitere Informationen sind in den Datenschutzinformationen des Anbieters unter folgender URL zu finden: https://www.producthunt.com/legal#privacy.
 
-Bei der Nutzung der App ist die Angabe eines Namens erforderlich. Wir empfehlen die Vergabe eines Spitznamens, der von allen im Haushalt eindeutig zugeordnet werden kann. Auch die Übermittlung von Daten zu Ihren persönlichen Ausgaben und Einnahmen ist möglich.
+### Content Delivery Network (CDN)
+Wir nutzen ein Content Delivery Network (CDN), um die Performance und Verfügbarkeit unserer Webseite zu optimieren. Dafür wird von diesem Dienstleister, der dieses Netzwerk zur Verfügung stellt, Ihre IP-Adresse sowie die Information, wann Sie unsere Webseite besucht haben, verarbeitet. Alle weiteren Informationen zur Datenverarbeitung durch diesen Dienstleister finden Sie in dessen Datenschutzhinweisen.
+Wir stützen diese Verarbeitung auf ein berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO).
+Unser berechtigtes Interesse am Einsatz eines Content Delivery Networks besteht darin, unsere Webseite möglichst schnell, sicher und zuverlässig darstellen zu können.
 
-Sie werden insbesondere zu folgenden Zwecken verarbeitet:
+### CloudFlare
+Wir nutzen auf unserer Webseite den Dienst CloudFlare. Anbieter des Dienstes ist die Cloudflare Germany GmbH, Rosental 7, 80331 München, Deutschland.
+Durch die Nutzung des Dienstes kann es zu einer Datenübertragung in ein Drittland kommen (USA). Der Anbieter ist gemäß EU-U.S. Data Privacy Framework zertifiziert und bietet daher ein angemessenes Datenschutzniveau.
+Weitere Informationen sind in den Datenschutzinformationen des Anbieters unter folgender URL zu finden: https://www.cloudflare.com/privacypolicy/.
 
-- Zuordnung von Einnahmen und Ausgaben zu einer Person im Haushalt
-- Präsentiert Ihnen einen Überblick und Einblicke in Ihre persönlichen Finanzen
-- Teilen von Daten mit Mitgliedern Ihres Haushalts
+### Newsletter-Tools
+Im Rahmen unseres Marketings bieten wir Ihnen über unsere Webseite den Bezug unseres Newsletters an. Für die Bestellung des Newsletters durchlaufen Sie einen Anmeldeprozess, im Rahmen dessen wir überprüfen, ob Sie Inhaber der angegebenen E-Mail-Adresse und mit dem Erhalt unseres Newsletters einverstanden sind. Die Daten verbleiben für die Dauer von Ihrer freiwilligen Anmeldung bis zu Ihrer Abmeldung vom Newsletter-Bezug bei uns bzw. bei dem von uns beauftragten Newsletterdienst. Bestellen Sie den Newsletter ab, werden Sie aus der Verteilerliste gelöscht. Diese Liste wird nicht mit anderen Daten zusammengeführt. Die Löschung vom Newsletterbezug führt aber nicht dazu, dass zu anderen Zwecken gespeicherte Daten (z.B. Kundenkonten) ebenfalls gelöscht werden.
+Zu einer Verarbeitung kommt es nur, wenn Sie in diese Datenverarbeitung (über unser Einwilligungsbanner auf der Webseite) einwilligen. Die Rechtsgrundlage für diese Verarbeitung ist die Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Ohne Ihre Einwilligung erfolgt die Datenverarbeitung in der oben beschriebenen Weise nicht. Wenn Sie Ihre Einwilligung (z.B. über das Einwilligungsbanner oder andere auf dieser Website vorgesehene Möglichkeiten) widerrufen, beenden wir diese Datenverarbeitung. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt davon unberührt.
 
-##### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
+### Mailerlite
+Wir nutzen auf unserer Webseite den Dienst Mailerlite. Anbieter des Dienstes ist die MailerLite Limited, Ground Floor, 71 Lower Baggot Street, Dublin 2, D02 P593, Irland.
+Durch die Nutzung des Dienstes kann es zu einer Datenübertragung in ein Drittland kommen (USA). Der Anbieter ist gemäß EU-U.S. Data Privacy Framework zertifiziert und bietet daher ein angemessenes Datenschutzniveau.
+Weitere Informationen sind in den Datenschutzinformationen des Anbieters unter folgender URL zu finden: https://www.mailerlite.com/legal/privacy-policy.
 
-##### Empfänger:
+### E-Mail-Kontakt
+Wir haben entsprechend der gesetzlichen Vorgaben eine E-Mail-Adresse auf unserer Webseite angegeben. Die auf diesen Wegen übermittelten Daten werden von uns automatisch gespeichert, um entsprechende Anfragen bearbeiten oder die anfragende Person kontaktieren zu können. Diese Daten werden von uns ohne Einwilligung nicht an Dritte weitergegeben.
+Erfolgt die Kontaktaufnahme über unsere E-Mail-Adresse zu vorvertraglichen bzw. vertraglichen Zwecken, so stützt sich die Verarbeitung personenbezogener Daten auf die Rechtsgrundlage des Art. 6 Abs. 1 lit. b DSGVO. Bei allen sonstigen Kontaktaufnahmen Ihrerseits stützt sich die Verarbeitung der personenbezogenen Daten durch uns auf unser berechtigtes Interesse gem. Art. 6 Abs. 1 lit. f DSGVO.
 
-Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
+## Verarbeitung personenbezogener Daten in der App (iOS/Android)
 
-##### Speicherdauer:
-Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Dies ist in der Regel der Fall, wenn Sie Ihr Konto löschen.
+### Bereitstellung der App
+Bei der Nutzung der App verarbeiten wir technische Informationen, die erforderlich sind, um die App bereitzustellen und funktionsfähig zu halten. Dazu können insbesondere gehören: Geräteinformationen, App-Version, Zeitpunkt der Nutzung, ggf. IP-Adresse sowie technisch erforderliche Kennungen.
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Vertrag/ Nutzungsverhältnis), soweit die Verarbeitung für die Nutzung der App erforderlich ist; im Übrigen Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an Sicherheit, Stabilität und Fehlerbehebung).
 
-##### Bereitstellung erforderlich oder vorgeschrieben:
-Die Angabe Ihres Namens und Ihrer Finanzdaten erfolgt freiwillig, ausschließlich auf Grundlage Ihrer Einwilligung. Ohne diese Daten können wir leider keine sinnvolle Funktionalität bereitstellen.
+### Firebase Authentication
+Bei der Registrierung und Nutzung der App ist eine Anmeldung als Gast oder über „Mit Apple anmelden“ (iOS) bzw. „Mit Google anmelden“ (Android) möglich. Dabei werden, abhängig von der gewählten Login-Methode, insbesondere eine technische Nutzerkennung (z. B. Firebase UID) sowie ggf. eine E‑Mail-Adresse verarbeitet (bei Apple ggf. auch eine von Apple bereitgestellte Weiterleitungsadresse wie „Hide my email“).
 
-#### Firebase Crashlytics
+Die Daten werden insbesondere zu folgenden Zwecken verarbeitet:
 
-##### Art und Zweck der Verarbeitung:
+- Eindeutige Identifizierung eines Nutzerkontos,
+- Anmeldung und Kontoverwaltung,
+- Wiederherstellung des Zugangs (z. B. nach Abmeldung, Gerätewechsel oder Neuinstallation).
 
-Im Falle eines App-Absturzes werden Daten gesammelt. Das kann beinhalten:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Nutzungsverhältnisses erforderlich ist.
 
-- Crashlytics-Installations-UUIDs
-- Crash Traces
-- Breakpad-Minidump-formatierte Daten
+Die Daten werden durch Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irland) verarbeitet, die als Auftragsverarbeiter für den Betrieb und die Wartung der Authentifizierung tätig sind. Durch die Nutzung des Dienstes kann es zu einer Datenübertragung in ein Drittland kommen (USA). Der Anbieter ist gemäß EU-U.S. Data Privacy Framework zertifiziert und bietet daher ein angemessenes Datenschutzniveau.
 
-Sie werden insbesondere zu folgenden Zwecken verarbeitet:
 
-- Debugging von Appcrashes
-- Zuverlässige Erreichbarkeit und Gewährleistung aller App-Funktionalitäten
 
-##### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an der Verbesserung der Funktionalität unserer App.
+Authentifizierungsdaten werden grundsätzlich bis zur Löschung des Kontos gespeichert und danach im Rahmen technischer Routinen zeitversetzt gelöscht.
 
-##### Empfänger:
+Die Bereitstellung ist für die Nutzung der App-Funktionen erforderlich. Ohne Authentifizierung kann die App nicht bzw. nur eingeschränkt genutzt werden.
 
-Die Daten werden von [Firebase, ein Unternehmen von Google](https://firebase.google.com) empfangen, das als Auftragsverarbeiter für den Betrieb und die Wartung unserer App tätig ist. Nähere Informationen und Widerspruchsmöglichkeiten finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy) oder direkt bei [Firebase](https://firebase.google.com/support/privacy).
+### Firebase Realtime Database
+Bei der Nutzung der App werden die von Ihnen eingegebenen Inhalte in der Firebase Realtime Database gespeichert. Dies umfasst insbesondere:
 
-##### Speicherdauer:
-Daten werden innerhalb von 90 Tagen gelöscht.
+- Beträge, Status „beglichen/unbeglichen“, Datum, Kategorien, Intervalle bei wiederkehrenden Transaktionen,
+- Beschreibungen (Freitextfeld),
+- Person (in der Regel Spitzname; es kann auch ein Klarname eingetragen werden),
+- Kontonamen, Kontowährung, Zeitzone.
 
-##### Bereitstellung erforderlich oder vorgeschrieben:
-Die Bereitstellung der vorgenannten Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die Daten ist jedoch der Dienst und die Funktionalität unserer App nicht gewährleistet.
+Die Daten werden insbesondere zu folgenden Zwecken verarbeitet:
 
-#### Brevo
+- Zuordnung von Einnahmen und Ausgaben zu Personen/Profilen,
+- Darstellung von Übersichten und Auswertungen,
+- Synchronisation und Nutzung der Daten im jeweiligen Konto/Haushalt (sofern diese Funktionen genutzt werden).
 
-##### Art und Zweck der Verarbeitung:
-Bei Nutzung der App ist eine Anmeldung mit Google oder Apple möglich. Wir verwenden die dabei hinterlegte E-Mail-Adresse um Ihnen im Falle einer bevorstehenden Kontolöschung eine Benachrichtigungs-E-Mail zu senden.
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Nutzungsverhältnisses erforderlich ist. 
 
-Diese Daten werden ausschließlich zu folgendem Zweck verarbeitet:
+Die Daten werden durch Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irland) verarbeitet, die als Auftragsverarbeiter für den Betrieb und die Wartung der Datenbank tätig sind. Durch die Nutzung des Dienstes kann es zu einer Datenübertragung in ein Drittland kommen (USA). Der Anbieter ist gemäß EU-U.S. Data Privacy Framework zertifiziert und bietet daher ein angemessenes Datenschutzniveau.
 
-- Sie rechtzeitig über die geplante Löschung Ihres Kontos nach längerer Inaktivität zu informieren und Ihnen die Möglichkeit zu geben, gegebenenfalls darauf zu reagieren. Die zu diesem Zweck verarbeiteten Daten umfassen Ihre E-Mail-Adresse, Ihren Benutzernamen sowie das vorgesehene Datum der Kontolöschung.
+Als Speicherort ist europe-west1 ausgewählt.
 
-##### Rechtsgrundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
+Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Dies ist insbesondere der Fall:
 
-##### Empfänger:
-Die Daten werden von [Brevo](https://www.brevo.com/de/) empfangen, einem Anbieter für E-Mail-Dienste (vormals Sendinblue), der in unserem Auftrag als Auftragsverarbeiter den Versand dieser Hinweis-E-Mails durchführt. Besuchen Sie [Brevos Datenschutzerklärung](https://www.brevo.com/de/legal/privacypolicy/) für weitere Informationen und Widerspruchsmöglichkeiten.
+- wenn Sie Ihr Konto löschen, oder
+- wenn ein Profil 12 Monate nicht aktiv war (Inaktivitätslöschung).
 
-##### Speicherdauer:
-Die Protokolle des E-Mail-Versands werden nach einem Monat gelöscht.
+Ohne die Speicherung dieser Inhalte können wir die wesentlichen App-Funktionen (Erfassung, Übersicht, Auswertung) nicht bereitstellen.
 
-##### Bereitstellung erforderlich oder vorgeschrieben:
-Die Angabe der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Wenn Sie uns keine E-Mail-Adresse zur Verfügung stellen, können wir Ihnen allerdings keine Vorab-Benachrichtigung über eine geplante Kontolöschung zusenden.
+### Firebase Crashlytics
+Im Falle eines App-Absturzes werden Diagnosedaten verarbeitet. Das kann beinhalten:
 
-### Web
+- Crashlytics-Installationskennungen,
+- Crash- und Fehlerprotokolle (z. B. Crash Traces / Minidump-Daten),
+- technische Geräte- und App-Informationen,
+- ggf. die Firebase UID (sofern technisch verknüpft).
 
-#### Vercel
+Die Daten werden insbesondere zu folgenden Zwecken verarbeitet:
 
-##### Art und Zweck der Verarbeitung:
-Wenn Sie auf diese Website zugreifen, also wenn Sie sich nicht registrieren oder anderweitig Informationen übermitteln, werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen (Server-Logfiles) beinhalten etwa die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse und Ähnliches.
+- Debugging von App-Abstürzen,
+- Verbesserung der Stabilität und Funktionsfähigkeit der App.
 
-Sie werden insbesondere zu folgenden Zwecken verarbeitet:
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an einer sicheren und stabilen App.
 
-- Gewährleistung eines problemlosen Verbindungsaufbaus der Website,
-- Gewährleistung einer reibungslosen Nutzung dieser Website,
-- Bewertung der Systemsicherheit und -stabilität sowie
-für andere Verwaltungszwecke.
-- Wir verwenden Ihre Daten nicht, um Rückschlüsse auf Ihre Person zu ziehen. Informationen dieser Art werden von uns ggfs. statistisch ausgewertet, um diesen Internetauftritt und die dahinterstehende Technik zu optimieren.
+Die Daten werden durch Firebase (Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irland) verarbeitet, die als Auftragsverarbeiter für den Betrieb und die Wartung tätig sind. Durch die Nutzung des Dienstes kann es zu einer Datenübertragung in ein Drittland kommen (USA). Der Anbieter ist gemäß EU-U.S. Data Privacy Framework zertifiziert und bietet daher ein angemessenes Datenschutzniveau.
 
-##### Rechtliche Grundlage:
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
+Crashlytics-Daten werden für einen begrenzten Zeitraum gespeichert und anschließend gelöscht (regelmäßig innerhalb von 90 Tagen, abhängig von der Konfiguration).
 
-##### Empfänger:
-Die Daten werden von [Vercel](https://vercel.com/blog/what-is-vercel) empfangen, die als Auftragsverarbeiter für den Betrieb und die Wartung dieser Webseite tätig sind. Besuchen Sie [Vercel’s Global Privacy Practices](https://vercel.com/legal/privacy-policy) für weitere Informationen und Widerspruchsmöglichkeiten.
+Ohne diese Daten ist die Fehleranalyse und Stabilitätsverbesserung jedoch eingeschränkt.
 
-##### Speicherdauer:
-Die Daten werden gelöscht, sobald sie für die Erreichung des Zweckes ihrer Erhebung nicht mehr erforderlich sind. Für die Daten, die der Bereitstellung der Website dienen, ist dies in der Regel der Fall, wenn die jeweilige Sitzung beendet ist.
+### Brevo (E-Mail-Benachrichtigung vor Kontolöschung)
+Sofern Ihrem Konto eine E‑Mail-Adresse zugeordnet ist (z. B. durch Anmeldung mit Apple/Google), verwenden wir diese, um Ihnen im Fall einer bevorstehenden Kontolöschung nach längerer Inaktivität eine Benachrichtigung per E‑Mail zu senden. 
 
-##### Bereitstellung erforderlich oder vorgeschrieben:
-Die Bereitstellung der vorgenannten personenbezogenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Ohne die IP-Adresse ist jedoch der Dienst und die Funktionsfähigkeit dieser Website nicht gewährleistet. Darüber hinaus können einzelne Dienste und Dienste nicht verfügbar oder eingeschränkt sein. Ein Widerspruch ist aus diesem Grund ausgeschlossen.
+Hierfür verarbeiten wir:
 
-#### PostHog Analytics
+- E‑Mail-Adresse,
+- Spitzname/Benutzername,
+- geplantes Löschdatum,
+- Zeitzone (z. B. Europe/Berlin) zur Lokalisierung der E-Mail.
 
-##### Umfang der Datenverarbeitung
-Wir verwenden auf unserer Website PostHog. PostHog ist ein Open-Source-Analysewerkzeug von PostHog Inc., mit dem wir Daten über die Nutzung unserer Website durch Besucher erfassen und auswerten. Diese Daten dienen der Verbesserung unserer Website und einer besseren Nutzererfahrung.
+Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Nutzungsverhältnisses (Kontoverwaltung/Kommunikation) erforderlich ist.
 
-Wenn Sie unsere Website besuchen, erfasst PostHog Informationen wie die von Ihnen aufgerufenen Seiten, die Verweildauer auf diesen Seiten, von welcher Website Sie gekommen sind, welchen Gerätetyp, Browser und welches Betriebssystem Sie verwenden sowie verschiedene Interaktionsdaten. Diese Daten werden auf Servern der PostHog Inc. in den Vereinigten Staaten gespeichert.
+Die Daten werden von Brevo (Sendinblue SAS, 17 rue de Salneuve, 75017 Paris, Frankreich) als Auftragsverarbeiter verarbeitet, der in unserem Auftrag den Versand der Hinweis-E-Mails durchführt.
 
-##### Rechtsgrundlage der Datenverarbeitung
-Rechtsgrundlage für die Verarbeitung der Nutzerdaten ist Art. 6 Abs. 1 lit. b DSGVO, da sie zur Erfüllung des Vertrags mit Ihnen erforderlich ist.
+### RevenueCat (Zahlungsdienstleister)
+Wir binden in unserer App den Zahlungsdienst RevenueCat ein. Anbieter dieses Dienstes ist die RevenueCat.com, 631-633 Taraval St #101, San Francisco, United States.
 
-##### Zweck der Datenverarbeitung
-PostHog wird zum Zweck der Analyse der Nutzung unserer Website sowie zur fortlaufenden Verbesserung einzelner Funktionen und Angebote eingesetzt. Die statistische Auswertung des Nutzerverhaltens ermöglicht es uns, unser Angebot zu verbessern und für Sie als Nutzer interessanter zu gestalten.
+Wenn Sie einen Kauf bei uns tätigen, werden Ihre Zahlungsdaten (z.B. Name, Zahlungssumme, Kontoverbindung, Kreditkartennummer) an RevenueCat übermittelt und von diesem zum Zwecke der Zahlungsabwicklung verarbeitet. Für diese Verarbeitung gelten die jeweiligen Vertrags- und Datenschutzbestimmungen von RevenueCat. Details hierzu können Sie in der Datenschutzerklärung von RevenueCat unter folgendem Link nachlesen: https://www.revenuecat.com/privacy/.
 
-##### Speicherdauer
-Die Daten werden gelöscht, sobald sie für die Erreichung des Zwecks ihrer Erhebung nicht mehr erforderlich sind. In unserem Fall ist dies nach 14 Monaten der Fall.
-
-##### Widerspruchs- und Beseitigungsmöglichkeiten
-Sie können die Erfassung und Nutzung Ihrer Daten durch PostHog verhindern, indem Sie ein Opt-out-Cookie setzen, das die Speicherung Ihrer Daten bei zukünftigen Besuchen dieser Website verhindert.
-
-Sie können die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (einschließlich Ihrer IP-Adresse) sowie die Verarbeitung dieser Daten durch PostHog verhindern, indem Sie den Anweisungen auf folgender Website folgen: [https://posthog.com/docs/privacy/opt-out](https://posthog.com/docs/privacy/opt-out)
-
-Bitte beachten Sie, dass bei einer Löschung von Cookies in den Browsereinstellungen auch das Opt-out-Cookie gelöscht werden kann und ggf. erneut aktiviert werden muss.
-
-#### MailerLite
-
-##### Art und Zweck der Verarbeitung:
-
-Wenn Sie sich über unsere Website für unseren Newsletter oder E-Mail-Updates anmelden, erfassen wir Ihre E-Mail-Adresse (sowie alle weiteren Informationen, die Sie zu diesem Zweck angeben) über ein Anmeldeformular, das von MailerLite betrieben wird. Diese Daten werden ausschließlich verwendet, um Ihre Anmeldung zu verwalten und Ihnen den gewünschten Newsletter oder die Updates zuzusenden. Sie werden insbesondere zu folgendem Zweck verarbeitet: Versand regelmäßiger Newsletter-E-Mails mit Produktaktualisierungen, Angeboten oder relevanten Nachrichten, für die Sie sich angemeldet haben, sowie Verwaltung Ihrer Abonnementpräferenzen (z. B. das Berücksichtigen von Abmeldewünschen).
-
-##### Rechtsgrundlage:
-
-Die Verarbeitung erfolgt gemäß Art. 6 Abs. 1 lit. a DSGVO auf Grundlage Ihrer Einwilligung zum Erhalt unseres Newsletters. (Mit anderen Worten: Wir erheben und verwenden Ihre E-Mail-Adresse zu diesem Zweck nur, wenn Sie aktiv ein Abonnement abgeschlossen haben. Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie sich vom Newsletter abmelden.)
-
-##### Empfänger:
-
-Die Daten werden von MailerLite empfangen, einem Anbieter für E-Mail-Marketing-Dienste, der in unserem Auftrag als Auftragsverarbeiter Newsletter-Abonnements verwaltet und E-Mails versendet. MailerLite speichert Ihre E-Mail-Adresse auf sicheren Servern. Diese Server können sich außerhalb des Europäischen Wirtschaftsraums befinden (z. B. in den Vereinigten Staaten), jedoch stellt MailerLite sicher, dass jede Übertragung personenbezogener Daten außerhalb des EWR durch geeignete Garantien gemäß den EU-Datenschutzvorschriften geschützt ist – etwa durch den Einsatz von EU-Standardvertragsklauseln (SCCs). Weitere Informationen zur Verarbeitung und zum Schutz personenbezogener Daten durch MailerLite finden Sie in MailerLites [Datenschutzrichtlinie​](https://www.mailerlite.com/legal/privacy-policy).
-
-##### Speicherdauer:
-
-Wir speichern Ihre E-Mail-Adresse nur so lange, wie Sie für unseren Newsletter angemeldet sind. Sie können sich jederzeit über den Abmeldelink in jeder E-Mail oder durch direkte Kontaktaufnahme mit uns abmelden. Wenn Sie sich abmelden oder die Löschung Ihrer Daten verlangen, wird Ihre E-Mail-Adresse umgehend aus unserem Verteiler entfernt und aus dem System von MailerLite gelöscht. Ebenso löschen wir alle zugehörigen Abonnementdaten, wenn wir den Newsletter-Dienst einstellen.
-
-##### Bereitstellung erforderlich oder verpflichtend:
-
-Die Angabe Ihrer E-Mail-Adresse für den Newsletter-Dienst ist vollständig freiwillig und weder gesetzlich noch vertraglich vorgeschrieben. Wenn Sie sich nicht anmelden (oder sich später abmelden), bedeutet dies lediglich, dass Sie keine Newsletter-E-Mails erhalten – es beeinträchtigt jedoch in keiner Weise Ihre Nutzung anderer Funktionen unseres Dienstes. Ihre Entscheidung, Ihre E-Mail-Adresse zu diesem Zweck bereitzustellen oder nicht, hat keinerlei Auswirkungen auf Ihre Nutzung der Monee-App oder der Website. Diese Ergänzung entspricht unserem Engagement für Transparenz und DSGVO-Konformität und stellt sicher, dass Sie darüber informiert sind, wie wir Ihre E-Mail-Adresse im Rahmen des Newsletter-Dienstes verarbeiten.
-
-
-## Sicherheit
-
-Wir wissen Ihr Vertrauen in die Bereitstellung Ihrer personenbezogenen Daten zu schätzen, daher bemühen wir uns, wirtschaftlich akzeptable Mittel zu deren Schutz einzusetzen. Denken Sie jedoch daran, dass keine Übertragungsmethode über das Internet oder elektronische Speichermethode 100 % sicher und zuverlässig ist, und wir können ihre absolute Sicherheit nicht garantieren.
-
-## Links zu anderen Websites
-
-Unsere Dienste können Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Drittanbieters klicken, werden Sie zu dieser Website weitergeleitet. Beachten Sie, dass diese externen Seiten nicht von uns betrieben werden. Daher empfehlen wir Ihnen dringend, die Datenschutzrichtlinie dieser Websites zu lesen. Wir haben keine Kontrolle über und übernehmen keine Verantwortung für die Inhalte, Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter.
-
-## Datenschutz von Kindern
-
-Unsere Dienste richten sich nicht an Personen unter 13 Jahren. Wir erfassen wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren. Falls wir feststellen, dass uns ein Kind unter 13 Jahren personenbezogene Daten zur Verfügung gestellt hat, löschen wir diese unverzüglich von unseren Servern. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte, damit wir die erforderlichen Maßnahmen ergreifen können.
-
-## Änderungen an dieser Datenschutzrichtlinie
-
-Wir können unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Es wird daher empfohlen, diese Seite regelmäßig auf Änderungen zu überprüfen. Wir werden Sie über alle Änderungen informieren, indem wir die neue Datenschutzrichtlinie auf dieser Seite veröffentlichen.
-
-Diese Richtlinie gilt ab dem 14. Mai 2022.
+Der Einsatz erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO (Vertragsabwicklung) sowie im Interesse eines möglichst reibungslosen, komfortablen und sicheren Zahlungsvorgangs (Art. 6 Abs. 1 lit. f DSGVO). Die Datenübertragung in die USA wird auf die Standardvertragsklauseln der EU-Kommission gestützt. Details finden Sie hier: https://www.revenuecat.com/dpa/.

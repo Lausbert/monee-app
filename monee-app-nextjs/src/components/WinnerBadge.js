@@ -88,7 +88,6 @@ export default function WinnerBadge({ translations }) {
         <a
             href={awardLink}
             target="_blank"
-            rel="noopener noreferrer"
             className="winner-badge"
         >
             <div className="winner-badge-inner">

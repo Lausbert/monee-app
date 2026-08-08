@@ -1,4 +1,5 @@
-import { getTranslations, getMarkdownContent, parseMarkdown } from '@/lib/i18n';
+import { getTranslations } from '@/lib/i18n';
+import { getMarkdownContent, parseMarkdown } from '@/lib/markdownContent';
 import siteConfig from '@/lib/siteConfig';
 import { remark } from 'remark';
 import html from 'remark-html';

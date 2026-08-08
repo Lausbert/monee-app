@@ -35,12 +35,13 @@ const Header = ({ translations }) => {  const router = useRouter();
                   alt={`${appName} icon`}
                   width={50}
                   height={50}
+                  unoptimized
                   style={{ clipPath: 'url(#shape)', position: 'static' }}
                 />
               )}
             </Link>
           ) : (
-            appIcon && <Image className="headerIcon" src={appIcon} alt={`${appName} icon`} width={50} height={50} style={{ clipPath: 'url(#shape)', position: 'static' }} />
+            appIcon && <Image className="headerIcon" src={appIcon} alt={`${appName} icon`} width={50} height={50} unoptimized style={{ clipPath: 'url(#shape)', position: 'static' }} />
           )}
           <div className="divider"></div>
         </div>
