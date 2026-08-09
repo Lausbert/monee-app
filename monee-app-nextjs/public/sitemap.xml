@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-08-08</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -4947,6 +4947,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-tra-valute-regole-semplici-per-i-tassi-di-cambio/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-v-raznyh-valyutah-prostye-pravila-po-obmennym-kursam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-across-currencies-simple-rules-for-exchange-rates/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-run-a-15minute-weekly-money-meeting-that-sticks/</loc>
@@ -10147,6 +10160,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-across-currencies-simple-rules-for-exchange-rates/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-ihr-ein-wochentliches-15minutengeldmeeting-durchfuhrt-das-bestand-hat/</loc>
     <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -15343,6 +15369,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-tra-valute-regole-semplici-per-i-tassi-di-cambio/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-v-raznyh-valyutah-prostye-pravila-po-obmennym-kursam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-across-currencies-simple-rules-for-exchange-rates/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-tenir-une-reunion-hebdomadaire-sur-largent-de-15-minutes-qui-dure/</loc>
@@ -20543,6 +20582,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-across-currencies-simple-rules-for-exchange-rates/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-realizar-una-reunion-semanal-de-dinero-de-15-minutos-que-se-mantenga/</loc>
     <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -25739,6 +25791,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-tra-valute-regole-semplici-per-i-tassi-di-cambio/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-v-raznyh-valyutah-prostye-pravila-po-obmennym-kursam/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-across-currencies-simple-rules-for-exchange-rates/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-conduzir-uma-reuniao-semanal-de-financas-de-15-minutos-que-vira-habito/</loc>
@@ -30939,6 +31004,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-across-currencies-simple-rules-for-exchange-rates/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-fare-una-riunione-settimanale-sui-soldi-di-15-minuti-che-prende-piede/</loc>
     <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -36137,6 +36215,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-across-currencies-simple-rules-for-exchange-rates/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-provesti-ezhenedelnuyu-15minutnuyu-finansovuyu-vstrechu-kotoraya-prizhivyotsya/</loc>
     <lastmod>2025-09-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -41322,6 +41413,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-entre-moedas-regras-simples-para-taxas-de-cambio/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-il-budget-tra-valute-regole-semplici-per-i-tassi-di-cambio/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-v-raznyh-valyutah-prostye-pravila-po-obmennym-kursam/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-stop-buying-ingredients-youll-use-only-once/</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-buying-ingredients-youll-use-only-once/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/keine-zutaten-mehr-nur-fur-ein-rezept-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-ingredients-a-usage-unique/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-comprar-ingredientes-de-un-solo-uso/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-ingredientes-de-uso-unico/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-comprare-ingredienti-monouso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-ingredienty-na-odin-raz/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-run-a-15minute-weekly-money-meeting-that-sticks/</loc>
