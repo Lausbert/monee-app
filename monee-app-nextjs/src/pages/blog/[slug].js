@@ -383,7 +383,7 @@ export async function getStaticPaths({ locales }) {
   // Create paths for all posts in all locales
   if (locales) {
     for (const locale of locales) {
-      const posts = getAllBlogPosts(locale);
+      const posts = getAllBlogPosts(locale, { includeContent: false });
       const localePaths = posts.map(post => ({
         params: { slug: post.slug },
         locale,
@@ -393,7 +393,7 @@ export async function getStaticPaths({ locales }) {
   } else {
     // Fallback for when locales aren't available
     const locale = siteConfig.defaultLanguage || 'en';
-    const posts = getAllBlogPosts(locale);
+    const posts = getAllBlogPosts(locale, { includeContent: false });
     const localePaths = posts.map(post => ({
       params: { slug: post.slug },
       locale,

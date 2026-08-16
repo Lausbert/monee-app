@@ -1,12 +1,23 @@
 import siteConfig from './siteConfig';
 import { getTranslations } from './i18n';
 
+const appStoreDataCache = new Map();
+
 /**
  * Fetches App Store data for the app during build time (SSG)
  * @param {string} locale - The current locale to determine the country code
  * @returns {Promise<Object>} App Store data including trackViewUrl, trackName, etc.
  */
 export async function fetchAppStoreData(locale = 'en') {
+  const cacheKey = locale || 'en';
+  if (!appStoreDataCache.has(cacheKey)) {
+    appStoreDataCache.set(cacheKey, loadAppStoreData(cacheKey));
+  }
+
+  return appStoreDataCache.get(cacheKey);
+}
+
+async function loadAppStoreData(locale) {
   if (!siteConfig.ios_app_id) {
     console.warn('No iOS app ID configured in siteConfig');
     return null;
@@ -28,7 +39,7 @@ export async function fetchAppStoreData(locale = 'en') {
     // console.log(`Fetching App Store data from: ${apiUrl}`);
 
     // Fetch data from iTunes API
-    const response = await fetch(apiUrl);
+    const response = await fetch(apiUrl, { signal: AbortSignal.timeout(10_000) });
     
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);

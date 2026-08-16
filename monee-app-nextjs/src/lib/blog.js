@@ -6,6 +6,7 @@ import remarkGfm from 'remark-gfm';
 import { parseFrontmatter } from './frontmatter';
 
 const postsMetaDirectory = path.join(process.cwd(), 'src/blog-meta');
+const allBlogPostsCache = new Map();
 
 export const BLOG_LOCALES = Object.freeze(['en', 'de', 'fr', 'es', 'pt', 'it', 'ru', 'hi']);
 
@@ -112,60 +113,23 @@ function getEnglishSlugForPostId(postId) {
 }
 
 export function getBlogPostBySlug(slug, locale) {
-  const files = getPostFiles(locale);
-  
-  // Find the post with matching slug (frontmatter slug preferred)
-  for (const file of files) {
-    const fileContents = readPostFile(locale, file);
-    if (!fileContents) continue;
-    const { data, content } = parseFrontmatter(fileContents);
+  const post = getAllBlogPosts(locale, { includeContent: false })
+    .find((candidate) => candidate.slug === slug);
+  if (!post) return null;
 
-    const postId = path.parse(file).name; // e.g., 'post1'
-    const primarySlug = data.slug ? String(data.slug).toLowerCase() : (data.title ? titleToSlug(data.title) : null);
-    let computedSlug = primarySlug && primarySlug.length > 0 ? primarySlug : postId;
-    // For Hindi posts >= 11, use the English slug to keep slugs consistent and readable
-    if (locale === 'hi') {
-      const match = postId.match(/^post(\d+)$/i);
-      const index = match ? parseInt(match[1], 10) : NaN;
-      if (!Number.isNaN(index) && index >= 11) {
-        const enSlug = getEnglishSlugForPostId(postId);
-        if (enSlug) computedSlug = enSlug;
-      }
-    }
-    if (computedSlug) {
-      if (computedSlug === slug) {
-        // Merge with shared metadata (by postId derived from filename)
-        let sharedMeta = {};
-        try {
-          const metaPath = path.join(postsMetaDirectory, `${postId}.json`);
-          if (fs.existsSync(metaPath)) {
-            const raw = fs.readFileSync(metaPath, 'utf8');
-            sharedMeta = JSON.parse(raw);
-          }
-        } catch (e) {
-          // noop: fall back to frontmatter only
-        }
+  const fileContents = readPostFile(locale, `${post.postId}.md`);
+  if (!fileContents) return null;
 
-        // Prefer shared meta for redundant fields; fall back to frontmatter
-        const mergedMeta = {
-          ...data,
-          ...(sharedMeta || {}),
-        };
-        return {
-          slug: computedSlug,
-          meta: mergedMeta,
-          content,
-          postId,
-        };
-      }
-    }
-  }
-  
-  return null;
+  const { content } = parseFrontmatter(fileContents);
+  return { ...post, content };
 }
 
 export function getAllBlogPosts(locale, options = {}) {
   const { includeContent = true } = options || {};
+  const cacheKey = `${locale}:${includeContent ? 'content' : 'metadata'}`;
+  const cachedPosts = allBlogPostsCache.get(cacheKey);
+  if (cachedPosts) return cachedPosts;
+
   const files = getPostFiles(locale);
   
   const posts = files
@@ -222,6 +186,7 @@ export function getAllBlogPosts(locale, options = {}) {
     .filter(Boolean)
     .sort((post1, post2) => (post1.meta.date > post2.meta.date ? -1 : 1));
 
+  allBlogPostsCache.set(cacheKey, posts);
   return posts;
 }
 
