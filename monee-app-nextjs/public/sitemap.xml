@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5116,6 +5116,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-i-lavori-in-casa-senza-extra/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-proekta-bez-razrastaniya-rabot/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-home-projects-without-scope-creep/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-split-rent-fairly-when-rooms-arent-equal/</loc>
@@ -10472,6 +10485,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-home-projects-without-scope-creep/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-teilt-ihr-die-miete-fair-auf-wenn-die-zimmer-ungleich-sind/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -15824,6 +15850,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-i-lavori-in-casa-senza-extra/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-proekta-bez-razrastaniya-rabot/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-home-projects-without-scope-creep/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-repartir-le-loyer-equitablement-lorsque-les-chambres-ne-sont-pas-egales/</loc>
@@ -21180,6 +21219,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-home-projects-without-scope-creep/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-dividir-el-alquiler-de-forma-justa-cuando-las-habitaciones-no-son-iguales/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -26532,6 +26584,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-i-lavori-in-casa-senza-extra/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-proekta-bez-razrastaniya-rabot/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-home-projects-without-scope-creep/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-dividir-a-renda-de-forma-justa-quando-os-quartos-nao-sao-iguais/</loc>
@@ -31888,6 +31953,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-home-projects-without-scope-creep/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-dividere-laffitto-in-modo-equo-quando-le-stanze-non-sono-uguali/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -37242,6 +37320,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-home-projects-without-scope-creep/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-spravedlivo-razdelit-arendu-esli-komnaty-neravnye/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -42583,6 +42674,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcamentar-projetos-sem-ampliar-o-escopo/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-pianificare-i-lavori-in-casa-senza-extra/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sostavit-byudzhet-proekta-bez-razrastaniya-rabot/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-set-a-walk-away-price-before-you-start-shopping/</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-walk-away-price-before-you-start-shopping/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-legen-sie-ihre-preisgrenze-vor-dem-einkauf-fest/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-tu-precio-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-seu-preco-limite-antes-de-comprar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-il-prezzo-limite-prima-degli-acquisti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-opredelit-predel-tseny-do-nachala-pokupok/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/</loc>
