@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5233,6 +5233,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-laffitto-in-modo-equo-quando-le-stanze-non-sono-uguali/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-razdelit-arendu-esli-komnaty-neravnye/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-build-a-baseline-budget-to-fight-lifestyle-creep/</loc>
@@ -10693,6 +10706,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-du-ein-baselinebudget-erstellst-um-lifestylecreep-zu-bekampfen/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -16149,6 +16175,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-laffitto-in-modo-equo-quando-le-stanze-non-sono-uguali/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-razdelit-arendu-esli-komnaty-neravnye/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-construire-un-budget-de-base-pour-lutter-contre-la-derive-du-train-de-vie/</loc>
@@ -21609,6 +21648,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-crear-un-presupuesto-base-para-combatir-la-inflacion-del-estilo-de-vida/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -27065,6 +27117,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-laffitto-in-modo-equo-quando-le-stanze-non-sono-uguali/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-razdelit-arendu-esli-komnaty-neravnye/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-construir-um-orcamento-base-para-combater-a-inflacao-de-estilo-de-vida/</loc>
@@ -32525,6 +32590,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-costruire-un-budget-di-base-per-contrastare-linflazione-dello-stile-di-vita/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -37983,6 +38061,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-rent-fairly-when-rooms-arent-equal/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-sostavit-bazovyy-byudzhet-chtoby-sderzhivat-inflyatsiyu-obraza-zhizni/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -43428,6 +43519,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-a-renda-de-forma-justa-quando-os-quartos-nao-sao-iguais/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-laffitto-in-modo-equo-quando-le-stanze-non-sono-uguali/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-spravedlivo-razdelit-arendu-esli-komnaty-neravnye/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/which-day-of-the-week-costs-you-the-most/</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/which-day-of-the-week-costs-you-the-most/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/welcher-wochentag-kostet-dich-am-meisten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-jour-de-la-semaine-vous-coute-le-plus/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/que-dia-de-la-semana-te-cuesta-mas/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/qual-dia-da-semana-custa-mais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quale-giorno-della-settimana-ti-costa-di-piu/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kakoy-den-nedeli-obhoditsya-vam-dorozhe-vsego/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-build-a-baseline-budget-to-fight-lifestyle-creep/</loc>
