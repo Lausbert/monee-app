@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5259,6 +5259,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-una-coda-acquisti-per-evitare-accumuli/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ochered-pokupok-zaschischaet-byudzhet-ot-peregruzki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-purchase-queue-to-prevent-budget-pileups/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-build-a-baseline-budget-to-fight-lifestyle-creep/</loc>
@@ -10745,6 +10758,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-purchase-queue-to-prevent-budget-pileups/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-du-ein-baselinebudget-erstellst-um-lifestylecreep-zu-bekampfen/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -16227,6 +16253,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-una-coda-acquisti-per-evitare-accumuli/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ochered-pokupok-zaschischaet-byudzhet-ot-peregruzki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-purchase-queue-to-prevent-budget-pileups/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-construire-un-budget-de-base-pour-lutter-contre-la-derive-du-train-de-vie/</loc>
@@ -21713,6 +21752,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-purchase-queue-to-prevent-budget-pileups/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-crear-un-presupuesto-base-para-combatir-la-inflacion-del-estilo-de-vida/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -27195,6 +27247,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-una-coda-acquisti-per-evitare-accumuli/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ochered-pokupok-zaschischaet-byudzhet-ot-peregruzki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-purchase-queue-to-prevent-budget-pileups/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-construir-um-orcamento-base-para-combater-a-inflacao-de-estilo-de-vida/</loc>
@@ -32681,6 +32746,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-purchase-queue-to-prevent-budget-pileups/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-costruire-un-budget-di-base-per-contrastare-linflazione-dello-stile-di-vita/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -38165,6 +38243,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-purchase-queue-to-prevent-budget-pileups/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-sostavit-bazovyy-byudzhet-chtoby-sderzhivat-inflyatsiyu-obraza-zhizni/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -43636,6 +43727,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-usar-uma-fila-de-compras-e-evitar-acumulos/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-usare-una-coda-acquisti-per-evitare-accumuli/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ochered-pokupok-zaschischaet-byudzhet-ot-peregruzki/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-a-chest-freezer-a-cost-and-waste-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gefriertruhe-kaufen-der-kosten-und-abfall-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/congelateur-coffre-test-cout-et-gaspillage/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comprar-un-congelador-arcon-coste-y-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-uma-arca-congeladora-custo-e-desperdicio/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-un-congelatore-a-pozzetto-test-costi-sprechi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-morozilnyy-lar-test-zatrat/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-build-a-baseline-budget-to-fight-lifestyle-creep/</loc>
