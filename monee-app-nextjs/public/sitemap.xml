@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5311,6 +5311,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/vendere-o-donare-il-test-del-valore-del-tempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/prodat-ili-otdat-nenuzhnoe-test-tsennosti-vremeni/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-sell-or-donate-unused-items-a-time-value-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-build-a-baseline-budget-to-fight-lifestyle-creep/</loc>
@@ -10849,6 +10862,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-sell-or-donate-unused-items-a-time-value-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-du-ein-baselinebudget-erstellst-um-lifestylecreep-zu-bekampfen/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -16383,6 +16409,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/vendere-o-donare-il-test-del-valore-del-tempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/prodat-ili-otdat-nenuzhnoe-test-tsennosti-vremeni/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-sell-or-donate-unused-items-a-time-value-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-construire-un-budget-de-base-pour-lutter-contre-la-derive-du-train-de-vie/</loc>
@@ -21921,6 +21960,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-sell-or-donate-unused-items-a-time-value-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-crear-un-presupuesto-base-para-combatir-la-inflacion-del-estilo-de-vida/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -27455,6 +27507,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/vendere-o-donare-il-test-del-valore-del-tempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/prodat-ili-otdat-nenuzhnoe-test-tsennosti-vremeni/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-sell-or-donate-unused-items-a-time-value-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-construir-um-orcamento-base-para-combater-a-inflacao-de-estilo-de-vida/</loc>
@@ -32993,6 +33058,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-sell-or-donate-unused-items-a-time-value-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-costruire-un-budget-di-base-per-contrastare-linflazione-dello-stile-di-vita/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -38529,6 +38607,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-sell-or-donate-unused-items-a-time-value-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-sostavit-bazovyy-byudzhet-chtoby-sderzhivat-inflyatsiyu-obraza-zhizni/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -44052,6 +44143,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vender-ou-doar-um-teste-do-valor-do-seu-tempo/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/vendere-o-donare-il-test-del-valore-del-tempo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/prodat-ili-otdat-nenuzhnoe-test-tsennosti-vremeni/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-save-money-by-maintaining-what-you-already-own/</loc>
+    <lastmod>2026-09-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-save-money-by-maintaining-what-you-already-own/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sparst-du-geld-indem-du-deinen-besitz-pflegst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-economiser-en-entretenant-ce-que-vous-possedez/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-ahorrar-dinero-cuidando-lo-que-ya-tienes/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-poupar-dinheiro-cuidando-do-que-ja-tem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-curando-cio-che-possiedi-gia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ekonomit-uhazhivaya-za-veschami-kotorye-u-vas-uzhe-est/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-build-a-baseline-budget-to-fight-lifestyle-creep/</loc>
