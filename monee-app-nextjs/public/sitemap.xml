@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5415,6 +5415,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/i-prodotti-concentrati-per-la-casa-costano-davvero-meno/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deystvitelno-li-bytovye-kontsentraty-deshevle/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/are-concentrated-household-products-really-cheaper/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-track-reimbursable-expenses-without-losing-money/</loc>
@@ -11044,6 +11057,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/are-concentrated-household-products-really-cheaper/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-erfasst-du-erstattungsfahige-ausgaben-ohne-geld-zu-verlieren/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -16669,6 +16695,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/i-prodotti-concentrati-per-la-casa-costano-davvero-meno/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deystvitelno-li-bytovye-kontsentraty-deshevle/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/are-concentrated-household-products-really-cheaper/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-suivre-les-depenses-remboursables-sans-perdre-dargent/</loc>
@@ -22298,6 +22337,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/are-concentrated-household-products-really-cheaper/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-registrar-gastos-reembolsables-sin-perder-dinero/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -27923,6 +27975,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/i-prodotti-concentrati-per-la-casa-costano-davvero-meno/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deystvitelno-li-bytovye-kontsentraty-deshevle/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/are-concentrated-household-products-really-cheaper/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-acompanhar-despesas-reembolsaveis-sem-perder-dinheiro/</loc>
@@ -33552,6 +33617,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/are-concentrated-household-products-really-cheaper/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-rimborsabili-senza-perdere-denaro/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -39179,6 +39257,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/are-concentrated-household-products-really-cheaper/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-otslezhivat-vozmeschaemye-rashody-ne-teryaya-dengi/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -44793,6 +44884,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/produtos-domesticos-concentrados-sao-mais-baratos/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/i-prodotti-concentrati-per-la-casa-costano-davvero-meno/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deystvitelno-li-bytovye-kontsentraty-deshevle/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-turn-skipped-purchases-into-real-savings/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-turn-skipped-purchases-into-real-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-werden-ausgelassene-kaufe-zu-echten-ersparnissen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/transformer-les-achats-evites-en-economies-reelles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-convertir-las-compras-que-evitas-en-ahorro-real/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-transformar-compras-evitadas-em-poupanca-real/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-trasformare-gli-acquisti-evitati-in-veri-risparmi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-prevratit-otkaz-ot-pokupok-v-realnye-nakopleniya/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-track-reimbursable-expenses-without-losing-money/</loc>
