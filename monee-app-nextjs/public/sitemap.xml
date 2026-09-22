@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5532,6 +5532,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/pagare-un-corso-o-imparare-gratis/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-platit-za-kurs-ili-uchitsya-besplatno/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-pay-for-a-course-or-learn-for-free/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
@@ -11265,6 +11278,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-pay-for-a-course-or-learn-for-free/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-bekommen-sie-mahngebuhren-erlassen-ruhige-anruf-skripte-fur-versorger-und-fitnessstudios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -16994,6 +17020,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/pagare-un-corso-o-imparare-gratis/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-platit-za-kurs-ili-uchitsya-besplatno/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-pay-for-a-course-or-learn-for-free/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-faire-annuler-des-frais-de-retard-scripts-dappel-calmes-pour-services-publics-et-salles-de-sport/</loc>
@@ -22727,6 +22766,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-pay-for-a-course-or-learn-for-free/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-lograr-que-te-quiten-los-recargos-por-mora-guiones-de-llamada-tranquilos-para-servicios-publicos-y-gimnasios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -28456,6 +28508,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/pagare-un-corso-o-imparare-gratis/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-platit-za-kurs-ili-uchitsya-besplatno/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-pay-for-a-course-or-learn-for-free/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-conseguir-a-isencao-de-multas-por-atraso-roteiros-calmos-para-servicos-e-academias/</loc>
@@ -34189,6 +34254,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-pay-for-a-course-or-learn-for-free/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-farsi-annullare-le-penali-di-mora-script-calmi-per-utenze-e-palestre/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -39920,6 +39998,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-pay-for-a-course-or-learn-for-free/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-otmenit-shtrafy-za-prosrochku-spokoynye-telefonnye-skripty-dlya-kommunalok-i-sportzalov/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -45638,6 +45729,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/deve-pagar-por-um-curso-ou-aprender-de-graca/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/pagare-un-corso-o-imparare-gratis/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-platit-za-kurs-ili-uchitsya-besplatno/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-sprengen-einkaufe-vor-der-reise-nicht-dein-budget/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-eviter-les-achats-avant-depart-qui-ruinent-le-budget/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-evitar-compras-previas-al-viaje-fuera-de-presupuesto/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
