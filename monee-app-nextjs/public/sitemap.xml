@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5545,6 +5545,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
@@ -11291,6 +11304,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-bekommen-sie-mahngebuhren-erlassen-ruhige-anruf-skripte-fur-versorger-und-fitnessstudios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -17033,6 +17059,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-faire-annuler-des-frais-de-retard-scripts-dappel-calmes-pour-services-publics-et-salles-de-sport/</loc>
@@ -22779,6 +22818,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-lograr-que-te-quiten-los-recargos-por-mora-guiones-de-llamada-tranquilos-para-servicios-publicos-y-gimnasios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -28521,6 +28573,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-conseguir-a-isencao-de-multas-por-atraso-roteiros-calmos-para-servicos-e-academias/</loc>
@@ -34267,6 +34332,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-farsi-annullare-le-penali-di-mora-script-calmi-per-utenze-e-palestre/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -40011,6 +40089,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-avoid-pre-trip-shopping-that-blows-your-budget/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-otmenit-shtrafy-za-prosrochku-spokoynye-telefonnye-skripty-dlya-kommunalok-i-sportzalov/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -45742,6 +45833,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-evitar-compras-pre-viagem-que-estouram-o-orcamento/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-evitare-acquisti-pre-viaggio-che-sforano-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-ne-razoritsya-na-pokupkah-pered-poezdkoy/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-set-a-wedding-budget-you-can-actually-afford/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-set-a-wedding-budget-you-can-actually-afford/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-planst-du-ein-hochzeitsbudget-das-du-dir-leisten-kannst/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-fixer-un-budget-mariage-adapte-a-vos-moyens/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-fijar-un-presupuesto-de-boda-que-puedas-permitirte/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-um-orcamento-de-casamento-que-cabe-no-bolso/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-fissare-un-budget-nozze-che-puoi-permetterti/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-splanirovat-svadebnyy-byudzhet-kotoryy-vam-po-karmanu/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
