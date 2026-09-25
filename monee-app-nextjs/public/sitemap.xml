@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5571,6 +5571,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-sulla-cura-degli-animali-quando-viaggi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sokratit-rashody-na-uhod-za-pitomtsem-v-poezdke/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-pet-care-costs-when-you-travel/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
@@ -11343,6 +11356,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-pet-care-costs-when-you-travel/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-bekommen-sie-mahngebuhren-erlassen-ruhige-anruf-skripte-fur-versorger-und-fitnessstudios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -17111,6 +17137,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-sulla-cura-degli-animali-quando-viaggi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sokratit-rashody-na-uhod-za-pitomtsem-v-poezdke/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-pet-care-costs-when-you-travel/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-faire-annuler-des-frais-de-retard-scripts-dappel-calmes-pour-services-publics-et-salles-de-sport/</loc>
@@ -22883,6 +22922,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-pet-care-costs-when-you-travel/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-lograr-que-te-quiten-los-recargos-por-mora-guiones-de-llamada-tranquilos-para-servicios-publicos-y-gimnasios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -28651,6 +28703,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-sulla-cura-degli-animali-quando-viaggi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sokratit-rashody-na-uhod-za-pitomtsem-v-poezdke/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-pet-care-costs-when-you-travel/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-conseguir-a-isencao-de-multas-por-atraso-roteiros-calmos-para-servicos-e-academias/</loc>
@@ -34423,6 +34488,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-pet-care-costs-when-you-travel/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-farsi-annullare-le-penali-di-mora-script-calmi-per-utenze-e-palestre/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -40193,6 +40271,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-cut-pet-care-costs-when-you-travel/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-otmenit-shtrafy-za-prosrochku-spokoynye-telefonnye-skripty-dlya-kommunalok-i-sportzalov/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -45950,6 +46041,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-reduzir-os-custos-com-pets-quando-voce-viaja/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-risparmiare-sulla-cura-degli-animali-quando-viaggi/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sokratit-rashody-na-uhod-za-pitomtsem-v-poezdke/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-catch-grocery-checkout-errors-before-you-leave/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-catch-grocery-checkout-errors-before-you-leave/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-erkennst-du-kassenfehler-noch-im-supermarkt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reperer-les-erreurs-de-caisse-avant-de-quitter-le-magasin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-detectar-errores-en-caja-antes-de-salir-del-super/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-identificar-erros-no-caixa-do-mercado-antes-de-sair/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-notare-errori-alla-cassa-della-spesa-prima-di-uscire/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-zametit-oshibki-na-kasse-do-vyhoda-iz-magazina/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
