@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-27</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5610,6 +5610,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bollette-divise-quando-un-coinquilino-trasloca-a-meta-mese/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-scheta-esli-sosed-sezzhaet-v-seredine-mesyatsa/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-bills-when-a-roommate-moves-mid-month/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
@@ -11421,6 +11434,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-bills-when-a-roommate-moves-mid-month/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-bekommen-sie-mahngebuhren-erlassen-ruhige-anruf-skripte-fur-versorger-und-fitnessstudios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -17228,6 +17254,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bollette-divise-quando-un-coinquilino-trasloca-a-meta-mese/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-scheta-esli-sosed-sezzhaet-v-seredine-mesyatsa/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-bills-when-a-roommate-moves-mid-month/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-faire-annuler-des-frais-de-retard-scripts-dappel-calmes-pour-services-publics-et-salles-de-sport/</loc>
@@ -23039,6 +23078,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-bills-when-a-roommate-moves-mid-month/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-lograr-que-te-quiten-los-recargos-por-mora-guiones-de-llamada-tranquilos-para-servicios-publicos-y-gimnasios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -28846,6 +28898,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bollette-divise-quando-un-coinquilino-trasloca-a-meta-mese/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-scheta-esli-sosed-sezzhaet-v-seredine-mesyatsa/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-bills-when-a-roommate-moves-mid-month/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-conseguir-a-isencao-de-multas-por-atraso-roteiros-calmos-para-servicos-e-academias/</loc>
@@ -34657,6 +34722,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-bills-when-a-roommate-moves-mid-month/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-farsi-annullare-le-penali-di-mora-script-calmi-per-utenze-e-palestre/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -40466,6 +40544,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-bills-when-a-roommate-moves-mid-month/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-otmenit-shtrafy-za-prosrochku-spokoynye-telefonnye-skripty-dlya-kommunalok-i-sportzalov/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -46262,6 +46353,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-contas-quando-um-colega-sai-no-meio-do-mes/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bollette-divise-quando-un-coinquilino-trasloca-a-meta-mese/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-delit-scheta-esli-sosed-sezzhaet-v-seredine-mesyatsa/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-with-a-partner-who-avoids-money-talks/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-with-a-partner-who-avoids-money-talks/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/budget-planen-wenn-dein-partner-geldgesprache-meidet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/faire-un-budget-a-deux-quand-lautre-evite-den-parler/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-si-tu-pareja-evita-hablar-de-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-fazer-orcamento-com-quem-evita-falar-de-dinheiro/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-con-un-partner-che-evita-di-parlare-di-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vesti-byudzhet-s-partnyorom-kotoryy-izbegaet-deneg/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
