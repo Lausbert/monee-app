@@ -5,7 +5,7 @@ keywords: "split bills roommate moving out, prorate rent mid-month, roommate mov
 ---
 Short answer: **split each bill by how many days each person actually lived there.** Work out a daily rate for each bill, multiply it by the days each person stayed, and settle up. Rent and fixed bills are simple. Usage bills like electricity take a little more care. Put the whole deal in writing before anyone packs a box.
 
-A mid-month move is messy, a bit like moving house with kids underfoot. The money side doesn't have to be. Here's how to do it step by step.
+A mid-month move is messy, but the money side doesn't have to be. Here's how to do it step by step.
 
 ## Step 1: Agree on the move-out and move-in dates
 
@@ -42,7 +42,7 @@ If your rooms are different sizes and you pay unequal shares, use each person's 
 
 ## Step 3: Handle fixed bills the same way
 
-Internet, streaming services, renters' tools, and anything else with a flat monthly price can be prorated just like rent:
+Internet, streaming services, and anything else with a flat monthly price can be prorated just like rent:
 
 > (monthly bill ÷ days in month) × days in residence ÷ number of people in the home on those days
 
