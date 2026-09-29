@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-09-28</lastmod>
+    <lastmod>2026-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5636,6 +5636,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-sottovalutare-i-costi-degli-acquisti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-nedootsenivat-rashody-na-pokupki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-underestimating-costs-when-you-shop/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
@@ -11473,6 +11486,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-underestimating-costs-when-you-shop/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-bekommen-sie-mahngebuhren-erlassen-ruhige-anruf-skripte-fur-versorger-und-fitnessstudios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -17306,6 +17332,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-sottovalutare-i-costi-degli-acquisti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-nedootsenivat-rashody-na-pokupki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-underestimating-costs-when-you-shop/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-faire-annuler-des-frais-de-retard-scripts-dappel-calmes-pour-services-publics-et-salles-de-sport/</loc>
@@ -23143,6 +23182,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-underestimating-costs-when-you-shop/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-lograr-que-te-quiten-los-recargos-por-mora-guiones-de-llamada-tranquilos-para-servicios-publicos-y-gimnasios/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -28976,6 +29028,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-sottovalutare-i-costi-degli-acquisti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-nedootsenivat-rashody-na-pokupki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-underestimating-costs-when-you-shop/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-conseguir-a-isencao-de-multas-por-atraso-roteiros-calmos-para-servicos-e-academias/</loc>
@@ -34813,6 +34878,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-underestimating-costs-when-you-shop/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-farsi-annullare-le-penali-di-mora-script-calmi-per-utenze-e-palestre/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -40648,6 +40726,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-underestimating-costs-when-you-shop/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-otmenit-shtrafy-za-prosrochku-spokoynye-telefonnye-skripty-dlya-kommunalok-i-sportzalov/</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -46470,6 +46561,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-subestimar-os-custos-das-compras/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-smettere-di-sottovalutare-i-costi-degli-acquisti/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-nedootsenivat-rashody-na-pokupki/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-much-should-you-spend-when-visiting-family/</loc>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-when-visiting-family/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-beim-familienbesuch-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-quand-on-rend-visite-a-sa-famille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deberias-gastar-al-visitar-a-tu-familia/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-voce-deve-gastar-ao-visitar-a-familia/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-dovresti-spendere-quando-visiti-la-famiglia/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-poezdku-v-gosti-k-rodnym/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/</loc>
