@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5688,6 +5688,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/macchina-del-pane-conviene-il-test-del-costo-a-pagnotta/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-hlebopechku-schitaem-tsenu-buhanki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-bread-maker-a-cost-per-loaf-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-create-a-cashless-envelope-system-that-actually-works/</loc>
@@ -11564,6 +11577,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-bread-maker-a-cost-per-loaf-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-erstellen-sie-ein-bargeldloses-umschlagsystem-das-wirklich-funktioniert/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17436,6 +17462,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/macchina-del-pane-conviene-il-test-del-costo-a-pagnotta/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-hlebopechku-schitaem-tsenu-buhanki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-bread-maker-a-cost-per-loaf-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-creer-un-systeme-denveloppes-sans-especes-qui-fonctionne-vraiment/</loc>
@@ -23312,6 +23351,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-bread-maker-a-cost-per-loaf-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-crear-un-sistema-de-sobres-sin-efectivo-que-realmente-funcione/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -29184,6 +29236,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/macchina-del-pane-conviene-il-test-del-costo-a-pagnotta/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-hlebopechku-schitaem-tsenu-buhanki/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-bread-maker-a-cost-per-loaf-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-criar-um-sistema-de-envelopes-sem-dinheiro-que-realmente-funciona/</loc>
@@ -35060,6 +35125,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-bread-maker-a-cost-per-loaf-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-creare-un-sistema-di-buste-senza-contanti-che-funzioni-davvero/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -40934,6 +41012,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-bread-maker-a-cost-per-loaf-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-sozdat-sistemu-konvertov-bez-nalichnyh-kotoraya-deystvitelno-rabotaet/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -46795,6 +46886,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vale-a-pena-comprar-maquina-de-pao-teste-do-custo-por-pao/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/macchina-del-pane-conviene-il-test-del-costo-a-pagnotta/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-hlebopechku-schitaem-tsenu-buhanki/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-budget-for-seasonal-decorations-without-overbuying/</loc>
+    <lastmod>2026-10-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-budget-for-seasonal-decorations-without-overbuying/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/saisonale-deko-budgetieren-ohne-zu-viel-zu-kaufen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/decorations-saisonnieres-budgeter-sans-trop-acheter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-presupuestar-la-decoracion-de-temporada-sin-excesos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-orcar-decoracoes-sazonais-sem-comprar-demais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/decorazioni-stagionali-budget-senza-comprare-troppo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-planirovat-byudzhet-na-sezonnyy-dekor-bez-lishnih-pokupok/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/</loc>
