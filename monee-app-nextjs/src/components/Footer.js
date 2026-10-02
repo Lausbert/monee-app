@@ -57,7 +57,7 @@ const Footer = () => {
           </a>
         )}
         {siteConfig.instagram_username && (
-          <a href={`https://instagram.com/${siteConfig.instagram_username}`} target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+          <a href={`https://www.instagram.com/${siteConfig.instagram_username}/`} target="_blank" rel="noopener noreferrer" aria-label="Instagram">
             <span className="fa-stack fa-1x">
               <i className="socialIconBack fas fa-circle fa-stack-2x"></i>
               <i className="socialIconTop fab fa-instagram fa-stack-1x"></i>

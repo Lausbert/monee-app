@@ -58,7 +58,7 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
       "ratingValue": "4.9",
       "bestRating": "5",
       "worstRating": "1",
-      "ratingCount": "10000"
+      "ratingCount": "20000"
     },
     "author": {
       "@type": "Person",
@@ -95,7 +95,7 @@ const JsonLd = ({ translations, currentLocale = 'en' }) => {
     },
     "sameAs": [
       siteConfig.your_link,
-      `https://github.com/${siteConfig.github_username}`
+      `https://www.instagram.com/${siteConfig.instagram_username}/`
     ]
   };
 
