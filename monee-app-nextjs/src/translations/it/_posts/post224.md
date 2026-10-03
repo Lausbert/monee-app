@@ -2,6 +2,8 @@
 title: "Qual è la tua vera paga oraria? Un calcolatore veloce"
 excerpt: "Non conta solo quanto guadagni, ma quanto ti resta dopo costi e tempo “invisibile”. Questo mini-calcolatore ti aiuta a stimare la vera paga oraria e a fare scelte più leggere."
 keywords: "paga oraria, vera paga oraria, calcolatore stipendio, lavoro studenti, lavoretti universitari, budget studenti, tempo di spostamento, costi lavoro, finanze personali semplici"
+seoTitle: "Calcolo paga oraria: quanto guadagni davvero all'ora"
+metaDescription: "Calcola la tua vera paga oraria con un calcolatore veloce: scopri quanto vale davvero un'ora del tuo tempo, considerando costi e tempo extra."
 ---
 ## Cos’è la “vera paga oraria”
 

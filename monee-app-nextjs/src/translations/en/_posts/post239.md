@@ -2,6 +2,8 @@
 title: "Shipping Protection: Is It Worth It? A 3-Step Test"
 excerpt: "Shipping protection sounds like cheap peace of mind, but it’s often a vague add-on with uneven payouts. Use this simple 3-step test to decide when to skip it—and when it’s actually sensible."
 keywords: "shipping protection, is shipping protection worth it, package protection, shipping insurance, lost package, stolen package, damaged delivery, delivery claims, order protection, refund policy"
+seoTitle: "Is Shipping Protection Worth It? A 3-Step Test"
+metaDescription: "Is shipping protection worth it? Usually not, as the store, carrier, or payment method often covers you. A 3-step test shows when it makes sense."
 ---
 Shipping protection is the little checkbox at checkout that promises peace of mind if your package is lost, stolen, or damaged. Sometimes it’s genuinely useful. Other times it’s a confusing add-on that shifts hassle onto you while sounding like a guarantee.
 

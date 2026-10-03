@@ -2,6 +2,8 @@
 title: "How to Ask for a Bank Fee Waiver: Simple Script"
 excerpt: "A calm, copy-paste script to ask your bank to waive a fee—plus what to say if they push back, and follow-ups for phone, chat, and email so you stay confident."
 keywords: "bank fee waiver script, ask for fee waiver, bank fee refund, overdraft fee waiver, monthly maintenance fee waiver, customer service script, negotiate bank fees, what to say to bank, waive bank charge"
+seoTitle: "One-Time Courtesy Waiver: How to Ask Your Bank"
+metaDescription: "Ask your bank for a one-time courtesy waiver with a simple script for phone, chat, or email, plus what to say if they push back on waiving the fee."
 ---
 You’re not “bad with money” for wanting a fee waived. You’re human. Fees often hit at stressful moments—when you’re already juggling enough. The hard part isn’t the math. It’s the ask.
 

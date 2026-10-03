@@ -2,6 +2,8 @@
 title: "How to Split Car Costs Fairly: Fuel, Repairs, Insurance, and Depreciation"
 excerpt: "A candid, story‑driven guide to splitting car costs without drama. Learn three fair methods—per‑mile, FAVR‑style, and model‑specific TCO—plus what to do about insurance spikes, depreciation, and EV vs. gas differences."
 keywords: "car cost split, per‑mile rate, IRS standard mileage rate, FAVR, AAA Your Driving Costs, Edmunds TCO, depreciation, insurance split, usage‑based insurance, EV maintenance, DOE AFDC, carpool calculator"
+seoTitle: "Split Car Costs Fairly: Per-Mile, FAVR or Full TCO"
+metaDescription: "Split car costs and expenses fairly with three methods: per-mile, FAVR-style, or model-specific TCO, plus how to handle insurance spikes and depreciation."
 ---
 I live in Cologne and design for a living, which means I do a lot of “it depends” thinking. Money decisions are like design briefs—clear goals, messy constraints, and lots of feelings. Splitting car costs is the same. It’s not just fuel or a single bill. It’s insurance, repairs, tires, depreciation—the invisible slide of value over time. And when life changes, the math changes with it.
 

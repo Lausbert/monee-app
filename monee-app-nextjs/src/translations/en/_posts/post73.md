@@ -2,6 +2,8 @@
 title: "How to Move Bill Due Dates to Match Your Paydays"
 excerpt: "Syncing bill due dates to your payroll cycle reduces stress and late fees. Here’s when date changes are allowed, what to ask for, and short role‑play scripts you can use with credit cards, utilities, loans, and subscriptions."
 keywords: "change due date,billing date,statement closing date,autopay,proration,grace period,credit card due date,utility due date,student loan due date,auto loan due date,wireless bill date,streaming billing date,mortgage grace period,bill calendar"
+seoTitle: "Can I Change My Payment Due Date? Match Your Payday"
+metaDescription: "Learn when you can change a payment due date and use short scripts to move credit card, utility, auto loan, and subscription dates to match your payday."
 ---
 You’re not bad at money. You’re under‑practiced at conversations. Move a few bill due dates so they land right after your paycheck—then document everything and confirm in writing. I’ll show you exact words to use, where pushback tends to happen, and how to keep your credit clean while the changes process.
 

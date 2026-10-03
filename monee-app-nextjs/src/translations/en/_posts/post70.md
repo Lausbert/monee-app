@@ -2,6 +2,8 @@
 title: "How to Start a Budget When You Hate Tracking"
 excerpt: "A candid, story-driven guide to starting a low‑friction budget when spreadsheets and daily tracking make you want to quit. Real scenes, small choices, and simple guardrails that actually stick."
 keywords: "anti-budget, reverse budgeting, pay-yourself-first, 50/30/20 rule, 80/20 budget, conscious spending plan, automate savings, split direct deposit, auto-escalation, bill calendar, money date, spending guardrails, sinking funds, buckets, no-spend challenge, irregular income"
+seoTitle: "How to Create a Budget When You Hate Tracking"
+metaDescription: "Learn how to start a budget plan without daily tracking or spreadsheets: set a few smart defaults and simple guardrails that keep you in control."
 ---
 If you love creative work but bristle at spreadsheets, welcome. This is a budget for people who want control without living inside a ledger. It’s about setting a few smart defaults and letting life happen—without losing the plot.
 

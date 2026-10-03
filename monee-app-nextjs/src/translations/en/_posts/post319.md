@@ -2,6 +2,8 @@
 title: "Are Refill Products Cheaper? A Simple Break-Even Test"
 excerpt: "Refill products can save money, but not always. Use this simple break-even test to compare starter packs, refill prices, usage, and real household habits."
 keywords: "refill products, are refills cheaper, refill packs, sustainable shopping, budget shopping, break-even test, household savings, reusable packaging"
+seoTitle: "Are Refills Cheaper? A Simple Break-Even Test"
+metaDescription: "Are refills cheaper? Only if you use them enough to beat the starter cost. Compare starter and refill prices to find your break-even point."
 ---
 Refill products feel like they should be cheaper, but the honest answer is: only if you use them enough to beat the starter cost.
 
