@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5714,6 +5714,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-un-taxi-condiviso-con-fermate-diverse/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-stoimost-taksi-s-raznymi-ostanovkami/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-shared-taxi-fare-with-different-stops/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-create-a-cashless-envelope-system-that-actually-works/</loc>
@@ -11616,6 +11629,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-shared-taxi-fare-with-different-stops/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-erstellen-sie-ein-bargeldloses-umschlagsystem-das-wirklich-funktioniert/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17514,6 +17540,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-un-taxi-condiviso-con-fermate-diverse/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-stoimost-taksi-s-raznymi-ostanovkami/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-shared-taxi-fare-with-different-stops/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-creer-un-systeme-denveloppes-sans-especes-qui-fonctionne-vraiment/</loc>
@@ -23416,6 +23455,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-shared-taxi-fare-with-different-stops/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-crear-un-sistema-de-sobres-sin-efectivo-que-realmente-funcione/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -29314,6 +29366,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-un-taxi-condiviso-con-fermate-diverse/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-stoimost-taksi-s-raznymi-ostanovkami/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-shared-taxi-fare-with-different-stops/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-criar-um-sistema-de-envelopes-sem-dinheiro-que-realmente-funciona/</loc>
@@ -35216,6 +35281,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-shared-taxi-fare-with-different-stops/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-creare-un-sistema-di-buste-senza-contanti-che-funzioni-davvero/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -41116,6 +41194,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-shared-taxi-fare-with-different-stops/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-sozdat-sistemu-konvertov-bez-nalichnyh-kotoraya-deystvitelno-rabotaet/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -47003,6 +47094,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-a-corrida-de-taxi-com-paradas-diferentes/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-un-taxi-condiviso-con-fermate-diverse/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-razdelit-stoimost-taksi-s-raznymi-ostanovkami/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-stop-boredom-spending-with-a-free-fun-list/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-boredom-spending-with-a-free-fun-list/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/langeweile-kaufe-stoppen-mit-einer-gratis-spass-liste/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/stopper-les-achats-par-ennui-grace-aux-activites-gratuites/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-gastar-por-aburrimiento-con-planes-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-gastar-por-tedio-com-uma-lista-de-lazer-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/smettere-di-spendere-per-noia-la-lista-degli-svaghi-gratis/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-tratit-ot-skuki-spisok-besplatnyh-zanyatiy/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/</loc>
