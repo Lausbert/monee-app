@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5740,6 +5740,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-slow-cooker-test-del-costo-a-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-sloukuker-schitaem-stoimost-portsii/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-slow-cooker-a-cost-per-meal-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-create-a-cashless-envelope-system-that-actually-works/</loc>
@@ -11668,6 +11681,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-slow-cooker-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-erstellen-sie-ein-bargeldloses-umschlagsystem-das-wirklich-funktioniert/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17592,6 +17618,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-slow-cooker-test-del-costo-a-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-sloukuker-schitaem-stoimost-portsii/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-slow-cooker-a-cost-per-meal-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-creer-un-systeme-denveloppes-sans-especes-qui-fonctionne-vraiment/</loc>
@@ -23520,6 +23559,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-slow-cooker-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-crear-un-sistema-de-sobres-sin-efectivo-que-realmente-funcione/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -29444,6 +29496,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-slow-cooker-test-del-costo-a-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-sloukuker-schitaem-stoimost-portsii/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-slow-cooker-a-cost-per-meal-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-criar-um-sistema-de-envelopes-sem-dinheiro-que-realmente-funciona/</loc>
@@ -35372,6 +35437,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-slow-cooker-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-creare-un-sistema-di-buste-senza-contanti-che-funzioni-davvero/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -41298,6 +41376,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-a-slow-cooker-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-sozdat-sistemu-konvertov-bez-nalichnyh-kotoraya-deystvitelno-rabotaet/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -47211,6 +47302,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vale-a-pena-comprar-uma-slow-cooker-custo-por-refeicao/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-slow-cooker-test-del-costo-a-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-sloukuker-schitaem-stoimost-portsii/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-much-should-adult-kids-pay-when-living-at-home/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-adult-kids-pay-when-living-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollten-erwachsene-kinder-zu-hause-zahlen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/enfants-adultes-a-la-maison-combien-doivent-ils-payer/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-deben-pagar-los-hijos-adultos-que-viven-en-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-filhos-adultos-devem-pagar-para-morar-com-os-pais/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-devono-pagare-i-figli-adulti-che-vivono-a-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-dolzhny-platit-vzroslye-deti-zhivuschie-s-roditelyami/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/</loc>
