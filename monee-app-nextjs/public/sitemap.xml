@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5805,6 +5805,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-sistema-di-buste-senza-contanti-che-funzioni-davvero/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-sistemu-konvertov-bez-nalichnyh-kotoraya-deystvitelno-rabotaet/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
@@ -11785,6 +11798,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-du-zwischen-jobangeboten-mit-einer-budgetentscheidungsmatrix-wahlst/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17761,6 +17787,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-sistema-di-buste-senza-contanti-che-funzioni-davvero/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-sistemu-konvertov-bez-nalichnyh-kotoraya-deystvitelno-rabotaet/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-choisir-entre-des-offres-demploi-a-laide-dune-matrice-de-decision-budgetaire/</loc>
@@ -23741,6 +23780,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-elegir-entre-ofertas-de-trabajo-con-una-matriz-de-decision-presupuestaria/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -29719,6 +29771,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/como-escolher-entre-ofertas-de-emprego-com-uma-matriz-de-decisao-orcamentaria/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -33436,7 +33501,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/cosa-dire-se-un-amico-non-ti-ha-ancora-ridato-i-soldi/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/what-to-say-when-a-friend-hasnt-paid-you-back-yet/"/>
@@ -35695,6 +35760,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-sistema-de-envelopes-sem-dinheiro-que-realmente-funciona/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-sistemu-konvertov-bez-nalichnyh-kotoraya-deystvitelno-rabotaet/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-scegliere-tra-offerte-di-lavoro-con-una-matrice-decisionale-orientata-al-budget/</loc>
@@ -41675,6 +41753,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-create-a-cashless-envelope-system-that-actually-works/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-predlozheniyami-o-rabote-s-pomoschyu-byudzhetnoy-matritsy-resheniy/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -47640,6 +47731,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-criar-um-sistema-de-envelopes-sem-dinheiro-que-realmente-funciona/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-creare-un-sistema-di-buste-senza-contanti-che-funzioni-davvero/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sozdat-sistemu-konvertov-bez-nalichnyh-kotoraya-deystvitelno-rabotaet/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-chip-in-for-office-collections/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-solltest-du-bei-sammlungen-im-buro-geben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cagnotte-au-bureau-combien-donner-pour-un-collegue/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-dinero-aportar-a-una-colecta-en-la-oficina/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
