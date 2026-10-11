@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5818,6 +5818,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
@@ -11811,6 +11824,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-du-zwischen-jobangeboten-mit-einer-budgetentscheidungsmatrix-wahlst/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17802,6 +17828,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/comment-choisir-entre-des-offres-demploi-a-laide-dune-matrice-de-decision-budgetaire/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -21935,7 +21974,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-pedir-un-descuento-sin-sentirte-incomodo/</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-10-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-ask-for-a-discount-without-feeling-awkward/"/>
@@ -23791,6 +23830,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-elegir-entre-ofertas-de-trabajo-con-una-matriz-de-decision-presupuestaria/</loc>
@@ -29784,6 +29836,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/como-escolher-entre-ofertas-de-emprego-com-uma-matriz-de-decisao-orcamentaria/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -35773,6 +35838,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-scegliere-tra-offerte-di-lavoro-con-una-matrice-decisionale-orientata-al-budget/</loc>
@@ -41766,6 +41844,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-chip-in-for-office-collections/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-predlozheniyami-o-rabote-s-pomoschyu-byudzhetnoy-matritsy-resheniy/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -47744,6 +47835,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vaquinha-no-trabalho-quanto-voce-deve-contribuir/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/colletta-in-ufficio-quanto-contribuire-per-un-regalo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-skidyvatsya-na-podarok-kollege-v-ofise/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/</loc>
+    <lastmod>2026-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familientreffen-kosten-fair-auf-haushalte-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/reunion-de-famille-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-gastos-de-una-reunion-familiar-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
