@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1791,7 +1791,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/do-digital-shelf-labels-change-prices-while-you-shop/</loc>
-    <lastmod>2025-12-26</lastmod>
+    <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/andern-digitale-regalpreisschilder-die-preise-wahrend-du-einkaufst/"/>
@@ -5831,6 +5831,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
@@ -11837,6 +11850,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-du-zwischen-jobangeboten-mit-einer-budgetentscheidungsmatrix-wahlst/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17839,6 +17865,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-choisir-entre-des-offres-demploi-a-laide-dune-matrice-de-decision-budgetaire/</loc>
@@ -23845,6 +23884,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-elegir-entre-ofertas-de-trabajo-con-una-matriz-de-decision-presupuestaria/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -29847,6 +29899,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-escolher-entre-ofertas-de-emprego-com-uma-matriz-de-decisao-orcamentaria/</loc>
@@ -35853,6 +35918,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-scegliere-tra-offerte-di-lavoro-con-una-matrice-decisionale-orientata-al-budget/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -41857,6 +41935,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-family-reunion-costs-fairly-across-households/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-predlozheniyami-o-rabote-s-pomoschyu-byudzhetnoy-matritsy-resheniy/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -47848,6 +47939,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-da-reuniao-de-familia-de-forma-justa/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/riunione-di-famiglia-come-dividere-le-spese-in-modo-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-semeynuyu-vstrechu/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ruckgabefristen-im-blick-so-verlierst-du-keine-erstattung/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/delais-de-retour-comment-ne-plus-perdre-un-remboursement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-plazos-de-devolucion-y-no-perder-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
