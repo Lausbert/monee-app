@@ -1,241 +1,167 @@
 ---
 title: "Vorgemerkte Umsätze: So planst du dein Budget für Kartenreservierungen"
-excerpt: "Vorgemerkte Umsätze blockieren Limit oder Kontostand, ohne dass schon wirklich abgebucht wurde. Dieser Guide zeigt, wie du Card Holds erkennst, einen Puffer festlegst und Überraschungen beim Reisen oder Tanken vermeidest."
-keywords: "vorgemerkte Umsätze, Pending Charges, Kartenreservierung, Vorautorisierung, Autorisierung, Kreditkarte, Debitkarte, Kaution Hotel, Mietwagen Kaution, Tankstelle Autorisierung, Budget Puffer, Kreditkartenlimit"
+excerpt: "Vorgemerkte Umsätze sind reservierte, aber noch nicht gebuchte Kartenzahlungen. Hier erfährst du, wie lange sie stehen bleiben, wann sie gebucht oder gelöscht werden und wie du dafür einen Puffer im Budget planst."
+keywords: "vorgemerkte Umsätze, vorgemerkte Umsätze Kreditkarte, Kartenreservierung, Autorisierung, Kaution Mietwagen, ausstehende Buchungen, Budget Puffer"
+seoTitle: "Vorgemerkte Umsätze: Bedeutung, Dauer & Budget 2026"
+metaDescription: "Vorgemerkte Umsätze sind reservierte, noch nicht gebuchte Kartenzahlungen. Hier liest du, wie lange sie stehen bleiben und wie du im Budget dafür planst."
+modified: "2026-10-13"
 ---
-> **Für wen:** Du zahlst häufig mit Karte und siehst in der App Wörter wie „vorgemerkt“, „ausstehend“, „autorisiert“ oder „reserviert“.  
-> **Die Entscheidung:** Wie groß muss dein Budget‑Puffer sein, damit Card Holds dich nicht plötzlich ausbremsen?  
-> **So nutzt du das:** Erst den Kurz‑Check (Hold vs. Abbuchung), dann das Flowchart für deinen Puffer, danach die „Hold‑Kategorie“ im Budget anlegen und jeden Hold dort parken, bis er gebucht oder freigegeben ist.
+**Kurze Antwort:** Ein vorgemerkter Umsatz ist eine Kartenzahlung, die deine Bank schon **reserviert**, aber noch **nicht endgültig gebucht** hat. Der Betrag ist bereits blockiert. Er senkt also deinen verfügbaren Kontostand oder dein Kartenlimit, auch wenn er noch nicht abgebucht wurde. Normalerweise wird die Vormerkung nach einigen Tagen zu einer echten Buchung. Reicht der Händler die Zahlung nie ein, löscht die Bank sie nach Ablauf einer Frist. Bei deutschen Banken liegt diese Frist oft bei etwa **4 bis 12 Tagen**. Kautionen für Hotels und Mietwagen können deutlich länger stehen bleiben, bis zu etwa **30 Tage**. Im Budget solltest du solche Reservierungen deshalb wie „vorübergehend geparktes Geld“ behandeln.
 
-## Pending Charge oder echte Abbuchung? Der 30‑Sekunden‑Kurz‑Check
+> **Für wen:** Du zahlst häufig mit Karte und siehst in deiner Banking-App Begriffe wie „vorgemerkt“, „ausstehend“, „autorisiert“ oder „reserviert“.
+> **Die Entscheidung:** Wie groß muss dein Puffer sein, damit Reservierungen dich nicht plötzlich ausbremsen?
+> **So nutzt du das:** Mach zuerst den Kurz-Check (Reservierung oder Abbuchung?). Lies dann nach, wie lange Vormerkungen stehen bleiben. Danach wählst du deinen Puffer und legst im Budget eine eigene Kategorie für Reservierungen an.
 
-Du brauchst keine Finanz-Akrobatik. Eine Vormerkung ist vor allem ein **Signal**: *Dieser Betrag ist gerade (vorübergehend) nicht frei verfügbar.*
+## Vorgemerkt oder gebucht? Der 30-Sekunden-Check
 
-**So erkennst du den Unterschied:**
+- **Vorgemerkt / ausstehend / autorisiert / reserviert:** Der Betrag ist blockiert, aber noch nicht endgültig gebucht.
+- **Gebucht / verbucht:** Das Geld wurde wirklich abgebucht. Dieser Betrag gehört ins normale Budget.
 
-- **Vorgemerkt / ausstehend / autorisiert:** Betrag blockiert (Limit/Kontostand sinkt oft), aber noch nicht endgültig gebucht.
-- **Gebucht / final / verbucht:** echte Abbuchung – die gehört ins normale Budget (und lässt sich je nach Fall auch eher sauber reklamieren).
+Viele Apps heben Vormerkungen optisch ab. Beim ADAC-Kreditkartenservice zum Beispiel erscheinen vorgemerkte Umsätze grau und gebuchte schwarz ([ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)). Bei der ING (Deutschland) stehen sie unter der Überschrift „vorgemerkter Umsatz“ ganz oben in der Kontoansicht ([ING – Umsatzbeanstandung](https://www.ing.de/hilfe/zahlungsverkehr/karten/umsatzbeanstandung/)).
 
-Wenn du unsicher bist: Viele Banking‑Apps zeigen vorgemerkte Umsätze **optisch anders** (z. B. grau) oder mit einem Label.
+**Merksatz: Vorgemerkt heißt blockiert. Gebucht heißt bezahlt.**
 
-## Was sind „Pending Charges“ (vorgemerkte Umsätze) überhaupt?
+## Was bedeutet „vorgemerkter Umsatz“ genau?
 
-„Pending Charges“ ist der englische Sammelbegriff für **vorgemerkte Umsätze**. Technisch steckt dahinter fast immer eine **Autorisierung**: Der Händler fragt bei deiner Bank bzw. beim Kartenanbieter an, ob die Zahlung grundsätzlich möglich ist – und reserviert dabei einen Betrag.
+Hinter einer Vormerkung steckt fast immer eine **Autorisierung**. Der Händler fragt bei deiner Bank an, ob die Zahlung möglich ist, und die Bank reserviert den Betrag. Die eigentliche Buchung folgt erst, wenn der Händler seinen elektronischen Beleg einreicht ([ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)).
 
-Wichtig fürs Budget (und für die Nerven):
+Für dein Budget heißt das:
 
-- Eine Vormerkung kann **deinen verfügbaren Betrag** auf dem Konto oder **dein Kartenlimit** reduzieren.
-- Der vorgemerkte Betrag kann **vom späteren Endbetrag abweichen** – z. B. weil der finale Betrag erst später feststeht oder sich durch Umrechnung/Anpassungen verändert.
-- Die Vormerkung verschwindet entweder, weil sie **in eine Buchung übergeht** oder weil sie **freigegeben/verfällt**, wenn keine endgültige Abbuchung erfolgt.
+- **Debitkarte bzw. Girokonto:** Bei der ING (Deutschland) zählen vorgemerkte Umsätze sofort zum Kontostand ([ING – Buchungen und Umsätze](https://www.ing.de/hilfe/zahlungsverkehr/ueberweisen/umsaetze/)).
+- **Kreditkarte:** Schon die Autorisierung verringert dein verfügbares Limit ([ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)).
+- **Der Betrag kann sich noch ändern:** Die spätere Buchung kann vom vorgemerkten Betrag abweichen, etwa durch den Wechselkurs bei Fremdwährungen, eine Teilstornierung oder eine Nachbelastung ([ING](https://www.ing.de/hilfe/zahlungsverkehr/ueberweisen/umsaetze/); [N26](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)).
 
-**Merksatz:**  
-**Vorgemerkt = blockiert. Gebucht = bezahlt.**
+### Unterschied zwischen „vorgemerkten Umsätzen“ und „ausstehenden Buchungen“
 
-## Warum halten Hotels, Mietwagen, Tankstellen & Co. Beträge „fest“?
+In der Praxis gibt es **keinen inhaltlichen Unterschied**. Banken und Apps benennen denselben Zustand nur unterschiedlich: „vorgemerkt“, „ausstehend“, „pending“, „autorisiert“ oder „reserviert“. Gemeint ist immer ein Betrag, der autorisiert, aber noch nicht gebucht ist. N26 nennt solche Vorgänge zum Beispiel „Autorisierungen“ und grenzt sie von „Buchungen“ ab ([N26](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)). Nicht damit verwechseln solltest du **terminierte Überweisungen oder Lastschriften**, die manche Apps ebenfalls als „ausstehend“ anzeigen. Dabei handelt es sich um geplante Zahlungen, nicht um Kartenreservierungen.
 
-Card Holds wirken wie ein unangekündigter Handbremsgriff – sind aber oft schlicht Teil des Zahlungsablaufs.
+## Wann werden vorgemerkte Umsätze gebucht?
 
-Typische Auslöser:
+Eine feste Frist gibt es nicht. Die Buchung erfolgt, sobald der Händler die Zahlung einreicht ([ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)). Bei normalen Einkäufen passiert das meist innerhalb weniger Tage. Die Kartenregeln setzen Händlern dafür enge Zeitfenster: Laut dem Zahlungsdienstleister Stripe gilt eine Autorisierung für Zahlungen vor Ort je nach Kartennetz 2 bis 5 Tage, für Online-Zahlungen in der Regel 5 bis 7 Tage. Für bestimmte Fälle sind verlängerte Autorisierungen möglich ([Stripe Docs](https://docs.stripe.com/payments/place-a-hold-on-a-payment-method)).
 
-### 1) Kautionen & Sicherheiten (Hotel, Mietwagen, Sharing)
-Bei Leistungen, bei denen später noch etwas dazukommen kann (Schäden, Extras, nachträgliche Posten), wird häufig ein Betrag als **Sicherheit** blockiert. Das ist für Anbieter bequem – und für dich heißt es: **Limit frei halten**.
+## Wie lange bleiben vorgemerkte Umsätze stehen – und wann werden sie gelöscht?
 
-### 2) Unklarer Endbetrag (z. B. Tanken, Laden, Service mit späterer Abrechnung)
-Wenn der Endbetrag beim Start noch nicht feststeht, wird oft zuerst ein **Maximal‑ oder Reservierungsbetrag** autorisiert. Danach wird nur der tatsächliche Betrag abgerechnet; die Differenz wird (je nach Anbieter) wieder freigegeben.
+Eine Vormerkung verschwindet auf zwei Wegen: Sie **wird zur Buchung**, oder sie **läuft ab** und wird gelöscht. Wie lange das dauert, hängt von Bank, Kartenart, Händler und Branche ab. Ein paar Beispiele aus Deutschland, Stand Oktober 2026:
 
-### 3) Karten‑Verifizierung (Online‑Shops, App‑Stores, Abos)
-Manchmal wird nur geprüft, ob die Karte aktiv ist – sogar mit einem **Nullbetrag** oder einem sehr kleinen Testbetrag. Das kann als Vormerkung auftauchen und später wieder verschwinden.
+| Anbieter / Fall | Was der Anbieter angibt |
+|---|---|
+| ING (Girokonto/Karte) | Gelöscht nach Buchung, sonst nach **4–7 Tagen** oder zu einem vom Händler gesetzten Termin (z. B. Mietwagen) ([ING](https://www.ing.de/hilfe/zahlungsverkehr/ueberweisen/umsaetze/)) |
+| ADAC Kreditkarte | Nicht gebuchte Vormerkungen fallen **innerhalb von 7 Tagen** aus der Umsatzliste ([ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)) |
+| N26 | Verfallene Beträge kehren **spätestens nach 12 Tagen** zurück, bei Mietwagen-Kautionen kann es **bis zu 30 Werktage** dauern ([N26](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)) |
+| Hotel und Fahrzeugverleih (Händlerseite) | Reservierungszeitraum laut Kartenorganisationen (z. B. Mastercard) **bis zu 30 Kalendertage** ([First Cash Solution](https://www.firstcashsolution.de/unsere-loesungen/kartenzahlungen-akzeptieren/reservierungszeiten/)) |
 
-### 4) Technische Zwischenfälle (doppelt sichtbar)
-Es kann passieren, dass du **Autorisierung und spätere Buchung** beide siehst – etwa wenn beim Terminal die Verbindung hakt. In vielen Fällen erledigt sich das, sobald die Autorisierung verfällt bzw. die Buchung korrekt abgeschlossen ist.
+Stripe nennt als allgemeine Orientierung 5 bis 7 Tage, bei manchen Banken bis zu 14 Tage und bei Hotels und Autovermietungen bis zu 30 Tage ([Stripe](https://stripe.com/de/resources/more/preauthorization-charges-on-credit-cards-what-they-are-and-how-long-they-last)).
 
-## Wie lange bleibt eine Kartenreservierung (Card Hold) bestehen?
+**Was das für deine Planung heißt:** Bei Alltagszahlungen rechnest du mit einigen Tagen bis etwa zwei Wochen. Bei Hotel- oder Mietwagen-Kautionen planst du vorsichtshalber **bis zu 30 Tage** ein. Wird die Reservierung früher frei, umso besser.
 
-Hier gibt’s keine eine Zahl, die immer stimmt – weil **Bank, Kartenorganisation, Händler und Branche** mitspielen.
+**Wichtig:** Wenn eine Vormerkung gelöscht wird, heißt das nicht automatisch, dass nie gebucht wird. Reicht der Händler die Zahlung verspätet ein, kann sie später noch als Buchung auftauchen. Lass das Geld deshalb nicht sofort komplett ins Budget zurückfließen, wenn du weißt, dass du die Leistung tatsächlich bekommen hast.
 
-Damit du trotzdem planen kannst, hilft dieses Spektrum:
+## Warum halten Hotels, Mietwagen, Tankstellen & Co. Beträge fest?
 
-- Manche Banken löschen Vormerkungen **nach wenigen Tagen** (z. B. nach **4 Tagen**) – wenn der Händler sie nicht länger hält.
-- Bei manchen Karten verschwinden nicht final gebuchte Vormerkungen **innerhalb von etwa 7 Tagen** aus der Umsatzliste.
-- Andere Anbieter nennen als automatisches Verfalls‑Fenster **spätestens 12 Tage** (für „normale“ Autorisierungen), während **Kautionen** deutlich länger dauern können (z. B. bis zu **30 Werktage**).
-- Viele Banken sprechen bei Händler‑Vormerkungen von einer Obergrenze um **30 Tage** – manche nennen explizit **31 Tage** als „spätestens dann wird automatisch gelöscht“.
-- In bestimmten Branchen (v. a. Hotel und Fahrzeugverleih) sind **bis zu 30 Kalendertage** als Reservierungszeitraum üblich/regelbasiert.
+1. **Kautionen und Sicherheiten:** Hotels und Autovermietungen reservieren Beträge für Schäden oder Extras. Beim Mietwagen wird die Kaution laut ADAC nicht abgebucht, sondern nur im Verfügungsrahmen blockiert. Bei Standardfahrzeugen liegt sie häufig zwischen 250 und 1.500 Euro ([ADAC – Kreditkarte beim Mietwagen](https://www.adac.de/produkte/finanzdienstleistungen/finanzratgeber/kreditkarte-beim-mietwagen/)).
+2. **Unklarer Endbetrag:** An der Zapfsäule, an der Ladesäule oder für die Minibar werden oft Pauschalbeträge reserviert. Abgerechnet wird später nur der tatsächliche Betrag ([ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)).
+3. **Kartenprüfung:** Onlinehändler und App-Stores testen mit 0 € oder einem kleinen Betrag, ob die Karte aktiv ist. Diese Vormerkungen verschwinden nach einiger Zeit wieder ([ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt); [N26](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)).
+4. **Technische Probleme:** Hakt die Verbindung am Terminal, siehst du womöglich Autorisierung und Buchung gleichzeitig. Die überzählige Autorisierung erlischt in der Regel von selbst ([N26](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)).
 
-**Praktische Übersetzung:**  
-Wenn du einen Hold siehst, plane ihn so ein, als könnte er **bis zu 30 Tagen** (in Einzelfällen rund **31 Tagen**) dein Limit blockieren – und freue dich, wenn er früher verschwindet.
+## Kreditkarte oder Debitkarte: Wo trifft dich eine Vormerkung?
 
-## Solltest du für Pending Charges extra Budget einplanen?
+| Situation | Debitkarte | Kreditkarte |
+|---|---|---|
+| Was wird blockiert? | meist der verfügbare Kontostand | das verfügbare Kartenlimit |
+| Spürbarer Effekt | Weniger Geld für Miete, Lastschriften usw. | Weniger Spielraum für weitere Kartenzahlungen |
+| Mietwagen-Kaution | wird laut ADAC häufig nicht oder nur eingeschränkt akzeptiert | in der Regel Standard ([ADAC](https://www.adac.de/produkte/finanzdienstleistungen/finanzratgeber/kreditkarte-beim-mietwagen/)) |
+| Budget-Tipp | Puffer eher größer halten, wenn das Konto knapp kalkuliert ist | Vor Reisen das Limit prüfen |
 
-Ja – und zwar nicht, weil du „mehr ausgibst“, sondern weil Holds **Liquidität und Limit** blockieren können. Das ist der Unterschied zwischen:
+Eine Debitkarte ist dabei nicht grundsätzlich schlechter. Weil sie direkt am Konto hängt, wird es mit ihr aber schneller eng.
 
-- „Ich kann mir das leisten“ und
-- „Meine Karte wird abgelehnt, obwohl ich mein Budget im Griff habe.“
+## Brauchst du dafür extra Budget? Ja – als Puffer
 
-Ein **Hold‑Puffer** macht die Entscheidung kleiner:
+Reservierungen kosten dich kein zusätzliches Geld. Sie blockieren aber **Liquidität**. Ohne Puffer kann deine Karte abgelehnt werden, obwohl dein Budget eigentlich im Plan ist.
 
-- Du musst nicht jedes Mal rätseln, ob die Vormerkung morgen verschwindet.
-- Du verhinderst, dass dein Budget „doppelt zählt“ (Hold + finale Buchung).
-- Du entschärfst Reise‑Situationen, in denen mehrere Sicherheiten parallel laufen.
+### Flowchart: Wie groß soll dein Puffer sein?
 
-## Entscheidungs-Flowchart: Wie groß soll dein Hold‑Puffer sein?
-
-Nimm als Basis **dein variables Budget** (alles, was nicht fix ist) oder **deinen typischen Karten‑Umsatz** pro Monat. Dann wähle eine Puffer‑Stufe.
+Die folgenden Prozentwerte sind **Faustregeln dieses Ratgebers** und keine offiziellen Vorgaben. Als Basis nimmst du dein variables Monatsbudget.
 
 ```text
 START
 │
-├─ Nutzt du Karte selten + kaum Branchen mit Holds?
-│     (kein Hotel/Mietwagen, selten Pre-Pay-Tanken/EV, wenig Abos)
-│        └─ JA → Hold‑Puffer = 5% deines variablen Monatsbudgets
+├─ Zahlst du selten mit Karte und kaum bei Hotel/Mietwagen/Tanken/Laden?
+│        └─ JA → Puffer = 5 % des variablen Monatsbudgets
 │
-├─ Nutzt du Karte regelmäßig ODER du reist gelegentlich?
-│     (1–2 Bereiche mit Holds kommen vor)
-│        └─ JA → Hold‑Puffer = 10% deines variablen Monatsbudgets
+├─ Zahlst du regelmäßig mit Karte ODER reist du gelegentlich?
+│        └─ JA → Puffer = 10 %
 │
-├─ Reist du oft / nutzt regelmäßig Hotel, Mietwagen, Pre‑Pay-Tanken, EV?
-│     ODER du hast ein eher knappes Kartenlimit?
-│        └─ JA → Hold‑Puffer = 15–20% deines variablen Monatsbudgets
+├─ Reist du oft, mietest Autos oder hast ein knappes Kartenlimit?
+│        └─ JA → Puffer = 15–20 %
+│        └─ Zusätzlich: geplante Kaution (z. B. Mietwagen) separat vormerken
 │
-└─ Fühlt sich selbst 20% eng an?
-         → Wechsle die Basis: nutze ein „Wochenbudget“
-           und halte 1/3 davon als Hold‑Puffer.
+└─ Fühlt sich selbst 20 % eng an?
+         → Arbeite mit einem Wochenbudget und halte 1/3 davon als Puffer.
 ```
 
-**Mini‑Beispiel ohne Währung:**  
-Wenn dein variables Monatsbudget 100 Budget‑Einheiten sind, sind 10 Einheiten Hold‑Puffer ein guter Start. Bei „reise‑lastig“ eher 15–20.
+**Hypothetisches Beispiel:** Dein variables Monatsbudget beträgt 100 Budget-Einheiten. Dann sind 10 Einheiten Puffer ein guter Start. Wenn du viel reist, sind 15 bis 20 Einheiten sinnvoller. Für eine geplante Mietwagenreise reservierst du die Kaution aus den Mietbedingungen zusätzlich.
 
-**Nachjustieren (stressfrei):**  
-Wenn du in den letzten Wochen nie über den Puffer kommst, kannst du ihn etwas senken. Wenn du ihn mehrfach reißt oder eine Karte abgelehnt wird: hoch damit – das ist genau sein Job.
+**Nachjustieren:** Reicht der Puffer mehrere Wochen lang locker, kannst du ihn senken. Wird er überschritten oder eine Karte abgelehnt, erhöhst du ihn.
 
-## Budget‑Methode: Holds sauber verbuchen (ohne doppelt zu zählen)
+## Budget-Methode: Vormerkungen verbuchen, ohne doppelt zu zählen
 
-Der häufigste Fehler ist „Doppelt‑Buchen“: Erst der Hold wird als Ausgabe behandelt, dann die endgültige Buchung nochmal. Das fühlt sich an, als würde Geld verschwinden.
+Der häufigste Fehler: Erst wird die Vormerkung als Ausgabe erfasst und dann die Buchung noch einmal.
 
-Besser: Behandle Holds wie einen **temporären Parkplatz**.
+**Einmaliges Setup:** Lege eine Kategorie **„Kartenreservierungen“** an. Wenn du oft unterwegs bist, kannst du zusätzlich „Reise-Reservierungen“ oder „Tank/Laden-Reservierungen“ anlegen.
 
-### Setup (einmalig, 5 Minuten)
-Lege in deinem Budget (App/Spreadsheet) eine eigene Kategorie an:
+**Ablauf:**
+1. **Eine Vormerkung erscheint:** Erfasse sie in „Kartenreservierungen“ und nicht in „Essen“ oder „Hotel“.
+2. **Die Buchung kommt:** Verschiebe den gebuchten Betrag in die passende Kategorie. Eine Differenz zur Vormerkung, etwa durch den Wechselkurs, gleichst du dabei aus.
+3. **Die Vormerkung verschwindet ohne Buchung:** Gib den Betrag an deinen Puffer zurück. Wenn du die Leistung tatsächlich bekommen hast, ist Vorsicht angebracht, denn eine späte Buchung bleibt möglich.
 
-- **„Kartenreservierungen (Holds)“**  
-  Zweck: Geld ist blockiert, aber noch nicht final ausgegeben.
+So trennst du blockiertes Geld (Liquidität) von echten Ausgaben (Kosten).
 
-Optional (hilft beim Überblick):
-- **„Reise‑Holds“** (wenn du häufig unterwegs bist)
-- **„Tank/EV‑Holds“** (wenn du oft Pre‑Pay/Autorisierungen siehst)
+## Typische Szenarien
 
-### Ablauf (immer gleich)
-1) **Hold erscheint** → buche ihn in „Kartenreservierungen (Holds)“ (nicht in „Essen“, „Hotel“, „Transport“…).  
-2) **Finale Buchung kommt** → verschiebe den Betrag aus „Holds“ in die passende echte Kategorie.  
-3) **Hold wird freigegeben/verschwindet** (ohne finale Buchung) → verschiebe zurück in deinen Hold‑Puffer.
+**Hotel:** Beim Check-in wird oft eine Sicherheit reserviert. Frag beim Check-out, ob die Reservierung freigegeben wurde. Wenn du für eine Reise planst, hilft auch der Ratgeber zum [Essensbudget auf Reisen](https://monee-app.com/de/blog/so-planst-du-dein-essensbudget-auf-reisen-mit-genuss/). Für regelmäßige Besuche mit Übernachtung passt [das Budget für eine Fernbeziehung](https://monee-app.com/de/blog/so-planst-du-ein-budget-fur-eine-fernbeziehung/).
 
-**Warum das funktioniert:**  
-Du trennst „blockiert“ (Liquidität) von „ausgegeben“ (echte Kosten). Das reduziert Chaos und verhindert Panik‑Rechnerei.
+**Mietwagen oder Transporter:** Die Kaution blockiert dein Limit. Bei Schäden kann sie laut ADAC bis zu sechs Monate zurückgehalten werden ([ADAC](https://www.adac.de/produkte/finanzdienstleistungen/finanzratgeber/kreditkarte-beim-mietwagen/)). Prüfe vorab, ob deine Karte akzeptiert wird und das Limit reicht. Wenn du für einen Umzug einen Transporter mietest, plane die Kaution in deinem [Budget für einen lokalen Umzug](https://monee-app.com/de/blog/so-planst-du-das-budget-fur-einen-lokalen-umzug-ohne-uberraschungskosten/) mit ein.
 
-## Wann solltest du aktiv werden? (Alarmzeichen statt Dauer‑Sorgen)
+**Tankstelle (Vorauszahlung) und Ladesäule:** Zuerst wird ein Pauschalbetrag reserviert, gebucht wird später der tatsächliche Betrag. Wie lange es dauert, bis die Differenz frei wird, hängt vom Anbieter und deiner Bank ab.
 
-Eine Vormerkung ist meistens normal. Aktiv werden lohnt sich in diesen Fällen:
+**Online-Shop oder App-Store:** Prüfbeträge von 0 € oder ein paar Cent tauchen kurz auf und verschwinden wieder.
 
-- **Unbekannter Händlername** und du kannst ihn nicht zuordnen.
-- **Vormerkung bleibt ungewöhnlich lang** (denk an das Spektrum: erst Tage, in manchen Fällen bis ~30/31).
-- **Du siehst Autorisierung und Buchung doppelt** und es klärt sich nicht von selbst.
-- **Du brauchst dringend Limit**, aber der Hold blockiert es (z. B. weitere Reise‑Ausgaben).
+**Fremdwährung:** Vorgemerkter und gebuchter Betrag können sich unterscheiden. Ordne den Betrag erst nach der Buchung einer Kategorie zu.
 
-**Wichtig:** Vorgemerkte Umsätze lassen sich oft **nicht** direkt „reklamieren“ wie eine Buchung. In vielen Fällen musst du warten, ob sie final gebucht werden – und dann handeln.
+## Wann solltest du aktiv werden?
 
-## 6‑Minuten‑Check: „Diese Vormerkung kenne ich nicht“
+- Du kannst den Händlernamen nicht zuordnen.
+- Eine Vormerkung bleibt deutlich länger stehen als die Frist deiner Bank.
+- Autorisierung und Buchung erscheinen doppelt und klären sich nicht. Bei N26 gibt es eine Zahlungsreklamation, wenn eine doppelte Autorisierung nach 12 Tagen noch nicht erloschen ist ([N26](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)).
+- Die Reservierung blockiert Geld, das du dringend brauchst.
 
-Wenn eine Vormerkung komisch aussieht, hilft dieser Ablauf, ohne gleich alles zu eskalieren:
+**Wichtig:** Vorgemerkte Umsätze lassen sich in der Regel **nicht reklamieren**. Eine Beanstandung ist erst nach der Buchung möglich ([ING](https://www.ing.de/hilfe/zahlungsverkehr/karten/umsatzbeanstandung/); [ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)). Auch die Bank kann eine bestätigte Autorisierung nicht einfach stornieren ([N26](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)). Freigeben kann sie meist nur der Händler.
 
-1) **Label prüfen:** vorgemerkt/ausstehend oder schon gebucht?  
-2) **Händler‑Hinweise checken:** Buchungstext, Ort, Datum, Uhrzeit.  
-3) **Eigene Spuren abgleichen:** E‑Mails, Reservierungsbestätigungen, Belege, App‑Abos.  
-4) **Typische „Verstecknamen“ bedenken:** Zahlungsdienstleister, Plattform‑Abrechnung, Franchise.  
-5) **Wenn weiter unklar:** Kontakt zum Händler (falls erkennbar) oder zum Karten‑/Bank‑Support.  
-6) **Wenn du Betrug vermutest:** Karte sichern (z. B. sperren/limitieren), dann sofort Bank/Kartenanbieter kontaktieren.
+### 6-Minuten-Check: „Diese Vormerkung kenne ich nicht“
 
-Ziel ist nicht „perfekt“, sondern: **schnell zuordnen oder sauber eskalieren**.
+1. **Status prüfen:** Ist der Umsatz vorgemerkt oder schon gebucht?
+2. **Details lesen:** Buchungstext, Ort, Datum und Uhrzeit.
+3. **Abgleichen:** E-Mails, Buchungsbestätigungen, Belege und Abos.
+4. **Versteckte Namen bedenken:** Zahlungsdienstleister, Plattformen oder Franchise-Firmen tauchen oft unter anderem Namen auf.
+5. **Wenn es unklar bleibt:** Kontaktiere den Händler oder den Support deiner Bank.
+6. **Bei Betrugsverdacht:** Sperre sofort die Karte, in Deutschland zum Beispiel über die App oder den Sperr-Notruf 116 116, und informiere deine Bank.
 
-## Wenn du zwischen Debitkarte und Kreditkarte entscheidest: Was bedeutet das für Holds?
+## Quick Recap
 
-Holds können sich je nach Kartenart unterschiedlich anfühlen – weil sie entweder dein **Konto** oder dein **Kartenlimit** direkt einschränken.
-
-| Situation | Debitkarte | Kreditkarte |
-|---|---|---|
-| Hold passiert | beeinflusst oft den verfügbaren Kontostand | mindert meist das Kartenlimit |
-| Risikogefühl | „Mein Konto ist leer/blockiert“ | „Mein Limit ist belegt“ |
-| Budget‑Tipp | Puffer eher größer halten, wenn du knapp kalkulierst | Puffer trotzdem nötig, besonders auf Reisen |
-
-Kurz gesagt: Debit ist nicht „schlechter“. Sie fühlt sich nur schneller „eng“ an, wenn Holds auftreten.
-
-## Typische Szenarien – und wie du dafür budgetierst
-
-### Hotel: Check‑in, Extras, Minibar, spätere Abrechnung
-**Was passiert:** Häufig wird beim Check‑in (oder vorher) ein Betrag als Sicherheit reserviert.  
-**Budget‑Move:** Plane den Hold in deiner „Holds“-Kategorie ein und behandle ihn wie „temporär blockiert“.  
-**Stress‑Hebel:** Beim Check‑out nachfragen, ob die Kaution/Reservierung freigegeben wurde und dir eine Bestätigung geben lassen.
-
-### Mietwagen: Kaution blockiert, Limit schrumpft
-**Was passiert:** Kautionen werden oft blockiert, nicht abgebucht – das reduziert dein verfügbares Kartenlimit sofort.  
-**Budget‑Move:** Reise‑Hold‑Puffer (oder generell höherer Hold‑Puffer) lohnt sich hier besonders.  
-**Stress‑Hebel:** Karte mit ausreichend Limit einplanen oder vorübergehend höheres Limit bei der Bank anfragen.
-
-### Tankstelle (Pre‑Pay) & EV‑Laden: Maximalbetrag zuerst, final später
-**Was passiert:** Vor dem Tanken/Laden kann ein Maximalbetrag reserviert werden, damit der Vorgang freigeschaltet wird. Abgebucht wird am Ende der tatsächliche Betrag; die Differenz wird freigegeben – kann aber je nach Zahlungsanbieter einige Tage dauern. Manche Anbieter nennen als späteste automatische Freigabe rund 30 Tage.  
-**Budget‑Move:** Tank/EV‑Holds nicht als „echte Ausgabe“ buchen, bis die finale Buchung da ist.
-
-### Online‑Shop/App‑Store: Verifizierung mit Null- oder Mini‑Betrag
-**Was passiert:** Der Händler prüft, ob die Karte aktiv ist; das kann kurz als Vormerkung erscheinen und später verschwinden.  
-**Budget‑Move:** Klein, aber nervig – deshalb hilft die eigene Hold‑Kategorie auch im Alltag.
-
-### Fremdwährung/Umrechnung: Hold ≠ Endbetrag
-**Was passiert:** Vorgemerkt und gebucht können sich unterscheiden (Umrechnung, Teilstorno, Händler‑Anpassungen).  
-**Budget‑Move:** Erst beim gebuchten Umsatz in „echte“ Kategorien verteilen; bis dahin im Hold‑Parkplatz lassen.
-
-## Druckvorlage: Hold‑Puffer‑Plan (1 Seite)
-
-```text
-HOLD-PUFFER PLAN (druckbar)
-
-1) Erkennen
-[ ] Steht da „vorgemerkt/ausstehend/autorisiert/reserviert“?  → HOLD
-[ ] Steht da „gebucht/verbucht/final“?                         → AUSGABE
-
-2) Puffer wählen (eine Zeile ankreuzen)
-[ ] 5%  meines variablen Monatsbudgets (kaum Holds)
-[ ] 10% meines variablen Monatsbudgets (regelmäßig)
-[ ] 15–20% meines variablen Monatsbudgets (viel Reise/Tank/EV/enger Rahmen)
-ODER:
-[ ] 1/3 meines Wochenbudgets (wenn % sich schlecht anfühlen)
-
-3) Budget-Regel (immer gleich)
-[ ] HOLD erscheint → in Kategorie „Kartenreservierungen (Holds)“
-[ ] Buchung erscheint → aus „Holds“ in passende Kategorie verschieben
-[ ] Hold verschwindet ohne Buchung → zurück in Puffer
-
-4) Wann handeln?
-[ ] Händler unbekannt und nicht zuordenbar
-[ ] Hold bleibt sehr lange (denk: Tage bis ~30/31)
-[ ] Limit wird dadurch kritisch
-[ ] Autorisierung und Buchung scheinen doppelt und klären sich nicht
-```
-
-## Quick recap
-
-- [ ] Vormerkung = blockiert, nicht final bezahlt  
-- [ ] Holds im Budget als eigene Kategorie „parken“  
-- [ ] Puffer wählen: 5% / 10% / 15–20% (oder 1/3 Wochenbudget)  
-- [ ] Nicht doppelt zählen: erst bei Buchung als echte Ausgabe verbuchen  
-- [ ] Bei Unklarheit: 6‑Minuten‑Check, dann Händler/Bank kontaktieren  
-- [ ] Bei Reise/Tank/EV: Holds können bis in den Bereich um 30 Tage (teils ~31) relevant sein  
+- [ ] Vorgemerkt heißt blockiert, nicht bezahlt. „Ausstehend“ meint dasselbe.
+- [ ] Gebucht wird, sobald der Händler die Zahlung einreicht, meist nach wenigen Tagen.
+- [ ] Gelöscht werden Vormerkungen je nach Bank nach etwa 4–12 Tagen, Kautionen bei Hotel und Mietwagen nach bis zu etwa 30 Tagen.
+- [ ] Vormerkungen in einer eigenen Kategorie parken und nicht doppelt zählen.
+- [ ] Puffer wählen: 5 %, 10 % oder 15–20 % (Faustregel), Kautionen zusätzlich.
+- [ ] Reklamieren kannst du erst nach der Buchung.
 
 ## Quellen
 
-- [Was sind vorgemerkte Umsätze? – DKB](https://www.dkb.de/fragen-antworten/was-sind-vorgemerkte-umsaetze)
-- [Alles rund um Deine Zahlungen (Gebuchte und vorgemerkte Umsätze) – ING](https://www.ing.de/hilfe/zahlungsverkehr/ueberweisen/umsaetze/)
-- [Was sind „vorgemerkte Umsätze“ und warum werden sie mir angezeigt? – ADAC Kreditkarten FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)
-- [Mein Geld ist vorgemerkt/autorisiert, was nun? – ryd Helpcenter](https://support.ryd.one/hc/de/articles/31034821812509-Mein-Geld-ist-vorgemerkt-autorisiert-was-nun)
-- [Vorautorisierungen bei Kreditkarten: Was sie sind und wie lange sie gelten – Stripe](https://stripe.com/de/resources/more/preauthorization-charges-on-credit-cards-what-they-are-and-how-long-they-last)
-- [Reservierungszeiten der Kartenorganisationen – First Cash Solution](https://www.firstcashsolution.de/unsere-loesungen/kartenzahlungen-akzeptieren/reservierungszeiten/)
-- [Im Urlaub mobil – darauf kommt es bei Mietwagen und Co. an – Bankenverband](https://www.germanbanks.org/verbraucher/im-urlaub-mobil-darauf-kommt-es-bei-mietwagen-und-co)
-- [Wann wird die Kreditkarte bei comdirect abgerechnet? – comdirect FAQ](https://www.comdirect.de/faq/visa-kreditkarte-abrechnung)
+- [Was sind „vorgemerkte Umsätze“ und warum werden sie mir angezeigt? – ADAC Kreditkarte FAQ](https://faq.adac-kreditkarte.de/hc/de/articles/21467833175453-Was-sind-vorgemerkte-Ums%C3%A4tze-und-warum-werden-sie-mir-angezeigt)
+- [Buchungen und Umsätze – ING](https://www.ing.de/hilfe/zahlungsverkehr/ueberweisen/umsaetze/)
+- [Umsatzbeanstandung – ING](https://www.ing.de/hilfe/zahlungsverkehr/karten/umsatzbeanstandung/)
 - [Warum wurde mir etwas doppelt abgebucht? – N26 Kundenservice](https://support.n26.com/de-de/sicherheit/zahlungsreklamation/warum-wurde-mir-etwas-doppelt-berechnet)
+- [Vorautorisierungen bei Kreditkarten: Was sie sind und wie lange sie gelten – Stripe](https://stripe.com/de/resources/more/preauthorization-charges-on-credit-cards-what-they-are-and-how-long-they-last)
+- [Eine Zahlungsmethode zurückhalten (Gültigkeitsfenster für Autorisierungen) – Stripe Docs](https://docs.stripe.com/payments/place-a-hold-on-a-payment-method)
+- [Reservierungszeiten der Kartenorganisationen – First Cash Solution](https://www.firstcashsolution.de/unsere-loesungen/kartenzahlungen-akzeptieren/reservierungszeiten/)
+- [Kreditkarte beim Mietwagen – ADAC](https://www.adac.de/produkte/finanzdienstleistungen/finanzratgeber/kreditkarte-beim-mietwagen/)

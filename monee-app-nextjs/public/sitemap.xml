@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5846,6 +5846,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -7925,7 +7938,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/vorgemerkte-umsatze-so-planst-du-dein-budget-fur-kartenreservierungen/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/pending-charges-how-to-budget-for-card-holds/"/>
@@ -11861,6 +11874,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wie-du-zwischen-jobangeboten-mit-einer-budgetentscheidungsmatrix-wahlst/</loc>
@@ -17880,6 +17906,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/comment-choisir-entre-des-offres-demploi-a-laide-dune-matrice-de-decision-budgetaire/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -23895,6 +23934,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-elegir-entre-ofertas-de-trabajo-con-una-matriz-de-decision-presupuestaria/</loc>
@@ -29914,6 +29966,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/como-escolher-entre-ofertas-de-emprego-com-uma-matriz-de-decisao-orcamentaria/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -35929,6 +35994,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-scegliere-tra-offerte-di-lavoro-con-una-matrice-decisionale-orientata-al-budget/</loc>
@@ -41948,6 +42026,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-return-deadlines-so-you-never-lose-a-refund/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-predlozheniyami-o-rabote-s-pomoschyu-byudzhetnoy-matritsy-resheniy/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -47952,6 +48043,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-controlar-prazos-de-devolucao-e-nao-perder-reembolsos/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/scadenze-dei-resi-come-non-perdere-mai-un-rimborso/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-otslezhivat-sroki-vozvrata-i-ne-poteryat-dengi/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-einweihungsgeschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/combien-depenser-pour-un-cadeau-de-cremaillere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-inauguracion-de-casa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
