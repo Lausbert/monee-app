@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -3546,7 +3546,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/what-to-say-when-a-friend-hasnt-paid-you-back-yet/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wenn-ein-freund-dir-geld-nicht-zuruckzahlt/"/>
@@ -5857,6 +5857,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
@@ -11889,6 +11902,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/wie-du-zwischen-jobangeboten-mit-einer-budgetentscheidungsmatrix-wahlst/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17917,6 +17943,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-choisir-entre-des-offres-demploi-a-laide-dune-matrice-de-decision-budgetaire/</loc>
@@ -23949,6 +23988,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-elegir-entre-ofertas-de-trabajo-con-una-matriz-de-decision-presupuestaria/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -29977,6 +30029,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-escolher-entre-ofertas-de-emprego-com-uma-matriz-de-decisao-orcamentaria/</loc>
@@ -36009,6 +36074,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-scegliere-tra-offerte-di-lavoro-con-una-matrice-decisionale-orientata-al-budget/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -42039,6 +42117,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-housewarming-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-vybrat-mezhdu-predlozheniyami-o-rabote-s-pomoschyu-byudzhetnoy-matritsy-resheniy/</loc>
     <lastmod>2025-10-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -48056,6 +48147,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-casa-nova/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-inaugurazione-casa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-na-novosele/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/is-a-pricier-mattress-worth-it-a-cost-per-night-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnt-sich-eine-teure-matratze-der-kosten-pro-nacht-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/un-matelas-cher-vaut-il-le-coup-le-test-du-cout-par-nuit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/vale-la-pena-un-colchon-caro-prueba-del-costo-por-noche/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/colchao-mais-caro-vale-a-pena-teste-do-custo-por-noite/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/materasso-costoso-conviene-il-test-del-costo-per-notte/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pereplachivat-za-matras-test-tseny-za-noch/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-choose-between-job-offers-with-a-budget-decision-matrix/</loc>
