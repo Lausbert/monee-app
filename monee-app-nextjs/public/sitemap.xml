@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -5961,6 +5961,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/acquisti-online-notturni-la-regola-del-mattino-per-smettere/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-onlayn-po-nocham-utrennee-pravilo/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-late-night-online-shopping-with-a-morning-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-set-a-daily-spend-target-with-budget-days/</loc>
@@ -12084,6 +12097,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-late-night-online-shopping-with-a-morning-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-setzt-du-ein-tagliches-ausgabenziel-mit-budget-tage/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -18203,6 +18229,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/acquisti-online-notturni-la-regola-del-mattino-per-smettere/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-onlayn-po-nocham-utrennee-pravilo/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-late-night-online-shopping-with-a-morning-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-definir-un-objectif-de-depense-quotidienne-avec-budget-jours/</loc>
@@ -24326,6 +24365,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-late-night-online-shopping-with-a-morning-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-fijar-un-objetivo-de-gasto-diario-con-presupuesto-dias/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -30447,6 +30499,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-late-night-online-shopping-with-a-morning-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/como-definir-uma-meta-diaria-de-gastos-com-orcamento-dias/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -34567,7 +34632,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-chiedere-uno-sconto-senza-imbarazzo/</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-ask-for-a-discount-without-feeling-awkward/"/>
@@ -36566,6 +36631,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-online-a-noite-com-uma-regra-matinal/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-onlayn-po-nocham-utrennee-pravilo/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-late-night-online-shopping-with-a-morning-rule/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-impostare-un-obiettivo-di-spesa-giornaliero-con-budget-giorni/</loc>
@@ -42689,6 +42767,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-late-night-online-shopping-with-a-morning-rule/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-ustanovit-dnevnoy-limit-trat-po-pravilu-byudzhet-dni/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -48797,6 +48888,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-comprar-online-a-noite-com-uma-regra-matinal/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/acquisti-online-notturni-la-regola-del-mattino-per-smettere/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-perestat-pokupat-onlayn-po-nocham-utrennee-pravilo/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-party-costs-fairly-when-co-hosting/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-party-costs-fairly-when-co-hosting/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/partykosten-fair-aufteilen-als-co-gastgeber/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/coorganiser-une-fete-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dividir-los-gastos-de-una-fiesta-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-gastos-de-uma-festa-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-festa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-vecherinku-s-soorganizatorom/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-set-a-daily-spend-target-with-budget-days/</loc>
