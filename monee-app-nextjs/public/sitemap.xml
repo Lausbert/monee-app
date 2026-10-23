@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -1583,7 +1583,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-choose-basic-economy-vs-standard-airline-tickets-with-a-feesflexibility-matrix/</loc>
-    <lastmod>2025-12-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-wahlen-sie-basic-economy-vs-standardflugtickets-mit-einer-gebuhrenflexibilitatsmatrix/"/>
@@ -5987,6 +5987,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/primo-stipendio-di-tuo-figlio-come-aiutarlo-col-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pervaya-zarplata-podrostka-kak-pomoch-sostavit-byudzhet/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-help-your-teen-budget-their-first-paycheck/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-set-a-daily-spend-target-with-budget-days/</loc>
@@ -12136,6 +12149,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-help-your-teen-budget-their-first-paycheck/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-setzt-du-ein-tagliches-ausgabenziel-mit-budget-tage/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -18281,6 +18307,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/primo-stipendio-di-tuo-figlio-come-aiutarlo-col-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pervaya-zarplata-podrostka-kak-pomoch-sostavit-byudzhet/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-help-your-teen-budget-their-first-paycheck/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-definir-un-objectif-de-depense-quotidienne-avec-budget-jours/</loc>
@@ -24430,6 +24469,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-help-your-teen-budget-their-first-paycheck/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-fijar-un-objetivo-de-gasto-diario-con-presupuesto-dias/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -30575,6 +30627,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/primo-stipendio-di-tuo-figlio-come-aiutarlo-col-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pervaya-zarplata-podrostka-kak-pomoch-sostavit-byudzhet/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-help-your-teen-budget-their-first-paycheck/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-definir-uma-meta-diaria-de-gastos-com-orcamento-dias/</loc>
@@ -36724,6 +36789,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-help-your-teen-budget-their-first-paycheck/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-impostare-un-obiettivo-di-spesa-giornaliero-con-budget-giorni/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -42871,6 +42949,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-help-your-teen-budget-their-first-paycheck/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-ustanovit-dnevnoy-limit-trat-po-pravilu-byudzhet-dni/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -49005,6 +49096,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-ajudar-o-adolescente-a-planejar-o-primeiro-salario/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/primo-stipendio-di-tuo-figlio-come-aiutarlo-col-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pervaya-zarplata-podrostka-kak-pomoch-sostavit-byudzhet/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-baby-shower-gift/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-baby-shower-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-man-fur-ein-babyparty-geschenk-ausgeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/quel-budget-prevoir-pour-un-cadeau-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-de-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-no-presente-de-cha-de-bebe/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-per-il-baby-shower/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-bebi-shauer/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-set-a-daily-spend-target-with-budget-days/</loc>
