@@ -1,165 +1,195 @@
 ---
 title: "How to Split Housing Costs When One Partner Owns the Home: A Decision Tree"
-excerpt: "A clarity-first guide to decide between renter-style payments or equity participation when one partner owns the home—plus the exact questions, legal/tax checkpoints, and a printable decision aid to document your plan."
-keywords: "cohabitation agreement, fair market rent, FMR, owner-occupant roommate, mortgage interest deduction, due-on-sale clause, assumption vs refinance, tenancy in common, joint tenancy, renters insurance, income-based split, unjust enrichment, rent vs equity contribution"
+excerpt: "When one partner owns the home, the other either pays fair rent or buys a real ownership stake. This decision tree covers both options, how to split the bills, and US tax, title and insurance rules."
+keywords: "split expenses when one partner owns a house, cohabitation agreement, fair rent between partners, equity buy-in, tenancy in common, income-based split, due-on-sale clause, self-employed household budget"
+seoTitle: "Split Expenses When One Partner Owns the House (2026)"
+metaDescription: "To split expenses when one partner owns the house, choose rent-style payments or an equity stake, then pick a fair split. Covers US tax and title rules."
+modified: "2026-10-25"
 ---
-**One‑Screen Summary**
-- Who this helps: Couples where one partner owns the home and both want a fair, low‑stress way to share housing costs without confusion about taxes, equity, or insurance.
-- What decision this supports: Choose between two paths: 1) renter‑style payments (no ownership) or 2) equity participation (ownership stake). Then set a split method and document it.
-- How to use this guide: Start with the decision tree, then follow the path‑specific checklists and legal/tax checkpoints. Print the decision aid and fill it out together.
+**Short answer:** First decide whether the partner who doesn't own the home should build equity in it.
+
+- **If not:** they pay a fair, written "rent-style" contribution. A local rent benchmark sets the amount. The owner keeps paying the mortgage, property tax and homeowners insurance, which build their own equity.
+- **If yes:** treat it as a real ownership deal. That means a priced buy-in, a change to the title, lender approval or a refinance, and a written agreement with exit terms.
+
+Either way, you then split shared bills (utilities, groceries, internet) in one of three ways: 50/50, by assigning bills, or in proportion to income. Write the whole plan down.
+
+The legal and tax details below are for the **United States**. Rules elsewhere differ a lot, so check with a local professional if you live outside the US.
+
+---
+
+**One-Screen Summary**
+- **Who this helps:** Couples where one partner owns the home and both want a fair, low-stress way to share housing costs without confusion about taxes, equity or insurance.
+- **What it helps you decide:** Path A, rent-style payments (no ownership), or Path B, equity participation (an ownership stake). Then a split method, and how to write it down.
+- **How to use this guide:** Start with the decision tree. Then work through the checklist for your path and the legal and tax checkpoints. Print the decision aid at the end and fill it out together.
 
 ---
 
 **The Decision Tree**
 
 Start
-- Do you want the non‑owner to build ownership?
-  - No → Choose Path A: Renter‑Style Payments
-    - Set a fair rental benchmark (see HUD FMRs).
-    - Paper it as a rental arrangement inside a shared home.
-    - Allocate owner tax items correctly; non‑owner is not an owner for deductions.
-  - Yes → Choose Path B: Equity Participation
-    - Confirm lender rules (assumption vs refinance; due‑on‑sale).
-    - Decide title form and cohabitation/property agreement.
-    - Define buy‑in, buyout, reimbursements, and exit method.
+- Should the non-owner build ownership in the home?
+  - **No → Path A: Rent-Style Payments**
+    - Set a fair rent benchmark (local listings, with HUD Fair Market Rents as a cross-check).
+    - Write it down as a contribution with no ownership.
+    - The owner handles the owner tax items. The non-owner isn't an owner for deductions.
+  - **Yes → Path B: Equity Participation**
+    - Check your lender's rules (assumption vs. refinance, due-on-sale clause).
+    - Decide how you'll hold title and sign a cohabitation/property agreement.
+    - Define the buy-in, buyout, reimbursements and exit method.
 
-Next
-- Pick a split method (equal, assigned bills, or income‑based).
-- Confirm your insurance stack (homeowners + renters).
-- Document contributions, responsibilities, and exit.
+Next (both paths)
+- Pick a split method for shared bills: equal, assigned bills, or income-based.
+- Confirm your insurance (homeowners plus renters, or both partners named).
+- Write down contributions, responsibilities and the exit plan.
 
 ---
 
-**Path A: Renter‑Style Payments (No Ownership)**
+**Path A: Rent-Style Payments (No Ownership)**
 
-Use this if the non‑owner partner simply pays to live in the owner’s home without gaining equity.
+Use this path if the non-owner simply pays to live in the owner's home and gains no equity.
 
 What to set
-- Benchmark the price: Use HUD Fair Market Rents (FMRs) for your metro/county as a neutral starting point for what a comparable place might rent for. This helps avoid “too low” or “too high” rent debates and anchors expectations. [HUD FMRs]
-- Paper it clearly as rent: When one partner is an “owner‑occupant roommate,” payments treated as rent are rental income to the owner. If you rent part of a personal residence, the owner reports rent and allocates expenses (mortgage interest, property taxes, utilities, insurance) between personal and rental use. If the agreed price is below a fair amount, “not for profit” rules can limit deductions, so anchoring to a market‑based rate matters. [IRS Pub 527]
-- Understand deductions: The non‑owner partner who pays rent or helps with the mortgage cannot deduct home mortgage interest unless they also have an ownership interest and the debt is secured by that qualified home. Simply paying does not create a deduction right. [IRS Pub 936]
-- Watch gift tax issues: If the non‑owner pays more than a fair rental value or covers the owner’s costs without receiving equal value (e.g., no rent credit or equity), the excess can be a gift. Track support that exceeds rent/expenses; if you cross the annual exclusion, the donor may need to file a gift tax return (Form 709). Check the current IRS exclusion thresholds. [IRS Gift Tax FAQs]
-- Insurance fit: The owner’s homeowner policy generally doesn’t cover the non‑owner partner’s belongings. The non‑owner should carry renters insurance (personal property, liability, loss of use), and the owner should review liability limits. [NAIC]
+- **Benchmark the price.** Compare local listings for a room or a comparable unit. HUD Fair Market Rents (FMRs) are a neutral cross-check, but use them with care. HUD sets them for housing voucher programs. They estimate the 40th-percentile rent paid by recent movers, so they often sit below typical asking rents. The FY2027 FMRs took effect on October 1, 2026 ([Federal Register](https://www.federalregister.gov/documents/2026/09/01/2026-17891/fair-market-rents-for-the-housing-choice-voucher-program-moderate-rehabilitation-single-room); [HUD FMRs](https://www.huduser.gov/portal/datasets/fmr.html)). Many couples charge less than the market rate for a room and say so in writing. That's a valid choice as long as you both understand it.
+- **Know the tax side of calling it rent.** If you set this up as rent for part of a home you live in, IRS rules treat it as rental income to the owner. The owner then divides expenses such as mortgage interest, property taxes, utilities and insurance between personal and rental use. Renting below a fair rental price can limit the deductions the owner can take ([IRS Pub 527](https://www.irs.gov/publications/p527)). Some couples' payments are informal shares of household costs rather than a landlord-tenant deal. Ask a tax professional how your setup should be treated before you file.
+- **Know what the non-owner can't deduct.** Paying rent, or helping with the mortgage, doesn't let the non-owner deduct mortgage interest. To deduct it, a person generally has to be legally or equitably an owner and the debt has to be secured by a qualified home ([IRS Pub 936](https://www.irs.gov/publications/p936/index.html)).
+- **Watch for gift tax.** If the non-owner pays well beyond fair value and gets nothing back (no rent credit, no equity), the extra can count as a gift. Unmarried partners can't use the unlimited marital deduction that spouses get. For 2026, the annual gift tax exclusion is $19,000 per recipient. Gifts above that generally require the giver to file Form 709. Tax is rarely owed because of the lifetime exemption, which is $15 million per person for 2026 ([IRS Gift Tax FAQs](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes); [Morgan Lewis](https://www.morganlewis.com/pubs/2025/10/irs-announces-increased-gift-and-estate-tax-exemption-amounts-for-2026)).
+- **Get the insurance right.** Don't assume the owner's homeowners policy covers an unmarried partner's belongings. Ask the insurer. The non-owner can carry renters insurance. It typically covers personal property and liability, and some policies also pay additional living expenses if the home becomes unlivable ([NAIC](https://content.naic.org/article/consumer-insight-renting-your-home-protect-your-belongings-renters-insurance)).
+- **Lender note.** Federal law stops lenders from using a due-on-sale clause because of a lease of three years or less with no purchase option ([12 U.S.C. §1701j-3](https://www.law.cornell.edu/uscode/text/12/1701j-3)). An informal rent-style arrangement normally doesn't affect the mortgage. Still, read your loan documents, especially if the loan or a local rule requires owner occupancy.
 
-Practical split options
-- Equal split: Simple, but can feel unfair if incomes differ.
-- Assigned bills: One pays housing; the other takes other shared costs.
-- Income‑based split: Many experts favor proportional‑to‑income splits for fairness and cash‑flow balance. Decide your formula and write it down. [FDIC; CNBC]
-
-Key risks if you skip paperwork
-- Misunderstandings about whether payments build equity (they don’t under this path).
-- Tax treatment surprises (owner rental income; non‑owner no interest deduction). [IRS Pub 527; IRS Pub 936]
-- Potential claims if things sour; in some states, courts may weigh unjust enrichment. Written agreements reduce risk. [ABA Family Law Quarterly; ABA Case Update]
+Key risks if you skip the paperwork
+- Misunderstandings about whether payments build equity. On this path they don't.
+- Tax surprises: rental income for the owner, and no interest deduction for the non-owner ([IRS Pub 527](https://www.irs.gov/publications/p527); [IRS Pub 936](https://www.irs.gov/publications/p936/index.html)).
+- Claims if the relationship ends. Depending on the state and the facts, courts may weigh contract, implied agreement or unjust enrichment arguments. A written agreement reduces that risk ([ABA Case Update](https://www.americanbar.org/groups/family_law/resources/case-update/january-2025/)).
 
 ---
 
 **Path B: Equity Participation (Ownership Stake)**
 
-Use this if the non‑owner will build equity through a buy‑in or ongoing contributions tied to ownership.
+Use this path if the non-owner will build equity through a buy-in or through ongoing payments tied to ownership.
 
 Lender and title checkpoints
-- Confirm lender consent: Transferring an ownership interest can trigger a due‑on‑sale clause, allowing the lender to call the loan unless an exception applies. Don’t transfer an interest without understanding your loan and exceptions. [12 U.S.C. §1701j‑3]
-- Expect refinance in many cases: Adding a partner to title/loan often requires refinancing. Only limited “protected” assumptions (e.g., certain family situations) are exempt. Always confirm with your servicer before you change ownership. [Fannie Mae]
-- Choose the right title form:
-  - Tenancy in common: Flexible percentage ownership and clearer buyout/partition paths.
-  - Joint tenancy: Survivorship rights; less flexible for unequal shares.
-  Align the title form with your estate plan and buyout terms. [FindLaw]
+- **Get lender consent first.** Moving part of the ownership to someone else can trigger a due-on-sale clause, which lets the lender demand full repayment. Federal law lists exceptions, such as transfers to a spouse or children, transfers on death, and certain transfers to a living trust. Adding an unmarried partner to title isn't on that list ([12 U.S.C. §1701j-3](https://www.law.cornell.edu/uscode/text/12/1701j-3)). Talk to your servicer before you change the deed.
+- **Expect a refinance in many cases.** Putting a partner on the loan as well as the title often means refinancing or a lender-approved assumption, depending on the loan type ([Fannie Mae](https://yourhome.fanniemae.com/changing-or-transferring-ownership-home)).
+- **Choose how you'll hold title:**
+  - *Tenancy in common:* allows unequal percentages, each share can be left to heirs, and buyout and partition are clearer.
+  - *Joint tenancy:* the surviving owner takes the whole property, and shares are generally equal.
 
-Agreement architecture
-- Cohabitation/property agreement: Put the deal in writing: the buy‑in, percentage ownership, responsibilities, and exit rules. The emerging UCERA model in some states affirms contract and equity claims without creating a “married” status—contracts remain the most reliable route. [ABA Family Law Quarterly]
-- Buyout and exit plan: Define how to appraise the property, how to calculate the buyout price, who can keep the home, and a timeline. Include rules for improvements and reimbursements for principal, taxes, insurance. This avoids disputes and supports a clean exit. [Nolo]
-- Legal counsel: Unmarried co‑buyers commonly use tenancy in common; real estate and estate planning attorneys can tailor the agreement and title to your facts. Engage counsel before funds move. [Zillow; FindLaw]
-- Be realistic about court outcomes: Courts sometimes allow recovery for contributions under unjust enrichment or partition theories—and sometimes do not. Outcomes vary by state and facts. Paper the deal; don’t rely on implied rights. [ABA Case Update]
+  Match the title form to your estate plan and buyout terms ([FindLaw](https://www.findlaw.com/realestate/buying-a-home/difference-between-joint-tenancy-and-tenancy-in-common.html)).
 
-Tax and contribution guardrails
-- Mortgage interest deduction: To deduct interest, a person must have an ownership interest and be liable on a secured debt on a qualified home. Coordinate ownership and loan structure; “helping pay” isn’t enough. [IRS Pub 936]
-- Gift exposure: If contributions for equity are not properly documented (e.g., priced buy‑in, credited to percentage ownership), excess support can still resemble a gift. Track transfers and consider the IRS annual exclusion and filing rules. [IRS Gift Tax FAQs]
+The written agreement
+- **Cohabitation/property agreement.** Put the deal in writing: buy-in amount, ownership percentage, who pays what, and exit rules. The Uniform Law Commission approved a model law in 2021, the Uniform Cohabitants' Economic Remedies Act (UCERA). It backs contract and equity claims between unmarried partners without giving them a marriage-like status ([ABA Family Law Quarterly](https://www.americanbar.org/groups/family_law/resources/family-law-quarterly/2024-march/uniform-cohabitants-economic-remedies-act/)). As of 2026, no state had enacted it; bills had been introduced in Illinois and New Mexico ([AAML Journal, 2026](https://www.aaml.org/wp-content/uploads/38_2_Comment-2.pdf)). For now, a signed contract is still the most reliable protection.
+- **Buyout and exit plan.** Decide how the home will be appraised, how the buyout price is calculated, who gets to keep the home, and the timeline. Cover improvements and reimbursements for principal, taxes and insurance ([Nolo](https://www.nolo.com/legal-encyclopedia/before-co-buying-a-home-with-someone-have-an-exit-strategy-the-prenup-of-real-estate.html)).
+- **Legal counsel.** Unmarried co-owners often choose tenancy in common. Real estate and estate planning attorneys can fit the agreement and title to your situation. Bring them in before any money moves ([Zillow](https://www.zillow.com/learn/buying-a-house-as-an-unmarried-couple/); [FindLaw](https://www.findlaw.com/realestate/buying-a-home/difference-between-joint-tenancy-and-tenancy-in-common.html)).
+- **Be realistic about courts.** Courts sometimes award money for contributions under unjust enrichment or partition theories, and sometimes they don't. Results vary by state and by the facts ([ABA Case Update](https://www.americanbar.org/groups/family_law/resources/case-update/january-2025/)).
 
-Insurance fit
-- Keep the owner’s homeowner policy and add the new owner where appropriate; the non‑owner’s separate renters policy may no longer be needed after adding them to title and moving to a co‑owner framework. Confirm with your insurer. [NAIC]
+Tax guardrails
+- **Mortgage interest deduction.** To deduct mortgage interest, you need an ownership interest and a debt secured by a qualified home. Simply helping to pay isn't enough. The $750,000 limit on acquisition debt ($375,000 if married filing separately) applies to loans taken out after December 15, 2017 ([IRS Pub 936](https://www.irs.gov/publications/p936/index.html)). The 2025 federal tax law (Public Law 119-21) made that limit permanent ([PNC summary](https://www.pnc.com/content/dam/pnc-com/pdf/personal/wealth-management/private-bank/One-Big-Beautiful-Bill-Act.pdf)).
+- **Gift exposure.** Price the buy-in and tie each payment to an ownership percentage. Otherwise, extra payments can look like a gift. The 2026 annual exclusion is $19,000 per recipient ([IRS Gift Tax FAQs](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes); [Morgan Lewis](https://www.morganlewis.com/pubs/2025/10/irs-announces-increased-gift-and-estate-tax-exemption-amounts-for-2026)).
+
+Insurance
+- Once both partners are on title, ask the insurer to add the new owner to the homeowners policy. A separate renters policy may then be unnecessary. Confirm coverage in writing.
 
 ---
 
 **How to Pick a Split Method (Either Path)**
 
-Popular approaches
-- Equal split: Easy; can strain the lower‑income partner.
-- Assigned categories: One covers housing; the other covers other shared essentials.
-- Income‑based split: Frequently recommended by financial planners for fairness and sustainability; align contributions to take‑home ratios. [FDIC; CNBC]
+The FDIC describes three common ways couples divide costs ([FDIC](https://www.fdic.gov/consumer-resource-center/2022-07/saying-i-do-sharing-finances)):
+- **Equal split:** easy, but can strain the lower-earning partner.
+- **Assign bills by category:** for example, one partner pays the housing contribution and the other covers groceries and utilities.
+- **Proportional to income:** each pays the same share of the bills as their share of the income. In the FDIC's example, the partner earning 60% of the income pays 60% of the bills. Many advisers prefer this for unequal incomes because "equal isn't always equitable" ([CNBC via NBC DFW](https://www.nbcdfw.com/news/business/money-report/many-young-unmarried-couples-dont-split-costs-equally-experts-weigh-in-on-whats-fair/3317024/)).
+
+*Hypothetical example (Path A, US dollars):* Alex owns the home. Sam pays an agreed $900 a month as a rent-style contribution, which is below local room listings and documented as such. Shared bills of $600 a month are split by take-home pay. Alex earns 60% of the couple's take-home pay and pays $360. Sam earns 40% and pays $240. Alex alone pays the mortgage, property tax and homeowners insurance, because Alex keeps all the equity.
 
 Implementation tips
-- Define the formula in writing and when it changes (e.g., job change, move, or a new dependent). Avoid recurring cadence language—just adjust when circumstances change. [FDIC; CNBC]
-- State what counts as “shared” vs “personal” spending to reduce friction later. [FDIC]
+- Write down the formula and what triggers a change, such as a job change, a new dependent or a big change in income.
+- Define "shared" vs. "personal" spending to avoid friction later ([FDIC](https://www.fdic.gov/consumer-resource-center/2022-07/saying-i-do-sharing-finances)).
+- Some bills need their own rules. For example, see [splitting utilities when one person works from home](https://monee-app.com/blog/how-to-split-utilities-fairly-when-one-person-works-from-home/) and [budgeting together when one partner has debt](https://monee-app.com/blog/how-to-budget-together-when-one-partner-has-debt/).
 
 ---
 
-**Insurance Stack (Either Path)**
-- Owner keeps homeowners coverage and evaluates liability limits. [NAIC]
-- Non‑owner partner who is not on title gets renters insurance for belongings, liability, and loss of use. [NAIC]
-- Reassess after any change in ownership or occupancy structure. [NAIC]
+**If One Partner Is Self-Employed**
+
+Irregular income makes a fixed percentage hard to keep up. A structure that holds up:
+1. **Base the split on a conservative income figure.** Use something like the average of your leaner months, not your best month. Settle up later if the year goes better than expected.
+2. **Take taxes out before you calculate shares.** US self-employed people generally pay self-employment tax (Social Security plus Medicare, 15.3% in total) on top of income tax ([IRS](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes)). They usually pay estimated taxes four times a year on Form 1040-ES. The last 2026 payment is due January 15, 2027 ([IRS Form 1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es)). Use money left after tax for the income ratio.
+3. **Keep a buffer.** A small household cushion lets the fixed housing contribution get paid on time even in a slow month.
+4. **Separate the business from the household.** If the self-employed partner works from the owner's home, agree how extra utility use is shared. The home office tax treatment is a question for a tax professional.
+
+---
+
+**Cars and Vacations: The Same Logic Applies**
+
+- **Splitting car costs:** The questions mirror the house. Who holds the title and the loan? Is the other partner paying for *use* (like rent) or for *ownership* (like equity)? A common approach is to split fixed costs (payment, insurance, registration) by agreement or by income. Variable costs (fuel, tolls, wear) are then split by who drives how much. As one reference point, the IRS business mileage rate for 2026 was set at 72.5 cents per mile from January 1 ([IRS](https://www.irs.gov/newsroom/irs-sets-2026-business-standard-mileage-rate-at-725-cents-per-mile-up-25-cents)). That rate is for tax deductions, not a rule for couples, and the IRS can revise it mid-year. If you're still deciding whether to keep a car at all, see [buy used, lease, or go car-free](https://monee-app.com/blog/buy-used-lease-or-go-carfree-a-city-budget-decision-tree/).
+- **Splitting vacation costs with a partner:** Agree on the budget before you book. Then pick equal, proportional, or "whoever chose the upgrade pays the difference." Housing costs at home continue while you travel, so don't double-count them. More detail: [how to split travel costs fairly as a couple](https://monee-app.com/blog/how-to-split-travel-costs-fairly-as-a-couple/).
 
 ---
 
 **Documentation and Legal Reality Check**
-- Write it down: Whether rent‑style or equity, use a short written agreement to avoid assumptions. [ABA Family Law Quarterly]
-- Respect state variation: States differ on cohabitant economic remedies; some adopt UCERA‑informed approaches, others don’t. Contracts beat court fights. [ABA Family Law Quarterly; ABA Case Update]
-- Coordinate title, financing, and estate planning before money moves; choose tenancy consistent with your goals. [FindLaw; Zillow; Fannie Mae; 12 U.S.C. §1701j‑3]
+- **Write it down:** whether you choose rent-style or equity, a short signed agreement prevents wrong assumptions ([Nolo](https://www.nolo.com/legal-encyclopedia/before-co-buying-a-home-with-someone-have-an-exit-strategy-the-prenup-of-real-estate.html)).
+- **States differ:** US states handle money claims between unmarried partners differently, and none has adopted UCERA yet. A contract is better than a court fight ([ABA Case Update](https://www.americanbar.org/groups/family_law/resources/case-update/january-2025/); [AAML Journal, 2026](https://www.aaml.org/wp-content/uploads/38_2_Comment-2.pdf)).
+- **Sort out the rest first:** settle title, financing and estate planning before money changes hands ([FindLaw](https://www.findlaw.com/realestate/buying-a-home/difference-between-joint-tenancy-and-tenancy-in-common.html); [Zillow](https://www.zillow.com/learn/buying-a-house-as-an-unmarried-couple/); [12 U.S.C. §1701j-3](https://www.law.cornell.edu/uscode/text/12/1701j-3)).
 
 ---
 
-**Minimal Monee Mentions (Optional)**
-- If you track shared costs, you can tag “rent vs equity contribution,” log recurring housing/utility entries, and export records to support your agreement. Shared households can record expenses together, while keeping data private and under your control.
+**Using Monee (Optional)**
+- If you track shared costs, you can tag entries as "rent vs. equity contribution," log recurring housing and utility payments, and export the records to support your agreement. Partners can record shared expenses together while each keeps their own data private and under their control.
 
 ---
 
 **Printable Decision Aid (Single Page)**
 
-Renter‑Style vs Equity: Quick Checklist
+Rent-Style vs. Equity: Quick Checklist
 
-1) Choose Your Path
-[ ] Renter‑Style (no ownership)  
-[ ] Equity Participation (ownership stake)
+1) Choose your path
+[ ] Rent-style (no ownership)  
+[ ] Equity participation (ownership stake)
 
-2) If Renter‑Style
-[ ] Set fair price near local HUD FMR for comparable housing. [HUD]  
-[ ] Document as rent inside an owner‑occupied home. [IRS Pub 527]  
-[ ] Owner to allocate expenses for tax; non‑owner gets no mortgage interest deduction. [IRS Pub 936]  
-[ ] Check if support exceeds fair rent; track possible gifts and filing rules. [IRS Gift Tax FAQs]  
-[ ] Confirm homeowners + separate renters insurance. [NAIC]  
-[ ] Pick split method (equal / assigned / income‑based) and write it. [FDIC; CNBC]
+2) If rent-style
+[ ] Set a fair price using local listings, cross-checked against HUD FMRs (FY2027). [HUD]  
+[ ] Decide how to document it (rent vs. cost-sharing) with tax advice. [IRS Pub 527]  
+[ ] Remember: the non-owner gets no mortgage interest deduction. [IRS Pub 936]  
+[ ] Track anything paid beyond fair value; 2026 gift exclusion is $19,000. [IRS Gift Tax FAQs]  
+[ ] Check homeowners coverage; non-owner gets renters insurance if needed. [NAIC]  
+[ ] Pick and write down a split method (equal / assigned / income-based). [FDIC]
 
-3) If Equity Participation
-[ ] Before transferring any interest, confirm lender rules (assumption vs refinance) and due‑on‑sale risk. [Fannie Mae; 12 U.S.C. §1701j‑3]  
-[ ] Select title form (tenancy in common vs joint tenancy) aligned with estate plan. [FindLaw]  
-[ ] Sign a cohabitation/property agreement: buy‑in, percentage ownership, reimbursements, improvements, exit/buyout formula. [ABA; Nolo]  
-[ ] Ensure mortgage interest deduction aligns with ownership and secured debt rules. [IRS Pub 936]  
-[ ] Revisit insurance after ownership changes. [NAIC]
+3) If equity participation
+[ ] Before transferring any interest, check with the lender (refinance vs. assumption, due-on-sale). [Fannie Mae; 12 U.S.C. §1701j-3]  
+[ ] Choose a title form (tenancy in common vs. joint tenancy) that fits your estate plan. [FindLaw]  
+[ ] Sign an agreement covering buy-in, percentages, reimbursements, improvements and the buyout formula. [Nolo]  
+[ ] Make sure the mortgage interest deduction matches ownership and the secured debt. [IRS Pub 936]  
+[ ] Update insurance after the ownership change.
 
-4) Split Method
-[ ] Equal / Assigned / Income‑Based; specify percentages or roles. [FDIC; CNBC]  
-[ ] Define which categories are shared vs personal, and when to adjust.
+4) Split method
+[ ] Equal / assigned / income-based; write down the percentages or roles. [FDIC]  
+[ ] Self-employed partner: use income after estimated taxes. [IRS 1040-ES]  
+[ ] Define shared vs. personal categories (housing, car, travel) and what triggers a change.
 
 5) Recordkeeping
-[ ] Keep proof of contributions, rent, and improvements.  
-[ ] Store agreements and communications in one place.  
-[ ] If uncertain, consult qualified tax and legal advisors.
+[ ] Keep proof of contributions, rent and improvements.  
+[ ] Keep agreements and messages in one place.  
+[ ] If unsure, talk to a qualified tax and legal advisor in your state.
 
 ---
 
-This guide intentionally avoids currency examples and focuses on structure, fairness, and risk control. If a topic you care about isn’t covered in the sources—like local tenant rules or specific refinancing costs—treat that as a research step with a local professional.
-
-## Sources:
+## References
 - [IRS Pub 527 – Residential Rental Property](https://www.irs.gov/publications/p527)
 - [IRS Pub 936 – Home Mortgage Interest Deduction](https://www.irs.gov/publications/p936/index.html)
 - [IRS Gift Tax FAQs](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes)
-- [HUD Fair Market Rents (FY2025)](https://www.huduser.gov/portal/datasets/fmr.html)
+- [Morgan Lewis – 2026 Gift and Estate Tax Exemption Amounts](https://www.morganlewis.com/pubs/2025/10/irs-announces-increased-gift-and-estate-tax-exemption-amounts-for-2026)
+- [IRS – Self-Employment Tax](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes)
+- [IRS – About Form 1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es)
+- [IRS – 2026 Standard Mileage Rate](https://www.irs.gov/newsroom/irs-sets-2026-business-standard-mileage-rate-at-725-cents-per-mile-up-25-cents)
+- [HUD Fair Market Rents](https://www.huduser.gov/portal/datasets/fmr.html)
+- [Federal Register – FY2027 Fair Market Rents](https://www.federalregister.gov/documents/2026/09/01/2026-17891/fair-market-rents-for-the-housing-choice-voucher-program-moderate-rehabilitation-single-room)
 - [Fannie Mae – Changing or Transferring Ownership](https://yourhome.fanniemae.com/changing-or-transferring-ownership-home)
 - [12 U.S.C. §1701j-3 – Due-on-sale](https://www.law.cornell.edu/uscode/text/12/1701j-3)
+- [PNC – One Big Beautiful Bill Act Summary](https://www.pnc.com/content/dam/pnc-com/pdf/personal/wealth-management/private-bank/One-Big-Beautiful-Bill-Act.pdf)
 - [NAIC – Renters Insurance Guidance](https://content.naic.org/article/consumer-insight-renting-your-home-protect-your-belongings-renters-insurance)
 - [FDIC – Sharing Finances](https://www.fdic.gov/consumer-resource-center/2022-07/saying-i-do-sharing-finances)
-- [CNBC – Income-Based Splitting](https://www.cnbc.com/2023/08/15/many-couples-dont-split-costs-equally-experts-say-heres-whats-fair.html)
+- [CNBC via NBC DFW – Many Young Unmarried Couples Don't Split Costs Equally](https://www.nbcdfw.com/news/business/money-report/many-young-unmarried-couples-dont-split-costs-equally-experts-weigh-in-on-whats-fair/3317024/)
 - [ABA Family Law Quarterly – UCERA Overview](https://www.americanbar.org/groups/family_law/resources/family-law-quarterly/2024-march/uniform-cohabitants-economic-remedies-act/)
+- [AAML Journal (2026) – Cohabitation Agreement Enforcement](https://www.aaml.org/wp-content/uploads/38_2_Comment-2.pdf)
 - [ABA Case Update – Jan 2025](https://www.americanbar.org/groups/family_law/resources/case-update/january-2025/)
-- [Nolo – Exit Strategy for Co‑Buying](https://www.nolo.com/legal-encyclopedia/before-co-buying-a-home-with-someone-have-an-exit-strategy-the-prenup-of-real-estate.html)
+- [Nolo – Exit Strategy for Co-Buying](https://www.nolo.com/legal-encyclopedia/before-co-buying-a-home-with-someone-have-an-exit-strategy-the-prenup-of-real-estate.html)
 - [FindLaw – Joint Tenancy vs. Tenancy in Common](https://www.findlaw.com/realestate/buying-a-home/difference-between-joint-tenancy-and-tenancy-in-common.html)
 - [Zillow – Buying a House as an Unmarried Couple](https://www.zillow.com/learn/buying-a-house-as-an-unmarried-couple/)
