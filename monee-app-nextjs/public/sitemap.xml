@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6054,6 +6054,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-shop-farmers-markets-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/how-to-set-a-daily-spend-target-with-budget-days/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -9316,7 +9329,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/wie-du-nach-dem-kauf-um-preisanpassung-bittest/</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-ask-for-a-price-adjustment-after-you-buy/"/>
@@ -12264,6 +12277,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/mercati-contadini-come-fare-la-spesa-senza-spendere-troppo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-na-fermerskom-rynke-i-ne-tratit-lishnego/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-shop-farmers-markets-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/so-setzt-du-ein-tagliches-ausgabenziel-mit-budget-tage/</loc>
@@ -18478,6 +18504,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-shop-farmers-markets-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/comment-definir-un-objectif-de-depense-quotidienne-avec-budget-jours/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -24688,6 +24727,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/mercati-contadini-come-fare-la-spesa-senza-spendere-troppo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-na-fermerskom-rynke-i-ne-tratit-lishnego/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-shop-farmers-markets-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-fijar-un-objetivo-de-gasto-diario-con-presupuesto-dias/</loc>
@@ -30902,6 +30954,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-shop-farmers-markets-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/como-definir-uma-meta-diaria-de-gastos-com-orcamento-dias/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -37112,6 +37177,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comprar-na-feira-sem-gastar-demais/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-na-fermerskom-rynke-i-ne-tratit-lishnego/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-shop-farmers-markets-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-impostare-un-obiettivo-di-spesa-giornaliero-con-budget-giorni/</loc>
@@ -43326,6 +43404,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-shop-farmers-markets-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-ustanovit-dnevnoy-limit-trat-po-pravilu-byudzhet-dni/</loc>
     <lastmod>2025-10-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -49525,6 +49616,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comprar-na-feira-sem-gastar-demais/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/mercati-contadini-come-fare-la-spesa-senza-spendere-troppo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-na-fermerskom-rynke-i-ne-tratit-lishnego/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-potluck-costs-fairly-when-dishes-differ/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/potluck-kosten-fair-teilen-wenn-gerichte-sich-unterscheiden/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-partage-comment-partager-les-frais-equitablement/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/comida-compartida-como-repartir-los-gastos-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-dividir-os-custos-de-um-potluck-de-forma-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-dividere-le-spese-di-una-cena-condivisa-in-modo-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-chestno-razdelit-rashody-na-potlak-esli-blyuda-raznye/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-set-a-daily-spend-target-with-budget-days/</loc>
