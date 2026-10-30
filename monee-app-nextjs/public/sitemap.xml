@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6093,6 +6093,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-gifts-early-or-wait-a-budget-timing-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -6146,7 +6159,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-budget-when-paydays-dont-match-your-rent/</loc>
-    <lastmod>2025-10-04</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/so-budgetierst-du-wenn-zahltage-nicht-zu-deiner-miete-passen/"/>
@@ -12329,6 +12342,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regali-di-natale-in-anticipo-o-aspettare-il-test-del-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-podarki-zaranee-ili-zhdat-skidok-test-dlya-byudzheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-gifts-early-or-wait-a-budget-timing-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
@@ -18569,6 +18595,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-gifts-early-or-wait-a-budget-timing-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -24805,6 +24844,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regali-di-natale-in-anticipo-o-aspettare-il-test-del-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-podarki-zaranee-ili-zhdat-skidok-test-dlya-byudzheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-gifts-early-or-wait-a-budget-timing-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
@@ -31045,6 +31097,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-gifts-early-or-wait-a-budget-timing-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -37281,6 +37346,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-presentes-cedo-ou-esperar-teste-para-seu-orcamento/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-podarki-zaranee-ili-zhdat-skidok-test-dlya-byudzheta/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-gifts-early-or-wait-a-budget-timing-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
@@ -43521,6 +43599,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-gifts-early-or-wait-a-budget-timing-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -49746,6 +49837,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-presentes-cedo-ou-esperar-teste-para-seu-orcamento/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regali-di-natale-in-anticipo-o-aspettare-il-test-del-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-podarki-zaranee-ili-zhdat-skidok-test-dlya-byudzheta/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/bargeldausgaben-tracken-wenn-du-vergisst-sie-einzutragen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/suivre-ses-depenses-en-especes-quand-on-oublie-de-les-noter/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-controlar-los-gastos-en-efectivo-si-olvidas-anotarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
