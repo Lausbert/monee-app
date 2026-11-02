@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6104,6 +6104,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
@@ -12357,6 +12370,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -18606,6 +18632,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
@@ -24859,6 +24898,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -27198,7 +27250,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-parar-cobrancas-duplicadas-uma-verificacao-de-5-minutos/</loc>
-    <lastmod>2026-01-14</lastmod>
+    <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-duplicate-charges-a-5minute-check/"/>
@@ -31108,6 +31160,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
@@ -37361,6 +37426,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -43612,6 +43690,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-track-cash-spending-when-you-forget-to-log-it/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -49850,6 +49941,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/gastos-em-dinheiro-como-regista-los-quando-se-esquece/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-tenere-traccia-delle-spese-in-contanti-dimenticate/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-uchityvat-traty-nalichnyh-esli-zabyli-ih-zapisat/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/neues-hobby-starten-ohne-zu-viel-fur-ausrustung-auszugeben/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/commencer-un-nouveau-loisir-sans-se-ruiner-en-materiel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-empezar-un-hobby-nuevo-sin-gastar-de-mas-en-equipo/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
