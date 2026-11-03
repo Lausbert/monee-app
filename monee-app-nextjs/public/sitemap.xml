@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6117,6 +6117,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
@@ -12383,6 +12396,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -18645,6 +18671,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
@@ -24911,6 +24950,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -31175,6 +31227,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -34060,7 +34125,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-chiedere-uno-sconto-fedelta-script-semplice/</loc>
-    <lastmod>2026-02-22</lastmod>
+    <lastmod>2026-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-ask-for-a-loyalty-discount-simple-script/"/>
@@ -37437,6 +37502,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
@@ -43703,6 +43781,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-start-a-new-hobby-without-overspending-on-gear/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -49954,6 +50045,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-comecar-um-hobby-novo-sem-gastar-demais-com-equipamento/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-iniziare-un-hobby-senza-spendere-troppo-in-attrezzatura/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-nachat-novoe-hobbi-i-ne-pereplatit-za-snaryazhenie/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-use-a-family-wish-list-to-avoid-duplicate-gifts/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/familien-wunschliste-so-vermeidest-du-doppelte-geschenke/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/liste-de-souhaits-familiale-eviter-les-cadeaux-en-double/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/lista-de-deseos-familiar-como-evitar-regalos-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lista-de-desejos-em-familia-como-evitar-presentes-repetidos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/lista-dei-desideri-di-famiglia-come-evitare-regali-doppi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/semeynyy-spisok-zhelaniy-kak-izbezhat-odinakovyh-podarkov/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
