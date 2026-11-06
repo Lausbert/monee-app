@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6156,6 +6156,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-anniversario/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-godovschinu/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-an-anniversary-gift/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
@@ -12461,6 +12474,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-an-anniversary-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -18762,6 +18788,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-anniversario/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-godovschinu/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-an-anniversary-gift/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
@@ -25067,6 +25106,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-an-anniversary-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -31370,6 +31422,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-an-anniversary-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -35347,7 +35412,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-chiedere-un-rimborso-parziale-senza-imbarazzo/</loc>
-    <lastmod>2026-05-10</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-ask-for-a-partial-refund-without-awkwardness/"/>
@@ -37671,6 +37736,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-aniversario-de-casal/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-godovschinu/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-an-anniversary-gift/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
@@ -43976,6 +44054,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-an-anniversary-gift/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -50266,6 +50357,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-em-um-presente-de-aniversario-de-casal/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-di-anniversario/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-potratit-na-podarok-na-godovschinu/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kleidung-ausserhalb-der-saison-kaufen-der-nachstes-jahr-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/acheter-des-vetements-hors-saison-le-test-en-5-questions/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/conviene-comprar-ropa-fuera-de-temporada-haz-este-test/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
