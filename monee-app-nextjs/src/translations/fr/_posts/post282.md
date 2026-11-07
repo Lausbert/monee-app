@@ -1,27 +1,55 @@
 ---
 title: "Comment demander un ajustement de prix après achat"
-excerpt: "Un script simple et calme pour demander un ajustement de prix après un achat, avec versions email, téléphone et chat, réponses possibles et solutions si la première demande n’aboutit pas."
-keywords: "ajustement de prix, remboursement différence, baisse de prix après achat, script service client, demander un geste commercial, prix réduit après achat, remboursement partiel"
+excerpt: "Le prix a baissé juste après votre achat ? Voici ce que dit la loi en France, les détails à fournir avec une alerte prix, des scripts prêts à copier et la solution de secours si on vous dit non."
+keywords: "ajustement de prix, baisse de prix après achat, remboursement de la différence, alerte prix, droit de rétractation, geste commercial, script service client"
+seoTitle: "Ajustement de prix après achat : script et droits 2026"
+metaDescription: "Ajustement de prix après achat : demandez vite, avec capture et numéro de commande, ou utilisez la rétractation de 14 jours en ligne (France)."
+modified: "2026-11-07"
 ---
-Vous venez d’acheter, puis vous voyez le prix baisser, et tout votre corps vous dit de laisser tomber pour éviter un moment gênant. Bonne nouvelle : vous n’avez pas besoin d’être dur, brillant ou “bon en négociation” pour demander un ajustement de prix. Vous avez surtout besoin d’une phrase claire, d’un ton calme, et d’un petit plan.
+**En bref :** contactez le vendeur au plus vite. Donnez votre numéro de commande, la date et le prix payé, puis le nouveau prix avec une capture d'écran datée, et demandez clairement le remboursement de la différence (ou un avoir). En France, la loi n'oblige pas le vendeur à accepter. Tout dépend de sa politique commerciale ou de sa bonne volonté. Si vous avez acheté en ligne et qu'il refuse, vous avez souvent un plan B solide : le [droit de rétractation de 14 jours](https://www.service-public.gouv.fr/particuliers/vosdroits/F10485), qui permet de renvoyer l'article puis de le racheter moins cher.
 
-Le plus simple est de demander vite, poliment, et sans trop vous justifier. Beaucoup d’enseignes ont une politique d’alignement ou un délai de réajustement après achat. Même quand ce n’est pas clairement affiché, une demande posée calmement peut aboutir à un remboursement partiel, un avoir, ou un geste commercial.
+Vous n'avez pas besoin d'être « bon en négociation ». Il vous faut une phrase claire, un ton calme et les bons éléments sous la main.
 
-Voici le script à utiliser tout de suite.
+## Ce que dit la règle en France
 
-**Script simple à copier**
+- **Pas d'obligation légale de rembourser la différence.** Le Code de la consommation prévoit un remboursement ou une réduction de prix quand le produit est défectueux ou non conforme (garantie légale de conformité), pas quand son prix baisse ensuite ([DGCCRF, fiche soldes](https://artois.ufcquechoisir.fr/wp-content/uploads/sites/115/2025/01/DGCCRF-154-Soldes-D%C3%A9cembre-2024.pdf)). Un ajustement est donc un geste commercial ou l'application d'une garantie propre à l'enseigne.
+- **Certaines enseignes ont une garantie de prix.** En France, Darty s'engage par exemple depuis longtemps, dans son Contrat de confiance, à « rembourser la différence » ([communiqué Fnac Darty](https://www.fnacdarty.com/wp-content/uploads/2017/02/communique-de-presse-40-ans-contrat-de-confiance-15-10.14.pdf)). D'après les versions passées des conditions et les témoignages de clients, ce type de garantie vise surtout un prix plus bas **chez un concurrent**, pour la même référence, dans un délai court (10 jours chez Darty selon les conditions anciennes), parfois avec un remboursement en carte cadeau ([forum Que Choisir](https://forum.quechoisir.org/post1006112.html)). Ces conditions changent : vérifiez celles qui sont en vigueur dans les CGV de l'enseigne avant de demander.
+- **Des sites ont supprimé ces ajustements.** Amazon a par exemple arrêté aux États-Unis, en 2016, de rembourser les baisses de prix après achat ([The Next Web](https://thenextweb.com/news/amazon-no-longer-gives-price-adjustment-refunds-7-days)). Sur Amazon.fr, les clients rapportent des réponses au cas par cas : parfois un bon d'achat, souvent un refus ou la proposition d'annuler puis de recommander ([Dealabs](https://www.dealabs.com/discussions/amazon-remboursement-de-la-difference-de-prix-2914088)).
+- **Achat en ligne : le droit de rétractation sert de levier.** Pour un achat à distance en France, vous disposez d'au moins 14 jours calendaires pour changer d'avis, en général à compter de la réception du bien. Il existe des exceptions, comme les produits sur mesure ou périssables ([Service-Public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F10485)). Depuis le 19 juin 2026, les sites qui vendent en ligne doivent aussi proposer une fonction de rétractation en ligne, gratuite et facile d'accès ([HLC Avocats](https://hlc.com/fr/publications/transposition-under-french-law-of-the-eu-mandatory-withdrawal-button-for-online-sales)). Les frais de retour peuvent rester à votre charge si le vendeur vous en a informé ([Your Europe](https://europa.eu/youreurope/citizens/consumers/shopping/returns/index_fr.htm)). Faites le calcul avant de renvoyer l'article.
+- **En magasin, pas de rétractation légale.** Un achat en boutique ne donne pas droit à ce délai de 14 jours. Un éventuel retour ou ajustement dépend alors uniquement de la politique du magasin. Le droit de rétractation ne s'applique pas non plus dans les foires et salons ([economie.gouv.fr](https://www.economie.gouv.fr/particuliers/vente-distance-droit-retractation)).
 
-“Bonjour, j’ai acheté [produit/service] le [date], et j’ai vu qu’il est maintenant affiché à un prix plus bas. Je voulais savoir s’il est possible d’obtenir un ajustement de prix pour la différence. Je peux vous transmettre mon numéro de commande si besoin.”
+## La baisse est-elle réelle ? Vérifiez le prix barré
 
-C’est suffisant. Pas besoin d’expliquer votre budget, de vous excuser, ni de prouver que vous le méritez. Vous signalez simplement une situation et vous demandez si une solution existe.
+En France, quand un vendeur annonce une réduction (« -20 % », prix barré), le prix de référence doit être **le plus bas qu'il a pratiqué au cours des 30 jours précédents**. C'est l'article L112-1-1 du Code de la consommation ([DGCCRF](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/annonces-de-reduction-de-prix-ce-que-vous-devez-savoir)). Si vous avez acheté il y a peu, comparez votre prix payé au prix barré affiché : cela vous indique si la baisse est vraiment nouvelle. Cette règle ne s'applique pas aux offres de lancement, aux lots ou aux comparaisons de prix. En magasin, sachez aussi [comment fonctionnent les étiquettes électroniques](https://monee-app.com/fr/blog/les-etiquettes-electroniques-changent-elles-les-prix-pendant-que-vous-faites-vos-courses/), dont les prix peuvent varier.
 
-Si vous voulez une version un peu plus directe :
+## Quels détails donner, notamment si une alerte prix vous a prévenu
 
-“Bonjour, j’ai acheté [produit/service] le [date] et j’ai constaté une baisse de prix depuis. Pouvez-vous appliquer un ajustement de prix sur ma commande, s’il vous plaît ?”
+Une demande complète se traite plus vite et se refuse plus difficilement. Préparez :
 
-**Objet d’email à copier**
+- **le numéro de commande** (ou le ticket de caisse), la date d'achat et le prix payé, frais de livraison compris ;
+- **le nouveau prix**, avec une capture d'écran qui montre la date, l'heure et l'adresse de la page. Si une [alerte prix](https://monee-app.com/fr/blog/utiliser-une-alerte-prix-sans-trop-depenser/) vous a prévenu, faites aussi une capture de la notification ou de l'email d'alerte, avec son horodatage ;
+- **la référence exacte** du produit (modèle, couleur, capacité). Une référence différente est un motif de refus fréquent ;
+- **le vendeur** : sur une marketplace, notez si l'article est « vendu par » l'enseigne elle-même ou par un vendeur tiers. Les garanties de prix excluent souvent les vendeurs tiers ;
+- **les conditions de l'offre** : prix réservé aux membres, code promo, disponibilité en stock, livraison incluse ou non ;
+- **la politique de prix de l'enseigne**, si elle existe, avec son délai.
 
-- Demande d’ajustement de prix pour la commande [numéro]
+Faites vos captures tout de suite : les prix remontent parfois en quelques heures, et sans preuve, beaucoup de services clients ne traitent pas la demande.
+
+## Script simple à copier
+
+« Bonjour, j'ai acheté [produit, référence] le [date] pour [prix payé] (commande [numéro]). Il est maintenant affiché à [nouveau prix] sur votre site (capture jointe). Est-il possible d'obtenir un ajustement de prix pour la différence ? »
+
+C'est suffisant. Inutile de parler de votre budget ou de vous excuser. Vous signalez un écart et vous demandez si une solution existe.
+
+Version plus directe :
+
+« Bonjour, j'ai acheté [produit] le [date] et le prix a baissé depuis. Pouvez-vous appliquer un ajustement de prix sur ma commande [numéro], s'il vous plaît ? »
+
+Si vous avez encore du mal à demander, ces conseils pour [demander une réduction sans malaise](https://monee-app.com/fr/blog/comment-demander-une-reduction-sans-malaise/) vous aideront aussi.
+
+**Objets d'email à copier**
+
+- Demande d'ajustement de prix pour la commande [numéro]
 - Baisse de prix constatée après mon achat
 - Demande de remboursement de la différence
 
@@ -29,93 +57,98 @@ Si vous voulez une version un peu plus directe :
 
 Bonjour,
 
-J’ai acheté [produit/service] le [date] via la commande [numéro]. J’ai remarqué qu’il est proposé à un prix inférieur depuis mon achat.
+J'ai acheté [produit, référence] le [date] via la commande [numéro], au prix de [prix payé]. Depuis, il est proposé à [nouveau prix] sur votre site (capture datée en pièce jointe).
 
-Je souhaite savoir s’il est possible d’obtenir un ajustement de prix ou un remboursement de la différence.
+Pouvez-vous m'accorder un ajustement de prix ou un remboursement de la différence, soit [montant] ?
 
-Je peux bien sûr vous transmettre toute information utile.
+Je reste disponible pour toute information utile.
 
 Merci par avance,  
 [Prénom]
 
 **Version chat**
 
-“Bonjour, j’ai passé une commande le [date] et le prix a baissé depuis. Est-ce que vous proposez un ajustement de prix ou un remboursement de la différence ?”
+« Bonjour, j'ai passé la commande [numéro] le [date] à [prix payé] et le prix est maintenant de [nouveau prix]. Proposez-vous un ajustement de prix ou un remboursement de la différence ? »
 
 **Version téléphone**
 
-“Bonjour, je vous appelle au sujet d’un achat récent. J’ai acheté [produit/service] le [date], et j’ai vu que le prix a baissé depuis. Je voulais vérifier s’il est possible d’obtenir un ajustement de prix.”
+« Bonjour, je vous appelle au sujet d'un achat récent. J'ai acheté [produit] le [date], et le prix a baissé depuis. Je voulais vérifier s'il est possible d'obtenir un ajustement de prix. »
 
-Au téléphone, marquez une pause après votre demande. Beaucoup de personnes parlent trop pour combler le silence et finissent par affaiblir leur position. Votre demande est raisonnable. Laissez l’autre personne y répondre.
+Au téléphone, marquez une pause après votre demande. Si vous parlez pour combler le silence, vous affaiblissez votre demande. Elle est raisonnable : laissez l'autre personne répondre.
 
-**Si vous voulez vous sentir plus solide avant de demander**
+## Les réponses possibles et quoi dire
 
-Ayez ces éléments sous les yeux :
+**S'ils disent oui**
 
-- la date d’achat
-- le numéro de commande
-- le prix actuel affiché
-- une capture d’écran si utile
-- la politique de prix de l’enseigne si elle existe
+« Merci beaucoup pour votre aide. Pouvez-vous me confirmer par écrit le montant et le délai du remboursement ? »
 
-Connaître vos chiffres aide vraiment. Même une phrase simple comme “J’ai vérifié mon achat et j’ai remarqué cette différence” vous donne une base factuelle. Vous n’êtes pas en train de quémander. Vous demandez un traitement cohérent.
+Une confirmation écrite vous protège si le remboursement n'arrive pas.
 
-**S’ils disent oui**
+**« Nous n'avons pas de politique d'ajustement de prix »**
 
-Réponse simple :
+« Je comprends. Un geste commercial ou un avoir serait-il possible dans ce cas ? »
 
-“Merci beaucoup, je vous remercie pour votre aide.”
+**« Le délai est dépassé »**
 
-Inutile d’en faire plus. Quand une demande aboutit, recevez simplement la réponse.
+« Merci pour la précision. Pouvez-vous vérifier si une exception est possible ? L'achat est récent. »
 
-**S’ils disent : “Nous n’avons pas de politique d’ajustement de prix”**
+Vous ne contestez pas la règle, vous demandez une vérification.
 
-Vous dites :
+**« Il faut annuler et recommander » ou « retournez l'article »**
 
-“Je comprends. Est-ce qu’un geste commercial, un avoir ou une autre solution est possible dans ce cas ?”
+« D'accord. Avant cela, existe-t-il une option plus simple, comme un ajustement direct ou un avoir, pour éviter un retour et une nouvelle commande ? »
 
-Vous ouvrez la porte à une autre issue sans créer de tension. L’objectif n’est pas forcément d’obtenir exactement ce que vous aviez en tête, mais un meilleur résultat que rien.
+Si la commande n'est pas encore expédiée, l'annulation peut être la voie la plus rapide. Assurez-vous seulement que le nouveau prix est toujours disponible avant d'annuler.
 
-**S’ils disent : “Le délai est dépassé”**
+**S'ils refusent une première fois**
 
-Vous dites :
+« Je comprends. Pour être sûr d'avoir exploré toutes les options : un remboursement partiel, un avoir ou un geste commercial sont-ils possibles ? »
 
-“Merci pour la précision. Même si le délai standard est passé, pouvez-vous vérifier s’il existe une exception possible dans mon cas ? L’achat est récent, et je voulais simplement voir s’il y avait une solution.”
+Puis arrêtez-vous là. Deux demandes calmes suffisent généralement.
 
-Ici, vous ne contestez pas la règle. Vous demandez une vérification.
+## Si la réponse reste non : le plan B pour un achat en ligne
 
-**S’ils disent : “Il faut annuler et recommander”**
+Si vous êtes encore dans le délai de rétractation de 14 jours (France, achat à distance) :
 
-Vous dites :
+1. Comparez l'économie avec les éventuels frais de retour.
+2. Rachetez au nouveau prix **avant** de lancer le retour, pour ne pas le perdre. Ne le faites que si vous pouvez avancer la somme.
+3. Exercez votre rétractation avec la fonction en ligne du site ou par une déclaration écrite.
+4. Le vendeur doit vous rembourser, en principe sous 14 jours, mais il peut attendre de récupérer le bien ou une preuve d'expédition ([Service-Public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F10485)).
 
-“D’accord. Avant de faire cela, pouvez-vous me dire s’il existe une option plus simple, comme un ajustement direct ou un avoir, pour éviter une nouvelle commande ?”
+Vous pouvez aussi le dire calmement au service client, sans menacer : « Si ce n'est pas possible, j'exercerai mon droit de rétractation et je repasserai commande au nouveau prix. Un ajustement direct serait plus simple pour nous deux. »
 
-Souvent, les gens acceptent une procédure pénible trop vite. Vous avez le droit de demander une solution plus simple.
+Si le vendeur ne rembourse pas après votre rétractation, ce [script calme en 3 étapes pour demander un remboursement](https://monee-app.com/fr/blog/demander-un-remboursement-script-calme-en-3-etapes/) vous aidera à relancer. Si un remboursement promis par écrit n'arrive pas, vous pouvez le signaler sur [SignalConso](https://signal.conso.gouv.fr/), le service public de signalement de la DGCCRF.
 
-**S’ils refusent une première fois**
+## Si vous devez relancer
 
-Essayez une seconde formulation, plus courte :
+Attendez quelques jours ouvrés, puis envoyez :
 
-“Je comprends. Pour être sûr d’avoir exploré toutes les options : y a-t-il une possibilité de remboursement partiel, d’avoir, ou de geste commercial ?”
+« Bonjour, je reviens vers vous concernant ma demande d'ajustement de prix pour la commande [numéro], envoyée le [date]. Pouvez-vous me confirmer si une solution est possible ? Merci. »
 
-Puis arrêtez-vous là. Deux tentatives calmes suffisent généralement. Si la réponse reste non, vous avez fait une demande propre, utile, et sans vous épuiser.
+Une relance courte est souvent plus efficace qu'un long message.
 
-**Si vous devez relancer**
+## Ce qu'il faut éviter
 
-Attendez un peu, puis envoyez ceci :
+- attendre : les garanties de prix ont souvent des délais courts, et les prix remontent ;
+- demander sans preuve datée ;
+- comparer avec une référence ou un vendeur différents ;
+- trop vous excuser ou raconter toute l'histoire ;
+- adopter un ton agressif ou menacer dès le premier message.
 
-“Bonjour, je me permets de revenir vers vous concernant ma demande d’ajustement de prix pour la commande [numéro]. Pouvez-vous me confirmer si une solution est possible ? Merci.”
+Pour éviter de revivre la situation, vous pouvez aussi [fixer votre prix limite avant d'acheter](https://monee-app.com/fr/blog/fixer-son-prix-limite-avant-de-faire-les-magasins/) et surveiller le prix quelques jours avant un gros achat.
 
-Pas de long message. Une relance brève est souvent plus efficace.
+Gardez en tête que vous ne demandez pas une faveur étrange. Vous signalez un écart et vous demandez s'il peut être corrigé. Une phrase claire, une preuve, une relance si nécessaire : c'est souvent tout ce qu'il faut.
 
-**Ce qu’il faut éviter**
+## Références
 
-- trop vous excuser
-- raconter toute l’histoire
-- employer un ton agressif dès le début
-- menacer trop tôt
-- supposer que le refus est personnel
-
-Le but est d’être clair, stable, et facile à aider. C’est souvent ce qui donne les meilleurs résultats.
-
-Si cette demande vous stresse, dites-vous ceci : vous ne demandez pas une faveur étrange. Vous signalez un écart et vous vérifiez s’il peut être corrigé. C’est une conversation administrative, pas un test de votre valeur. Une phrase simple, un ton calme, une relance si nécessaire. C’est souvent tout ce qu’il faut.
+- [Service-Public.fr : Achat à distance, droit de rétractation du consommateur](https://www.service-public.gouv.fr/particuliers/vosdroits/F10485)
+- [economie.gouv.fr : Vente à distance et droit de rétractation](https://www.economie.gouv.fr/particuliers/vente-distance-droit-retractation)
+- [Your Europe : Retours et droit de rétractation dans l'UE](https://europa.eu/youreurope/citizens/consumers/shopping/returns/index_fr.htm)
+- [HLC Avocats : Transposition en droit français du bouton de rétractation obligatoire](https://hlc.com/fr/publications/transposition-under-french-law-of-the-eu-mandatory-withdrawal-button-for-online-sales)
+- [DGCCRF : Annonces de réduction de prix, ce que vous devez savoir](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/annonces-de-reduction-de-prix-ce-que-vous-devez-savoir)
+- [DGCCRF : Fiche pratique Soldes (PDF)](https://artois.ufcquechoisir.fr/wp-content/uploads/sites/115/2025/01/DGCCRF-154-Soldes-D%C3%A9cembre-2024.pdf)
+- [Fnac Darty : Communiqué sur les 40 ans du Contrat de confiance (PDF)](https://www.fnacdarty.com/wp-content/uploads/2017/02/communique-de-presse-40-ans-contrat-de-confiance-15-10.14.pdf)
+- [Forum Que Choisir : Remboursement de la différence chez Darty](https://forum.quechoisir.org/post1006112.html)
+- [The Next Web : Amazon no longer gives price adjustment refunds](https://thenextweb.com/news/amazon-no-longer-gives-price-adjustment-refunds-7-days)
+- [Dealabs : Amazon, remboursement de la différence de prix](https://www.dealabs.com/discussions/amazon-remboursement-de-la-difference-de-prix-2914088)
+- [SignalConso](https://signal.conso.gouv.fr/)

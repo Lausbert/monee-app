@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6169,6 +6169,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
@@ -12487,6 +12500,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -15736,7 +15762,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-demander-un-ajustement-de-prix-apres-achat/</loc>
-    <lastmod>2026-03-19</lastmod>
+    <lastmod>2026-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-ask-for-a-price-adjustment-after-you-buy/"/>
@@ -18801,6 +18827,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
@@ -25119,6 +25158,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -31433,6 +31485,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
@@ -37751,6 +37816,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -44067,6 +44145,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-clothes-off-season-a-wear-next-year-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -50370,6 +50461,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/comprar-roupas-fora-de-estacao-vale-a-pena-faca-o-teste/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/comprare-vestiti-fuori-stagione-il-test-dellanno-prossimo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/pokupat-odezhdu-vne-sezona-test-nadenu-cherez-god/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/sollte-hausarbeit-zur-miete-zahlen-ein-fairness-test/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/taches-menageres-contre-loyer-le-test-du-partage-juste/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/deben-las-tareas-del-hogar-contar-para-el-alquiler/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
