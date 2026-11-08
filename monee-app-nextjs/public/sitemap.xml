@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -3598,7 +3598,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/are-budget-apps-worth-it-an-honest-checklist/</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/lohnen-sich-budget-apps-ehrliche-checkliste/"/>
@@ -6182,6 +6182,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
@@ -12513,6 +12526,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/fixkosten-uberprufen-und-reduzieren-ein-konkreter-leitfaden/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -18840,6 +18866,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/reviser-et-reduire-les-couts-fixes-un-guide-concret/</loc>
@@ -25171,6 +25210,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/revisar-y-reducir-costos-fijos-una-guia-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -31498,6 +31550,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/revisar-e-reduzir-custos-fixos-um-guia-concreto/</loc>
@@ -37829,6 +37894,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/rivedi-e-riduci-i-costi-fissi-una-guida-concreta/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -44158,6 +44236,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-chores-count-toward-rent-a-fair-split-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/reviziya-i-sokraschenie-postoyannyh-rashodov-prakticheskoe-rukovodstvo/</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -50474,6 +50565,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/tarefas-domesticas-podem-abater-o-aluguel-teste-justo/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/faccende-di-casa-al-posto-dellaffitto-un-test-equo/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/domashnie-dela-v-schyot-arendy-test-na-chestnyy-razdel/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-stop-paying-again-for-things-kids-keep-losing/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-stop-paying-again-for-things-kids-keep-losing/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/kinder-verlieren-standig-dinge-so-zahlst-du-nicht-doppelt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-arreter-de-racheter-ce-que-vos-enfants-perdent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-dejar-de-pagar-otra-vez-por-lo-que-pierden-tus-hijos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-parar-de-pagar-de-novo-pelo-que-as-criancas-perdem/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/bambini-che-perdono-le-cose-come-smettere-di-ricomprarle/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/deti-postoyanno-teryayut-veschi-kak-ne-pokupat-zanovo/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/review-and-reduce-fixed-costs-a-concrete-guide/</loc>
