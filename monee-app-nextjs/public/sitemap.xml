@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6247,6 +6247,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-friggitrice-ad-aria-costo-per-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-aerogril-schitaem-tsenu-odnogo-blyuda/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-an-air-fryer-a-cost-per-meal-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/</loc>
@@ -12617,6 +12630,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-an-air-fryer-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -18983,6 +19009,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-friggitrice-ad-aria-costo-per-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-aerogril-schitaem-tsenu-odnogo-blyuda/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-an-air-fryer-a-cost-per-meal-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/</loc>
@@ -25353,6 +25392,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-an-air-fryer-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -31719,6 +31771,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-friggitrice-ad-aria-costo-per-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-aerogril-schitaem-tsenu-odnogo-blyuda/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-an-air-fryer-a-cost-per-meal-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/</loc>
@@ -38089,6 +38154,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-an-air-fryer-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -44457,6 +44535,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-buy-an-air-fryer-a-cost-per-meal-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -50812,6 +50903,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vale-a-pena-comprar-air-fryer-custo-por-refeicao/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/conviene-comprare-una-friggitrice-ad-aria-costo-per-pasto/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-pokupat-aerogril-schitaem-tsenu-odnogo-blyuda/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-much-should-you-spend-on-a-dinner-party-host-gift/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wie-viel-sollte-ein-gastgeschenk-zum-abendessen-kosten/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-dhote-pour-un-diner-combien-depenser/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/cuanto-gastar-en-un-regalo-para-el-anfitrion-de-una-cena/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quanto-gastar-com-presente-para-o-anfitriao-de-um-jantar/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/quanto-spendere-per-un-regalo-quando-sei-invitato-a-cena/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/skolko-tratit-na-podarok-hozyaevam-zvanogo-uzhina/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/</loc>
