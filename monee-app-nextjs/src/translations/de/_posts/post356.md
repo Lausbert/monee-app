@@ -74,6 +74,8 @@ Tracking-Apps wie Monee und ähnliche Haushaltsbuch-Lösungen können dir zeigen
 
 Sie garantieren jedoch nicht, dass eine Banküberweisung pünktlich ankommt. Auch automatische Bankverbindungen können vorgemerkte oder verspätet synchronisierte Umsätze missverständlich darstellen. Verlasse dich bei knappen Zeitfenstern deshalb auf den tatsächlich verfügbaren Kontostand und deinen Zahlungskalender.
 
+**Passend dazu:** [Vorgemerkte Umsätze: So planst du dein Budget für Kartenreservierungen](https://monee-app.com/de/blog/vorgemerkte-umsatze-so-planst-du-dein-budget-fur-kartenreservierungen/)
+
 ## Wenn eine Zahlung bereits verspätet ist
 
 Handle nach Priorität, statt alle Rechnungen gleich zu behandeln. Sichere zuerst Wohnen, Energie, Lebensmittel und notwendige Mobilität. Pausiere verschiebbare Käufe und prüfe geplante Abbuchungen.

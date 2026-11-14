@@ -7,6 +7,8 @@ Vous n’avez pas besoin d’être agressif pour demander un remboursement parti
 
 C’est souvent la partie la plus difficile. Pas le fait d’avoir raison. Pas le fait d’expliquer le problème. Mais le moment où il faut écrire : “Je souhaite être remboursé.” Beaucoup de personnes ont peur de paraître difficiles, radines ou trop insistantes. En réalité, demander un geste commercial clair et raisonnable est une conversation normale. Et avec un script simple, vous pouvez le faire calmement.
 
+**À lire aussi :** [Que dire à un ami qui ne vous a pas remboursé](https://monee-app.com/fr/blog/que-dire-a-un-ami-qui-ne-vous-a-pas-rembourse/)
+
 Voici une version courte à copier dès maintenant :
 
 > Bonjour,  
