@@ -53,6 +53,8 @@ Per ora non stai giudicando — stai solo osservando se sei più vicino alle 5 o
 
 Il denaro conta ancora. La chiave è calcolare la tua **tariffa oraria effettiva** — quanto guadagni davvero all’ora dopo i costi.
 
+**Leggi anche:** [Qual è la tua vera paga oraria? Un calcolatore veloce](https://monee-app.com/it/blog/qual-e-la-tua-vera-paga-oraria-un-calcolatore-veloce/)
+
 Un’analisi di Forbes sottolinea che molte persone sovrastimano il ROI del side hustle perché tengono traccia solo dei ricavi.[^forbes-money] Per capire se stai davvero guadagnando, suggeriscono di:
 
 1. **Includere tutte le spese**: strumenti, materiali, commissioni di piattaforma, pubblicità, trasporti, tasse e qualsiasi costo di avvio. Lionhood Financial aggiunge che dovresti considerare anche i costi nascosti come software, commissioni di transazione e imposte.[^lionhood][^gobanking-worth]

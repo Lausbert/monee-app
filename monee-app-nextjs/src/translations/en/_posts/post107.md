@@ -23,6 +23,8 @@ Why this works (kind, clear, no shaming)
 - For certain payments—like federal taxes—you can pick the processor with the lowest fee. The IRS lists approved providers; recent fees were about 1.75%–1.85% for credit and a ~$2.10–$2.15 flat fee for debit. That makes quick “break‑even” math practical: on a 2% rewards card with a 1.75% fee, you net +0.25%. [IRS Pay by Card].
 - On recurring bills, autopay discounts tied to a bank account or debit can beat card rewards outright. For example, some carriers offer full autopay discounts for bank account/debit and reduced or no discount for credit cards—tilting the net value toward non‑credit options. [AT&T Autopay Policy].
 
+**Related:** [How to Keep Your Autopay Discounts Without Losing Credit Card Rewards](https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/)
+
 A tiny system you can run on low energy
 
 If‑Then plans (copy these)

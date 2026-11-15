@@ -21,6 +21,8 @@ Un minimo di preparazione rende il primo giorno di paga molto più semplice.
 
 Molti ragazzi si stupiscono che lo stipendio sia più basso di ore × paga oraria. Esaminare la busta paga riga per riga trasforma quella sorpresa in una lezione.
 
+**Leggi anche:** [Qual è la tua vera paga oraria? Un calcolatore veloce](https://monee-app.com/it/blog/qual-e-la-tua-vera-paga-oraria-un-calcolatore-veloce/)
+
 **Retribuzione lorda e retribuzione netta.** La retribuzione lorda è quanto ha guadagnato. La retribuzione netta, cioè lo stipendio effettivamente percepito, è quanto arriva sul conto dopo le trattenute. Il budget si costruisce sul netto.
 
 **Trattenute comuni negli Stati Uniti:**

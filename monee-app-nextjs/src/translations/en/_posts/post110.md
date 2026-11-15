@@ -28,6 +28,8 @@ Note: This isn’t legal or tax advice. When in doubt, read the linked official 
 
 If a posted credit‑card surcharge exceeds your estimate of the value you get from card protections and rewards (commonly around the low‑single‑digit percent range), lean bank/ACH; if it’s low and protections matter, lean credit. Always check local legality and disclosure rules around surcharges.
 
+**Related:** [How to Keep Your Autopay Discounts Without Losing Credit Card Rewards](https://monee-app.com/blog/how-to-keep-your-autopay-discounts-without-losing-credit-card-rewards/)
+
 **What the Rules Actually Say (Ground Truth)**
 
 - Surcharge caps and disclosures

@@ -193,6 +193,8 @@ Errori comuni (e come evitarli)
   - Errore: non sapere quali settimane sono protette o retribuite.
   - Soluzione: chiedi a HR una designazione scritta del congedo e un piano di coordinamento. (DOL FMLA Guides)
 
+**Leggi anche:** [Qual è la tua vera paga oraria? Un calcolatore veloce](https://monee-app.com/it/blog/qual-e-la-tua-vera-paga-oraria-un-calcolatore-veloce/)
+
 Note specifiche per stato su cui puoi agire subito
 - California Paid Family Leave:
   - Sostituisce ~70–90% del salario, fino a $1,681/settimana nel 2025; usa il calcolatore EDD per stimare le settimane di bonding e coordina con eventuali integrazioni/PTO del datore. (CA EDD)
