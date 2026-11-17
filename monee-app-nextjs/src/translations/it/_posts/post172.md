@@ -64,7 +64,9 @@ Ordine di annullamento portabilità-first:
 3. **Monitora gli estratti conto dopo l’annullamento per almeno 1–2 cicli di fatturazione**, e contesta gli addebiti se la fatturazione continua e il venditore non la interrompe.  
    Fonte: [FTC (pagina tematica Sep 2024)](https://consumer.ftc.gov/getting-out-free-trials-auto-renewals-negative-option-subscriptions)
 
-Se usi un expense tracker durante questa pulizia, mantienilo semplice: tagga/categorizza gli addebiti ricorrenti così puoi individuare i duplicati e verificare che si siano fermati. (Monee supporta transazioni ricorrenti, categorie personalizzate ed export dei dati—caratteristiche utili per categorizzazione e portabilità senza bloccare i tuoi record.)  
+Se usi un expense tracker durante questa pulizia, mantienilo semplice: tagga/categorizza gli addebiti ricorrenti così puoi individuare i duplicati e verificare che si siano fermati. (Monee supporta transazioni ricorrenti, categorie personalizzate ed export dei dati—caratteristiche utili per categorizzazione e portabilità senza bloccare i tuoi record.)
+
+**Leggi anche:** [Come fermare addebiti duplicati: un controllo di 5 minuti](https://monee-app.com/it/blog/come-fermare-addebiti-duplicati-un-controllo-di-5-minuti/)  
 
 ## Scorecard di verifica bundle (portabilità-first)
 

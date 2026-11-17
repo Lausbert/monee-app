@@ -177,6 +177,8 @@ Errori comuni e come evitarli
 - Errore: la lista non rispecchia la disposizione del negozio, quindi alcuni articoli vengono mancati e ri‑acquistati più tardi.
   - Soluzione: usa liste di tipo “spesa” e set di categorie per negozio con ordinamento per corridoio [Apple Support Reminders; AnyList Help].
 
+**Leggi anche:** [Come fermare addebiti duplicati: un controllo di 5 minuti](https://monee-app.com/it/blog/come-fermare-addebiti-duplicati-un-controllo-di-5-minuti/)
+
 Componenti opzionali se ti piace la carta
 - Puoi usare un foglio cartaceo di backup attaccato al frigo, ma riconcilialo sempre con la lista digitale condivisa prima che chiunque faccia la spesa. Le fonti enfatizzano sincronizzazione in tempo reale e condivisione per evitare errori; se usi la carta, trattala come un blocco appunti temporaneo e migra prima sulla lista condivisa [NerdWallet; Google Keep; OurGroceries].
 

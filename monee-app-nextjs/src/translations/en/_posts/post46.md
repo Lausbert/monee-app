@@ -94,6 +94,8 @@ You can call back later and ask again. A different agent may decide differently.
 - Agent: "If you upgrade, we can waive it."
 - Caller: "I'm not upgrading to resolve a late fee. I'm asking for a one-time courtesy waiver or a credit. If that's not possible, please transfer me to a manager."
 
+**Related:** [How to Ask for a Bank Fee Waiver: Simple Script](https://monee-app.com/blog/how-to-ask-for-a-bank-fee-waiver-simple-script/)
+
 **Manager:**
 - Caller: "I paid on [date]. I'm asking for a one-time courtesy waiver of [amount] or a credit, with written confirmation."
 

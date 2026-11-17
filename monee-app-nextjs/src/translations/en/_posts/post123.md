@@ -15,6 +15,8 @@ Call Map (one screen)
 - Confirm email → “Please email the itemized bill/policy”
 - Goodbye → recap next steps and reference number
 
+**Related:** [How to Ask for a Bank Fee Waiver: Simple Script](https://monee-app.com/blog/how-to-ask-for-a-bank-fee-waiver-simple-script/)
+
 Step 1: Provider Billing Office (Goal: itemize, justify, remove/waive)
 Mini play
 

@@ -73,6 +73,8 @@ If you’re in California: SB 478 (the “Hidden Fees” / “Honest Pricing” 
 
 **Guest:** Thank you. I booked based on the total price shown, and this **[fee name]** wasn’t clearly disclosed as part of that total. I’m requesting a waiver or an equivalent adjustment so my final total matches the price I was shown. What can you authorize today?
 
+**Related:** [How to Ask for a Bank Fee Waiver: Simple Script](https://monee-app.com/blog/how-to-ask-for-a-bank-fee-waiver-simple-script/)
+
 **Manager:** We’ll waive it / apply a credit.
 
 **Guest (CONFIRM IN WRITING):** I appreciate it. Could you email the updated confirmation/folio showing the adjustment, and note the reason as “mandatory fee not disclosed upfront”?
