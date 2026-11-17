@@ -6,8 +6,6 @@ seoTitle: "Budget for Moving to Germany: Step-by-Step Guide"
 metaDescription: "Relocating to Germany? Set up your budget in five steps: net pay, warm rent and deposit, fixed monthly costs, one-off setup costs and a 3-month review."
 authorBio: "Dana helps people take control of their everyday finances, from tracking spending to building budgets that work in real life. She writes practical guides for anyone facing a big financial change, including a move to a new country."
 ---
-*Guest post by Dana Maher*
-
 Navigating the first few months in your new home in Germany will be exciting but may also be expensive and filled with unfamiliar costs. Rental deposits, insurance, registration fees and new monthly bills may all arrive at once, likely before you've even received your first German payslip. Having a clear budget from day one will help you settle in without money stress.
 
 Here's a step-by-step guide to get you started.
@@ -45,3 +43,5 @@ You'll also need to register your address [within two weeks of moving in](https:
 ## 5. Track, review and adjust
 
 With your income and fixed costs mapped out, what's left covers groceries, eating out, leisure and savings. Track every expense for your first three months, because that's when you'll learn what life in your new home really costs. Then review your budget and adjust your categories as needed.
+
+*This is a guest post by Dana Maher.*

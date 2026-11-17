@@ -6,8 +6,6 @@ seoTitle: "Budget für den Umzug nach Deutschland: Anleitung"
 metaDescription: "Umzug nach Deutschland? So planst du dein Budget in fünf Schritten: Nettogehalt, Warmmiete und Kaution, Fixkosten, einmalige Kosten und Kontrolle."
 authorBio: "Dana unterstützt Menschen dabei, ihre alltäglichen Finanzen selbst in die Hand zu nehmen – von der Erfassung ihrer Ausgaben bis hin zu Budgets, die sich im Alltag bewähren. Sie schreibt praktische Ratgeber für alle, die vor einer größeren finanziellen Veränderung stehen, zum Beispiel vor einem Umzug in ein neues Land."
 ---
-*Gastbeitrag von Dana Maher*
-
 Die ersten Monate in deinem neuen Zuhause in Deutschland werden aufregend, können aber auch teuer werden und viele ungewohnte Kosten mit sich bringen. Mietkaution, Versicherungen, Anmeldegebühren und neue monatliche Rechnungen können alle auf einmal anfallen – wahrscheinlich noch bevor du dein erstes deutsches Gehalt bekommen hast. Ein klarer Budgetplan von Anfang an hilft dir, dich ohne finanziellen Stress einzuleben.
 
 Hier findest du eine Schritt-für-Schritt-Anleitung für den Einstieg.
@@ -45,3 +43,5 @@ Außerdem musst du deinen Wohnsitz [innerhalb von zwei Wochen nach dem Einzug an
 ## 5. Erfassen, prüfen und anpassen
 
 Wenn du Einnahmen und Fixkosten aufgelistet hast, bleibt ein Betrag für Lebensmittel, Restaurantbesuche, Freizeit und Ersparnisse. Erfasse in den ersten drei Monaten jede Ausgabe, denn in dieser Zeit findest du heraus, was das Leben in deinem neuen Zuhause wirklich kostet. Danach prüfst du dein Budget und passt die einzelnen Kategorien bei Bedarf an.
+
+*Dies ist ein Gastbeitrag von Dana Maher.*
