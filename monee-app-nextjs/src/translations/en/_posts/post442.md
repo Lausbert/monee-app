@@ -7,6 +7,8 @@ Concentrated household products can be cheaper—but only if their cost per effe
 
 What matters is how much you pay, how much product each job requires, and whether it cleans well at that dose. For refill systems, the cost of bottles and delivery also belongs in the comparison.
 
+**Related:** [Are Refill Products Cheaper? A Simple Break-Even Test](https://monee-app.com/blog/are-refill-products-cheaper-a-simple-break-even-test/)
+
 **Compare the cleaning you get, not just the liquid you buy.**
 
 Shelf unit prices are useful for comparing pack sizes. The UK’s [Competition and Markets Authority explains](https://www.gov.uk/government/publications/unit-pricing-information-for-consumers/unit-pricing-information-for-consumers) that they show prices on a common basis, such as per litre or kilogram.

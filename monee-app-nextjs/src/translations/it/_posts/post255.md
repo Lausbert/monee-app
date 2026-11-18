@@ -105,6 +105,8 @@ Con un preventivo (artigiano, ditta, fornitore) la logica è la stessa, ma devi 
 
 Non chiedere "uno sconto" e basta. Proponi delle leve (voci da togliere, tempi più flessibili, pagamento immediato), così l'altra parte può dirti sì senza perderci la faccia. Per script più dettagliati vedi [come chiedere un preventivo più basso](https://monee-app.com/it/blog/come-chiedere-un-preventivo-piu-basso-script/). Se il problema è l'imbarazzo più che le parole, leggi [come chiedere uno sconto senza imbarazzo](https://monee-app.com/it/blog/come-chiedere-uno-sconto-senza-imbarazzo/).
 
+**Leggi anche:** [Cosa dire se una fattura supera il preventivo](https://monee-app.com/it/blog/cosa-dire-se-una-fattura-supera-il-preventivo/)
+
 ## Se sei tu a dover comunicare o proporre uno sconto a un cliente
 
 Se lavori in proprio e vuoi premiare un cliente fedele, scrivi in modo chiaro tre cose: **perché** fai lo sconto, **quanto** vale e **fino a quando**. Esempio ipotetico:

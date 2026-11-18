@@ -64,6 +64,8 @@ A rule is much easier to follow when your routine supports it.
 
 Keep your bottle near the item you never leave without, such as your keys or work bag. Wash it after use and refill it before leaving home. If you prefer hot drinks, prepare a travel mug while making breakfast.
 
+**Related:** [Are Refill Products Cheaper? A Simple Break-Even Test](https://monee-app.com/blog/are-refill-products-cheaper-a-simple-break-even-test/)
+
 Other useful backups include:
 
 - A spare bottle at work
