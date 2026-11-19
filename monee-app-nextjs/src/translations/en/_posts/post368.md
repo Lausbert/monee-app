@@ -15,6 +15,8 @@ Use the version that fits your situation.
 
 “Hi, I’m calling about a warranty claim that was denied. I’d like to understand the reason for the denial and ask for the claim to be reviewed. The product was purchased on [date], the issue happened on [date], and the warranty should still apply based on the information I have. Can you help me reopen or escalate this claim?”
 
+**Related:** [Should You Buy an Extended Warranty? A Break‑Even Test](https://monee-app.com/blog/should-you-buy-an-extended-warranty-a-breakeven-test/)
+
 Then pause.
 
 Let them answer. Do not fill the silence. Your job is to make a clear request, then give them room to respond.

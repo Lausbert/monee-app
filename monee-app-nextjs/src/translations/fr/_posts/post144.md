@@ -13,6 +13,8 @@ L'idée de base est ancienne : le **système d'enveloppes de cash**. Vous décid
 Mais il y a un problème : **de gros tas de cash à la maison sont risqués**. De nombreuses sources soulignent que l'argent liquide peut être volé, détruit ou simplement perdu, et qu'il ne bénéficie pas des protections des comptes bancaires assurés ou des systèmes anti‑fraude des cartes. L'assurance habitation ne couvre souvent que de petits montants en espèces, laissant les sommes plus importantes pratiquement non assurées.  
 ([bankrate.com](https://www.bankrate.com/personal-finance/cash-stuffing-budgeting/), [moneytimes.com](https://www.moneytimes.com/articles/15051/20240622/can-cash-stuffing-help-you-save-more.htm), [cnbc.com](https://www.cnbc.com/2025/03/14/heres-why-its-risky-to-hide-cash-at-home.html))
 
+**À lire aussi :** [Combien d’argent liquide garder à la maison ?](https://monee-app.com/fr/blog/combien-dargent-liquide-garder-a-la-maison/)
+
 Alors comment **essayer le cash stuffing** sans transformer votre tiroir en coffre‑fort privé ?
 
 ---

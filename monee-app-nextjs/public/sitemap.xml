@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -3715,7 +3715,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/what-to-say-when-a-bill-is-higher-than-quoted/</loc>
-    <lastmod>2026-05-02</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/was-sagen-wenn-die-rechnung-hoher-ist-als-zugesagt/"/>
@@ -6345,6 +6345,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/autolavaggio-self-service-quanto-costa-e-come-risparmiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/moyka-samoobsluzhivaniya-kak-platit-menshe-za-moyku/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/self-service-car-wash-costs-how-to-spend-less-per-wash/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-handle-shared-expenses-after-a-breakup/</loc>
@@ -12813,6 +12826,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/self-service-car-wash-costs-how-to-spend-less-per-wash/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/gemeinsame-ausgaben-nach-einer-trennung-regeln/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -19270,6 +19296,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/autolavaggio-self-service-quanto-costa-e-come-risparmiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/moyka-samoobsluzhivaniya-kak-platit-menshe-za-moyku/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/self-service-car-wash-costs-how-to-spend-less-per-wash/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-gerer-les-depenses-partagees-apres-une-rupture/</loc>
@@ -25731,6 +25770,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/self-service-car-wash-costs-how-to-spend-less-per-wash/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-manejar-los-gastos-compartidos-despues-de-una-ruptura/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -32188,6 +32240,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/autolavaggio-self-service-quanto-costa-e-come-risparmiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/moyka-samoobsluzhivaniya-kak-platit-menshe-za-moyku/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/self-service-car-wash-costs-how-to-spend-less-per-wash/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-lidar-com-despesas-compartilhadas-apos-o-termino/</loc>
@@ -38649,6 +38714,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/self-service-car-wash-costs-how-to-spend-less-per-wash/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-gestire-le-spese-condivise-dopo-una-rottura/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -45108,6 +45186,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/self-service-car-wash-costs-how-to-spend-less-per-wash/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-razrulit-obschie-rashody-posle-rasstavaniya/</loc>
     <lastmod>2025-10-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -51554,6 +51645,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/lavagem-self-service-quanto-custa-e-como-gastar-menos/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/autolavaggio-self-service-quanto-costa-e-come-risparmiare/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/moyka-samoobsluzhivaniya-kak-platit-menshe-za-moyku/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-pay-yourself-back-after-dipping-into-savings/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-pay-yourself-back-after-dipping-into-savings/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/ersparnisse-angezapft-so-zahlst-du-dir-das-geld-zuruck/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/comment-reconstituer-son-epargne-apres-y-avoir-puise/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-reponer-tus-ahorros-despues-de-usarlos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-repor-as-suas-poupancas-depois-de-as-ter-usado/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/come-ricostituire-i-risparmi-dopo-averli-usati/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-vosstanovit-sberezheniya-esli-prishlos-ih-potratit/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-handle-shared-expenses-after-a-breakup/</loc>
