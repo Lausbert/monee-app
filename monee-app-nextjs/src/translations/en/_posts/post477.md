@@ -2,8 +2,8 @@
 title: "How Much Should You Spend on a Teacher Gift?"
 excerpt: "For most families, $10 to $25 per teacher is enough, and a group gift lowers that further. Here's how to set a teacher gift budget, check school rules, and keep the year's total under control."
 keywords: "teacher gift budget, how much to spend on teacher gift, teacher appreciation gift, end of year teacher gift, class group gift, holiday teacher gift, gift card for teacher"
-seoTitle: "How Much to Spend on a Teacher Gift: A Simple Guide"
-metaDescription: "Most families spend $10 to $25 on a teacher gift, and a class group gift can bring that down. See how to set a budget, follow school rules and plan the year."
+seoTitle: "How Much to Spend on Teacher Gifts? Usually $10–$25"
+metaDescription: "How much to spend on teacher gifts? For most families, $10 to $25 is reasonable, or $5 to $10 in a class group gift. A sincere note works too."
 ---
 For most families, **$10 to $25 per teacher is a reasonable amount**. If you join a class group gift, chipping in **$5 to $10** is normal. Spending nothing and sending a sincere handwritten note is also fine, and many teachers value notes highly.
 

@@ -2,6 +2,8 @@
 title: "Cosa dire se una fattura supera il preventivo"
 excerpt: "Una guida pratica con script pronti per contestare una fattura più alta del previsto, chiedere spiegazioni e ottenere una correzione o un accordo."
 keywords: "fattura più alta del preventivo, cosa dire, script contestazione fattura, negoziare una fattura, chiedere correzione fattura, parlare di soldi"
+seoTitle: "Fattura che supera il preventivo: cosa dire e fare"
+metaDescription: "Se la fattura supera il preventivo, chiedi spiegazioni, confronta i documenti e proponi una soluzione. Script pronti per telefono, email e chat."
 ---
 Vedere una fattura più alta di quanto ti era stato detto può farti sentire bloccato, ma puoi rispondere con calma, chiarezza e una richiesta precisa.
 

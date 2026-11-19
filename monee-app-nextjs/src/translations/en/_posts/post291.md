@@ -2,6 +2,8 @@
 title: "What to Say When You Need More Time to Pay a Bill"
 excerpt: "A calm, practical guide with ready-to-use scripts for asking for more time on a bill, including phone, chat, and email examples, plus what to say if the first answer is no."
 keywords: "what to say when you need more time to pay a bill, ask for more time to pay a bill, payment extension script, bill payment help, late payment conversation, payment plan script, what to say to creditors"
+seoTitle: "Need More Time to Pay a Bill? What to Say (Scripts)"
+metaDescription: "Need more time to pay a bill? Use these short scripts for phone, chat, and email to ask for more time or a payment plan, plus what to say after a no."
 ---
 Needing more time to pay a bill can make even a simple phone call feel huge, but the right words can turn panic into a plan. In this post, you’ll get clear scripts you can use right away, plus what to say if they push back or the first try doesn’t work.
 
