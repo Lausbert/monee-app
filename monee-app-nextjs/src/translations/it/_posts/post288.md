@@ -27,6 +27,8 @@ E c’è un’altra cosa che ho imparato: non serve trasformare ogni ritardo in 
 
 Se mi chiedi cosa fare quando un coinquilino paga tardi l’affitto, la mia risposta è questa: cerca chiarezza prima di cercare armonia. L’armonia vera regge meglio quando non è costruita su piccoli non detti e su quel teatro assurdo in cui tutti fanno finta che “non sia un problema”, mentre lo è eccome.
 
+**Leggi anche:** [Bollette divise quando un coinquilino trasloca a metà mese](https://monee-app.com/it/blog/bollette-divise-quando-un-coinquilino-trasloca-a-meta-mese/)
+
 Le cose pratiche che mi porto dietro da questa esperienza sono poche, ma mi hanno evitato parecchio stress:
 
 - Scrivi subito un messaggio chiaro appena c’è un ritardo, senza scuse preventive o giri lunghi.

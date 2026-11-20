@@ -7,6 +7,8 @@ You’re not bad at money—you’re under‑practiced at conversations. Let’s
 
 Below you’ll find mini plays (Caller vs. Agent) for three common targets: ISPs, gyms, and utilities. There’s a one‑screen call map, coaching notes, and a printable template you can fill in. And when you’re done, document everything and confirm in writing.
 
+**Related:** [How to Get Late Fees Waived: Calm Call Scripts for Utilities and Gyms](https://monee-app.com/blog/how-to-get-late-fees-waived-calm-call-scripts-for-utilities-and-gyms/)
+
 ## The One‑Screen Call Map
 
 - Open: “Hi, I’m calling about [account/service].”

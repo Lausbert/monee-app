@@ -41,6 +41,8 @@ Cosa impostare
 - Attenzione alle imposte sulle donazioni: Se il non proprietario paga più del valore equo di mercato dell’affitto o copre i costi del proprietario senza ricevere pari valore (ad es., nessun credito d’affitto o equità), l’eccedenza può configurare una donazione. Traccia il supporto che supera canone/spese; se superi l’esclusione annuale, il donante potrebbe dover presentare la dichiarazione imposta donazioni (Modulo 709). Verifica le soglie correnti di esclusione IRS. [IRS Gift Tax FAQs]
 - Copertura assicurativa adeguata: La polizza del proprietario in genere non copre i beni del partner non proprietario. Il non proprietario dovrebbe avere un’assicurazione dell’inquilino (beni personali, responsabilità, perdita d’uso) e il proprietario dovrebbe rivedere i massimali di responsabilità. [NAIC]
 
+**Leggi anche:** [Bollette divise quando un coinquilino trasloca a metà mese](https://monee-app.com/it/blog/bollette-divise-quando-un-coinquilino-trasloca-a-meta-mese/)
+
 Opzioni pratiche di ripartizione
 - Ripartizione paritaria: Semplice, ma può sembrare ingiusta se i redditi differiscono.
 - Bollette assegnate: Uno paga l’abitazione; l’altro copre altre spese condivise.
