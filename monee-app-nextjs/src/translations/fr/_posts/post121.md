@@ -27,6 +27,8 @@ Construisez votre panier au seuil de rentabilité (étape par étape)
 5) Soustrayez les frais annuels du palier envisagé. Traitez‑les comme un coût fixe unique dans votre modèle. Costco a récemment augmenté les frais et relevé le plafond Executive ; vérifiez les chiffres à jour avant de décider. [customerservice.costco.com; reuters.com]  
 6) Exigez une marge. Si votre panier atteint tout juste le seuil, le tampon est insuffisant pour justifier le temps et le risque lié aux périssables. Visez un surplus net—puis testez par un premier achat ciblé.
 
+**À lire aussi :** [Comment décider entre abonnement annuel et mensuel avec le calcul du seuil de rentabilité](https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/)
+
 Notes spécifiques aux enseignes (l’adéquation compte)
 - Costco : Les frais et le plafond de récompense Executive ont augmenté en 2024 ; les acheteurs plus lourds ou plus fréquents peuvent bénéficier du plafond plus élevé. Politique de retour solide, incluant 90 jours pour l’électronique majeure, ce qui réduit le risque pendant une période d’essai. La Costco Anywhere Visa de Citi cumule les catégories carburant et en magasin, sous réserve des limites du programme. [customerservice.costco.com; reuters.com; citi.com]  
 - Sam’s Club : Le palier Plus rapporte 2 % de « Sam’s Cash » uniquement sur les achats en magasin et c’est plafonné ; les commandes en ligne ne comptent pas pour ces 2 %. Les heures matinales, le retrait en bordure et les seuils d’expédition ajoutent une valeur de commodité selon votre routine. [help.samsclub.com]  

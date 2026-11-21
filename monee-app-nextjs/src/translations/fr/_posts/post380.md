@@ -33,6 +33,8 @@ Les piles rechargeables sont probablement un bon achat si :
 
 Dans ce cas, le point de rentabilité arrive assez vite. Pas besoin d’un calcul compliqué : si un appareil vide régulièrement des piles, les rechargeables ont de fortes chances de gagner.
 
+**À lire aussi :** [Comment décider entre abonnement annuel et mensuel avec le calcul du seuil de rentabilité](https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/)
+
 ## Pas pour vous si…
 
 Elles seront moins intéressantes si :

@@ -45,6 +45,8 @@ Pour calculer le nombre de lessives nécessaires avant que la machine soit renta
 
 Avec une lessive par semaine, la machine atteint son seuil de rentabilité après environ un an. Avec deux lessives par semaine, cela prend seulement six mois.
 
+**À lire aussi :** [Comment décider entre abonnement annuel et mensuel avec le calcul du seuil de rentabilité](https://monee-app.com/fr/blog/comment-decider-entre-abonnement-annuel-et-mensuel-avec-le-calcul-du-seuil-de-rentabilite/)
+
 Évidemment, ces chiffres changent selon la situation. Une laverie moins chère, une machine d’occasion ou l’absence de sèche-linge peuvent complètement modifier le résultat.
 
 ## Les coûts que j’avais oubliés

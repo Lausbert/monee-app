@@ -61,6 +61,8 @@ A consumer-facing snapshot notes two especially important realities:
 - **Paying timing matters:** prepaying bags online can avoid higher airport charges.  
 - **Fare tier matters:** basic-economy restrictions can change what’s allowed, including carry-on allowances. ([Condé Nast Traveler](https://www.cntraveler.com/story/airline-checked-baggage-fees-2024))
 
+**Related:** [How to Choose Basic Economy vs Standard Airline Tickets with a Fees‑Flexibility Matrix](https://monee-app.com/blog/how-to-choose-basic-economy-vs-standard-airline-tickets-with-a-feesflexibility-matrix/)
+
 **Bags mini-checklist (copy‑paste):**
 - Carry-on included? If not, price it.
 - Checked bag needed? Price it *for your payment method* (online vs airport).

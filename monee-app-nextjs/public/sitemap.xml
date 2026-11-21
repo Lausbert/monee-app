@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6384,6 +6384,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/spesa-con-i-bambini-come-non-sforare-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-produkty-s-detmi-i-ne-tratit-lishnego/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-grocery-shop-with-kids-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-budget-for-quarterly-taxes-when-youre-self-employed/</loc>
@@ -12878,6 +12891,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-grocery-shop-with-kids-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-budgetieren-sie-vierteljahrliche-steuern-wenn-sie-selbststandig-sind/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -19363,6 +19389,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-grocery-shop-with-kids-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/comment-budgeter-les-acomptes-trimestriels-dimpot-quand-on-est-independant/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -24120,7 +24159,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-pedir-a-un-contratista-que-baje-su-presupuesto/</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-ask-a-contractor-for-a-lower-quote-simple-script/"/>
@@ -25846,6 +25885,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/spesa-con-i-bambini-come-non-sforare-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-produkty-s-detmi-i-ne-tratit-lishnego/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-grocery-shop-with-kids-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-presupuestar-los-impuestos-trimestrales-cuando-trabajas-por-cuenta-propia/</loc>
@@ -32333,6 +32385,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-grocery-shop-with-kids-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/como-planejar-o-orcamento-para-pagamentos-trimestrais-de-impostos-sendo-autonomo/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -38816,6 +38881,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/compras-no-supermercado-com-criancas-sem-gastar-a-mais/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-produkty-s-detmi-i-ne-tratit-lishnego/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-grocery-shop-with-kids-without-overspending/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-pianificare-il-budget-per-le-imposte-trimestrali-quando-sei-autonomo/</loc>
@@ -45303,6 +45381,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-grocery-shop-with-kids-without-overspending/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-planirovat-kvartalnye-nalogi-esli-vy-samozanyatyy/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -51775,6 +51866,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/compras-no-supermercado-com-criancas-sem-gastar-a-mais/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/spesa-con-i-bambini-come-non-sforare-il-budget/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-pokupat-produkty-s-detmi-i-ne-tratit-lishnego/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-split-a-holiday-gift-budget-between-both-families/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-split-a-holiday-gift-budget-between-both-families/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/weihnachtsbudget-fair-zwischen-beiden-familien-aufteilen/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/budget-cadeaux-des-fetes-le-partager-entre-deux-familles/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-repartir-el-presupuesto-de-regalos-entre-dos-familias/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/orcamento-de-presentes-de-natal-como-dividir-entre-familias/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-regali-di-natale-come-dividerlo-tra-le-due-famiglie/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-prazdnichnye-podarki-kak-podelit-mezhdu-semyami/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-budget-for-quarterly-taxes-when-youre-self-employed/</loc>
