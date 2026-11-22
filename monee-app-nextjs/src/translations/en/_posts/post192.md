@@ -89,6 +89,8 @@ Keep it simple:
 3. **Request a correction from the issuer** if it truly shouldn’t have been reported or the amounts are incorrect.
 4. **Keep records**: receipts, screenshots, invoices, and a summary that ties percentages/portions to the shared expense.
 
+**Related:** [How to Ask Your Landlord for a Repair Reimbursement](https://monee-app.com/blog/how-to-ask-your-landlord-for-a-repair-reimbursement/)
+
 The IRS also provides guidance for situations where you can’t get a corrected form and need to report in a way that nets to zero for non-taxable items (again: the idea is documenting the reality, not accepting the form as a bill).
 
 ## Common mistakes (the ones I see over and over)

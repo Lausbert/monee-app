@@ -103,6 +103,8 @@ For shopping chats on retail websites, a short version works:
 
 Use email when you want a written record, or when the relationship is more personal, such as with a freelancer, supplier, course provider, landlord or local business.
 
+**Related:** [How to Ask Your Landlord for a Repair Reimbursement](https://monee-app.com/blog/how-to-ask-your-landlord-for-a-repair-reimbursement/)
+
 **Subject line options:**
 
 > Request to review pricing  

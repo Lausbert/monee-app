@@ -61,6 +61,8 @@ Family B gets more money here because it has more people. Under this rule, that'
 
 **Big families.** Suggest a Secret Santa or a name draw with a set price. Like a sports team rotating positions, everyone takes part but no one carries the whole load.
 
+**Related:** [How Much Should You Spend on a Secret Santa Gift?](https://monee-app.com/blog/how-much-should-you-spend-on-a-secret-santa-gift/)
+
 **Kids get the spotlight.** Many families care more about gifts for children than for adults. Putting more money into the kids' tier and less into the adults' tier often goes down well on both sides.
 
 ## Step 5: Track it as you go
