@@ -13,6 +13,8 @@ Money is on a lot of people's minds this season. In the US, the National Retail 
 
 Think of it like cooking for a big dinner. You decide how much food to make before you start filling plates. If each partner sets a budget for their own family alone, the total grows quietly and nobody owns it.
 
+**Related:** [How to Split Housing Costs When One Partner Owns the Home: A Decision Tree](https://monee-app.com/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/)
+
 Sit down together and answer three questions:
 
 1. **What can we spend on gifts this season without using debt?** Start from your actual monthly budget, not a number you hope for.

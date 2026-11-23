@@ -50,6 +50,8 @@ Typische Zielkanäle, die du unterscheiden willst:
 - **PayPal:** kann auf Karte/Bank laufen oder (in Sonderfällen) ins PayPal-Guthaben
 - **Shop-Guthaben/Gutschein:** taucht nicht auf dem Kontoauszug auf (separate Stelle!)
 
+**Passend dazu:** [So verfolgen Sie Geschenkkarten und Store-Guthaben, ohne Geld zu verlieren](https://monee-app.com/de/blog/so-verfolgen-sie-geschenkkarten-und-store-guthaben-ohne-geld-zu-verlieren/)
+
 ### Schritt 3: Nutze *eine* Liste – nicht 5 Chats + 2 E‑Mails + eine vage Erinnerung
 Warum: Tracking scheitert selten an „zu wenig Tools“, sondern an „zu viele Orte“.
 

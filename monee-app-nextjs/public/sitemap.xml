@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6410,6 +6410,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/passare-alle-lampadine-led-conviene-il-test-del-rientro/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-perehodit-na-svetodiodnye-lampy-test-okupaemosti/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-switch-to-led-bulbs-a-payback-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-budget-for-quarterly-taxes-when-youre-self-employed/</loc>
@@ -12930,6 +12943,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-switch-to-led-bulbs-a-payback-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-budgetieren-sie-vierteljahrliche-steuern-wenn-sie-selbststandig-sind/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -19441,6 +19467,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-switch-to-led-bulbs-a-payback-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/fr/blog/comment-budgeter-les-acomptes-trimestriels-dimpot-quand-on-est-independant/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -23093,7 +23132,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/que-decir-cuando-un-amigo-no-te-paga/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/what-to-say-when-a-friend-hasnt-paid-you-back-yet/"/>
@@ -25950,6 +25989,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/passare-alle-lampadine-led-conviene-il-test-del-rientro/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-perehodit-na-svetodiodnye-lampy-test-okupaemosti/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-switch-to-led-bulbs-a-payback-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/como-presupuestar-los-impuestos-trimestrales-cuando-trabajas-por-cuenta-propia/</loc>
@@ -32463,6 +32515,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-switch-to-led-bulbs-a-payback-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/pt/blog/como-planejar-o-orcamento-para-pagamentos-trimestrais-de-impostos-sendo-autonomo/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -38972,6 +39037,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vale-a-pena-trocar-para-lampadas-led-teste-do-retorno/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-perehodit-na-svetodiodnye-lampy-test-okupaemosti/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-switch-to-led-bulbs-a-payback-test/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/come-pianificare-il-budget-per-le-imposte-trimestrali-quando-sei-autonomo/</loc>
@@ -45485,6 +45563,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/should-you-switch-to-led-bulbs-a-payback-test/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-planirovat-kvartalnye-nalogi-esli-vy-samozanyatyy/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -51983,6 +52074,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/vale-a-pena-trocar-para-lampadas-led-teste-do-retorno/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/passare-alle-lampadine-led-conviene-il-test-del-rientro/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/stoit-li-perehodit-na-svetodiodnye-lampy-test-okupaemosti/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/who-pays-for-the-birthday-persons-dinner-a-fair-split-rule/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/wer-zahlt-das-essen-des-geburtstagskinds-eine-faire-regel/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/repas-danniversaire-qui-paie-laddition/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/quien-paga-la-cena-del-cumpleanero-como-dividir-la-cuenta/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/quem-paga-o-jantar-do-aniversariante-uma-regra-justa/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/chi-paga-la-cena-di-compleanno-la-regola-per-dividere/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kto-platit-za-uzhin-imeninnika-pravilo-chestnogo-deleniya/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-budget-for-quarterly-taxes-when-youre-self-employed/</loc>

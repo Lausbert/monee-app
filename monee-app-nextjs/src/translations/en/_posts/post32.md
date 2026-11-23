@@ -221,6 +221,8 @@ Decision Tree Checklist
   - Else if Used ≤ 15% → Used.
   - Else → Car‑Free + Scheduled Rentals for specific days.
 
+**Related:** [How to Split Housing Costs When One Partner Owns the Home: A Decision Tree](https://monee-app.com/blog/how-to-split-housing-costs-when-one-partner-owns-the-home-a-decision-tree/)
+
 Notes and Next Steps
 - If choosing Car‑Free:
   - Set a rideshare/carshare buffer for weather/late nights.
