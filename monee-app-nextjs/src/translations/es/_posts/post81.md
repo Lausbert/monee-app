@@ -210,6 +210,8 @@ Semana 4
 - Vuelve a ejecutar la matriz con pesos actualizados y números reales.
 - Si tu elección se mantiene bajo la prueba de estrés, continúa. Si no, ajusta tu mezcla de noches entre semana de una en una.
 
+**Lee también:** [Cómo elegir entre Basic Economy y Standard en billetes de avión con una matriz de tarifas y flexibilidad](https://monee-app.com/es/blog/como-elegir-entre-basic-economy-y-standard-en-billetes-de-avion-con-una-matriz-de-tarifas-y-flexibilidad/)
+
 Límites y transparencia
 - Los estudios cabeza a cabeza de costo‑tiempo que comparan kits de comida, comestibles y entrega desde 2022 son limitados. Los incrementos en apps varían por restaurante y mercado, y los precios de kits de comida pueden quedar detrás de inicios de sesión o rotar semanalmente. Por eso confiamos en rangos direccionales, tendencias de inflación y tus propios recibos/registros de tiempo para fundamentar la matriz. Trata estas entradas como estimaciones que seguirás afinando, no como verdades fijas.
 

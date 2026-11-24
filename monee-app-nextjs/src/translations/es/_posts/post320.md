@@ -91,6 +91,8 @@ Tom al principio pensaba que proporcional era “complicarse demasiado”. Despu
 
 Los planes familiares a veces no son solo de pareja. Puede haber hijos, padres, hermanos o esa línea antigua que nadie sabe por qué sigue viva.
 
+**Lee también:** [Cómo repartir de forma justa los costos del cuidado de mayores entre hermanos](https://monee-app.com/es/blog/como-repartir-de-forma-justa-los-costos-del-cuidado-de-mayores-entre-hermanos/)
+
 Aquí conviene definir roles:
 
 - Si es una línea de un hijo, puede ser un gasto familiar

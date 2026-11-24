@@ -51,6 +51,8 @@ Eso suma 770 $. Los otros 230 $ son un colchón para envíos, envoltorios, un re
 
 Aquí la familia B recibe más dinero porque tiene más personas. Con esta regla, eso es justo. Si para vosotros es más importante el 50/50, bajad el nivel de hermanos de la familia B hasta que los totales coincidan.
 
+**Lee también:** [Cómo repartir de forma justa los costos del cuidado de mayores entre hermanos](https://monee-app.com/es/blog/como-repartir-de-forma-justa-los-costos-del-cuidado-de-mayores-entre-hermanos/)
+
 ## Paso 4: Gestionad las situaciones delicadas
 
 **Una familia gasta mucho más.** No tenéis que igualar su gasto. Los regalos no son un marcador. Regalad lo que encaje en vuestro presupuesto. Si os preguntan, basta con una respuesta cálida y sencilla: «Este año lo estamos haciendo más sencillo».

@@ -88,6 +88,8 @@ La flexibilidad es parte del precio real: las condiciones de cambio y cancelaci�
 
 Un detalle clave de política que muchos compradores pasan por alto: para billetes comprados **7+ días antes de la salida**, las aerolíneas deben ofrecer o bien una **opción de reembolso total en 24 horas** o bien una **retención de 24 horas** al precio cotizado—pero el DOT señala que este requisito de 24 horas **no** aplica a billetes comprados mediante **agencias de viajes online/agentes de viajes**. ([Página de reembolsos del DOT de EE. UU.](https://www.transportation.gov/individuals/aviation-consumer-protection/refunds))
 
+**Lee también:** [Cómo elegir entre Basic Economy y Standard en billetes de avión con una matriz de tarifas y flexibilidad](https://monee-app.com/es/blog/como-elegir-entre-basic-economy-y-standard-en-billetes-de-avion-con-una-matriz-de-tarifas-y-flexibilidad/)
+
 **Traducción a tu checklist:** el canal de reserva puede cambiar tu “precio real”, porque las protecciones pueden cambiar. Si quieres esa red de seguridad de 24 horas, “reservar directo” (o “confirmar la política de la OTA por escrito”) debe entrar en el cálculo.
 
 ---

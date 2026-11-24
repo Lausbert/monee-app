@@ -83,6 +83,8 @@ Plan de reducción de riesgos (8 semanas, de baja intensidad)
 - Revisa los términos de cancelación y pon recordatorios; usa proveedores con rutas claras de cancelación en línea. [ftc.gov]
 - Vuelve a ejecutar la matriz en dos meses usando tu uso real. Si la otra opción encaja mejor ahora, cambia—las decisiones son iterativas.
 
+**Lee también:** [Cómo elegir entre Basic Economy y Standard en billetes de avión con una matriz de tarifas y flexibilidad](https://monee-app.com/es/blog/como-elegir-entre-basic-economy-y-standard-en-billetes-de-avion-con-una-matriz-de-tarifas-y-flexibilidad/)
+
 No buscas lo perfecto—estás eligiendo el entorno que mejor se ajusta a tus valores, tiempo y presupuesto ahora mismo. Toma la decisión, ejecuta tu pequeño experimento y ajusta con lo que aprendas.
 
 ## Fuentes:
