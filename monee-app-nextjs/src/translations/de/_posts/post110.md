@@ -7,6 +7,8 @@ Die Wahl der Zahlungsart ist nicht nur eine Frage der Bequemlichkeit. Es ist ein
 
 Unten finden Sie eine Gebühren‑Schutz‑Matrix, die Sie direkt am Point of Payment anwenden können, gefolgt von einer Scorecard, Playbooks für gängige Szenarien und einer Migrations‑Checkliste, um die Methode ohne Ausfallzeit zu wechseln. Die Analyse bleibt anbieterunabhängig und stützt sich auf offizielle Regeln und verlässliche Zusammenfassungen, damit Sie eine fundierte Entscheidung treffen können.
 
+**Passend dazu:** [So wählen Sie Basic Economy vs. Standard‑Flugtickets mit einer Gebühren‑Flexibilitäts‑Matrix](https://monee-app.com/de/blog/so-wahlen-sie-basic-economy-vs-standardflugtickets-mit-einer-gebuhrenflexibilitatsmatrix/)
+
 Hinweis: Dies ist keine Rechts‑ oder Steuerberatung. Im Zweifel lesen Sie die verlinkten offiziellen Quellen und Ihre spezifischen Karten‑/Kontobedingungen.
 
 **Die Gebühren‑Schutz‑Matrix (Schnellstart)**

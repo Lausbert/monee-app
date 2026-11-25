@@ -61,6 +61,8 @@ Ein verbraucherorientierter Überblick betont zwei besonders wichtige Realitäte
 - **Der Zahlungszeitpunkt zählt:** Wenn du Gepäck online vorauszahlst, kannst du höhere Gebühren am Flughafen vermeiden.  
 - **Die Tarifklasse zählt:** Basic‑Economy‑Einschränkungen können verändern, was erlaubt ist—einschließlich Handgepäck-Regeln. ([Condé Nast Traveler](https://www.cntraveler.com/story/airline-checked-baggage-fees-2024))
 
+**Passend dazu:** [So wählen Sie Basic Economy vs. Standard‑Flugtickets mit einer Gebühren‑Flexibilitäts‑Matrix](https://monee-app.com/de/blog/so-wahlen-sie-basic-economy-vs-standardflugtickets-mit-einer-gebuhrenflexibilitatsmatrix/)
+
 **Gepäck‑Mini‑Checkliste (Copy‑Paste):**
 - Handgepäck inklusive? Wenn nicht, bepreise es.
 - Aufgabegepäck nötig? Bepreise es *für deine Zahlungsart* (online vs Flughafen).

@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/"/>
@@ -75,7 +75,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/de/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -191,7 +191,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/es/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -249,7 +249,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -307,7 +307,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/it/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/ru/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -423,7 +423,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/"/>
@@ -6436,6 +6436,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-i-regalini-della-calza-quanto-spendere-a-testa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-podarki-v-nosok-skolko-tratit-na-cheloveka/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-stocking-stuffer-budget-per-person/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
   </url>
   <url>
     <loc>https://monee-app.com/blog/how-to-budget-for-quarterly-taxes-when-youre-self-employed/</loc>
@@ -12982,6 +12995,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-stocking-stuffer-budget-per-person/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/de/blog/so-budgetieren-sie-vierteljahrliche-steuern-wenn-sie-selbststandig-sind/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -19517,6 +19543,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-i-regalini-della-calza-quanto-spendere-a-testa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-podarki-v-nosok-skolko-tratit-na-cheloveka/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-stocking-stuffer-budget-per-person/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
   </url>
   <url>
     <loc>https://monee-app.com/fr/blog/comment-budgeter-les-acomptes-trimestriels-dimpot-quand-on-est-independant/</loc>
@@ -26056,6 +26095,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-stocking-stuffer-budget-per-person/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/es/blog/como-presupuestar-los-impuestos-trimestrales-cuando-trabajas-por-cuenta-propia/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -29708,7 +29760,7 @@
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/o-que-dizer-quando-um-amigo-ainda-nao-pagou/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/what-to-say-when-a-friend-hasnt-paid-you-back-yet/"/>
@@ -32591,6 +32643,19 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-i-regalini-della-calza-quanto-spendere-a-testa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-podarki-v-nosok-skolko-tratit-na-cheloveka/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-stocking-stuffer-budget-per-person/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
   </url>
   <url>
     <loc>https://monee-app.com/pt/blog/como-planejar-o-orcamento-para-pagamentos-trimestrais-de-impostos-sendo-autonomo/</loc>
@@ -39130,6 +39195,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-stocking-stuffer-budget-per-person/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/it/blog/come-pianificare-il-budget-per-le-imposte-trimestrali-quando-sei-autonomo/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -45667,6 +45745,19 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-set-a-stocking-stuffer-budget-per-person/"/>
   </url>
   <url>
+    <loc>https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+  </url>
+  <url>
     <loc>https://monee-app.com/ru/blog/kak-planirovat-kvartalnye-nalogi-esli-vy-samozanyatyy/</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -52191,6 +52282,19 @@
     <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-definir-o-orcamento-por-pessoa-da-meia-de-natal/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/budget-per-i-regalini-della-calza-quanto-spendere-a-testa/"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/byudzhet-na-podarki-v-nosok-skolko-tratit-na-cheloveka/"/>
+  </url>
+  <url>
+    <loc>https://monee-app.com/hi/blog/how-to-organize-a-group-gift-without-fronting-the-cost/</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://monee-app.com/blog/how-to-organize-a-group-gift-without-fronting-the-cost/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://monee-app.com/de/blog/gruppengeschenk-organisieren-ohne-geld-vorzustrecken/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://monee-app.com/fr/blog/cadeau-commun-lorganiser-sans-avancer-largent/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://monee-app.com/es/blog/como-organizar-un-regalo-grupal-sin-adelantar-el-dinero/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://monee-app.com/pt/blog/como-organizar-uma-vaquinha-para-presente-sem-pagar-antes/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://monee-app.com/it/blog/regalo-di-gruppo-come-organizzarlo-senza-anticipare-soldi/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://monee-app.com/ru/blog/kak-sobrat-dengi-na-obschiy-podarok-ne-platya-za-vseh/"/>
   </url>
   <url>
     <loc>https://monee-app.com/hi/blog/how-to-budget-for-quarterly-taxes-when-youre-self-employed/</loc>

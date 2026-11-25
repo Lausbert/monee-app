@@ -7,6 +7,8 @@ C’è un momento in cui dire “venite da noi!” sembra super generoso, e poi 
 
 Ospitare amici è una di quelle cose bellissime in teoria e un po’ caotiche nella pratica. Ci piace farlo, davvero. Casa piena, risate, qualcuno che apre un’altra bottiglia mentre un altro ruba olive dalla cucina: perfetto. Il problema arriva quando nessuno decide prima *che tipo* di serata sarà. Ed è lì che si spende troppo, spesso senza neanche accorgersene. La buona notizia è che si può evitare senza diventare tirchi, rigidi o “quella coppia che fa il foglio Excel per un aperitivo”. Anche se, tra noi, Tom pensa che un piccolo foglio mentale aiuti sempre.
 
+**Leggi anche:** [Cosa fare se il partner spende troppo](https://monee-app.com/it/blog/cosa-fare-se-il-partner-spende-troppo/)
+
 La prima regola che ci ha salvati: non fare budget solo sul cibo. Quando ospiti, spendi anche in cose invisibili. Più bevande, più snack “così non finisce tutto subito”, più ingredienti dell’ultimo minuto, più pulizia, più tentazione di fare tutto “un po’ meglio del solito”. E quel “già che ci siamo” è il vero buco nero. Noi ormai ci chiediamo sempre: stiamo organizzando una serata semplice o stiamo producendo un mini evento senza dircelo?
 
 La cosa più utile, per noi, è decidere insieme il formato prima di invitare tutti. Ci sono almeno tre modi equi per gestire la cosa.

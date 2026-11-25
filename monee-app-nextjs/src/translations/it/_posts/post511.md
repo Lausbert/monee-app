@@ -55,6 +55,8 @@ Qui la famiglia B riceve più soldi perché è più numerosa. Con questa regola,
 
 **Una famiglia spende molto di più.** Non dovete eguagliare la loro spesa. I regali non sono una classifica. Regalate ciò che rientra nel vostro budget. Se ve lo chiedono, una risposta cordiale e semplice funziona: "Quest'anno abbiamo deciso di fare le cose in modo più semplice."
 
+**Leggi anche:** [Cosa fare se il partner spende troppo](https://monee-app.com/it/blog/cosa-fare-se-il-partner-spende-troppo/)
+
 **Redditi diversi o finanze separate.** Se ciascuno paga i regali per la propria famiglia, concordate comunque una fascia di spesa. Altrimenti la famiglia di uno dei due partner può finire per sembrare chiaramente favorita, e prima o poi la cosa tende a venire fuori.
 
 **Costi di viaggio.** Se spendete 600 $ in voli per andare a trovare una delle due parti, alcune coppie considerano la visita stessa come parte del "regalo" a quella famiglia. Parlatene apertamente. Non tagliate di nascosto il budget regali di quella famiglia.

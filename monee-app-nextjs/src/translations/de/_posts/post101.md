@@ -105,6 +105,8 @@ Migrations‑Checkliste: Planwechsel ohne Ausfallzeit
 - Alle Bestätigungen und Ihre finale Matrix als „Wechselfallakte“ für Einsprüche oder Support aufbewahren.
 - Optional: Im Wechselmonat wiederkehrende Zahlungen in einer Budget‑App prüfen. Loggen Sie z. B. alte und neue Prämie als getrennte wiederkehrende Posten, um Überschneidungen zu sehen und Duplikate zu vermeiden; konsistent kategorisieren, um bei Bedarf filtern und exportieren zu können. Monee unterstützt Schnelleingabe, eigene Kategorien und Export für saubere, portable Aufzeichnungen.
 
+**Passend dazu:** [So wählen Sie Basic Economy vs. Standard‑Flugtickets mit einer Gebühren‑Flexibilitäts‑Matrix](https://monee-app.com/de/blog/so-wahlen-sie-basic-economy-vs-standardflugtickets-mit-einer-gebuhrenflexibilitatsmatrix/)
+
 Portabilitätsprinzipien für Zukunftssicherheit
 - Bevorzugen Sie standardisierte (Easy‑Pricing‑)Pläne, wenn zwei Optionen nahe beieinander liegen—vorhersehbares Cost‑Sharing und klarere 1:1‑Vergleiche reduzieren kognitive Lock‑ins (KFF; CMS; HealthCare.gov) [kff.org](https://www.kff.org/faqs/faqs-health-insurance-marketplace-and-the-aca/marketplace-health-plans-and-premiums/i-notice-something-called-easy-pricing-under-the-plan-name-on-healthcare-gov-what-does-that-mean/) und [cms.gov](https://www.cms.gov/newsroom/fact-sheets/hhs-notice-benefit-and-payment-parameters-2025-final-rule) und [healthcare.gov](https://www.healthcare.gov/choose-a-plan/your-total-costs/).
 - Bewahren Sie Nachweise zu Netz und Arzneimittelliste auf—Netze ändern sich, und das ist Ihre Evidenz für Kontinuitätsanträge (KFF) [kff.org](https://www.kff.org/faqs/faqs-health-insurance-marketplace-and-the-aca/how-can-i-find-out-if-a-health-plan-covers-the-prescription-drugs-that-i-take/).
