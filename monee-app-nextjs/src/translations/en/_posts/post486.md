@@ -2,8 +2,8 @@
 title: "How Much Should You Spend on a Secret Santa Gift?"
 excerpt: "Most Secret Santa gifts land somewhere between $10 and $30. Here's how to choose the right amount for your office, friends or family, and stick to it without feeling cheap."
 keywords: "Secret Santa budget, how much to spend on Secret Santa, Secret Santa spending limit, office gift exchange, gift exchange budget, holiday gift budget, Secret Santa gift ideas"
-seoTitle: "Secret Santa Budget: How Much Should You Spend?"
-metaDescription: "Most Secret Santa budgets fall between $10 and $30. Learn how to set the right Secret Santa spending limit for work, friends or family and stay within it."
+seoTitle: "Secret Santa Gift Budget: How Much to Spend"
+metaDescription: "Most Secret Santa gifts cost $10 to $30. If no limit is set, aim for about $20 to $25 at work and adjust the amount for friends and family."
 ---
 Somebody tears open the envelope, reads a name and freezes. It's the coworker they've spoken to twice, both times about the printer. Then comes the real question: *how much is this supposed to cost?*
 

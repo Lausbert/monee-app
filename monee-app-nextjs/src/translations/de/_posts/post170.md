@@ -2,6 +2,8 @@
 title: "So wählen Sie Basic Economy vs. Standard‑Flugtickets mit einer Gebühren‑Flexibilitäts‑Matrix"
 excerpt: "Nutzen Sie eine gewichtete Entscheidungsmatrix, um Basic‑Economy‑ und Standard‑Tickets anhand dessen zu vergleichen, was sich wirklich ändert: Gepäck, Sitzplätze, Umbuchungen, Boarding und Punkte—damit Sie die beste Passform wählen, nicht nur den niedrigsten Lockpreis."
 keywords: "basic economy vs standard economy, main cabin vs basic economy, airline fees, seat selection fees, carry-on rules, checked bag fees, change and cancel rules, flight credits, boarding groups, family seating, DOT refund rules, decision matrix"
+seoTitle: "Basic Economy oder Standard: Was lohnt sich?"
+metaDescription: "Basic Economy oder Standard? Vergleichen Sie Gepäck, Sitzplatz und Flexibilität mit einer Matrix und wählen Sie den passenden Tarif für Ihre Reise."
 ---
 Basic Economy ist nicht „schlechter fliegen“. Es ist meist *dasselbe Flugzeug und derselbe Sitztyp*, der nur mit strengeren Regeln verkauft wird—und diese Regeln können einen günstigen Tarif in eine teure Lektion verwandeln, wenn Ihre Reise Flexibilität, zusammenhängende Sitzplätze oder Gepäck braucht. Mehrere Quellen beschreiben Basic Economy als ein „niedriger Preis, hohe Einschränkungen“-Produkt, bei dem der eigentliche Geldhebel in Beschränkungen bei Änderungen/Stornierungen, Sitzplatzwahl und Gepäckregeln liegt—nicht im Komfort selbst ([NerdWallet](https://www.nerdwallet.com/article/travel/basic-economy-vs-main-cabin)).
 
