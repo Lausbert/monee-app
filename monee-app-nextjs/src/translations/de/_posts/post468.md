@@ -49,6 +49,8 @@ Danach hörst du einfach auf zu reden. Die Pause fühlt sich vielleicht an wie d
 
 Das ist dieselbe Logik wie beim [Erlass von Bankgebühren](https://monee-app.com/de/blog/wie-du-um-einen-erlass-von-bankgebuhren-bittest-einfaches-skript/) oder bei einer [überraschenden Hotel-Resortgebühr](https://monee-app.com/de/blog/so-lassen-sie-sich-eine-uberraschende-hotelresortgebuhr-mit-einem-ruhigen-frontdeskskript-erlassen/). Freundlich, konkret und ohne Drama wirkt meistens besser als ein Wutausbruch.
 
+**Passend dazu:** [Wie du nach dem Kauf um Preisanpassung bittest](https://monee-app.com/de/blog/wie-du-nach-dem-kauf-um-preisanpassung-bittest/)
+
 Notiere dir nach dem Gespräch das Datum, den Namen deines Gegenübers und was zugesagt wurde.
 
 ## Schritt 3: Schriftlich nachhaken, mit Frist

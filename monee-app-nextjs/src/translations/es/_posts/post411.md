@@ -29,6 +29,8 @@ Es más fácil proteger el dinero cuando sabes para qué sirve. En lugar de reun
 
 No necesitas abrir una cuenta para cada objetivo. Puedes utilizar subcuentas, sobres digitales, una hoja de cálculo o un registro sencillo. Elige un método que puedas mantener incluso durante semanas caóticas.
 
+**Lee también:** [Cómo usar el reto de los 100 sobres para impulsar tus ahorros](https://monee-app.com/es/blog/como-usar-el-reto-de-los-100-sobres-para-impulsar-tus-ahorros/)
+
 ## Automatiza las aportaciones
 
 Programa una transferencia periódica hacia tus ahorros poco después de recibir tus ingresos. De esta manera, ahorrar se convierte en una parte normal del presupuesto, no en una decisión que debes repetir constantemente.

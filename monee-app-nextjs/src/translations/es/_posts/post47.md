@@ -12,6 +12,8 @@ Primero, los principios:
 - La claridad supera a lo ingenioso. Categorías legibles para humanos, reinicios previsibles y conciliación sencilla importan más que la automatización.
 - Separación de responsabilidades. Mantén “dónde vive el dinero” separado de “cómo rastreas los sobres”.
 
+**Lee también:** [Cómo usar el reto de los 100 sobres para impulsar tus ahorros](https://monee-app.com/es/blog/como-usar-el-reto-de-los-100-sobres-para-impulsar-tus-ahorros/)
+
 Lo que sigue: una arquitectura duradera, un cuadro de evaluación para escoger tu herramienta, un paso a paso de configuración, una lista de verificación de migración sin tiempo de inactividad y señales de alerta a evitar.
 
 Cómo se estructura un sistema sólido de sobres sin efectivo

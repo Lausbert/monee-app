@@ -8,6 +8,8 @@ Cuando el dinero se siente escaso, «simplemente deja de comprar cosas» es un c
 Un reto de no‑compras o de no gastar puede ayudar, pero solo si está diseñado para la vida real. Guías recientes y entrevistas con expertos lo describen menos como un castigo y más como un **reinicio financiero** temporal e intencional que revela por dónde se escapa silenciosamente el dinero y lo redirige hacia tus objetivos en lugar de hacia pedidos aleatorios por internet y compras impulsivas.  
 ([investopedia.com](https://www.investopedia.com/no-buy-challenge-11713225), [michaelryanmoney.com](https://michaelryanmoney.com/no-spend-challenge/))
 
+**Lee también:** [Cómo usar el reto de los 100 sobres para impulsar tus ahorros](https://monee-app.com/es/blog/como-usar-el-reto-de-los-100-sobres-para-impulsar-tus-ahorros/)
+
 A continuación tienes una forma tranquila y realista de crear un **reto de no‑compras que realmente te haga ahorrar dinero**, ya sea que pruebes un fin de semana sin gastar, un mes sin gastos como un «septiembre sin gastos» o, eventualmente, algo más grande como un año sin compras.
 
 ---
