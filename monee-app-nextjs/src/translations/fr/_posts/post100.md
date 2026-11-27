@@ -68,6 +68,8 @@ Options d’équité (en choisir une)
 - Par rôle : un partenaire choisit l’événement ; l’autre choisit les places dans le plafond convenu.
 - Plafond d’abord : nous fixons un plafond par billet ou par mois pour les loisirs ; au‑delà, c’est personnel.
 
+**À lire aussi :** [Comment choisir entre un billet Économie basique et un billet standard avec une matrice frais‑flexibilité](https://monee-app.com/fr/blog/comment-choisir-entre-un-billet-economie-basique-et-un-billet-standard-avec-une-matrice-fraisflexibilite/)
+
 À emporter : évitez les frais de zones saturées et les majorations
 Règles prêtes à copier‑coller, à adapter :
 

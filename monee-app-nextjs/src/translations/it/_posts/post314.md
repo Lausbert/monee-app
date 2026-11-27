@@ -15,6 +15,8 @@ Mettiamo che l’inverno scorso tu abbia speso 1.800 euro. Diviso 12 fa 150 euro
 
 Il secondo passo è creare un fondo dedicato. Non deve essere elegante. Può essere una categoria nel tuo budget, un conto separato, una busta virtuale, quello che usi già. Il punto è che quei soldi non devono mescolarsi con la spesa, i regali di compleanno dei bambini o l’ennesimo addebito di prova gratuita dimenticata. Se usi uno strumento per tracciare le spese familiari, questo è uno di quei casi in cui vedere tutto in una sola categoria aiuta davvero, soprattutto se spendete in due e nessuno ricorda mai chi ha pagato cosa.
 
+**Leggi anche:** [Quanto spendere per una festa di compleanno per bambini?](https://monee-app.com/it/blog/quanto-spendere-per-una-festa-di-compleanno-per-bambini/)
+
 Il terzo passo è guardare i mesi critici. Gennaio e febbraio, per molte famiglie, sono i peggiori: fa freddo, si sta più in casa, i bambini portano a casa qualsiasi virus e il riscaldamento gira di più. Io ormai li tratto come mesi “costosi per definizione”. Se il budget è stretto, puoi fare una cosa molto concreta: accantonare un po’ di più tra settembre e novembre, anche solo 30-50 euro extra al mese. Non risolve tutto, ma crea cuscinetto.
 
 Quello che invece da noi non ha funzionato è stato tentare il mega taglio improvviso. Abbassare troppo la temperatura, spegnere tutto a orari assurdi, fare i poliziotti del termostato con i bambini: sulla carta sembrava efficiente, nella pratica era stressante e durava tre giorni. Molto meglio puntare su tre cose sostenibili: chiudere le porte, usare bene le tapparelle o le tende la sera, e controllare la temperatura stanza per stanza se puoi. Piccoli aggiustamenti ripetuti valgono più delle misure eroiche.

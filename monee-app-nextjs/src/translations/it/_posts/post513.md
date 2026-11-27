@@ -9,6 +9,8 @@ In breve: la cena la paga chi la offre, cioè chi fa da padrone di casa. Se inve
 
 Lizzie Post, co-presidente dell'Emily Post Institute, ha [descritto così la norma per i festeggiamenti di gruppo](https://www.thedailymeal.com/1448988/who-should-pay-birthday-dinner-bill): "In genere, quando sono gli amici a dire 'Troviamoci tutti per festeggiare il compleanno di Mary', pagano tutti tranne Mary". L'esperta di galateo Diane Gottsman [dà lo stesso consiglio](https://dianegottsman.com/2024/07/07/how-to-politely-split-a-birthday-bill-among-friends/): è normale pagare la propria cena e una parte di quella del festeggiato. E aggiunge che "bisognerebbe parlarne prima".
 
+**Leggi anche:** [Quanto spendere per una festa di compleanno per bambini?](https://monee-app.com/it/blog/quanto-spendere-per-una-festa-di-compleanno-per-bambini/)
+
 È proprio in quella conversazione che si risolve gran parte dell'imbarazzo. Il resto di questa guida spiega chi è davvero il padrone di casa, come fare i conti e cosa fare quando la situazione non rientra nello schema abituale.
 
 ## Prima domanda: qualcuno sta davvero offrendo?

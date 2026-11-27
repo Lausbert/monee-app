@@ -70,6 +70,8 @@ Règles de décision fiables
 - Si la matrice penche vers la simplicité, ou si les économies sont marginales après les frais fixes, restez au standard—ou testez le TOU uniquement avec une protection de facture si votre fournisseur en offre une (p. ex., protection 90 jours chez SRP) [SRP TOU](https://www.srpnet.com/price-plans/residential-electric/time-of-use).
 - À propos des ajouts : la tarification de pointe critique ou les pilotes horaires dynamiques peuvent récompenser une flexibilité supplémentaire quelques jours ; surveillez les nouvelles offres selon les orientations de la CPUC [CPUC dynamic hourly guidance](https://www.cpuc.ca.gov/news-and-updates/all-news/cpuc-issues-guidance-for-utility-dynamic-hourly-rates).
 
+**À lire aussi :** [Comment choisir entre un billet Économie basique et un billet standard avec une matrice frais‑flexibilité](https://monee-app.com/fr/blog/comment-choisir-entre-un-billet-economie-basique-et-un-billet-standard-avec-une-matrice-fraisflexibilite/)
+
 Langage d’engagement
 - « Je choisis ______ parce que ma matrice montre la meilleure adéquation avec mes priorités cette année. J’accepte les arbitrages que j’ai nommés, et je réexaminerai si ma consommation ou la structure tarifaire change. »
 

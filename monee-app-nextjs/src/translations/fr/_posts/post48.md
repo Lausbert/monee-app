@@ -7,6 +7,8 @@ Choisir entre des offres d’emploi consiste moins à courir après le rôle “
 
 Ce guide vous aide à faire exactement cela en utilisant des pondérations et des scores sur une échelle de 1–5. Nous commencerons par les valeurs, façonnerons vos critères, poserons une matrice vierge, puis mettrons le résultat à l’épreuve avant que vous ne vous engagiez et ne sécurisiez vos premières semaines. L’objectif est la confiance, pas la certitude.
 
+**À lire aussi :** [Comment choisir entre un billet Économie basique et un billet standard avec une matrice frais‑flexibilité](https://monee-app.com/fr/blog/comment-choisir-entre-un-billet-economie-basique-et-un-billet-standard-avec-une-matrice-fraisflexibilite/)
+
 ## Échauffement sur les valeurs (3 questions rapides)
 Avant les chiffres, décrivez à quoi ressemble une vie bonne en ce moment. Des notes brèves — pas de dissertations.
 
