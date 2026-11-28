@@ -90,6 +90,8 @@ Avoid treating money already reserved for an upcoming bill as freely available e
 
 A monthly budget can balance while your account runs short between paydays. Put income dates and bill dates on a calendar, then check what remains for everyday spending until the next payment arrives.
 
+**Related:** [How to Budget When Paydays Don't Match Your Rent](https://monee-app.com/blog/how-to-budget-when-paydays-dont-match-your-rent/)
+
 Review the plan briefly each week during the transition. Compare actual spending with your allowances and adjust categories that were unrealistic.
 
 Your revised budget is working when regular costs fit your lower income, upcoming bills are accounted for, and any use of savings has a defined purpose. It does not need to resemble the budget you had before the pay cut.

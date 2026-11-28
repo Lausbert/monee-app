@@ -169,6 +169,8 @@ What the sources say
 - Lenders typically won’t change the contractual due date; many offer a grace period (commonly around 15 days) before late fees; late payments are typically not reported to credit until 30+ days past due (CFPB consumer guidance). Use autopay scheduling to align with paydays.
 - Be wary of paid “biweekly” mortgage services. Similar benefits can be achieved free by making extra principal payments or scheduling biweekly transfers; the CFPB has taken action against misleading programs.
 
+**Related:** [How to Budget When Paydays Don't Match Your Rent](https://monee-app.com/blog/how-to-budget-when-paydays-dont-match-your-rent/)
+
 Quick plan
 - Keep your due date; set autopay to draft right after payday but before any late‑fee window closes.
 - If you want faster payoff, add a small extra principal transfer each payday—directly with your servicer or bank. Avoid fee‑based “biweekly” services.

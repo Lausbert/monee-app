@@ -116,6 +116,8 @@ To manage the account and get the most out of a shared plan:
 
 The Consumer Financial Protection Bureau puts it this way: "Product research and comparison shopping help you make informed buying decisions" ([CFPB](https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/choosing-best-cell-phone-plan/)). For a shared plan, that comparison also includes asking what each person really needs.
 
+**Related:** [How to Budget for Youth Sports with a Season‑by‑Season Plan](https://monee-app.com/blog/how-to-budget-for-youth-sports-with-a-seasonbyseason-plan/)
+
 ## Watch for the Sneaky Extras
 
 Most phone-plan arguments aren't about the base plan. They're about extras nobody discussed:
